@@ -1,0 +1,779 @@
+{
+ "_readme": "대시보드와 동일한 집계. by_category / by_month / heatmap 포함.",
+ "meta": {
+  "account": "@Jaemyung_Lee",
+  "account_url": "https://x.com/Jaemyung_Lee",
+  "period_from": "2025-06-04",
+  "period_to": "2026-07-26",
+  "record_count": 797,
+  "generated_at": "2026-07-27 13:45 KST",
+  "license": "비영리 기록 목적. 재사용 시 출처와 관측 시점을 함께 표기할 것.",
+  "is_synthetic_sample": false
+ },
+ "generated_at": "2026-07-26T23:02:52.468446+09:00",
+ "period": {
+  "inauguration": "2025-06-04T00:00:00+09:00",
+  "covered_from": "2025-06-08T13:47:58+00:00",
+  "covered_to": "2026-07-26T06:18:59.000Z",
+  "complete_since_inauguration": false
+ },
+ "totals": {
+  "tweets_all": 797,
+  "tweets_own": 760,
+  "retweets": 37,
+  "replies": 9,
+  "like": 4694632,
+  "retweet": 1220186,
+  "reply": 380988,
+  "view": 410748402,
+  "per_day": 1.84,
+  "days": 412
+ },
+ "by_category": {
+  "greeting": {
+   "count": 62,
+   "like": 459667,
+   "retweet": 126772,
+   "reply": 33961,
+   "view": 54307764,
+   "label": "일상·인사",
+   "avg_like": 7414.0,
+   "avg_engagement": 10006.5
+  },
+  "diplomacy": {
+   "count": 166,
+   "like": 1043941,
+   "retweet": 213061,
+   "reply": 59240,
+   "view": 79347895,
+   "label": "외교·통상",
+   "avg_like": 6288.8,
+   "avg_engagement": 7929.2
+  },
+  "politics": {
+   "count": 150,
+   "like": 932105,
+   "retweet": 254170,
+   "reply": 87874,
+   "view": 91296283,
+   "label": "정치·국정",
+   "avg_like": 6214.0,
+   "avg_engagement": 8494.3
+  },
+  "unclassified": {
+   "count": 11,
+   "like": 54756,
+   "retweet": 15783,
+   "reply": 8055,
+   "view": 6210952,
+   "label": "미분류",
+   "avg_like": 4977.8,
+   "avg_engagement": 7144.9
+  },
+  "tech": {
+   "count": 37,
+   "like": 152612,
+   "retweet": 37580,
+   "reply": 13373,
+   "view": 8158524,
+   "label": "과학기술·AI",
+   "avg_like": 4124.6,
+   "avg_engagement": 5501.8
+  },
+  "society": {
+   "count": 113,
+   "like": 821518,
+   "retweet": 241630,
+   "reply": 68953,
+   "view": 78985031,
+   "label": "사회",
+   "avg_like": 7270.1,
+   "avg_engagement": 10018.6
+  },
+  "economy": {
+   "count": 112,
+   "like": 631084,
+   "retweet": 184159,
+   "reply": 68097,
+   "view": 51327608,
+   "label": "경제·민생",
+   "avg_like": 5634.7,
+   "avg_engagement": 7887.0
+  },
+  "defense": {
+   "count": 46,
+   "like": 206450,
+   "retweet": 50355,
+   "reply": 16855,
+   "view": 10939209,
+   "label": "국방·안보",
+   "avg_like": 4488.0,
+   "avg_engagement": 5949.1
+  },
+  "culture": {
+   "count": 44,
+   "like": 284157,
+   "retweet": 71645,
+   "reply": 16769,
+   "view": 24735405,
+   "label": "문화·체육",
+   "avg_like": 6458.1,
+   "avg_engagement": 8467.5
+  },
+  "safety": {
+   "count": 19,
+   "like": 108342,
+   "retweet": 25031,
+   "reply": 7811,
+   "view": 5439731,
+   "label": "재난·안전",
+   "avg_like": 5702.2,
+   "avg_engagement": 7430.7
+  }
+ },
+ "by_month": {
+  "2025-06": {
+   "greeting": 3,
+   "diplomacy": 16,
+   "politics": 7,
+   "unclassified": 2,
+   "tech": 1,
+   "society": 2,
+   "economy": 3
+  },
+  "2025-07": {
+   "defense": 5,
+   "diplomacy": 4,
+   "politics": 8,
+   "society": 2,
+   "greeting": 3,
+   "culture": 2,
+   "economy": 3,
+   "tech": 1
+  },
+  "2025-08": {
+   "diplomacy": 10,
+   "politics": 4,
+   "defense": 3,
+   "culture": 2,
+   "economy": 2,
+   "greeting": 2,
+   "society": 1
+  },
+  "2025-09": {
+   "defense": 3,
+   "diplomacy": 11,
+   "economy": 3,
+   "politics": 3,
+   "society": 10,
+   "culture": 4,
+   "tech": 3,
+   "unclassified": 1,
+   "safety": 1
+  },
+  "2025-10": {
+   "society": 2,
+   "culture": 6,
+   "tech": 3,
+   "unclassified": 1,
+   "politics": 4,
+   "diplomacy": 13,
+   "greeting": 2,
+   "economy": 3,
+   "defense": 1
+  },
+  "2025-11": {
+   "diplomacy": 42,
+   "economy": 3,
+   "politics": 13,
+   "safety": 2,
+   "tech": 4,
+   "unclassified": 1,
+   "culture": 1,
+   "defense": 3,
+   "society": 2
+  },
+  "2025-12": {
+   "defense": 4,
+   "politics": 13,
+   "culture": 1,
+   "economy": 6,
+   "tech": 3,
+   "greeting": 3,
+   "society": 10,
+   "diplomacy": 3,
+   "unclassified": 1
+  },
+  "2026-01": {
+   "greeting": 6,
+   "politics": 8,
+   "unclassified": 1,
+   "culture": 3,
+   "society": 14,
+   "diplomacy": 12,
+   "defense": 4,
+   "economy": 14,
+   "safety": 1,
+   "tech": 1
+  },
+  "2026-02": {
+   "economy": 24,
+   "society": 11,
+   "greeting": 9,
+   "politics": 14,
+   "culture": 3,
+   "tech": 3,
+   "diplomacy": 2,
+   "defense": 4,
+   "safety": 2
+  },
+  "2026-03": {
+   "diplomacy": 4,
+   "politics": 17,
+   "economy": 15,
+   "greeting": 11,
+   "society": 18,
+   "culture": 8,
+   "tech": 5,
+   "safety": 4,
+   "defense": 6,
+   "unclassified": 2
+  },
+  "2026-04": {
+   "economy": 10,
+   "safety": 3,
+   "diplomacy": 13,
+   "greeting": 8,
+   "politics": 10,
+   "defense": 2,
+   "society": 9,
+   "tech": 1,
+   "culture": 2
+  },
+  "2026-05": {
+   "politics": 19,
+   "economy": 10,
+   "greeting": 5,
+   "diplomacy": 6,
+   "safety": 3,
+   "society": 8,
+   "tech": 1,
+   "defense": 2,
+   "culture": 2
+  },
+  "2026-06": {
+   "economy": 10,
+   "society": 16,
+   "diplomacy": 12,
+   "politics": 17,
+   "safety": 2,
+   "tech": 8,
+   "greeting": 5,
+   "culture": 5,
+   "defense": 3,
+   "unclassified": 1
+  },
+  "2026-07": {
+   "politics": 13,
+   "culture": 5,
+   "society": 8,
+   "greeting": 5,
+   "tech": 3,
+   "diplomacy": 18,
+   "defense": 6,
+   "economy": 6,
+   "safety": 1,
+   "unclassified": 1
+  }
+ },
+ "heatmap": [
+  [
+   4,
+   1,
+   0,
+   0,
+   0,
+   0,
+   0,
+   1,
+   7,
+   2,
+   1,
+   7,
+   5,
+   6,
+   7,
+   5,
+   5,
+   2,
+   8,
+   9,
+   4,
+   4,
+   7,
+   7
+  ],
+  [
+   3,
+   0,
+   2,
+   0,
+   0,
+   1,
+   0,
+   2,
+   7,
+   11,
+   3,
+   5,
+   1,
+   4,
+   7,
+   5,
+   5,
+   5,
+   8,
+   11,
+   12,
+   15,
+   11,
+   5
+  ],
+  [
+   5,
+   3,
+   0,
+   0,
+   0,
+   2,
+   1,
+   3,
+   11,
+   7,
+   4,
+   2,
+   2,
+   4,
+   11,
+   8,
+   12,
+   17,
+   8,
+   17,
+   17,
+   13,
+   4,
+   5
+  ],
+  [
+   4,
+   2,
+   0,
+   0,
+   0,
+   0,
+   0,
+   1,
+   3,
+   9,
+   5,
+   5,
+   5,
+   6,
+   3,
+   2,
+   3,
+   5,
+   11,
+   9,
+   17,
+   11,
+   9,
+   10
+  ],
+  [
+   2,
+   2,
+   1,
+   0,
+   1,
+   0,
+   0,
+   2,
+   13,
+   16,
+   3,
+   4,
+   4,
+   4,
+   3,
+   7,
+   4,
+   7,
+   9,
+   9,
+   11,
+   11,
+   3,
+   3
+  ],
+  [
+   2,
+   4,
+   0,
+   1,
+   0,
+   0,
+   0,
+   1,
+   5,
+   7,
+   3,
+   7,
+   2,
+   1,
+   2,
+   4,
+   0,
+   2,
+   4,
+   7,
+   3,
+   2,
+   1,
+   4
+  ],
+  [
+   2,
+   3,
+   2,
+   0,
+   2,
+   0,
+   1,
+   3,
+   5,
+   7,
+   6,
+   6,
+   4,
+   4,
+   4,
+   5,
+   1,
+   5,
+   8,
+   2,
+   5,
+   4,
+   6,
+   3
+  ]
+ ],
+ "top_tweets": [
+  {
+   "tweet_id": "2011063583204147463",
+   "created_at": "2026-01-13T13:11:36.000Z",
+   "text": "어설프지만, 그래서 더 잘 어울렸던 다카이치 총리님과의 합주^^\n슬쩍 숟가락 하나 얹어봤지만 역시 프로의 실력은 다르더군요.\n\n박자는 조금 달라도 리듬 맞추려는 마음은 같았던 것처럼, 미래지향적 한일 관계도 한 마음으로 만들어가겠습니다.",
+   "category": "diplomacy",
+   "metrics": {
+    "like": 127007,
+    "retweet": 11073,
+    "reply": 1509,
+    "quote": 4058,
+    "bookmark": 5400,
+    "view": 8374169
+   },
+   "source_url": "https://x.com/Jaemyung_Lee/status/2011063583204147463"
+  },
+  {
+   "tweet_id": "2042388873570107631",
+   "created_at": "2026-04-09T23:47:07.000Z",
+   "text": "이게 사실인지, 사실이라면 어떤 조치가 있었는지 알아봐야겠습니다.\n\n우리가 문제삼는 위안부 강제, 유태인 학살이나 전시 살해는 다를 바가 없습니다.",
+   "category": "diplomacy",
+   "metrics": {
+    "like": 63805,
+    "retweet": 15279,
+    "reply": 3871,
+    "quote": 2494,
+    "bookmark": 6292,
+    "view": 11816320
+   },
+   "source_url": "https://x.com/Jaemyung_Lee/status/2042388873570107631"
+  },
+  {
+   "tweet_id": "2011225579463589959",
+   "created_at": "2026-01-13T23:55:19.000Z",
+   "text": "각자의 박자 위에 공동의 화음을 더했던 다카이치 총리(@takaichi_sanae)님과의 합주.\n처음엔 조금 어색했지만, 두드릴수록 소리는 하나로 모였습니다.\n\n드럼 연주는 오래전부터 품어온 로망이었기에, 세심하게 배려해 주신 총리님의 마음이 더욱 감사했던 시간입니다.\n\n총리님 덕분에 음악을 통해 진솔한 마음을 나누는 특별한 시간을 가질 수 있었습니다.\n\n",
+   "category": "politics",
+   "metrics": {
+    "like": 51245,
+    "retweet": 6587,
+    "reply": 1168,
+    "quote": 3050,
+    "bookmark": 4888,
+    "view": 5071807
+   },
+   "source_url": "https://x.com/Jaemyung_Lee/status/2011225579463589959"
+  },
+  {
+   "tweet_id": "2042735643449782314",
+   "created_at": "2026-04-10T22:45:04.000Z",
+   "text": "<끊임없는 반인권적 반국제법적 행동으로 고통받고 힘들어하는 전 세계인들의 지적을  한번쯤은 되돌아볼 만도 한데 실망입니다.\n\n내가 아프면 타인도 그만큼 아픕니다.\n\n나의 필요 때문에 누군가 고통받으면 미안한 것이 인지상정입니다.\n\n아닌 밤중에 홍두깨라고 아무 잘못없는 우리 국민들께서 뜬금없이 겪고 있는 이 엄청난 고통과 국가적 어려움을 지켜보는 마음이 매우",
+   "category": "society",
+   "metrics": {
+    "like": 50483,
+    "retweet": 13679,
+    "reply": 2505,
+    "quote": 1701,
+    "bookmark": 2831,
+    "view": 9425746
+   },
+   "source_url": "https://x.com/Jaemyung_Lee/status/2042735643449782314"
+  },
+  {
+   "tweet_id": "2025918938903900269",
+   "created_at": "2026-02-23T13:01:29.000Z",
+   "text": "두 소년공이 대통령이 되어 만났습니다.\n\n상처를 가졌지만 \n흉터가 아니고, \n\n노동에서\n삶의 지혜를 얻었고,\n\n역경을 겪었으나\n국민이 구해주셨습니다.\n\n그래서 우리는 형제입니다.\n형제 룰라 대통령 (@LulaOficial)에게 이 영상을 선물합니다.",
+   "category": "society",
+   "metrics": {
+    "like": 45638,
+    "retweet": 6009,
+    "reply": 1943,
+    "quote": 2280,
+    "bookmark": 1530,
+    "view": 4441366
+   },
+   "source_url": "https://x.com/Jaemyung_Lee/status/2025918938903900269"
+  },
+  {
+   "tweet_id": "2056337791546740976",
+   "created_at": "2026-05-18T11:35:09.000Z",
+   "text": "역사적인 광주 5.18 민주화운동 기념일에 광주희생자들과 광주시민들의 피어린 투쟁을 모독하는 '5.18 탱크데이' 이벤트라니..\n\n그 날 억울하게 죽어간 생명이 대체 몇이고 그로 인한 정의와 역사의 훼손이 얼마나 엄혹한데 무슨 억하심정으로 이런 짓을 저질렀을까요?\n\n대한민국 공동체와 기본적 인권, 민주주의 가치를 부정하는 이런 저질 장사치의 비인간적 막장행",
+   "category": "society",
+   "metrics": {
+    "like": 44752,
+    "retweet": 23177,
+    "reply": 1242,
+    "quote": 2690,
+    "bookmark": 1621,
+    "view": 5333768
+   },
+   "source_url": "https://x.com/Jaemyung_Lee/status/2056337791546740976"
+  },
+  {
+   "tweet_id": "2039990363986026808",
+   "created_at": "2026-04-03T08:56:18.000Z",
+   "text": "한불 수교 140주년, Félicitations! \n\n홍보대사로 함께해주시는 #전지현 님 그리고 #StrayKids #필릭스 용복 님\n\n두 분 덕에 참 든든합니다 ^^\n\n140년 우정과 신뢰를 기반으로 \n더욱 빛날 양국의 미래를 기대합니다. 🇰🇷🇫🇷\n\n#한불수교140주년 #coréefrance140",
+   "category": "diplomacy",
+   "metrics": {
+    "like": 44041,
+    "retweet": 11957,
+    "reply": 792,
+    "quote": 1541,
+    "bookmark": 2533,
+    "view": 1274702
+   },
+   "source_url": "https://x.com/Jaemyung_Lee/status/2039990363986026808"
+  },
+  {
+   "tweet_id": "1931709790558060605",
+   "created_at": "2025-06-08T13:47:58.000Z",
+   "text": "우연히 댓글을 통해 접한 제안이 의미 있다 판단해 실행에 옮겼습니다. \n\n국민 여러분께서 남겨주시는 다양한 의견에는 현장감 있는 아이디어와 실질적 개선책이 많아 늘 귀 기울이며 참고하고 있습니다. \n\n참신하고 유익한 의견 주시면 앞으로도 적극 검토해 반영하겠습니다. 고맙습니다.",
+   "category": "greeting",
+   "metrics": {
+    "like": 41096,
+    "retweet": 13671,
+    "reply": 4198,
+    "quote": 7219,
+    "bookmark": 2135,
+    "view": 18965830
+   },
+   "source_url": "https://x.com/Jaemyung_Lee/status/1931709790558060605"
+  },
+  {
+   "tweet_id": "2008187260437680381",
+   "created_at": "2026-01-05T14:42:07.000Z",
+   "text": "<화질은 확실하쥬? 😁>\n경주에서 선물 받은 샤오미로 시진핑 주석님 내외분과 셀카 한 장..\n덕분에 인생샷 건졌습니다 ㅎㅎ\n\n가까이서 만날수록 풀리는 한중관계,\n앞으로 더 자주 소통하고 더 많이 협력하겠습니다^^",
+   "category": "diplomacy",
+   "metrics": {
+    "like": 40283,
+    "retweet": 4909,
+    "reply": 3160,
+    "quote": 2026,
+    "bookmark": 3141,
+    "view": 7081254
+   },
+   "source_url": "https://x.com/Jaemyung_Lee/status/2008187260437680381"
+  },
+  {
+   "tweet_id": "2043128131469607051",
+   "created_at": "2026-04-12T00:44:40.000Z",
+   "text": "사욕을 위해 국익을 훼손하는 자들을 매국노라 부른다.\n\n매국 행위를 하면서도 사욕을 위해 국익을 해치는 것이 나쁜 짓임을 모르는 이들도 많다. 아니 알면서 감행하는 것인지도 모르겠다.\n\n심지어 국익을 포함한 공익추구가 사명인 정치와 언론 영역에서도 매국행위는 버젓이 벌어진다.\n\n결국 이 역시 우리가 힘을 모아 가르치고 극복해야할 국가적 과제, 비정상의 정상",
+   "category": "society",
+   "metrics": {
+    "like": 34585,
+    "retweet": 9605,
+    "reply": 2741,
+    "quote": 1360,
+    "bookmark": 1522,
+    "view": 1930790
+   },
+   "source_url": "https://x.com/Jaemyung_Lee/status/2043128131469607051"
+  },
+  {
+   "tweet_id": "2063552838387810748",
+   "created_at": "2026-06-07T09:25:10.000Z",
+   "text": "중앙선거관리위원회는 이번 6·3 지방선거 과정에서 국민의 참정권 행사에 막대한 지장을 초래했습니다. 사고 자체도 납득하기 어렵지만, 이후의 대응과 국민에 대한 해명 또한 충분하지 못했습니다.\n\n국민의 참정권은 어떠한 이유로도 제한되거나 침해되어서는 안 되는 헌법적 권리이며, 이번 사태는 국민주권의 근간을 훼손한 중대한 사안입니다. 국민의 한 사람으로서 그리",
+   "category": "politics",
+   "metrics": {
+    "like": 31170,
+    "retweet": 11785,
+    "reply": 2749,
+    "quote": 1195,
+    "bookmark": 1911,
+    "view": 5115039
+   },
+   "source_url": "https://x.com/Jaemyung_Lee/status/2063552838387810748"
+  },
+  {
+   "tweet_id": "2074445440670732624",
+   "created_at": "2026-07-07T10:48:29.000Z",
+   "text": "🇹🇷 앙카라에 도착했습니다",
+   "category": "diplomacy",
+   "metrics": {
+    "like": 30039,
+    "retweet": 1330,
+    "reply": 1000,
+    "quote": 283,
+    "bookmark": 608,
+    "view": 2469628
+   },
+   "source_url": "https://x.com/Jaemyung_Lee/status/2074445440670732624"
+  },
+  {
+   "tweet_id": "2025720172817105256",
+   "created_at": "2026-02-22T23:51:39.000Z",
+   "text": "Com todo o povo coreano, dou as mais calorosas boas-vindas à visita de Estado do respeitado Presidente Lula à República da Coreia.\n\n(존경하는 룰라 대통령님의 대한민국 국빈 방문을 온 국민과 함께 열렬히 환영합니다.)\n\nComo ex-operário in",
+   "category": "society",
+   "metrics": {
+    "like": 28997,
+    "retweet": 3523,
+    "reply": 905,
+    "quote": 402,
+    "bookmark": 709,
+    "view": 922463
+   },
+   "source_url": "https://x.com/Jaemyung_Lee/status/2025720172817105256"
+  },
+  {
+   "tweet_id": "2067263591275995157",
+   "created_at": "2026-06-17T15:10:22.000Z",
+   "text": "어제 저녁 트럼프 대통령님과 @realDonaldTrump만찬을 함께 하며 약 90분 간 한반도 평화와 한미관계를 놓고 속 깊은 이야기를 나누고 많은 진전이 있었습니다. \n\n오늘 마지막 오찬에서는 지금까지 사용하고 있던 서명용 펜을 제게 선물로 주셨습니다. 아마도 처음 정상회담때 제가 쓰던 펜을 선물 받은 기억 때문이 아닐까 생각됩니다.\n\n어제 만찬때 골프",
+   "category": "diplomacy",
+   "metrics": {
+    "like": 28261,
+    "retweet": 4672,
+    "reply": 1817,
+    "quote": 1629,
+    "bookmark": 1397,
+    "view": 4898630
+   },
+   "source_url": "https://x.com/Jaemyung_Lee/status/2067263591275995157"
+  },
+  {
+   "tweet_id": "2020722565640266012",
+   "created_at": "2026-02-09T04:52:57.000Z",
+   "text": "다카이치 총리님의 중의원 선거 승리를 진심으로 축하드립니다.\n\n총리님의 리더십 아래 일본이 더욱 발전하길 기원합니다. \n\n지난 1월 나라에서 열린 한-일 정상회담을 통해 양국은 새로운 60년을 향한 힘찬 발걸음을 함께 내디뎠습니다. 앞으로도 우리의 신뢰와 유대를 바탕으로 한일 양국이 보다 넓고 깊은 협력을 이어가길 바랍니다.\n\n머지않은 시일 내 다음 셔틀외",
+   "category": "diplomacy",
+   "metrics": {
+    "like": 25708,
+    "retweet": 2485,
+    "reply": 534,
+    "quote": 276,
+    "bookmark": 701,
+    "view": 3750185
+   },
+   "source_url": "https://x.com/Jaemyung_Lee/status/2020722565640266012"
+  },
+  {
+   "tweet_id": "2034087400952238256",
+   "created_at": "2026-03-18T02:00:02.000Z",
+   "text": "<3월 21일 토요일, 광화문광장에서 대한민국의 자랑스러운 아티스트 BTS의 공연이 열립니다. '아리랑'을 주제로 우리의 아름다운 문화유산과 K-컬처의 매력을 함께 나누는 뜻깊은 시간이 되길 기대합니다.\n\n행사가 안전하게 진행될 수 있도록 관계 부처와 지방정부, 경찰, 소방을 비롯한 유관 기관과 함께 만반의 준비를 하고 있습니다. 공연 전후 교통과 인파 관",
+   "category": "culture",
+   "metrics": {
+    "like": 25649,
+    "retweet": 8336,
+    "reply": 1186,
+    "quote": 2275,
+    "bookmark": 1313,
+    "view": 3641349
+   },
+   "source_url": "https://x.com/Jaemyung_Lee/status/2034087400952238256"
+  },
+  {
+   "tweet_id": "2056899225225658622",
+   "created_at": "2026-05-20T00:46:05.000Z",
+   "text": "박종철 열사 고문치사사건, 그로 시발된 6월 민주항쟁을 모욕하고 조롱하는 광고입니다.\n\n제보받은 것인데 진짜인지 확인해 봐야겠습니다. \n여러분도 함께 확인해 봐 주십시오\n\n사실이 아니길 바라지만, 사실이라면 참으로 심각한 문제입니다\n\n돈이 마귀라지만 사람의 탈을 쓰고 이럴수가 있을까요",
+   "category": "politics",
+   "metrics": {
+    "like": 24419,
+    "retweet": 11271,
+    "reply": 1105,
+    "quote": 3497,
+    "bookmark": 856,
+    "view": 7594123
+   },
+   "source_url": "https://x.com/Jaemyung_Lee/status/2056899225225658622"
+  },
+  {
+   "tweet_id": "2030266439274561935",
+   "created_at": "2026-03-07T12:56:54.000Z",
+   "text": "<책임과 권력>\n권한을 가진다는 것은 동일한 양의 책임을 진다는 것을 의미합니다.\n\n대통령의 제일 큰 책임은 국민을 통합하는 것입니다. 늘 말씀 드리는 것처럼 대통령이 되기까지는 한쪽을 대표하지만, 대통령이 된 순간부터 국민 전체를 대표해야 합니다. \n\n대통령이 되기까지 가졌던 이상이나 가치, 약속을 결코 포기해서는 안되겠지만, 대통령이 되고 집권세력이 되",
+   "category": "politics",
+   "metrics": {
+    "like": 22865,
+    "retweet": 6491,
+    "reply": 2223,
+    "quote": 1195,
+    "bookmark": 2482,
+    "view": 2383887
+   },
+   "source_url": "https://x.com/Jaemyung_Lee/status/2030266439274561935"
+  },
+  {
+   "tweet_id": "2060739144066932762",
+   "created_at": "2026-05-30T15:04:33.000Z",
+   "text": "“정치무관심의 대가는 최악의 저질들에게 지배당하는 것이다\" - 플라톤\n\n민주공화국에서 주권자의 침묵과 투표포기는 국민을 속이고 사익을 위해 권력을 남용하며 나와 가족의 삶을 망치는 자들에게 기회를 주는 것입니다.\n\n존경하는 국민 여러분, 투표에 적극 참여해 이 나라의 주인은 국민이라는 사실을, 권력은 어디를 향해야 하는지를, 주권자의 뜻이 어디에 있는 지를",
+   "category": "politics",
+   "metrics": {
+    "like": 21562,
+    "retweet": 8155,
+    "reply": 1119,
+    "quote": 738,
+    "bookmark": 1862,
+    "view": 1326604
+   },
+   "source_url": "https://x.com/Jaemyung_Lee/status/2060739144066932762"
+  },
+  {
+   "tweet_id": "1942811207662276689",
+   "created_at": "2025-07-09T05:01:02.000Z",
+   "text": "#트친소\n대통령실 공식 X계정을 국민 여러분께 소개합니다.\n\n앞으로 이 공간을 통해 정부 정책과 주요 일정, 국민 여러분께 꼭 필요한 소식, 긴급하게 알려드려야 할 정보까지 신속히 전해드릴 예정입니다.\n\n@KOREA 입니다.\n많이 팔로우해 주십시오 ^^",
+   "category": "greeting",
+   "metrics": {
+    "like": 20983,
+    "retweet": 11411,
+    "reply": 560,
+    "quote": 9813,
+    "bookmark": 1035,
+    "view": 5876604
+   },
+   "source_url": "https://x.com/Jaemyung_Lee/status/1942811207662276689"
+  }
+ ],
+ "coverage": {
+  "needs_review": 149,
+  "classified_by_rule": 558
+ }
+}

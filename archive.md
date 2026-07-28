@@ -1,0 +1,12139 @@
+# 대통령 X 게시물 아카이브
+
+계정 @Jaemyung_Lee · 기간 2025-06-04 ~ 2026-07-26 · 총 797건 · 생성 2026-07-27 13:45 KST
+
+> 대한민국 대통령 이재명(@Jaemyung_Lee)의 공개 X 게시물 아카이브입니다.
+> 취임일 2025-06-04 이후 수집된 게시물의 원문 텍스트와 수집 시점의 공개 지표를 담습니다.
+> 지표(좋아요·재게시·답글·조회)는 확정값이 아니라 metrics.observed_at 시점의 관측값이며, 이후 계속 변합니다.
+> 일반인 계정 보호를 위해 공적 계정을 제외한 모든 멘션은 '@[비공개]'로 마스킹되어 있습니다.
+> 분야 분류(category)는 키워드 규칙과 사람의 검토를 결합한 결과이며 편집상의 판단이 포함됩니다.
+> classification.needs_review 가 true 인 항목은 아직 검토 대기 상태이므로 통계에 인용할 때 유의하십시오.
+> 원본의 시각적 표현은 재현하지 않으며 각 항목의 url 이 정본입니다.
+> 비영리 기록 목적으로 제작되었고 대통령실·정부·X Corp.과 무관합니다.
+
+---
+
+## 2026년 7월 (66건)
+
+### 2026-07-26 15:18 — 사회 · 직접 작성
+
+> <대포차는 범죄에 악용되면서도 사실상 방치되고 있었는데, 경찰청 국수본이 이러한 대포차를 집중단속한 것은 매우 잘한 일입니다. 
+> 
+> 감사하고 응원합니다.
+> 
+> 다른 민생침해 사범들도 신속 철저히 단속해 국민들의 걱정을 줄여 주시기 바랍니다.>
+> 
+> 경찰, 5개월간 대포차 1928대 적발…380명 검거 (출처 : 네이버 뉴스)
+
+좋아요 2,257 · 재게시 546 · 답글 265 · 조회 57,907 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2081262990440235172
+
+### 2026-07-26 13:06 — 외교·통상 · 직접 작성
+
+> 정열과 풍요의 대륙 남미로 향합니다. 
+> 
+> 브라질, 칠레, 아르헨티나는 남미 정치·경제·문화를 이끌어 온 핵심 국가들입니다. 이번 순방은 대한민국 실용외교의 지평을 남미로 넓히고, 미래 성장의 기반이 될 경제협력을 더욱 강화하는 뜻깊은 여정이 될 것입니다.
+> 
+> 첫 방문지는 세계에서 다섯 번째로 넓은 영토와 남미 최대의 경제 규모를 자랑하는 브라질입니다. 지리적으로는 멀리 떨어져 있지만, 룰라 대통령님과는 지난 1년 동안 여러 차례 만나며 깊은 우정을 쌓아왔습니다. 
+> 
+> 이번 방문을 통해 양국 간 신뢰를 더욱 굳건히 하고, 국민들이 체감할 수 있는 협력의 성과를 함께 만들어 가겠습니다.
+> 
+> 늘 따뜻한 미소와 특유의 친화력으로 맞아주셨던 룰라 대통령님의 얼굴이 눈앞에 선합니다. 마치 오랜 친구를 만나러 가는 것처럼 설레는 마음도 함께합니다 ^^
+> 
+> @LulaOficial 대통령님, 곧 브라질리아에서 뵙겠습니다! 
+> 
+> Rumo à América do Sul, um continente de paixão e prosperidade.
+> 
+> Brasil, Chile e Argentina têm sido os países fundamentais para a política, a economia e a cultura sul-americanas. Esta visita oficial será uma jornada significativa para expandir os horizontes da diplomacia pragmática da Coreia do Sul rumo à América do Sul e fortalecer ainda mais a cooperação econômica, que servirá de base para o crescimento futuro.
+> 
+> O primeiro destino é o Brasil, o quinto maior país do mundo em área territorial e a maior economia da América do Sul. Embora estejamos geograficamente distantes, construí uma profunda amizade com o Presidente Lula, com quem me encontrei diversas vezes ao longo do último ano.
+> 
+> Por meio desta visita, consolidaremos ainda mais a confiança entre nossos países e criaremos juntos resultados concretos de cooperação que nossos povos possam sentir no dia a dia.
+> 
+> Já consigo imaginar o rosto do Presidente Lula, que sempre me acolheu com um sorriso caloroso e sua afinidade característica. Sinto a mesma emoção de quem vai ao encontro de um velho amigo.
+> 
+> Presidente @LulaOficial, nos vemos em breve em Brasília🙂
+
+좋아요 2,288 · 재게시 524 · 답글 261 · 조회 52,574 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2081229592971591822
+
+### 2026-07-26 12:43 — 문화·체육 · 직접 작성
+
+> 1883년 조선의 첫 공식 사절단인 보빙사가 첫발을 내딛고, 도산 안창호 선생께서 조국의 내일을 준비하셨던 샌프란시스코에서 우리 재외동포 여러분을 만나 뵙게 되어 더욱 뜻깊은 시간이었습니다.
+> 
+> 선조들의 개척 정신을 이어받아 새로운 길을 두려워하지 않고, 혼자의 성공보다 함께 성장하는 가치를 실천해 오신 덕분에 오늘날 우리 동포들은 첨단기술과 경제, 문화예술 등 여러 분야에서 존중과 신뢰를 받으며 대한민국의 위상을 높이고 있습니다.
+> 
+> 머나먼 타국에서 흘리신 수많은 땀방울은 오늘의 대한민국을 있게 한 밑거름이 되었습니다. 조국을 향한 자긍심을 지켜오신 동포 여러분께 다시 한번 깊은 존경과 감사의 마음을 전합니다. 
+> 
+> 대한민국이 우리 동포 여러분께 언제나 자랑스러운 조국이 될 수 있도록 더욱 최선을 다하겠습니다. 각자의 자리에서 대한민국을 빛내고 계신 모든 재외동포 여러분의 건강과 행복을 온 마음으로 기원합니다.
+
+좋아요 2,310 · 재게시 490 · 답글 130 · 조회 44,584 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2081223859064160512
+
+### 2026-07-26 06:27 — 외교·통상 · 인용 · 분류 검토 대기
+
+> Estimado Presidente Milei,
+> Agradezco sinceramente su interés por la República de Corea, expresado en su cuenta @[비공개].
+> Corea y Argentina tienen mucho por trabajar juntos.
+> Espero que podamos avanzar de la mano hacia un nuevo futuro de prosperidad compartida.
+> Anticipo con gran entusiasmo nuestro encuentro.
+> 
+> Lee Jae-myung, President of the Republic of Korea 
+> 
+> 존경하는 아르헨티나 밀레이 대통령님@[비공개] 
+> 대통령님의 대한민국에 대한 관심에 감사드립니다. 
+> 한국과 아르헨티나는 함께 할 일이 많습니다. 
+> 공동번영의 새로운 미래를 향해 양국이 손잡고 나아가면 좋겠습니다. 
+> 대통령님과의 만남이 크게 기대됩니다. 
+> 대한민국 대통령 이재명
+
+좋아요 2,242 · 재게시 455 · 답글 255 · 조회 111,381 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2081129314444255525
+
+### 2026-07-25 15:00 — 국방·안보 · 직접 작성 · 분류 검토 대기
+
+> <EU의 러시아 LNG 제재와 관련해, 우리 기업이 제재 대상에서 예외로 인정됐다는 반가운 소식을 접했습니다.
+> 
+> 지난 6월 EU 정상들과의 회담 때 우리 에너지 안보를 위해 예외적인 허용이 필요하다고 설명드렸고, 적극적인 관심을 당부드렸습니다.
+> 
+> 에너지 수급의 불확실성이 높아지는 상황에서 국민의 일상과 우리 경제에 큰 도움이 될 것으로 기대합니다. 앞으로도 빈틈없는 대응으로 국민의 삶과 국익을 지켜내는 일에 최선을 다하겠습니다.>
+
+좋아요 3,590 · 재게시 899 · 답글 391 · 조회 145,417 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2080895850256183393
+
+### 2026-07-25 13:34 — 과학기술·AI · 직접 작성
+
+> 인간 중심 혁신의 역사가 살아 숨 쉬는 샌프란시스코에서 인간과 AI가 조화롭게 공존하며 함께 성장하는 미래를 위한 국제사회의 협력을 제안드렸습니다.
+> 
+> 담대한 도전에 동참해 주신 모든 기업인 여러분께 깊은 감사를 전합니다. 대한민국은 여러분의 가장 든든한 파트너가 될 것을 약속드립니다. 🇰🇷🇺🇸
+
+좋아요 4,411 · 재게시 997 · 답글 498 · 조회 104,460 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2080874423272559075
+
+### 2026-07-25 11:34 — 과학기술·AI · 직접 작성
+
+> 세계 AI 산업을 이끌어 가고 계신 네 분과 마주 앉았습니다. 혁신의 도시 샌프란시스코에서 다리오 아모데이 앤트로픽 대표, 샘 알트만 오픈AI 대표, 젠슨 황 엔비디아 대표, 혹 탄 브로드컴 대표를 차례로 만나 AI 시대의 협력과 미래를 함께 이야기했습니다.
+> 
+> AI 시대는 어느 한 나라나 한 기업의 힘만으로 열어갈 수 없는 만큼, 함께 연결하고, 함께 투자하며, 함께 성장할 때 더 큰 미래를 만들어 갈 수 있다는 데 뜻을 같이했습니다.
+> 
+> 무엇보다 인상 깊었던 것은 네 분 모두 대한민국을 중요한 협력 파트너로 바라보고 있다는 점이었습니다. 우리가 가진 세계 최고 수준의 반도체 경쟁력과 우수한 인재, 높은 기술 수용성에 대한 두터운 신뢰를 확인할 수 있었습니다. 
+> 
+> 대한민국은 세계와 협력하며 AI 시대를 선도하는 나라로 힘차게 나아가겠습니다. 과감한 투자와 혁신을 이어가고, 글로벌 파트너들과 함께 AI 생태계를 더욱 탄탄히 키워갈 것입니다.
+> 
+> AI가 만들어 낼 성장의 결실이 숫자에만 머무르지 않고 국민 한 분 한 분의 더 나은 삶으로, 우리 청년들의 더 큰 기회로 이어질 수 있도록 최선을 다하겠습니다.
+
+좋아요 4,190 · 재게시 936 · 답글 443 · 조회 195,163 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2080844103865303229
+
+### 2026-07-25 01:50 — 외교·통상 · 직접 작성
+
+> 이번 정류장은 샌프란시스코입니다 🇰🇷🇺🇸
+> 
+> https://youtube.com/shorts/u4Yg1dkilMY
+> 
+> #이재명 #대통령 #US #sanfrancisco #california
+
+좋아요 3,768 · 재게시 695 · 답글 528 · 조회 114,033 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2080697059800400006
+
+### 2026-07-24 14:06 — 외교·통상 · 직접 작성
+
+> 다녀오겠습니다 🇺🇸🇧🇷🇨🇱🇦🇷🇩🇪
+> 
+> http://youtube.com/shorts/MgvzCMx-3B4
+> 
+> #sanfrancisco #brazil #chile #argentina #frankfurt
+
+좋아요 4,863 · 재게시 897 · 답글 1,171 · 조회 218,454 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2080519958929563945
+
+### 2026-07-23 22:07 — 사회 · 인용
+
+> 미안합니다. 김영훈 노동부 장관님.
+> 
+> 그런데 장관님이 잠 좀 못 주무시는만큼 누군가 죽을 사람들이 살아남습니다.
+> 
+> 열심히 일해 주셔서 진심으로 감사합니다. 
+> 
+> 장관님 때문에 목숨을 건지고 가정을 지킨 사람들이 참 많습니다.
+
+좋아요 6,629 · 재게시 1,362 · 답글 1,237 · 조회 794,066 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2080278581687836980
+
+### 2026-07-23 18:00 — 경제·민생 · 직접 작성
+
+> <GDP로 확인되는 성장의 성과가 국민 모두의 삶을 더욱 풍요롭게 하고, 미래 세대의 더 큰 기회로 이어질 수 있도록 더욱 최선을 다하겠습니다.>
+> 
+> https://n.news.naver.com/mnews/article/374/0000523204?sid=101
+
+좋아요 3,356 · 재게시 822 · 답글 596 · 조회 142,400 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2080216462858592470
+
+### 2026-07-22 20:05 — 미분류 · 답글 · 분류 검토 대기
+
+> 
+
+좋아요 779 · 재게시 180 · 답글 38 · 조회 31,327 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2079885649809936643
+
+### 2026-07-22 20:05 — 경제·민생 · 직접 작성 · 분류 검토 대기
+
+> 엘살바도르, 콜롬비아, 라오스, 카자흐스탄, 탄자니아, 쿠웨이트, 나이지리아, 브라질의 신임 주한대사들로부터 신임장을 제정받았습니다. 양국 관계가 한층 더 발전할 수 있도록 든든한 가교 역할을 해주시길 부탁드렸습니다.
+> 
+> 대한민국에 대한 깊은 애정을 전하며 최선을 다하겠다는 의지를 밝혀주신 대사님들이 계셔 참 든든합니다. 앞으로 경제와 문화, 인적 교류를 비롯한 다양한 분야에서 체감할 수 있는 협력 성과를 낼 수 있길 기대합니다.
+> 
+> 신임 주한대사 여러분의 부임을 다시 한번 진심으로 환영합니다. 한국에서의 모든 시간이 따뜻하고 행복한 기억으로 채워지길 기원합니다.
+> 
+> ​It was a pleasure to receive the credentials of new ambassadors from El Salvador, Colombia, Lao PDR, Kazakhstan, Tanzania, Kuwait, Nigeria, and Brazil. I asked them to serve as strong bridges to further advance our bilateral relations.
+> 
+> ​It is truly reassuring to have ambassadors with deep affection for the Republic of Korea who express their firm commitment to doing their utmost. I look forward to tangible cooperation across diverse areas, including the economy, culture, and people-to-people exchanges.
+> 
+> ​Once again, I sincerely welcome the new ambassadors to their posts. I wish them a warm and joyful time during their term in Korea.
+
+좋아요 3,501 · 재게시 654 · 답글 686 · 조회 117,576 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2079885634274292066
+
+### 2026-07-22 09:07 — 정치·국정 · 직접 작성
+
+> <청와대 청년 펠로우를 모십니다>
+> 
+> 청년의 삶에 영향을 미치는 정책이라면 그 출발 역시 청년의 목소리여야 합니다. 정부 또한 더욱 섬세하고 획기적인 방안을 늘 고민하지만, 청년 여러분께서 매일 마주하는 현실을 모두 담아내기에는 분명 한계가 있습니다.
+> 
+> 이제 청년 여러분을 단지 정책의 대상이 아니라, 함께 고민하고 함께 답을 찾아가는 동료로 모시고자 합니다. 
+> 
+> 거창한 경력이나 특별한 스펙은 필요하지 않습니다. 일상에서 느낀 작은 의문도 좋고, "이렇게 바뀌면 좋겠다"는 생각도 좋습니다. 더 좋은 세상을 만들고 싶은 마음, 미래를 향한 희망과 책임감이 있다면 그것만으로 충분합니다.
+> 
+> 청년의 시선으로 세상을 바라보고, 청년의 언어로 정책을 이야기하며, 청년의 경험으로 대한민국의 미래를 함께 만들어 가고 싶습니다. 우리 청년 여러분의 많은 관심과 참여를 기대합니다. 지인들께도 널리 알려주시면 좋겠습니다.
+
+좋아요 3,520 · 재게시 1,024 · 답글 1,197 · 조회 252,974 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2079719848742142416
+
+### 2026-07-19 22:58 — 문화·체육 · 직접 작성
+
+> 백범 김구 선생께서는 부강한 나라보다 높은 문화의 힘으로 인류에 공헌하는 나라를 꿈꾸셨습니다. 인류 불행의 근원을 인간의 내면에서 찾으셨고, 이를 극복할 수 있는 길은 오직 문화에 있다고 역설하셨습니다.
+> 
+> "평화의 방벽은 인간의 마음속에 세워야 한다." 유네스코 헌장이 선언한 이 정신은 문화로 평화를 이루고 인류의 화합을 실현하고자 했던 백범 김구 선생의 철학과 깊이 맞닿아 있습니다.
+> 
+> 백범 김구 선생 탄생 150주년을 맞은 올해, 대한민국에서 유네스코 세계유산위원회가 열리는 것은 결코 우연이 아닙니다.
+> 
+> 이제 대한민국은 우리의 이야기로 세계인의 마음을 움직이는 문화강국으로 성장했습니다. 문화의 힘으로 인류의 소중한 유산을 함께 지키고, 세계 평화와 번영에 기여하며 백범 선생의 뜻을 이어가겠습니다.
+
+좋아요 4,817 · 재게시 1,055 · 답글 1,604 · 조회 197,067 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2078841859091410987
+
+### 2026-07-19 22:55 — 사회 · 직접 작성
+
+> 칼레드 알-아나니 유네스코 사무총장님께서 부산에서 열리는 세계유산위원회에 참석해 주셨습니다. 우리는 그간 대한민국과 유네스코가 함께 쌓아온 협력과 앞으로의 발전 방향에 대해 뜻깊은 대화를 나눴습니다.
+> 
+> 대한민국은 유네스코와 깊은 인연을 이어왔습니다. 6·25전쟁 직후 유네스코의 지원으로 설립된 교과서 인쇄공장은 매년 3천만 부의 초등학교 교과서를 공급하며 우리나라 교육의 토대를 마련했고, 나아가 교육을 통한 성장과 발전을 이루어 냈습니다. 
+> 
+> 이러한 경험과 역량은 이제 대한민국이 국제사회와 나눌 수 있는 소중한 자산이 되었습니다. 앞으로도 유네스코와 긴밀히 협력하며 인류 공동의 번영과 지속가능한 미래를 위해 책임 있는 역할을 다하겠습니다.
+> 
+> It was a great pleasure to welcome UNESCO Director-General Khaled El-Enany to Busan for the World Heritage Committee session. We had a meaningful conversation about the enduring partnership between the Republic of Korea and UNESCO, as well as the path we will continue to build together.
+> 
+> Korea shares a deep and longstanding bond with UNESCO. In the aftermath of the Korean War, a textbook printing facility established with UNESCO's support laid the foundation for our nation's education by producing more than 30 million elementary school textbooks each year. That support helped Korea achieve remarkable growth and development through the power of education.
+> 
+> Today, the experience and capabilities we have built have become valuable assets that Korea can share with the international community. We will continue to work closely with UNESCO and play our part with dedication and responsibility in advancing our shared prosperity and building a more sustainable future for all. @UNESCO_DG
+
+좋아요 3,109 · 재게시 634 · 답글 253 · 조회 115,913 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2078841117844652511
+
+### 2026-07-19 20:43 — 정치·국정 · 인용
+
+> 공당이 당직선거와 공직선거 조차 구분하지 못하면 안됩니다. 
+> 
+> 그건 국정과 개인사업을 구별못하는 것만큼 심각한 문제입니다.
+> 
+> 그런 역량으로는 국정을 감당하기 어렵습니다.
+> 
+> 비난 논평 내실때 최소한의 상식은 갖추시는게 좋겠습니다. 
+> 
+> 공직자인 당원의 당내 공직선거 관여 = 불법 당무개입이자 선거법 위반
+> 
+> 당원의 소속정당 당직선거 의견 개진 = 적법하고 정당한 정당 활동
+
+좋아요 5,123 · 재게시 1,466 · 답글 1,488 · 조회 457,220 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2078808026723815788
+
+### 2026-07-19 14:45 — 정치·국정 · 인용
+
+> 우선 풀잎이님의 의견과 질책은 감사하게 받아들입니다.
+> 
+> 다만, 법이 금한 당무개입이란 공직선거법 등 법률에 위반하여 공직선거 공천이나 경선에 관여하는 경우를 말하는 것입니다. 
+> 
+> 박근혜 대통령 사례는 공직선거 후보 공천이나 경선에 개입했기 때문에 문제된 것이지 일상적 당무에 의견을 낸 것이 문제된 것이 아니랍니다.
+> 
+> 선거 관련 업무가 아닌 일상적 정당활동에 대해서는 대통령도 법률과 민주당 당헌당규에 의하여 당원으로서 참여할 권리가 인정되고 있으니, 급작스련 청년기탁금의 과도한 인상에 대해 의견을 내는 것이 당무개입일 수는 없답니다. 
+> 
+> 당직선거에 대해서는 구체적 후보에 대한 호불호 의견 표현도 법률이나 당헌당규가 금하는 것은 아니지만, 다만 자율성을 존중하여 자제하는 것입니다. 
+> 
+> 정당은 국민의 주권의지를 먹고사는 존재이고, 특히 집권당은 야당과 달리 듣기좋은 주장만이 아니라 주어진 권력으로 실천과 행동을 통해 국민눈높이에 맞는 성과를 내고, 그 성과에 기반하여 국민의 재신임을 받아 정권을 재창출하는 것이 존재이유입니다.
+> 
+> 제가 기탁금 특히 청년 기탁금에 대해 의견을 내는 것은 특정후보를 편들자고 하는 것이 아니라, 청년문제는 우리사회 최대의 사회문제이고 이 청년기탁금 문제는 청년들이 민주당 그리고 정부를 포함한 집권세력의 청년인식에 대해 근본적 의문을 가지게 하는 단초가 될 수 있기 때문입니다.
+> 
+> 대통령도 민주당 당원으로서 국정의 동반자인 민주당이 당원과 국민의 뜻을 존중하고 제대로 실천하는, 유능하고 강한 민주적 정당이 되기를 염원하고 있음을 헤아려 주시기 바랍니다.
+
+좋아요 6,262 · 재게시 1,496 · 답글 2,201 · 조회 3,367,656 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2078717850211303737
+
+### 2026-07-19 12:28 — 정치·국정 · 직접 작성
+
+> 돈 때문에 선거에 나갈 수 없다는 건 슬픈 일이기도 하지만, 부정부패의 유인을 키우는 일이기도 합니다.
+> 
+> 모두가 인정하는, 그리고 대한민국의 정치를 근본적으로 바꾼 노무현 정치개혁의 핵심중 하나는 돈 안드는 선거 즉 선거공영제 도입이었습니다.
+> 
+> 노무현 대통령님의 '돈안드는 선거' 개혁이 없었다면 저도 정치는 꿈도 꾸지 못했을 것입니다.
+> 
+> 그래서 제가 민주당 당대표일때 '당직선거 공영제'를 도입하려다 후보 난립방지를 위해 필요하다는 반론 때문에 기탁금액을 대폭 줄였습니다. 
+> 
+> 그런데 이번 당 지도부 선거에서 기탁금이 대폭 상향되고 특히 청년후보의 기탁금은 몇배로 늘어나 청년후보들이 힘들어 한다니 아쉽습니다. 
+> 
+> 현직 국회의원들이야 보수에 정치자금까지 있으니 그나마 부담이 적겠지만, 원외 특히 청년들은 부담이 클 것입니다. 
+> 
+> 당의 재정이 어려운 것도 아니고 청년들의 어려움과 정책적 배려의 필요성도 있으니 가능하다면 기탁금을 종전 수준으로 되돌리는 걸 고려해 보시면 어떨까 합니다.
+> 
+> 청년기에 돈 없는 서러움을 안고 무수한 도전으로 기득권의 벽을 넘어온 선배로서 청년후보들을 위해 그들의 후원계좌 홍보라도 해 주고 싶습니다.
+> 
+> 혹여 이걸 가지고 당무개입이라 지적하실 분도 계실수 있는데, 현행법과 당헌당규상 대통령도 당원으로서 소속 정당의 당무에 대해 의견을 낼 수 있게 되어 있으니 오해 없으시기 바랍니다. 
+> 
+> 청년들에게 희망을 주는 나라를 만들기 위해 정부도 최선을 다하겠습니다.
+
+좋아요 7,468 · 재게시 2,116 · 답글 2,560 · 조회 824,280 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2078683246670602742
+
+### 2026-07-18 19:35 — 재난·안전 · 직접 작성
+
+> 최근 경기도에서 발생한 물류창고 화재에 이어 오늘 인천 쿠팡 물류센터에서도 대형 화재가 발생했습니다.
+> 
+> 정부는 국가소방동원령을 발령해 가용한 모든 자원을 총동원하며 진화에 전력을 기울이고 있습니다. 불길이 완전히 잡히고 상황이 안정될 때까지 긴장의 끈을 놓지 않고 대응해 나갈 것입니다.
+> 
+> 현장에서 밤낮없이 진화에 힘쓰고 계신 소방관 여러분께 깊이 감사드립니다. 인근 주민 여러분께서는 정부와 지방정부의 안내에 따라 안전에 유의해 주시길 부탁드립니다.
+> 
+> 이번 화재의 원인을 면밀히 조사하고, 대형 물류시설의 안전관리 체계 전반을 점검해 같은 사고가 반복되지 않도록 실효성 있는 종합대책을 마련하겠습니다.
+> 
+> 기업과 현장 관계자 분들께서도 소방시설 점검과 유지관리는 물론, 작업장 안전수칙이 현장에서 철저히 지켜질 수 있도록 더욱 각별한 노력을 기울여 주십시오.
+> 
+> 연일 계속되는 폭염과 집중호우, 그리고 잇따른 대형 화재는 우리의 일상을 위협하고 있습니다. 재난의 규모와 양상이 갈수록 복합화되는 만큼, 모든 재난에 대해 사후 수습이 아닌 선제적 예방과 신속한 대응을 원칙으로 재난관리 체계를 보완해 나가겠습니다. 
+> 
+> 국가의 존재 이유는 국민의 생명과 안전을 지키는 데 있음을 결코 잊지 않겠습니다.
+
+좋아요 4,227 · 재게시 834 · 답글 575 · 조회 226,372 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2078428350868316273
+
+### 2026-07-17 23:32 — 경제·민생 · 인용 · 분류 검토 대기
+
+> 농업은 매우 중요한 안보 전략산업입니다. 
+> 
+> 만약의 비상사태를 대비해 경제적 효율이 없더라도 반드시 국가 생존을 위한 최소한을 지켜내야 합니다. 
+> 
+> 이 때문에 각국이 농업보조금을 지급하는데 우리는 여타 선진국에 비해 보조금이 매우 적다는 사실입니다.
+> 
+> 이제라도 식량 안보를 지키고 농촌과 농업, 농민을 살리려면 농업보조금을 늘려야 합니다.
+> 
+> 효율성 높은 농어촌기본소득이 농업지원금 증액효과를 조금은 내고 있고, 증시 활성화로 농어촌특별세가 폭증해 재원도 충분해 지고 있습니다.
+> 
+> 개방적 통상국가로서 시장개척을 위한 시장개방도 불가피한데, 
+> 
+> 그로인한 이익의 일부로 그로인해 피해입는 영역에 지원해 실질적 손실이 없게 하는 것도 중요합니다.
+> 
+> 송 장관님 농식품부 공직자들과 함께 열심히 해서 큰 성과 내 주시고 계신데 감사드립니다. 👍
+
+좋아요 4,402 · 재게시 1,007 · 답글 679 · 조회 245,596 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2078125685135339843
+
+### 2026-07-17 11:29 — 일상·인사 · 인용
+
+> 수고 많으셨어요.
+> 진심으로 감사 드립니다.
+> 그 큰 용기와 위대한 실천들을 반드시 기록으로 남겨야지요.
+
+좋아요 4,847 · 재게시 874 · 답글 939 · 조회 358,288 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2077943660092752198
+
+### 2026-07-17 10:12 — 정치·국정 · 직접 작성
+
+> 오늘 '빛의 위원회 출범기념 시민 초청행사'에 함께해 주시는 분들께 드리는 감사장을 첨부합니다. 
+> 
+> 한겨울의 매서운 추위를 뚫고 대한민국의 민주주의를 지켜주신 모든 분께 직접 전해드리고 싶지만, 사진으로나마 마음을 전합니다. 한 분 한 분의 이름을 넣어 간직해 주시면 좋겠습니다.
+> 
+> 시린 겨울 아스팔트 위에서 은박담요 한 장을 서로 나누며 밤을 지새웠던, 혹시 모를 추가 계엄에 대비해 국회 앞을 지켰던, 농민들과 함께하기 위해 남태령으로 달려가 연대의 손길을 내밀어 주셨던 수많은 국민 여러분을 결코 잊지 않겠습니다.
+
+좋아요 4,382 · 재게시 1,109 · 답글 788 · 조회 233,002 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2077924318642881007
+
+### 2026-07-17 00:48 — 정치·국정 · 인용
+
+> 박홍근 장관님과 기획예산처 공직자 여러분 수고 많으셨어요. 감사합니다.
+
+좋아요 2,993 · 재게시 566 · 답글 488 · 조회 233,567 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2077782458062557220
+
+### 2026-07-15 20:07 — 사회 · 인용
+
+> "유죄의 증거는 무죄의 증거보다 훨씬 더 엄격한 증거능력과 신빙성을 갖춰야한다. 범죄의 증명은 합리적 의심의 여지가 없을 정도여야 하고, 의심스러울 때는 피고인의 이익으로 판단하여야 한다. 열사람의 범인을 놓치더라도 단 한명의 억울한 사람이 처벌받게 해서는 안된다."
+> 
+> 형사소송법을 배울때 가장 먼저 가르치는 가장 초보적이고 중요한 원칙이다. 
+> 
+> 그런데 유죄의 증거로 법정에서 사용되어 온 구글 타임라인이 특정사건에서만 무죄의 증거는 되지 못한다는 해괴한 결론으로 구글타임라인이 알리바이를 증명함에도 기소하고 유죄를 선고하는 건 참으로 이해하기 어렵다.
+
+좋아요 4,066 · 재게시 948 · 답글 1,562 · 조회 383,588 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2077349284748607525
+
+### 2026-07-15 19:55 — 사회 · 직접 작성
+
+> 불법 고리사채는 철저히 단속하고 엄벌합니다. 수고하는 경찰에게 감사드립니다.
+> 
+> 시민 여러분의 신고도 부탁드립니다.
+> 
+> 연 20% 초과 이자 대여 시 이자 무효라 이자는 안 줘도 되고, 이자 연 60% 초과 대여 약정은 전부 무효라 원금도 반환하지 않아도 됩니다.
+> 
+> 강압적인 변제 독촉도 범죄입니다.
+
+좋아요 4,182 · 재게시 1,012 · 답글 495 · 조회 163,221 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2077346223946936602
+
+### 2026-07-15 17:29 — 정치·국정 · 직접 작성
+
+> <밤낮없이 애써주고 있는 청와대 가족들과 같이 콩국수 한 그릇 먹었습니다. 우리 콩과 밀로 만든 맛있는 콩국수 한 그릇에 잠시 초복 더위 마저 잊어버린 즐거운 시간이었습니다.
+> 
+> 크고 작은 어려움 속에서도, 각자의 자리에서 묵묵히 소임을 다해주고 계신 청와대 식구들을 생각하면 미안하고 또 든든한 마음입니다. 비록 몸은 바쁘고 고되도, 청와대에서 일한다는 자긍심과 보람을 가득 느낄 수 있도록 저 역시 최선을 다하겠습니다. 
+> 
+> 무더운 여름, 건강 잘 챙기며 일하십시오.>
+
+좋아요 5,134 · 재게시 954 · 답글 618 · 조회 177,803 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2077309676308566427
+
+### 2026-07-15 14:47 — 정치·국정 · 인용
+
+> 다행입니다. 
+> 잘 하셨습니다. 감사합니다.
+> 김영훈이라는 한 장관의 노력이 죽을 사람 수백명을 살리신 겁니다.
+> 
+> 그런데 더 줄여야 합니다. 아직도 너무 많이 죽습니다.
+
+좋아요 7,879 · 재게시 2,052 · 답글 914 · 조회 1,063,673 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2077268863226622386
+
+### 2026-07-14 23:31 — 외교·통상 · 직접 작성
+
+> 대한민국과 영국은 자유, 민주주의, 법치라는 공동의 가치를 바탕으로 안보와 경제, 첨단기술, 문화 등 다양한 분야에서 협력을 확대해 온 글로벌 전략적 동반자입니다. 오늘 앤 영국 공주님을 만나 양국이 앞으로 함께 만들어갈 미래 협력 방안에 대해 뜻깊은 대화를 나눴습니다.
+> 
+> 故 엘리자베스 2세 여왕님의 1999년 국빈 방한에 이어 이번 앤 공주님의 방한은 대한민국과 영국 왕실 간 오랜 우의를 다시 한번 확인하는 계기가 되었습니다. 우리의 교류가 양국 국민의 우정과 신뢰를 더욱 깊게 하는 밑거름이 될 것이라 믿습니다.
+> 
+> 영국은 2027년, 대한민국은 2028년 G20 정상회의 의장국을 맡게 됩니다. 국제사회의 평화와 번영, 지속가능한 발전을 위해 양국이 글로벌 리더십을 함께 발휘해 나가길 기대합니다. 오늘의 만남이 한영 관계를 한층 더 발전시키는 계기가 되었으면 좋겠습니다. 
+> 
+> The Republic of Korea and the United Kingdom are Global Strategic Partners that have steadily expanded cooperation across security, the economy, advanced technologies, culture, and many other areas, grounded in our shared values of freedom, democracy, and the rule of law.
+> 
+> Today, I was pleased to meet Her Royal Highness The Princess Royal and exchange views on how our two countries can further deepen our partnership in the years ahead.
+> 
+> Following Her Late Majesty Queen Elizabeth II’s State Visit to the Republic of Korea in 1999, this visit by Her Royal Highness The Princess Royal has once again reaffirmed the longstanding friendship between the Republic of Korea and the British Royal Family. I am confident that these exchanges will further strengthen the bonds of friendship and trust between our two peoples.
+> 
+> The United Kingdom will host the G20 Summit in 2027, followed by the Republic of Korea in 2028. I look forward to our two countries demonstrating global leadership together in promoting peace, prosperity, and sustainable development. I hope today’s meeting will serve as another meaningful step forward in advancing the Korea–UK partnership.
+
+좋아요 3,899 · 재게시 739 · 답글 648 · 조회 180,491 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2077038308191068174
+
+### 2026-07-13 19:19 — 정치·국정 · 인용
+
+> 사실에 기초한 보도가 아니라 조작에 기초한 정치적 공격은 언론으로서 온당한 태도가 아닙니다.
+
+좋아요 5,876 · 재게시 1,445 · 답글 1,433 · 조회 707,327 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2076612528894058628
+
+### 2026-07-11 20:13 — 일상·인사 · 직접 작성
+
+> 감사했습니다, 몽골!🛫
+> 
+> https://youtube.com/shorts/dIUaw8HY66k?si=pjglmOVk2ZhpCqmT
+> 
+> #이재명 #대통령 #mongolia #Монгол
+
+좋아요 5,288 · 재게시 995 · 답글 815 · 조회 183,603 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2075901247241265537
+
+### 2026-07-11 18:35 — 외교·통상 · 직접 작성
+
+> 세상이 날 오라 하네
+> 
+> http://youtube.com/shorts/Ifgp02Az8hk
+> 
+> #Naadam2026 #Наадам #Mongolia #Монгол
+
+좋아요 6,193 · 재게시 1,110 · 답글 843 · 조회 596,125 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2075876670561788335
+
+### 2026-07-11 18:00 — 문화·체육 · 직접 작성
+
+> 나나나나나나담 축제
+> 몽골 최대의 민족 축제 #나담축제 맛보기
+> 
+> http://youtube.com/shorts/V4UEta13hTE
+> 
+> #Naadam2026 #Наадам #Mongolia #Монгол
+
+좋아요 4,102 · 재게시 986 · 답글 214 · 조회 259,744 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2075867698412851458
+
+### 2026-07-10 23:04 — 외교·통상 · 직접 작성
+
+> 몽골의 산닥 뱜바척트 국회의장님, 냠오소르 오츠랄 총리님과 차례로 만나 양국의 미래 협력에 대해 진솔한 이야기를 나눴습니다.
+> 
+> 어제 후렐수흐 대통령님과 함께한 약속들이 선언에 그치지 않고 체감할 수 있는 성과로 이어질 수 있도록 몽골 국회와 정부의 관심과 협력을 부탁드렸습니다.
+> 
+> 두 분 역시 정상회담에서 합의한 내용을 충실히 이행해 경제와 투자, 문화, 인적교류를 비롯한 다양한 분야에서 양국 협력을 더욱 발전시켜 나가자고 뜻을 모아 주셨습니다.
+> 
+> 대한민국과 몽골이 함께 그려갈 새 미래는 이제부터 시작입니다. 든든한 이웃이자 믿음직한 동반자로서 함께 손을 맞잡고, 양국 국민 모두가 체감할 수 있는 특별한 변화를 만들어 가겠습니다.
+> 
+> Монгол Улсын Их Хурлын дарга Сандагийн Бямбацогт болон Ерөнхий сайд Ням-Осорын Учралтай тус тус уулзаж, хоёр улсын ирээдүйн хамтын ажиллагааны талаар дэлгэрэнгүй ярилцав. 
+> 
+> Өчигдөр Монгол Улсын Ерөнхийлөгч Ухнаагийн Хүрэлсүхтэй тохиролцсон тунхаглалыг иргэдэд хүртээмжтэй үр дүн бүхий ажил болгож үргэлжлүүлэхийн төлөө Монгол Улсын Их Хурал болон Засгийн газраас онцгойлон анхаарал хандуулж хамтран ажиллахыг хүслээ.
+> 
+> УИХ-ын дарга болон Ерөнхий сайд мөн хоёр улсын төрийн тэргүүн нарын албан ёсны уулзалтаар тохиролцсон агуулгыг бүрэн хэрэгжүүлж эдийн засаг, хөрөнгө оруулалт, соёл, иргэд солилцоо зэрэг олон салбарт хоёр улсын хамтын ажиллагааг улам хөгжүүлэхээр санал нэгдэв.
+> 
+> Монгол-Солонгос хоёр улс хамтдаа бүтээх шинэ ирээдүй өнөөдрөөс эхэлж байна.
+> Найдвартай хөрш, итгэлт түншийн хувиар гар гараа барилцаж, хоёр улсын ард иргэдэд хүртээмжтэй онцгой өөрчлөлтийг бий болгох болно.
+
+좋아요 3,116 · 재게시 663 · 답글 335 · 조회 119,221 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2075581925386076333
+
+### 2026-07-10 19:47 — 정치·국정 · 직접 작성 · 분류 검토 대기
+
+> 푸른 하늘과 광활한 초원의 나라 몽골에 계신 우리 동포 여러분을 찾아 뵈었습니다. 이국 땅에서 얼굴을 마주하며 서로의 안부를 물을 수 있어 무척이나 반가운 시간이었습니다.
+> 
+> 대개 국가간의 교류는 정부가 먼저 길을 열고 민간의 교류로 이어지지만, 한-몽 관계는 조금 달랐습니다. 이미 한 세기 전부터 수많은 우리 동포들이 이 땅을 찾아 학교를 세우고, 기술을 나누고, 기업을 일으키며 신뢰를 쌓아왔습니다. 
+> 
+> 울란바타르에 '몽탄 신도시'로 불릴 만큼 활기찬 한인 경제권이 형성된 것도, 대한민국이 몽골의 '제3 이웃' 국가 가운데 가장 중요한 협력국 중 하나가 될 수 있었던 것도 모두 동포 여러분께서 헌신해 주신 덕분이라고 생각합니다. 참 감사하고, 또 자랑스럽습니다.
+> 
+> 막중한 책임감을 갖고 동포 사회의 목소리에 더욱 귀 기울이겠다 다짐합니다. 여러분의 노력과 헌신이 헛되지 않도록 보다 든든하고 자랑스러운 대한민국을 만들기 위해 전력을 다하겠습니다.
+
+좋아요 4,205 · 재게시 845 · 답글 247 · 조회 179,919 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2075532416366805230
+
+### 2026-07-10 19:42 — 일상·인사 · 직접 작성
+
+> 대한민국과 몽골 우호의 상징인 이태준 선생은 1914년 울란바타르에 동의의국을 세워 전염병에 시달리던 수많은 몽골 국민을 치료하며 깊은 신뢰와 존경을 받으신 분입니다.
+> 
+> 선생께서는 의술로 생명을 살리는 데 그치지 않고, 각지의 애국지사들과 함께 항일 독립운동을 펼치며 상하이 임시정부와 독립운동가들을 지원하는 등 조국의 독립을 위해서도 헌신하셨습니다.
+> 
+> 유해를 찾지 못해 가묘만 남아있는 기념관을 보며 마음이 무거웠던 차에, 선생께서 안장된 곳으로 추정되는 장소가 있다는 이야기를 듣고 곧바로 자이승 산기슭으로 향했습니다. 이렇게나마 찾아 뵙고 인사드릴 수 있어 참 다행입니다.
+> 
+> 100여 년 전 선생께서 몽골 땅에 뿌린 우정과 신뢰의 씨앗을 이어받아, 앞으로도 양국이 서로에게 힘이 되는 이웃으로 함께 미래를 열어갈 수 있도록 최선을 다하겠습니다. 선생의 발자취를 보존하고, 기억하며, 예우해 주고 계신 몽골 정부와 국민 여러분께 진심으로 감사드립니다.
+
+좋아요 3,809 · 재게시 876 · 답글 122 · 조회 134,611 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2075531203521003591
+
+### 2026-07-10 18:16 — 외교·통상 · 인용
+
+> 인도와 뉴질랜드 양국의 우정과 발전을 기원합니다.
+> 
+> भारत और न्यूजीलैंड दोनों देशों की दोस्ती और प्रगति के लिए शुभकामनाएं।
+> 
+> Wishing for the friendship and progress of both India and New Zealand
+> 
+> @narendramodi @chrisluxonmp
+
+좋아요 7,483 · 재게시 1,101 · 답글 238 · 조회 1,056,649 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2075509392548802704
+
+### 2026-07-10 13:00 — 경제·민생 · 인용 · 분류 검토 대기
+
+> 부동산에 대한 적정한 보유세, 실주거용 1주택과 비주거용 또는 다주택에 차이를 둘 지, 어느정도 차이가 적정한지, 초고가 실거주 주택은 별도 처리할 지, 추가 부담할 초고가주택은 얼마로 할 지, 보유세와 거래세의 관계, 보유세수의 용도 등 주요 쟁점들을 미리 공지하면 국민적 토론에 도움이 되겠지요?
+> 
+> 여러분도 주요 쟁점에 대한 의견을 내 보시기 바랍니다.
+> 
+> 관련부처와 청와대 참모진에 주요 쟁점들을 뽑아 사전 공지하도록 지시하겠습니다.
+
+좋아요 3,909 · 재게시 953 · 답글 1,222 · 조회 438,229 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2075429960089538941
+
+### 2026-07-10 02:28 — 사회 · 인용
+
+> 한때 다른 나라에선 모범적인 글로벌 기업이 유독 우리나라에서만 반노동적이고 불투명한 경영을 해서 빈축을 사는 경우가 있었습니다. 
+> 
+> 우리나라 정부가 반노동 정책을 구사하고 부정부패로 물들어 있던 시절의 이야기지만, 이제는 대한민국이 세계를 선도하는 모범 사회 ㆍ 모범 정부로 거듭나고 있는데 그러한 구태경영 행태가 발생한다면 용납할 수 없습니다. 
+> 
+> 우리 기업도 해외에서 반노동 비상식 행태를 보여서는 안되는 것처럼 외국기업도 국내에서 그래선 안됩니다.
+> 
+> 철저히 조사해서 사실로 밝혀진다면 국제적 기준에 맞게 엄정하게 조치하겠습니다.
+
+좋아요 5,455 · 재게시 1,608 · 답글 577 · 조회 493,094 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2075270790761906614
+
+### 2026-07-09 22:45 — 경제·민생 · 직접 작성
+
+> 동북아와 유라시아를 연결해 온 몽골의 수도 울란바타르에서, 양국의 공동 번영을 이끌 경제인 여러분을 만났습니다. 
+> 
+> 한국과 몽골은 기술과 자원, 자본과 인력 등 서로의 강점이 맞닿아 있는 최적의 파트너입니다. 양국의 잠재력이 더 큰 결실로 이어질 수 있도록, '몽탄'으로 대표되는 상호 호혜적 협력의 모델을 더욱 확산시켜 나가겠습니다. 핵심 광물 공급망 분야에서도, 인프라 투자와 법·제도 분야에서도 공동 성장의 토대를 굳건히 만들어 나갈 것입니다.
+> 
+> 몽골에는 “여럿의 힘은 끝을 헤아릴 수 없는 바다와 같다”라는 속담이 있다고 합니다. 오늘의 만남이 끝없는 바다처럼 양국 협력의 무한한 기회와 가능성을 선사할 뜻깊은 출발점이 되리라 확신합니다. #한몽비즈니스포럼
+
+좋아요 3,440 · 재게시 725 · 답글 236 · 조회 102,290 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2075214769393668421
+
+### 2026-07-09 22:10 — 외교·통상 · 직접 작성
+
+> This is Mongol 🇲🇳
+> 
+> #이재명 #УхнаагийнХүрэлсүх #mongolia #TheHU
+
+좋아요 3,943 · 재게시 894 · 답글 214 · 조회 134,589 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2075206059174838361
+
+### 2026-07-09 11:55 — 외교·통상 · 직접 작성
+
+> <이번 정류장은 몽골입니다🇲🇳>  
+> 
+> https://youtube.com/shorts/o76msvh9yWE 
+> 
+> #이재명 #대통령 #몽골 #Монгол
+
+좋아요 3,489 · 재게시 793 · 답글 395 · 조회 100,513 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2075051075384844642
+
+### 2026-07-09 11:23 — 경제·민생 · 직접 작성
+
+> <1.9%→2.6%, 한국경제 성장률 대폭 상향 조정>
+> 
+> 국제통화기금(IMF)이 올해 한국 경제 성장률을 2.6%로 전망했습니다. 
+> 이는 지난 4월에 전망한 수치 대비 0.7%포인트 상향된 것으로 발표대상 30개국 가운데 가장 큰 상승폭입니다.
+> 
+> 반면, 올해 세계경제 성장률 전망은 지난 4월보다 0.1% 포인트 내린 3.0%로 하향조정되었습니다.
+> 
+> IMF는 한국의 내년 경제성장률 역시 0.4%포인트 상향된 2.5%로 전망했습니다. 주요 선진국 가운데 가장 높은 수준입니다. 
+> 
+> 높은 중동 에너지 수입의존에도 불구하고 반도체와 AI 하드웨어 수출호조가 우리 경제의 성장률 전망을 끌어올렸습니다.  
+> 
+> 분명 좋은 소식임엔 틀림없지만 아직 국민들께서 체감하기 어렵다는 것 또한 잘 알고 있습니다. 높은 경제성장률이 현실이 되고, 성장의 과실이 모든 국민에게 골고루 돌아가는 '모두의 성장'으로 이어질 수 있도록 더욱 노력하겠습니다.
+
+좋아요 4,912 · 재게시 1,146 · 답글 623 · 조회 262,602 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2075043113467543999
+
+### 2026-07-09 08:03 — 외교·통상 · 직접 작성 · 분류 검토 대기
+
+> 이번 NATO 정상회의를 계기로 니쿠쇼르 단 루마니아 대통령님과 처음 만나 뜻깊은 대화를 나눴습니다. 루마니아는 아시아 국가 가운데 가장 먼저 대한민국과 전략적 동반자 관계를 맺은 특별한 친구이자 협력국입니다.
+> 
+> 루마니아는 신궁, K9 자주포 도입 등 우리 방산 역량에 꾸준한 신뢰를 보여주고 있습니다. 앞으로도 방산을 비롯해 원전과 인프라 등 여러 분야에서 협력을 확대하며 미래를 함께 준비해 나가자고 뜻을 모았습니다.
+> 
+> 대한민국과 루마니아의 국민 여러분께서 체감하실 수 있는 협력의 결실을 차근차근 만들어가겠습니다. 대통령님과도 더욱 긴밀히 소통하며 양국 협력의 새로운 길을 함께 열어가길 기대합니다.
+> 
+> On the sidelines of the NATO Summit, I had a highly meaningful first meeting with Romanian President Nicușor Dan. Romania is a truly special partner and friend to the Republic of Korea, and we are the first Asian country to establish a Strategic Partnership with them.
+> 
+> Romania continues to show steadfast confidence in our defense industry, which is highlighted by their recent acquisition of Chiron and K9 Self-Propelled Howitzers. During our discussion, we agreed to build on this momentum by expanding our cooperation in defense industry, nuclear energy, and infrastructure to prepare for the future together.
+> 
+> We are committed to delivering tangible outcomes that the peoples of both nations can truly feel. I look forward to working closely with President @NicusorDanRO to forge a new path forward for our bilateral relations.
+
+좋아요 2,868 · 재게시 614 · 답글 234 · 조회 92,090 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2074992891148337230
+
+### 2026-07-09 07:31 — 국방·안보 · 직접 작성
+
+> 🇲🇳칭기즈칸 국제공항 도착했습니다.
+> 환대의 뜻으로 건네주신 몽골의 전통 과자 '아롤’ 정말 맛나더군요. Баярлалаа 🙏
+
+좋아요 5,722 · 재게시 1,063 · 답글 331 · 조회 173,852 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2074984827011690617
+
+### 2026-07-08 23:45 — 외교·통상 · 직접 작성
+
+> "이웃사촌이 멀리 있는 친척보다 낫다"
+> 우리에게 익숙한 이 속담이 몽골에서도 같은 뜻으로 쓰인다는 것을 알고 계시는지요. 이웃을 아끼고 정을 나누는 마음만큼은 두 나라가 많이 닮아 있다는 생각이 들어 더욱 반갑게 느껴집니다.
+> 
+> 몽골은 대한민국을 무지개의 나라라는 뜻의 '솔롱고스'라고 부르고, 우리는 몽골을 '푸른 하늘의 나라'라고 합니다. 서로를 일컫는 이름에도 깊은 애정이 담겨 있습니다. 
+> 
+> 대한민국 대통령으로서는 15년 만에 몽골을 국빈 방문합니다. 이제 양국은 오랜 우정과 신뢰를 바탕으로 함께 미래를 만들어가는 든든한 동반자가 되고자 합니다. 
+> 
+> 서로에게 힘이 되는 진정한 이웃으로서 협력의 폭을 더욱 넓히고, 양국 국민 모두가 체감할 수 있는 의미 있는 성과를 안고 돌아오겠습니다.
+> 
+> 후렐수흐 대통령님(@UKhurelsukh),
+> 푸른 하늘의 나라에서 뵙겠습니다🇰🇷🇲🇳
+> 
+> “Ойрын хөрш холын садангаас дээр”
+> 
+> Бидний сайн мэддэг энэ зүйр цэцэн үг нь Монголд ч адилхан утгаар хэрэглэдгийг та бүхэн мэдэж байгаа болов уу.
+> 
+> Хөршөө хайрлан хүндлэх сэтгэлээрээ Монгол, Солонгос хоёр улс ижил байгааг бодоход улам дотно сэтгэл төрж байна.
+> 
+> Монголчууд Солонгос Улсыг солонгын орон гэсэн утгаар Солонгос хэмээн дуудаг бол, Солонгосчууд бид Монголыг Хөх тэнгэрийн орон гэж дууддаг юм.
+> Бие биеэ дуудах нэр нь ч гэсэн гүнээ сэтгэл шингэсэн байна.
+> 
+> БНСУ-ын Ерөнхийлөгчийн хувиар 15 жилийн дараа Монгол Улсад Төрийн айлчлал хийж байна.
+> Одоо хоёр улс олон жилийн найрсаг, итгэлцлийн харилцаанд тулгуурлан ирээдүйгээ хамтдаа бүтээлцэх итгэлт түнш болохоор зорьж байна.
+> 
+> Харилцан тус дэм болсон үнэнч хөршийн харилцаа улам бүр тэлж, хоёр улсын ард иргэдэд хүртээмжтэй үр дүн бүхий айлчлал байх болно.
+> 
+> Монгол Улсын Ерөнхийлөгч эрхэмсэг ноён Ухнаагийн Хүрэлсүх тантай
+> Хөх тэнгэрийн оронд уулзъя.
+
+좋아요 4,164 · 재게시 864 · 답글 359 · 조회 161,256 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2074867508620755256
+
+### 2026-07-08 21:50 — 외교·통상 · 직접 작성
+
+> 볼로디미르 젤렌스키 우크라이나 대통령님과 첫 정상회담을 가졌습니다. 우크라이나의 현재 상황, 평화와 회복을 위한 방안에 대해 깊이 있는 대화를 나눈 뜻깊은 시간이었습니다. 
+> 
+> 이번에 발표한 '‘對우크라이나 1억불 포괄적 지원 공약’에 대해서도 직접 설명드렸습니다. 같은 취지에서 우크라이나 복구와 재건을 위한 국제사회의 노력에 동참해 나갈 것이라는 말씀도 전했습니다.
+> 
+> 하루빨리 전쟁이 끝나고, 우크라이나 국민들이 평화로운 일상을 되찾을 수 있길 바랍니다. 회복과 재건의 과정에서 양국 간 협력이 더욱 확대되기를 기대합니다.
+> 
+> I had my first meeting with President Volodymyr Zelenskyy(@ZelenskyyUa) of Ukraine. It was a meaningful opportunity to exchange views on the situation in Ukraine and discuss ways to advance peace and support Ukraine's recovery.
+> 
+> During our meeting, I also explained Korea’s newly announced Comprehensive Assistance Pledge for Ukraine, amounting to USD 100 million. I conveyed our commitment to continue contributing to international efforts aimed at Ukraine’s recovery and reconstruction.
+> 
+> I sincerely hope that the war will come to an end as soon as possible and that the people of Ukraine will be able to return to their peaceful daily lives. I look forward to further strengthening cooperation between our two countries as Ukraine moves forward on the path of recovery and reconstruction.
+
+좋아요 3,800 · 재게시 695 · 답글 314 · 조회 186,325 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2074838618947170399
+
+### 2026-07-08 20:01 — 외교·통상 · 직접 작성
+
+> 정상들은 만나면 OOO 얘기 합니다 ⚽️
+> 
+> http://youtube.com/shorts/d-uaGIOREq8
+> 
+> #이재명 #NATO #노르웨이
+
+좋아요 3,040 · 재게시 640 · 답글 309 · 조회 178,133 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2074811166241776002
+
+### 2026-07-08 17:45 — 국방·안보 · 직접 작성
+
+> 대한민국과 노르웨이는 신재생에너지와 조선·해양, 방산을 비롯한 다양한 분야에서 협력하며 우정을 쌓아왔습니다. 특히 노르웨이는 K9자주포와 천무 다연장로켓 등 우리 방산 역량에 꾸준한 신뢰를 보내주고 있는 국가이기도 합니다.
+> 
+> 요나스 가르 스퇴레 노르웨이 총리님과 만나 올해 초 체결된 천무 다연장로켓 획득 계약을 계기로 방산 협력을 한층 강화하고, 미래 신산업 분야에서도 협력을 확대해 나가기로 뜻을 모았습니다. 아울러 유럽과 한반도의 안보 상황을 비롯한 지역 및 국제 정세에 대해서도 깊이 있는 의견을 나눴습니다.
+> 
+> 오늘의 회담이 양국 국민 여러분께서 체감하실 수 있는 성과로 이어질 수 있도록 더욱 최선을 다하겠습니다. 스퇴레 총리님, 만나 뵙게 되어 반가웠습니다.
+> 
+> The Republic of Korea and Norway have built a strong friendship through cooperation across a wide range of areas, including renewable energy, shipbuilding and maritime industries, and the defense industry. Norway has also been a steadfast partner that has consistently placed its trust in Korea’s defense capabilities, including the K9 self-propelled howitzer and the Chunmoo multiple launch rocket system.  
+> 
+> I had a productive meeting with Prime Minister @jonasgahrstore this morning. Building on the Chunmoo acquisition contract signed earlier this year, we agreed to further strengthen our defense industrial cooperation and expand collaboration in emerging industries as well. We also had an in-depth exchange of views on regional and global issues, including the security situations in Europe and on the Korean Peninsula.  
+> 
+> I will continue to do my utmost to ensure that the outcomes of today's meeting are translated into tangible benefits for the peoples of both our countries.  It was a pleasure meeting you, Prime Minister Støre.
+
+좋아요 3,651 · 재게시 799 · 답글 231 · 조회 120,609 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2074776992336269334
+
+### 2026-07-08 16:44 — 사회 · 인용
+
+> 자본시장 공정성은 포기할 수 없는 가치입니다. 주가조작은 금감원 경찰 검찰의 3중 그물에 반드시 걸립니다. 
+> #주가조작_패가망신
+
+좋아요 3,632 · 재게시 855 · 답글 524 · 조회 454,528 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2074761417018978765
+
+### 2026-07-08 16:28 — 국방·안보 · 직접 작성
+
+> 불확실한 시대일수록 행동은 더 과감해야 하고, 
+> 협력은 더 빠르게 이루어져야 합니다. 
+> 
+> 에너지 위기 대응을 위해 지혜를 모았던 것처럼, 
+> 방위산업에서도 서로의 강점을 더해 
+> 모두 함께 성장하는 길을 열어가길 기대합니다🙏🏻 
+> #NATO
+
+좋아요 5,446 · 재게시 889 · 답글 255 · 조회 146,545 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2074757595701952902
+
+### 2026-07-08 01:32 — 국방·안보 · 직접 작성
+
+> NATO 정상회의가 열리는 앙카라에서 마크 루터 사무총장님(@SecGenNATO)을 만나 한-NATO 협력을 한 단계 더 발전시켜 나가기 위한 방안을 논의했습니다.
+> 
+> 이번에 협상을 개시한 한-NATO 「조달 기본협정」은 우리 방산기업들이 NATO 방산시장으로 더 넓게 나아갈 수 있는 든든한 기반이 될 것입니다. 세계 최고 수준의 기술력과 경쟁력을 갖춘 우리 기업들이 더 큰 무대에서 마음껏 역량을 펼치고, 새로운 성장의 기회를 만들어가길 기대합니다.
+> 
+> 일본, 호주, 뉴질랜드 대표들과도 뜻깊은 대화를 나눴습니다. 오늘날의 안보 환경은 어느 한 나라의 힘만으로 대응하기 어려울 만큼 복합적이고 빠르게 변화하고 있습니다. 유럽과 인도·태평양의 파트너들이 서로의 강점을 바탕으로 방산과 첨단기술, 혁신 분야에서 협력을 확대해 나갈 때 우리의 안보는 더욱 튼튼해지고 세계의 평화와 안정도 한층 굳건해질 것이라는 데 의견을 모았습니다.
+> 
+> 대한민국은 앞으로도 국제사회의 책임 있는 일원으로서 맡은 역할을 다할 것입니다. 국민의 안전한 일상과 세계의 평화가 지켜질 수 있도록 뜻을 함께하는 나라들과 손을 맞잡고 최선을 다하겠습니다.
+
+좋아요 3,411 · 재게시 700 · 답글 390 · 조회 104,668 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2074531919510086080
+
+### 2026-07-07 22:05 — 국방·안보 · 직접 작성
+
+> NATO와 함께 ‘더 안전한 세계’를 향해
+> 잠시 후 NATO 방산포럼 4세션 연설 시작합니다.
+> 
+> http://youtube.com/live/xWXaJTBS8Ks
+
+좋아요 4,377 · 재게시 727 · 답글 348 · 조회 152,588 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2074479945217372326
+
+### 2026-07-07 21:59 — 외교·통상 · 직접 작성
+
+> <이번 정류장은 나토입니다🌐>
+> 
+> https://youtube.com/shorts/RcR2-jis0YU
+> 
+> #이재명 #NATO #natosummit #türkiye
+
+좋아요 4,541 · 재게시 730 · 답글 292 · 조회 202,989 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2074478309224919195
+
+### 2026-07-07 21:31 — 일상·인사 · 직접 작성
+
+> 전화로만 인사 나누던 마크 루터 NATO 사무총장님(@SecGenNATO). 직접 뵈니 훨씬 더 반갑고 든든합니다. 따뜻한 환대에 진심으로 감사드립니다.
+
+좋아요 4,590 · 재게시 808 · 답글 220 · 조회 147,027 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2074471407594168591
+
+### 2026-07-07 19:48 — 외교·통상 · 직접 작성
+
+> 🇹🇷 앙카라에 도착했습니다
+
+좋아요 30,039 · 재게시 1,330 · 답글 1,000 · 조회 2,469,628 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2074445440670732624
+
+### 2026-07-07 08:00 — 외교·통상 · 직접 작성
+
+> 마크 루터 NATO 사무총장님의 초청을 받아 NATO 정상회의가 열리는 튀르키예로 향합니다. 지난달 G7 정상회의에 이어 이번에는 NATO 무대에서 세계 평화와 안보를 위한 대한민국의 역할을 더욱 넓혀가려 합니다.
+> 
+> 얼마 전 사무총장님께서는 "한국을 사랑한다"며 우리 방위산업 기반이 "환상적"이라고 평가해 주셨다지요. 전쟁의 폐허를 딛고 나라를 지키기 위해 흘린 수많은 땀방울이 오늘날 세계가 인정하는 경쟁력이 되었다는 것이 참으로 자랑스럽습니다.
+> 
+> 오랜 시간 국제사회의 도움을 받던 대한민국은 이제 세계평화와 안보에 책임 있게 기여하는 나라가 되었습니다. 국민 여러분께 더 큰 자부심을 안겨드릴 수 있도록 이번 순방 역시 최선을 다하겠습니다.
+> 
+> 튀르키예에서 다시 소식 전해드리겠습니다!
+> 
+> ​@SecGenNATO 
+> At the invitation of NATO Secretary General Mark Rutte, I am heading to Türkiye for the NATO Summit. Following last month's G7 Summit, I intend to further expand the Republic of Korea's role in global peace and security on the NATO stage.
+> 
+> ​Not long ago, the Secretary General said he loves Korea, and praised our defense industry base as "fantastic." It fills me with pride that the sweat and tears shed to defend and rebuild our nation from the ashes of war have forged the world-class strength we see today.
+> 
+> ​The Republic of Korea, which for a long time relied on the assistance of the international community, has now become a nation that responsibly contributes to global peace and security. I will do my utmost during this visit to bring even greater pride to our citizens.
+> 
+> ​I will keep you updated from Türkiye!
+
+좋아요 4,648 · 재게시 901 · 답글 761 · 조회 195,825 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2074267211213177343
+
+### 2026-07-05 01:00 — 외교·통상 · 직접 작성
+
+> 미국 독립 250주년을 맞아 트럼프 대통령님과 미국 국민 여러분께 축하를 전합니다. 
+> 
+> 250년 전 자유와 민주주의라는 이상을 향한 위대한 여정을 시작한 미국은 수많은 도전을 극복하며 국제사회의 평화와 번영을 이끌어 왔습니다. 대한민국은 이러한 가치를 함께 지켜온 미국의 소중한 동반자입니다.
+> 
+> 70여 년 전 한국전쟁 당시 수많은 미국의 젊은이들은 대한민국의 자유를 지키기 위해 희생을 마다하지 않았습니다. 우리는 그 숭고한 헌신을 영원히 기억하며, 한미동맹을 더욱 굳건히 이어갈 것입니다.
+> 
+> 오늘날 양국은 안보를 넘어 경제와 첨단기술, 에너지, 조선, 원자력, 인공지능을 비롯한 미래 분야까지 협력의 지평을 넓히며 함께 번영하는 미래지향적 동반자로 발전해 나가고 있습니다. 
+> 
+> 앞으로도 트럼프 대통령님과 함께 공동의 가치와 굳건한 신뢰를 바탕으로 한미동맹의 새로운 도약을 이루고, 한반도와 세계의 평화와 공동 번영에 함께 기여해 가겠습니다.
+> 
+> 독립 250주년을 다시 한번 축하드리며, 미국 국민 모두에게 신의 축복과 평화가 함께하길 온 마음으로 기원합니다.
+> 
+> I would like to extend my warmest congratulations to President Trump and the people of the United States on the historic occasion of the 250th anniversary of American Independence.
+> 
+> Two hundred and fifty years ago, the United States embarked on a great journey toward the ideals of freedom and democracy, and by overcoming countless challenges, it has led the international community toward peace and prosperity. The Republic of Korea is a cherished partner of the United States, having stood together to defend these very values.
+> 
+> More than seventy years ago during the Korean War, numerous young Americans did not hesitate to sacrifice their lives to defend the freedom of the Republic of Korea. We will never forget their noble dedication and will continue to strengthen the ironclad ROK-U.S. alliance.
+> 
+> Today, our two nations are expanding the horizons of our cooperation beyond security into economy, advanced technology, energy, shipbuilding, nuclear energy, artificial intelligence, and emerging fields, evolving into future-oriented partners that prosper together.
+> 
+> I look forward to working closely with President @realDonaldTrump based on our shared values and unwavering trust, to achieve a new leap forward for the ROK-U.S. alliance and to contribute together to the peace and mutual prosperity of the Korean Peninsula and the world.
+> 
+> Once again, congratulations on the 250th anniversary of Independence, and I sincerely hope that God’s blessings and peace will be with all the people of the United States.
+
+좋아요 4,579 · 재게시 776 · 답글 1,189 · 조회 280,300 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2073436763146838527
+
+### 2026-07-04 10:33 — 과학기술·AI · 직접 작성
+
+> <천지개벽을 위한 상전벽해 수준의 국토대전환은 제가 취임하기 전 아주 오래전부터 꿈꿔왔던 일입니다. 
+> 
+> 취임직후부터 균형발전을 위한 대규모 지방투자와 개발을 위해 국가 차원의 준비를 하며 경제계에 협조요청을 해 왔는데 속도가 크게 나지 않았습니다. 
+> 
+> 그러던 중 최근에 정부의 인공지능 등 미래 첨단선업 중점 투자정책과 인공지능 반도체 산업의 구조적이고 장기적이며 폭발적인 긍정적 재편이 맞물리며 대규모 지방투자가 가능하게 되었습니다.
+> 
+> 지지율도 중요하지만 더 중요한건 국민의 삶을 개선할 성과와 실적입니다. 지지율은 바람같은 것이어서 오기도 가기도 하고, 강하기도 약하기도 하지만 실적과 성과는 산 같은 것이어서 쉽게 변하지 않습니다. 지지율은 성과와 실적을 자연스럽게 따라온다는 게 저의 오래된 생각입니다.
+> 
+> 만약 3대 메가 프로젝트가 지지율 관리를 위한 정치적 수단이었다면 지방선거 전에  시작했겠지요. 
+> 
+> 균형발전, 포용적 지속성장, 대체불가 대한민국 건설을 위한 3대 메가프로젝트는 국민과 대한민국에 새로운 희망과 미래를 만들 것입니다.
+> 
+> 특히 기회를 잃고 좌절하는 이 시대 대한민국 청년들에게 희망과 꿈 활력을 되찾아 주기 위해 총력을 다할 것입니다.>
+> 
+> '메가프로젝트' 띄운 李대통령…지지율 하락세 끊고 반등 신호탄 될까 | 다음 - 뉴스1
+
+좋아요 6,396 · 재게시 1,361 · 답글 1,240 · 조회 465,477 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2073218731745153529
+
+### 2026-07-02 18:37 — 일상·인사 · 직접 작성
+
+> <니가 좋아>
+> 
+> http://youtube.com/shorts/JBIBEwhcv-s
+> 
+> #이재명 #이재용 #니가좋아
+
+좋아요 5,848 · 재게시 1,189 · 답글 1,177 · 조회 588,979 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2072615720106766648
+
+### 2026-07-01 20:25 — 사회 · 직접 작성
+
+> <또 한 명의 소중한 생명을 잃었습니다>
+> 
+> 사람을 살리는 병원에서 누군가는 깊은 상처를 입고 끝내 삶을 포기하길 택했습니다. 교육이라는 이름으로도, 관행이라는 이름으로도, 조직문화라는 이름으로도 '태움'은 결코 정당화될 수 없는 끔찍한 폭력입니다.
+> 
+> 이번 사건의 진상을 철저히 밝혀야 합니다. 즉시 해당 병원에 대한 근로감독에 착수하고, 유사 위험이 있는 의료기관을 대상으로 무작위 불시 기획감독을 실시하겠습니다. 아울러 직장 내 괴롭힘과 노동관계법 위반 여부를 면밀히 점검하고, 법 위반이 확인될 경우 엄정하게 조치할 것입니다.
+> 
+> 경찰은 이번 사건과 관련해 불법 행위가 있었는지 한 점 의혹 없이 명확히 규명해 주길 바랍니다.
+> 
+> 무엇보다 중요한 것은 반복되는 비극의 구조를 바꾸는 것입니다. 병원 내 조직문화와 근무환경을 근본적으로 개선하고, 의료현장의 일터혁신 컨설팅을 확대하는 한편, 직장 내 괴롭힘을 예방하고 신속히 대응할 수 있도록 제도적 보완도 추진하겠습니다. 
+> 
+> 누구나 안전하게 일할 권리가 있습니다. 누구나 존중받으며 일할 권리가 있습니다. 지극히 당연한 이 권리가 일터에서 지켜질 수 있도록 정부의 책임을 다하겠습니다.
+> 
+> 고인의 명복을 빌며, 유가족께 깊은 애도의 마음을 전합니다.
+
+좋아요 8,104 · 재게시 2,508 · 답글 911 · 조회 1,237,960 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2072280304484601892
+
+### 2026-07-01 20:17 — 문화·체육 · 직접 작성
+
+> <국토균형발전의 새 역사를 써 내려갈 위대한 항해를 시작합니다>
+> 
+> 무등산과 영산강의 생명력이 하나로 이어져 마침내 '전남광주통합특별시'라는 희망의 돛을 올리게 되었습니다. 오늘의 통합은 새로운 국가 발전의 동력을 만드는 역사적 전환점이자 지방 주도 성장으로 대한민국의 미래를 바꾸는 담대한 도전입니다. 
+> 
+> 전남광주통합특별시가 남부권 발전을 이끄는 중심축으로 자리매김하고, 대한민국의 도약을 견인할 수 있도록 전폭적으로 지원하겠습니다. 첨단 미래산업과 인공지능, 에너지와 모빌리티, 글로벌 문화 관광이 어우러진 세계적 초광역 도시로 힘차게 비상할 모습을 기대합니다.
+> 
+> 전남과 광주는 대한민국 현대사의 굽이굽이마다 민주주의를 지켜내며 연대와 상생의 힘을 증명해 왔습니다. 그 위대한 저력으로 이제는 지역 균형발전의 새로운 시대를 열어주실 것이라 확신합니다. 더 나은 대한민국을 향한 항해에 순풍이 함께하길 진심으로 응원합니다.
+
+좋아요 5,779 · 재게시 1,351 · 답글 538 · 조회 163,326 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2072278448685654445
+
+### 2026-07-01 17:05 — 정치·국정 · 직접 작성 · 분류 검토 대기
+
+> <성공한 민주정부를 위해, 하나의 마음으로>
+> 
+> https://youtube.com/shorts/qvXPZt61emo
+> 
+> #이재명 #문재인 #대통령
+
+좋아요 4,402 · 재게시 915 · 답글 693 · 조회 200,584 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2072230195172667482
+
+### 2026-07-01 14:49 — 문화·체육 · 직접 작성
+
+> <누구보다 마음이 무거울 대한민국 축구 국가대표 선수 여러분께 깊은 위로를 전합니다>
+> 
+> 지난 4년 동안 오직 월드컵만을 바라보며 수 차례의 평가전을 치르고, 예기치 못한 부상과 고된 재활을 이겨내셨지요. 뜨거운 태양 아래 온몸이 새까맣게 익고, 땀으로 젖은 유니폼을 수없이 갈아입으며 한계를 넘어서는 훈련을 반복하셨으리라 생각합니다. 
+> 
+> 몸의 고통보다 더 힘들었던 것은 '대한민국 국가대표'라는 이름표가 주는 무게감이었을지도 모르겠습니다. 불과 며칠 만에 이 모든 여정이 끝나버렸다는 현실이 얼마나 허망하게 다가올지요. 
+> 
+> 그러나 여러분은 마지막 순간까지 포기하지 않았고, 국민들에게 희망과 자부심을 안겨주기 위해 자신의 모든 것을 그라운드 위에 쏟아냈습니다. 경기의 결과와 상관 없이 충분히 자랑스러운 대한민국의 국가대표입니다.
+> 
+> 승리의 순간에는 모두가 함께 기뻐합니다. 그러나 진정한 응원은 아쉬운 결과 앞에서도 선수들의 손을 놓지 않는 것입니다. 우리는 선수 여러분이 흘린 땀과 눈물, 그리고 미처 뛰지 못한 남은 경기의 가치를 잘 알고 있습니다. 그렇기에 대한민국 축구의 자부심인 여러분을 앞으로도 변함없이 응원할 것입니다.
+> 
+> 너무나도 뼈아픈 이번 대회가 결코 좌절로만 남지 않도록, 대한민국 축구의 더 큰 도약을 위한 밑거름이 될 수 있도록 정부 역시 할 수 있는 모든 것을 다하겠습니다. 
+> 
+> 주장 손흥민 선수를 비롯한 우리 축구 국가대표팀, 정말 고생 많으셨습니다!
+
+좋아요 8,295 · 재게시 1,543 · 답글 515 · 조회 848,475 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2072195957836615869
+
+### 2026-07-01 13:45 — 정치·국정 · 인용 · 분류 검토 대기
+
+> 감사합니다.
+> 한 총리님에게 거는 기대가 큽니다. 
+> 잘 해 주실 것으로 확신합니다.
+
+좋아요 6,289 · 재게시 1,160 · 답글 447 · 조회 361,439 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2072179756230197272
+
+### 2026-07-01 09:00 — 정치·국정 · 직접 작성
+
+> <정부와 국민이 함께하는 첫 부처 업무보고를 시작합니다>
+> 
+> 국민주권정부의 부처 업무보고에 함께 해주실 200분의 국민 참관단 여러분을 기다립니다.
+> 
+> 이번 업무보고는 일방적으로 성과를 발표하는 것이 아닌, 국민 여러분과 함께 정책의 성과를 확인하고 앞으로의 국정 방향을 논의하는 자리입니다. 정책이 국민의 삶 속에서 어떻게 구현되고 있는지 직접 살피고, 나아가 더 나은 내일을 위한 지혜를 한 데 모을 수 있길 기대합니다.
+> 
+> 정부가 하는 모든 일은 결국 국민의 더 나은 삶을 위함입니다. 그렇기에 정책의 출발점도, 도착점도 모두 국민입니다. 국민의 목소리를 기준으로 삼고, 함께 답을 찾아가겠습니다. 지난 시간에 대한 성과와 과제를 바탕으로 앞으로 대한민국이 나아갈 미래의 이정표를 더욱 단단히 세워가겠습니다.
+> 
+> 여러분의 참여가 더 좋은 정책을 만들고, 더 나은 대한민국을 만드는 토대가 될 것입니다. 많은 관심 부탁드립니다.
+> 
+> ☑️ 모집인원 : 국민 약 200명
+> ☑️ 행사날짜 : 2026년 7월 15일(수)~7월 21일(화), 4일(주말 제외)
+> *시간 장소는 경호상의 이유로 추후 안내 예정
+> ☑️ 참여신청 : 2026년 7월 1일(수) 09시~7월 6일(월) 12시 (  )
+> * 신원 확인이 어려운 경우 출입이 제한될 수 있으니, 신청 시 이름과 주민등록번호를 정확하게 기입해 주시기 바랍니다.
+> * 선정되신 분들께는 시간과 장소 안내 및 참석 여부 확인 전화를 드릴 예정입니다.
+
+좋아요 3,704 · 재게시 999 · 답글 478 · 조회 168,425 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2072107928916783273
+
+## 2026년 6월 (81건)
+
+### 2026-06-30 22:41 — 과학기술·AI · 직접 작성
+
+> <하늘에서 바라본 서남권의 미래>
+> 
+> https://youtube.com/shorts/lm0U60h-Bvk?feature=share
+> 
+> #이재명 #대통령 #서남권 #해상풍력
+
+좋아요 5,174 · 재게시 1,037 · 답글 674 · 조회 223,822 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2071952165296652551
+
+### 2026-06-28 15:50 — 정치·국정 · 인용
+
+> 최휘영 장관님과 관련 공무원 여러분 애쓰셨습니다.
+> 
+> 저도 전임 명예 프로축구단장이자 심정적 붉은악마로서  예상밖 결과에 당황을 넘어 황당함을 느낍니다.
+> 
+> 결국 인사가 만사임이 다시 한번 증명됐습니다. 능력보다 네편내편을 더 중시해 무능한 사람을 지휘관으로 선발하면 결과는 불보듯 뻔합니다. 
+> 
+> 공사구별을 못하고 공익보다 사익을 앞세우는 엉터리 인사가 가능한 것은 인사권자에 대한 감시 견제 문책이 불가능하거나 어렵기 때문입니다.
+> 
+> 결국 모든 조직은 민주적 구성과 통제, 권한과 책임의 일치가 중요합니다. 
+> 
+> 민간 영역의 민주적 지도력 구성과 객관적 감시견제 체제 확립은 이 정부의 주요 국정과제입니다.
+> 
+> 농협 임원구성을 조합원 직선제로 바꾸는 것처럼 대한체육회나 축구협회등 체육단체는 최협의의 대의원에 의한 소수 간접선거제가 아니라 관련 체육인 모두에 의한 직선제를 도입하도록 행정지도를 하시도록 지시했는데 잘 이행중인 것으로 압니다.
+> 
+> 운영의 투명성, 공정성, 객관성을 위해 엄격한 감시견제 시스템을 구축하고, 행위와 결과에 대해 상응하는 책임을 지게하는 것도 중요한 과제입니다. 
+> 
+> 국민들을 허탈하게 한 이번 월드컵 본선진출 실패는 조직과 인사의 실패에 의한 것으로 보입니다.
+> 
+> 월드컵 출전에도 많은 국민 혈세와 국가적 지원역량이 투입되는 만큼 문체부에서 이번 사태의 정확한 상황, 원인 분석, 재발방지와 개선을 위한 대책을 꼼꼼하게 챙겨 주시기 바랍니다.
+> 
+> 어처구니 없는 일로 국민들께 깊은 실망을 안겨드린 점 매우 송구합니다. 다시 이런 일이 재발하지 않도록 체육행정 개혁을 신속하게 추진하겠습니다.
+
+좋아요 15,275 · 재게시 3,884 · 답글 2,475 · 조회 10,000,790 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2071124183527125164
+
+### 2026-06-28 15:01 — 과학기술·AI · 직접 작성
+
+> <반도체 호남 입지에 대해 치열하게 토론하되, 합리적 근거가 있다면 협조해 주시고, 정치적 목적으로 지역 갈라치기나 지역 갈등 조장은 자제해 주시기 바랍니다.>
+> 
+> 대한민국 발전사는 눈부신 성취의 역사인 동시에, 심각한 불균형과 차별의 누적과정이기도 합니다. 
+> 
+> 박정희 정부 시절의 수도권 및 영남 중심의 '선택과 집중' 전략은 세계가 놀라는 산업화의 성과를 냈지만 다른 한편으로 극단적 수도권 집중이라는 거대한 부작용을 낳았습니다. 
+> 
+> 이로 인한 지방 소멸은 이제 단순한 균형 발전의 문제를 넘어 '국가 생존'을 위협하는 당면 과제가 되었고, 균형발전은 이제 대한민국 핵심 생존전략이 되었습니다.
+> 
+> 모두가 알고있는 것처럼 우리가 마주한 불균형의 역사는 세 가지 층위의 차별과 소외를 낳았습니다. 
+> 첫째는 수도권 집중으로 인한 지방 전체의 소외이며, 
+> 둘째는 정치적 목적의 영·호남 차별정책에 따른 호남소외이고,
+> 셋째는 호남 내부의 지리적·경제적 이유에 따른 전북소외입니다. 
+> 
+> 이제는 정의와 형평의 측면만이 아니라 지속적 포용성장의 측면에서도 이 오랜 세 가지 차별과 소외의 고리를 반드시 끊어내야 합니다. 또 우리는 이 소외와 차별을 얼마든지 끊어낼 수 있는 역량을 갖추게 되었습니다.
+> 
+> 그 해답의 중심에 서남해안이 있습니다. 서남해안은 발전에서 장기소외되었던 탓에 역설적으로 반도체와 같은 첨단 공장을 지을 수 있는 광활하고 안정된 가용토지가 남아 있습니다. 
+> 
+> 게다가 용수는 물론 글로벌 시장의 핵심 화두인 RE100을 충족할 풍부한 재생에너지 잠재력까지 갖추고 있어, 반도체와 AIDC 등 전기를 대량 소비하는 최첨단 미래산업의 세계적 최적지로 꼽힙니다. 
+> 
+> 정부가 도로, 용수, 전력, 인력, 문화, 교육, 주거 등 정주여건과 기반시설을 과감하고 충분하게 지원해 준다면, 호남은 세계적인 반도체 생산 중심도시가 될 것입니다. 
+> 
+> 용수와 전력이 한계에 다다른 수도권의 기존 반도체클러스터 구축 계획은 앞당겨 신속히 추진하되, 동시에 제 2의 대규모 집적단지를 초고속으로 만들어 내야 합니다.
+> 
+> 장기 소외에 따른 고통과 설움을 겪었던 호남에게는 지금까지의 2중 차별이 예상 못한 큰 기회의 원천이 되는 것입니다. 전화위복을 통해 상전벽해(桑田碧海)를 만들 절호의 기회입니다.
+> 
+> 호남에 반도체 산업 생태계를 조성하는 것은 특정 지역에 대한 특혜가 아닙니다. 정부의 대대적 지원 속에 관련 기업의 결단으로 가장 합리적인 반도체 산업 중심지를 추가조성하는 것입니다. 국토 균형 발전을 이뤄내고, 뿌리 깊은 지방 차별과 영·호남 갈등을 완화할 국가적 대의(大義)를 실천하는 것입니다. 
+> 
+> 치열하게 논쟁하되 이제는 정치적 목적으로 지역갈등과 지역주의를 조장하는 소모적 정치투쟁은 멈춰주시기 바랍니다. 
+> 
+> 수도권 집중 완화와 국가 균형 발전이라는 국가생존 목표를 위해, 모두가 대승적 차원에서 협조하고 지혜를 모아야 할 때입니다.
+
+좋아요 7,841 · 재게시 2,256 · 답글 1,044 · 조회 501,206 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2071111845600227509
+
+### 2026-06-28 13:51 — 사회 · 인용
+
+> 김태선 의원님과 김 의원께서 사랑하는 울산을 응원합니다. 
+> 김상욱 울산시장 당선자님과 함께 새로운 희망도시 울산을 만들어 가실 것으로 믿습니다. 
+> 
+> 울산의 최대민원인 국공립병원도 잘 해결해야겠지요?
+> 
+> 요즘 김상욱 당선자의 공개회의 볼만합니다.
+
+좋아요 4,771 · 재게시 1,055 · 답글 285 · 조회 349,633 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2071094179300855932
+
+### 2026-06-28 01:17 — 사회 · 리트윗
+
+> RT @[비공개]: 지금 우리가 누리는 이 자유민주주의를 있게 한 게 5·18입니다. 그걸 폭동이라 운운하는 자들은 전부 엄벌에 처해야 합니다.
+> 
+> 극우들은 입만 열면 "자유민주주의"를 외칩니다. 그런데 정작 이 나라의 자유민주주의를 총칼…
+
+좋아요 0 · 재게시 947 · 답글 0 · 조회 14,140 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2070904262927007903
+
+### 2026-06-27 23:17 — 과학기술·AI · 직접 작성 · 분류 검토 대기
+
+> <2023년 국민의힘 윤석열 대통령 재임시 국힘 정부에서 이미 공식 확인한 일이니, 최소한 국민의힘 의원들께서는 호남 반도체 산업 입지에 대해 이상한 말씀 자제해 주시기 바랍니다.>
+> 
+>  - 2023년에 시행된 반도체 특화단지 공모서 전남ㆍ광주는 이미 '최고 점수' 평가-
+> 
+> '인근 장성호와 담양호 등 풍부한 산업용수 공급망은 물론 호남권 태양광·풍력 인프라를 바탕으로 글로벌 빅테크 기업들의 필수 요건인 RE100 실현이 가능한 최적지로 꼽혔다'
+> 
+> 尹정부 '호남 패싱'에도 광주·전남 반도체 특구로 다시 주목 | 아주경제
+
+좋아요 8,555 · 재게시 2,664 · 답글 1,134 · 조회 918,886 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2070874123740602464
+
+### 2026-06-27 19:28 — 정치·국정 · 직접 작성
+
+> <세상은 흑백만으로 되어 있지 않습니다. 회색도 빨강 파랑도 있지요. 
+> 
+> 국가정책을 정치적으로 악용하고, 기업들 팔목 비틀어 강요하던 사람들 입장에서는 이 일도 그렇게 보일수 있습니다. 
+> 
+> 그러나 이 일은 정확히 말하면 정부의 용수, 전력, 용지, 인프라, 인력양성, 정주여건 구축 등 기업환경 조성과 공직자들의 설득ㆍ요청에 따라 CEO들이 회사에 이익이 된다고 판단하여 결단한 것이지요. 
+> 
+> 이런 건 직권남용이나 강요 지시라고 하는 것이 아니라, 행정지도나 조성행정이라고 합니다. 
+> 
+> 대한민국 생존전략이 된 국가균형발전이라는 행정 목표 달성을 위해 공직자들이 마땅히 해야할 책임을 다한 결과이고, 전무후무한 초대규모 지역투자 유치라는 역사적 성과는 칭찬받아 마땅한 일입니다. 
+> 
+> 이 정부 최대 성과를 만들어낸 담당 공직자들, 국민과 국가에 유익한 대결단을 해 주신 관계 기업인들의 사기를 고려하여, 
+> 
+> 자신들이 과거 행위나 경험을 바탕으로 타인도 그럴 것이라 지레짐작하며 비난 비방하지 마셨으면 좋겠습니다.>
+> 
+> 靑의 압력일까, CEO의 결단일까…‘삼전닉스 호남행’ 후폭풍 | 시사저널
+
+좋아요 8,418 · 재게시 2,166 · 답글 1,286 · 조회 639,205 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2070816478883168684
+
+### 2026-06-27 18:46 — 과학기술·AI · 직접 작성
+
+> <반도체산업엔 용수외 전력 특히 RE100 때문에 태양광 풍력 등 재생에너지가 중요하지요. 그런데 이미 수도권은 포화상태이고, 재생에너지가 가장 풍부한 곳이 바로 서남해안입니다. 지진 없는 안정되고 값싼 용지도 저개발 호남이 최고>
+> 
+> 유승민 “반도체는 물만으로 안 돼" https://v.daum.net/v/20260627145616048
+
+좋아요 5,875 · 재게시 1,612 · 답글 508 · 조회 597,823 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2070806016841941472
+
+### 2026-06-27 17:36 — 과학기술·AI · 직접 작성
+
+> <조금 기다리시면 공식적으로 공개할 것입니다. 너무 서두르지 마시지요>
+> 
+> 유승민 “반도체 투자 왜 호남만인가”…입지 기준 공개 촉구 | 다음 - 경북일보 https://v.daum.net/v/20260626155504017
+
+좋아요 7,289 · 재게시 1,931 · 답글 846 · 조회 1,423,234 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2070788294187856245
+
+### 2026-06-27 11:28 — 미분류 · 직접 작성 · 분류 검토 대기
+
+> 부처 눈에는 부처가 보이고 돼지 눈에는 돼지가 보이는 법입니다.
+> 
+> 내가 생각하고 행동하는 것처럼 타인도 그럴 것이라고 생각하는 경우가 많습니다.
+
+좋아요 17,100 · 재게시 4,975 · 답글 5,157 · 조회 2,385,692 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2070695666184294421
+
+### 2026-06-27 11:23 — 사회 · 직접 작성
+
+> <호남에도 영남이나 수도권만큼 물은 충분합니다. 다만 수십년간 분할지배라는 정치적 목적을 위해 호남을 농업도시 수준으로 관리하면서 농업용수 공급필요를 충족시키는 정도로 수자원을 방치해왔을 뿐입니다. 
+> 
+> 첨단도시 발전에 필요한만큼 관리시스템을 갖추고 수자원을 제대로 배치 관리하면 하루 100만톤의 산업용수 공급도 가능한 것으로 검토되었습니다.
+> 
+> 그리고 세계 1, 2위를 다투는 반도체 첨단기업 삼성과 하이닉스가 반도쳬 생산에 필수요소인 용수가 부족한 지역에 검토도 없이 초대규모 공장설립 계획을 할만큼 어리석지 않습니다. 
+> 
+> 정부도 물이 없는 지역에 공장을 짓도록 권유하지는 않습니다. 
+> 
+> 정치적 입장을 떠나 대한민국의 명운이 걸린 지역균형발전과 전국적 상생공존 정책에 이해와 협조를 부탁드립니다.>
+> 
+> [단독] 정부, 반도체 물 부족 대책 있나… 호남 농업용 저수지서 끌어올 판 | 다음 - 조선일보
+
+좋아요 8,102 · 재게시 2,953 · 답글 654 · 조회 910,506 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2070694564504260786
+
+### 2026-06-27 10:39 — 일상·인사 · 답글
+
+> <드디어 호르무즈 해협에 갇혔던 우리 상선 전부 탈출>
+> 
+> 수리중이거나 선적중인 선박 각 1척, 통항신청 철회 선박 1척을 제외한 모든 선박이 드디어 탈출했습니다.
+> 
+> 해수부가 탈출 과정에서 큰 역할을 했습니다. 수고 많으셨어요 감사합니다.
+
+좋아요 3,483 · 재게시 1,001 · 답글 116 · 조회 120,982 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2070683340014047337
+
+### 2026-06-26 19:00 — 정치·국정 · 직접 작성
+
+> 일본 국회 한일 친선 교류 단체인 일한의원연맹 다케다 료타 회장님을 만나 한일관계의 미래와 양국 의회 간 협력 확대 방안에 대해 뜻깊은 대화를 나누었습니다. 회장님께서는 23년이라는 긴 시간 동안 일한의원연맹에서 활동하시며 한일 양국의 가교 역할을 해 오신 대표적인 지한파 의원입니다. 
+> 
+> 회장님께서 말씀하신 것처럼 한일 협력은 이제 "선택이 아닌 필수"입니다. 급변하는 국제정세와 복합적인 글로벌 현안 속, 가장 가까운 이웃인 한국과 일본은 미래를 함께 준비해야 할 중요한 협력 파트너입니다. 양국 정부를 넘어 의회와 지방정부, 기업, 그리고 국민을 잇는 폭넓은 교류가 이어질 때 한일관계는 더욱 발전할 수 있을 것입니다.
+> 
+> 그런 점에서 한일의원연맹과 일한의원연맹의 역할이 무엇보다 중요합니다. 지속적인 교류와 소통을 통해 서로에 대한 이해를 넓히고, 미래지향적인 한일관계를 함께 만들어 가는 데 굳건한 연결고리가 되어주시길 부탁드렸습니다.
+> 
+> 함께 자리해 주신 우리 국회 한일의원연맹 주호영 회장님과 민홍철 간사장님께도 깊은 감사를 전합니다. 앞으로도 양국이 오랜 우정을 바탕으로 미래 세대에게 더 나은 한일관계를 물려줄 수 있도록 지혜를 모아주시길 기대합니다.
+
+좋아요 3,137 · 재게시 585 · 답글 384 · 조회 140,244 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2070447217014677532
+
+### 2026-06-26 18:47 — 과학기술·AI · 직접 작성 · 분류 검토 대기
+
+> '글로벌 신안보 강국'으로의 도약을 이끌 빛나는 주역들과 함께 했습니다. 열띤 토론과 치열한 고민을 함께 나누며 우리 대한민국에서도 미국의 팔란티어, 독일의 헬싱과 어깨를 나란히 할 신안보 혁신기업이 반드시 탄생하리라는 확신을 얻었습니다.
+> 
+> 전 세계 안보 환경이 이른바 '기술 안보'의 시대로 대전환하고 있습니다. 최첨단 혁신 기술이 국가 안보의 성패를 가르는 핵심 열쇠가 된 만큼, 국가 차원에서 인공지능, 드론, 사이버안보, 우주항공 등 첨단 독점 기술을 보유한 '신안보 혁신기업'들을 집중적으로 육성해 내야 합니다.
+> 
+> 정부는 대한민국 기업들이 신안보 시장에서 우뚝 설 수 있도록 전폭적인 지원을 아끼지 않을 것입니다. 신안보 사업에 대한 전략적 투자를 확대하고, 안보 역량과 산업 경쟁력이 함께 성장하는 '선순환 생태계'를 구축하는 데 힘을 쏟겠습니다.
+> 
+> 우리에게는 이미 K방산의 눈부신 성장을 일궈낸 저력이 있습니다. 대한민국의 혁신기업들이 당당히 세계 무대를 선도해나갈 수 있도록, 함께 힘을 모읍시다.
+
+좋아요 3,309 · 재게시 686 · 답글 260 · 조회 112,208 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2070443808743940595
+
+### 2026-06-26 13:53 — 정치·국정 · 직접 작성
+
+> <이제 남은 배는 5척, 이중 수리중인 나무호와 화물 문제로 잔류 의사를 밝힌 1척 등 2척을 제외한 3척도 주말안에 빠져나올 것으로 예상됩니다.
+> 
+> 어느 나라보다 신속하고 안전하게 억류 상선과 선원들이 탈출할 수 있었던 것은 밤잠을 설치며 소통협력에 애쓴 외교부와 안보실, 해수부, 국정원의 노력이 크고 주효했습니다.
+> 
+> 관련 부처 공직자들의 노고를 치하하며, 여러분께도 격려를 부탁드립니다.>
+> 
+> 호르무즈 해협 갇혔던 우리 선박 8척 추가 탈출 | 연합뉴스TV
+
+좋아요 6,163 · 재게시 1,369 · 답글 449 · 조회 371,874 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2070369850447503744
+
+### 2026-06-25 20:58 — 정치·국정 · 직접 작성
+
+> 작년부터 국무총리 책임하에 전 부처청과 지방정부가 자살자 감소를 위해 총력을 다한 결과 다행히도 자살자 수가 줄고 있습니다. 
+> 
+> 공직자들과 관련 종사자들의 노력으로 국민생명 구하기가 효과를 내고 있습니다. 
+> 
+> 국민 수백명이 생사의 기로에서 삶을 선택하였다는 것인데 큰 보람을 느낍니다.
+
+좋아요 4,873 · 재게시 1,155 · 답글 908 · 조회 210,306 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2070114301596295646
+
+### 2026-06-25 18:47 — 재난·안전 · 직접 작성
+
+> 베네수엘라 북서부 야라쿠이주 일대에서 규모 7 이상의 강진이 연이어 발생했다는 소식에 안타까움을 금할 수 없습니다.
+> 
+> 갑작스러운 재난으로 소중한 가족과 삶의 터전을 잃은 피해자와 유가족 여러분께 대한민국 국민과 정부를 대표해 깊은 위로를 전합니다.
+> 
+> 조속한 피해 수습과 부상자들의 빠른 회복, 그리고 실종자들의 무사 귀환을 기원합니다. 하루빨리 평온한 일상을 되찾으시길 바랍니다.
+> 
+> No puedo sino expresar mi profundo pesar ante la noticia de los sucesivos terremotos de magnitud superior a 7 registrados en el Estado Yaracuy, en el noroeste de Venezuela.
+> 
+> En nombre del Gobierno y del pueblo de la República de Corea, quisiera expresar mis más sentidas condolencias a las víctimas y a sus familiares, quienes han perdido a sus seres queridos y sus hogares debido a este repentino desastre.
+> 
+> Deseo sinceramente que se atiendan con prontitud los daños causados y que los heridos tengan una pronta recuperación y que todas las personas desaparecidas regresen sanas y salvas. Espero que las personas afectadas puedan recuperar cuanto antes la tranquilidad de su vida cotidiana.
+
+좋아요 4,422 · 재게시 787 · 답글 310 · 조회 204,292 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2070081324040568848
+
+### 2026-06-24 21:14 — 국방·안보 · 인용
+
+> 박찬대 인천시장당선자님 축하드립니다.
+> 부탁이 있습니다.
+> 
+> 오늘 만난 연평도 주둔 병사들이 휴가로 육지로 왕래할 때 배삯이 무려 11만원이라 엄청 부담된다고 하소연했습니다. 인천시민들은 1500원인가 한다며 같은 혜택을 받게 해 달라고 합니다.
+> 
+> 실제 인천에 거주하는 병사들이고 나라 위해 희생하는 청년들이니 인천시민에 준하는 혜택을 주시면 어떨까요.
+> 
+> 그리고 혹 옹진군 소관이면 군수가 같은 당 소속이시니 협조가 쉬울 것 같습니다.
+> 
+> 연평도 외에도 백령도 등 인천 관내 벽지도서 장병들 배삯 문제도 함께 해결해 주시기 바랍니다.
+> 
+> 예산이 문제가 된다면 특별교부세라도 보내드리겠습니다. 해결 꼭 부탁드려요.
+> 
+> 조만간 한번 만나요. 
+> 다시 1번 축하드립니다.
+
+좋아요 9,549 · 재게시 2,177 · 답글 1,344 · 조회 1,479,831 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2069756020373815544
+
+### 2026-06-24 20:00 — 일상·인사 · 직접 작성
+
+> 참담하고 괴로운 마음입니다. 
+> 12년을 어떤 마음으로 하루하루 살아내셨을지 감히 헤아리기조차 어렵습니다.
+> 
+> 대학에 진학하고, 취업을 하고, 연애도 하고. 남들에게는 너무도 당연한 보통의 일상을 살기 위해 얼마나 많은 노력이 필요했을지요. 걷잡을 수 없이 마음이 무너지는 날에도 가족과 지인들에게 걱정 끼치고 싶지 않아 애써 괜찮은 척 하셨으리라 생각합니다. 하루를 웃으며 보냈더라도 집으로 돌아오는 발걸음은 무척 무거웠을 수도 있겠습니다.
+> 
+> 시간이 약이라는 말이 있지만, 상처는 저절로 치유되지 않습니다. 충분히 애도하지 못한 채 아픔을 억누르며 살아가는 사회는 결국 문제가 생기기 마련입니다. 마음의 상처 역시 오래 방치될수록 더욱 깊어지고 악화될 수밖에 없습니다.
+> 
+> 정부의 영역에서 할 수 있는 모든 방안을 강구하겠습니다. 참사 생존자와 유가족 여러분의 목소리를 더욱 세심히 듣고, 충분하지 못했던 국가의 책임을 반드시 다하겠습니다.
+> 
+> 세월호 피해자와 유가족을 조롱하고 모욕하는 행위에 대해서는 철저히 수사하고 엄정히 대응할 것입니다. 타인의 고통에 공감하지는 못할망정 상처를 후벼 파고 그 위에 기름 붓는 일, 더 이상 있어서는 안 됩니다.
+> 
+> 마지막으로 생존자 여러분께 간절히 부탁드립니다.
+> 먼저 떠난 이들을 대신해 특별하고 대단한 삶을 살아야 한다는 부담을 스스로에게 지우지 않아주시길, 지극히 평범하고 때로는 지루할 만큼 무난한 일상을 살아주시길, 죄책감은 내려놓으시고 사랑하는 이들과 눈앞의 소소한 행복을 누려주시길.
+> 
+> 12년 동안 2014년 4월 16일에 머물러 있게 해 대한민국 대통령으로서, 그리고 한 사람의 어른으로서 너무나 송구합니다. 삼가 고인의 명복을 기원합니다.
+
+좋아요 10,934 · 재게시 3,298 · 답글 719 · 조회 618,848 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2069737480774099121
+
+### 2026-06-24 19:41 — 국방·안보 · 직접 작성
+
+> <6월 24일 재명로그>
+> 
+> https://youtube.com/shorts/l8WTpo8lXoQ
+> 
+> #이재명 #대통령 #해병대 #연평부대
+
+좋아요 4,444 · 재게시 938 · 답글 553 · 조회 221,518 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2069732629344330061
+
+### 2026-06-23 22:12 — 외교·통상 · 직접 작성
+
+> 취임 후 지난 1년 동안 50개국이 넘는 정상들과 만나 100여 차례의 정상회담과 회동을 가졌습니다. 세계 각국 지도자들과 신뢰를 쌓고 협력의 지평을 넓혀올 수 있었던 것은 본국과 대한민국을 잇는 주한외교단 여러분이 계셨기 때문입니다. 
+> 
+> 앞으로도 각국과 대한민국이 공동의 도전에 함께 대응하고, 상생과 번영의 미래를 만들어갈 수 있도록 더욱 애써주시길 부탁드렸습니다. 우리 정부 역시 외교단 여러분께서 외교 활동을 원활히 수행하실 수 있도록 물심양면으로 지원하겠습니다. 
+> 
+> 오늘 뜻깊은 저녁 자리에 함께해 주신 사픽 라샤디 주한외교단장님을 비롯한 주한외교단 여러분께 다시 한번 깊은 감사를 전합니다. 소중한 동반자로서 함께 성장하고 협력하며 더 나은 미래를 만들어가길 희망합니다.
+
+좋아요 6,576 · 재게시 1,314 · 답글 1,081 · 조회 291,700 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2069408328753856583
+
+### 2026-06-22 00:55 — 사회 · 직접 작성
+
+> <경찰청장님의 보고사항입니다. 수고하시는 경찰관들에게 감사와 격려 부탁드립니다. 
+> 혹여라도 보복대행 이런 거 절대로 하시면 안됩니다. 구속까지 되는 중대범죄입니다.>
+> 
+> 대통령님께서 최근 지시하셨던 '사적 보복대행' 범죄에 대한 주요 수사성과입니다.
+> 
+> 사적 보복대행은 작년 8월 대구에서 최초 발생한 이후, 전국적으로 총 87건(피해자 128명)이 발생하였습니다.
+> 
+> 경찰청은 시도청 광역범죄수사대를 중심으로 현재까지 80건을 해결하고 피의자 65명을 검거(구속 23명) 했으며, 남은 7건도 계속 추적 중입니다.
+> 
+> 특히, 행동대원 외에도 배달 대행업체에 위장 취업해 개인정보를 탈취한 사범, 가상자산으로 범행자금을 은닉·지급한 관리책, 범행 직후 베트남으로 도피했던 총책 등 핵심 가담자를 검거했습니다.
+> 
+> 엄정한 수사에 힘입어, 최근 보복대행 범죄는 뚜렷한 감소세를 보이고 있습니다.
+> ※ 1~3월 62건 발생 / 4~6월 19건 발생 / 6.11. 이후 미발생
+> 
+> 미검거된 상선과 범행 의뢰자를 반드시 검거해 엄벌에 처하겠습니다.
+> 
+> 관련 기사 공유드립니다.
+
+좋아요 5,292 · 재게시 1,169 · 답글 1,211 · 조회 695,971 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2068724453476114522
+
+### 2026-06-21 22:22 — 국방·안보 · 직접 작성 · 분류 검토 대기
+
+> <현실경제는 물론 국가경쟁력도 조금씩 나아지고 있습니다. 모두 국민 여러분의 피나는 노력의 결과입니다.
+> 
+> 대한민국은 정치(민주주의),경제(반도체 방산 등), 문화(k-pop 등) 등 모든 면에서 세계를 선도하며 세계 각국의 세계인들로부터 부러움을 사고 있습니다. 
+> 
+> 세계시민의 이상국가, 대체불가 대한민국을 향해 조금 더 힘을 내 주시고, 작은 차이를 넘어 힘을 모아 주시기 바랍니다.
+> 
+> 정치의 목적은 집권 자체를 넘어, 나라의 운명과 5천만 국민의 삶을 책임지는 것입니다. 집권자의 자리는 빼앗아 누리는 행복의 기회가 아니라, 위임받은 무한책임입니다.>
+> 
+> IMD 국가경쟁력 순위 27→21위 껑충…독일·일본 앞섰다 | 다음 - 중앙일보
+
+좋아요 6,424 · 재게시 1,418 · 답글 1,640 · 조회 478,005 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2068686068753334535
+
+### 2026-06-20 02:03 — 재난·안전 · 리트윗 · 분류 검토 대기
+
+> RT @[비공개]: <포용금융은 일회성 대책 아닌 금융시스템의 구조개혁 과제>
+> - 포용금융전략추진단의 첫 일정 "현장大토론회 개최”
+> 
+> 오늘 「포용금융 현장 大토론회」 에서 포용금융을 실현하기 위해 우리 금융시스템을 어떻게 바꿔야 할지 함께 묻고 답…
+
+좋아요 0 · 재게시 296 · 답글 0 · 조회 515 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2068016710817591328
+
+### 2026-06-19 07:58 — 문화·체육 · 인용
+
+> 세계적인 챌리스트 요요마님의 공연이 끝난후 요요마님이 공연에서 쓴 첼로 활을 들고 기념사진을 찍은 겁니다.
+> 
+> 감동적인 공연이었습니다.
+> 
+> 잘 아시겠지만, 맨 좌측이 요요마님입니다.
+> 감사합니다.
+
+좋아요 8,888 · 재게시 1,780 · 답글 990 · 조회 460,602 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2067743695861101006
+
+### 2026-06-18 00:10 — 외교·통상 · 직접 작성
+
+> 어제 저녁 트럼프 대통령님과 @realDonaldTrump만찬을 함께 하며 약 90분 간 한반도 평화와 한미관계를 놓고 속 깊은 이야기를 나누고 많은 진전이 있었습니다. 
+> 
+> 오늘 마지막 오찬에서는 지금까지 사용하고 있던 서명용 펜을 제게 선물로 주셨습니다. 아마도 처음 정상회담때 제가 쓰던 펜을 선물 받은 기억 때문이 아닐까 생각됩니다.
+> 
+> 어제 만찬때 골프 얘기를 하며 우리 부부와 골프를 함께 하겠다고 하여 아내가 손가락 걸고 약속을 받았는데,
+> 오늘 오찬후 헤어지면서 다시 골프를 꼭 함께 하자고 하셨습니다. 지나가는 말인줄 알았는데 준비를 해야할 것 같습니다.
+> 
+> 각별히 관심 가져주신 트럼프 대통령님께 감사드립니다.
+> 한미관계는 단단하고 영원합니다.
+
+좋아요 28,261 · 재게시 4,672 · 답글 1,817 · 조회 4,898,630 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2067263591275995157
+
+### 2026-06-17 23:25 — 외교·통상 · 직접 작성
+
+> G7 정상회의를 계기로 윌리엄 루토 케냐 대통령님과 처음 만났습니다. 1964년 수교 이후 다양한 분야에서 쌓아온 협력 관계를 토대로, 양국 관계의 도약을 모색한 뜻깊은 시간이었습니다.
+> 
+> 케냐는 대한민국의 동아프리카 지역 중점 협력국입니다. 그 중요성에 걸맞게, 양국은 경제·투자, 핵심 광물, 인프라, 개발 협력, 과학·ICT 등 다방면에서 호혜적인 협력을 계속 확대해 나가기로 뜻을 모았습니다.
+> 
+> 루토 대통령님께선 이미 두 차례나 방한한 적이 있을 만큼 한국과의 협력을 중시하고 계셨고, 전쟁의 폐허를 딛고 성장한 대한민국의 발전 경험에 대해 큰 관심을 보여주셨습니다. 그동안 쌓아온 신뢰와 유대감을 토대로 앞으로 더욱 교류와 협력을 늘려갈 수 있길 바랍니다.
+> 
+> I met President @williamsruto of Kenya for the first time on the sidelines of the G7 Summit.
+> Since establishing diplomatic relations in 1964, Korea and Kenya have built a strong partnership across a wide range of fields. Our meeting provided a valuable opportunity to explore ways to further advance bilateral relations.
+> 
+> As one of Korea’s key partners in East Africa, Kenya plays an important role in our engagement with the region. We agreed to further expand mutually beneficial cooperation in areas including trade and investment, critical minerals, infrastructure, development cooperation, science, and ICT.
+> 
+> Having visited Korea twice, President Ruto places great importance on cooperation with Korea and expressed keen interest in our journey from the devastation of war to economic growth and development.
+> 
+> Building on the trust and friendship we have cultivated over the years, I look forward to further deepening exchanges and cooperation between our two countries.
+
+좋아요 4,986 · 재게시 949 · 답글 270 · 조회 125,681 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2067252195192709411
+
+### 2026-06-17 09:30 — 외교·통상 · 직접 작성
+
+> 마크 카니 캐나다 총리님과 정상회담을 가졌습니다. 1년 전 총리님의 초대로 G7 정상회의에 참석했던 기억이 생생한데, 벌써 1년이 지나 두 번째 G7 정상회의에서 만나게 되어 더욱 뜻깊은 시간이었습니다.
+> 
+> 캐나다는 자유와 평화를 위해 함께 싸워준 소중한 친구이자, 한반도 평화와 번영에 기여해 온 핵심 우방국입니다. 이러한 깊은 신뢰와 유대감을 토대로, 양국의 협력 관계는 점차 지평을 넓혀가고 있습니다.
+> 
+> 방산 강국이자 첨단 산업 기술력을 보유한 대한민국이야말로 캐나다의 방산 역량을 강화하고, 에너지 강국으로의 발전을 도울 최적의 파트너라 확신합니다. 총리님께서 강조해 오신 ‘유사 입장국 연대’를 추진하는 과정에서도 양국의 호혜적 협력이 빛을 발할 것이라 생각합니다.
+> 
+> 캐나다의 성공적인 북중미 월드컵 개최도 축하드립니다. 2002년 월드컵이 우리 온 국민에게 큰 기쁨과 자부심을 안겨주었듯이, 이번 북중미 월드컵이 세계인을 하나로 단결시키는 축제로서 캐나다 국민께 큰 기쁨이 되기를 기대합니다.
+> 
+> 앞으로 카니 총리님과 더 긴밀히 소통하며 함께 양국 관계의 새로운 도약을 이끌어 가겠습니다.
+> 
+> I met with Prime Minister @MarkJCarney of Canada. I still vividly remember attending last year's G7 Summit at Prime Minister Carney's invitation, making it especially meaningful to meet him again one year later at my second G7 Summit.
+> 
+> Canada is a cherished friend that fought alongside with Korea in defense of freedom and peace, and a key partner that has contributed to peace and prosperity on the Korean Peninsula. Built on deep trust and a strong bond, our two countries continue to broaden the horizons of cooperation.
+> 
+> I am confident that the Republic of Korea—a global leader in the defence industry with advanced industrial capabilities—is the ideal partner to help strengthen Canada's defence capabilities and support its growth into an energy powerhouse. I also believe our mutually beneficial cooperation will shine even brighter as we advance the "solidarity among like-minded countries" that Prime Minister Carney has championed.
+> 
+> I also congratulate Canada on its successful hosting of the 2026 FIFA World Cup in North America. Just as the 2002 World Cup brought great joy and pride to the Korean people, I hope this tournament will serve as a celebration that unites people around the world and brings lasting joy to Canadians.
+> 
+> Going forward, I will remain in close communication with Prime Minister 
+> Carney as we work together to take our bilateral relationship to even greater heights.
+
+좋아요 6,932 · 재게시 1,293 · 답글 509 · 조회 156,223 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2067042039800410353
+
+### 2026-06-17 09:00 — 과학기술·AI · 직접 작성
+
+> 7개월 만에 프리드리히 메르츠 독일 총리와 다시 만났습니다. 양국 관계의 미래에 대한 건설적 논의를 나눌 수 있었던 뜻깊은 시간이었습니다.
+> 
+> 한국과 독일은 수교 이후 140여 년간 우호 협력 관계를 단단히 발전시켜 왔습니다. 그 결과 자동차, 반도체, 바이오부터 통상·투자 분야에 이르기까지 다방면에 걸친 긴밀한 협력을 구축하고 있습니다.
+> 
+> 양국은 기존의 굳건한 협력을 토대로 AI, 에너지, 방산 등 미래 먹거리를 책임질 첨단산업 분야의 전략적 협력을 한층 확대해 나가기로 했습니다. 공급망 안정, 기후위기 등 글로벌 과제에 대한 공조도 계속 강화해 나갈 것입니다.
+> 
+> 독일 경제계가 주최하는 ‘아태비즈니스 회의’가 올해 10월 한국에서 열리는 만큼, 양국 간 호혜적 경제협력의 지평이 한 단계 더 넓어질 것으로 기대합니다.
+> 
+> 아울러 메르츠 총리께서는 한반도 평화와 안정을 위한 협력의 의지를 보여주셨습니다. 분단의 아픔을 공유하고 있는 독일이기에, 그 의미가 더욱 남다르다고 생각합니다.
+> 
+> 앞으로도 메르츠 총리님과 더 자주 소통하며, 공동 번영과 평화를 위한 지혜를 함께 모으겠습니다.
+> 
+> It was a pleasure to meet Chancellor Friedrich Merz(@bundeskanzler) again, seven months after our last meeting, and to exchange concrete views on the future of our bilateral relationship.
+> 
+> Since the establishment of diplomatic relations, the Republic of Korea and the Federal Republic of Germany have built a strong and enduring partnership over more than 140 years. Today, our cooperation spans a wide range of areas, from automobiles, semiconductors, and biotechnology to trade and investment.
+> 
+> Building on this solid foundation, we agreed to further expand our strategic cooperation in industries that will shape the future, including AI, energy, and defense. We will also continue to strengthen coordination in addressing global challenges such as supply chain resilience and climate change.
+> 
+> With the Asia-Pacific Conference of German Business set to take place in Korea this October, I look forward to further expanding the horizons of mutually beneficial economic cooperation between our two countries.
+> 
+> Chancellor Merz also expressed Germany’s commitment to working together for peace and stability on the Korean Peninsula. Given Germany’s own experience with division, I believe this carries special significance.
+> 
+> I look forward to staying in close communication with Chancellor Merz as we continue working together for our shared prosperity and peace.
+
+좋아요 3,827 · 재게시 778 · 답글 175 · 조회 92,724 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2067034489747116436
+
+### 2026-06-17 05:53 — 정치·국정 · 인용 · 분류 검토 대기
+
+> 마크 카니 캐나다 총리님 @MarkJCarney 과 양국관계의 호혜적 발전방안에 대해 깊이있는 대화를 나누었습니다.
+> 
+> 한국과 캐나다는 유사입장국으로서 함께 할 수 있는 일이 매우 많습니다.
+> 
+> 캐나다와 대한민국의 변치않을 우정을 기원합니다.
+
+좋아요 4,113 · 재게시 835 · 답글 186 · 조회 123,586 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2066987503803154670
+
+### 2026-06-17 05:45 — 경제·민생 · 인용 · 분류 검토 대기
+
+> 지금까지 인도와 대한민국은 경제규모나 협력 잠재력에 비해 협력 수준이 매우 낮았습니다.
+> 
+> 저와 모디 총리는 한국과 인도간 경제 문화 사회 모든 면에서 향후 협력을 강화하고 양국을 새로운 관계로 발전시키기로 하였습니다.
+
+좋아요 7,417 · 재게시 1,299 · 답글 321 · 조회 200,812 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2066985589384331271
+
+### 2026-06-17 01:23 — 외교·통상 · 직접 작성
+
+> <멜로니 총리님의 세심한 배려와 신속한 대응에 감사드립니다.>
+> 
+> 이번 순방을 통해 이탈리아에서 활동하는 한국인 관광 가이드분들과 우리 국민께 반가운 소식을 한 가지 전할 수 있게 되었습니다.
+> 
+> 연간 백만 명에 달하는 우리 국민이 이탈리아를 방문할 정도로 양국의 인적 교류가 점차 활발해지고 있습니다. 하지만 정작 한국어로 관광 안내를 할 수 있는 공식 가이드는 턱없이 부족한 상황입니다.
+> 
+> 오랫동안 가이드 자격시험이 중단되었던 데다, 최근 재개된 시험이 이탈리아인들조차 치르기 어려울 정도로 난이도가 높았기 때문입니다. 이로 인해 생업을 이어가는 우리 동포들이 큰 어려움에 처했고, 우리 국민도 이탈리아의 역사와 문화를 충분히 즐기지 못하는 불편함을 겪어야 했습니다.
+> 
+> 정상회담 때 이 문제에 대해 말씀드리려 했는데, 오히려 멜로니 총리님께서 먼저 관련 사항을 잘 알고 있으며 함께 해결책을 모색하겠다는 뜻을 밝혀주셨습니다. 
+> 
+> 각별한 관심과 배려를 보여주신 멜로니 총리님과 이탈리아 정부에 진심으로 감사드립니다.
+> 
+> 외교도 민생이고, 국민의 삶이 곧 국익입니다. 큰 성과처럼 보이지 않을지라도, 우리 국민 한 명 한 명이 처한 삶의 문제를 해결해 나가는 것이야말로 외교의 본질이라 믿습니다. 
+> 
+> 동포 여러분께서 어디에 계시든 우리 국민으로서 존중받으며 당당하게 일하실 수 있도록, 앞으로 더 세심하게 살피고 노력하겠습니다.
+> 
+> <La mia sincera gratitudine per la premura e la tempestiva collaborazione dimostrate dal Presidente del Consiglio Meloni.>
+> 
+> A seguito di questa visita di Stato, vorrei condividere una notizia positiva con le guide turistiche coreane che operano in Italia e con i nostri cittadini.
+> 
+> Le interazioni tra I cittadini dei nostri due Paesi stanno diventando sempre più intense: ogni anno, infatti, oltre un milione di coreani visita l’Italia. Tuttavia, il numero di guide ufficiali abilitate a fornire spiegazioni in lingua coreana rimane insufficiente.
+> 
+> Per molti anni gli esami di abilitazione sono stati sospesi e, una volta ripresi, il livello di difficoltà si è rivelato talmente elevato da risultare impegnativo persino per gli stessi cittadini italiani. Di conseguenza, molti dei nostri connazionali che lavorano come guide hanno dovuto affrontare gravi difficoltà, e i visitatori coreani non hanno potuto godere appieno della storia e della cultura italiane.
+> 
+> Durante il vertice bilaterale avevo intenzione di sollevare questa questione, ma è stato il Presidente del Consiglio Giorgia Meloni a dimostrare per primo di conoscerne a fondo i dettagli e a manifestare la volontà di individuare insieme una soluzione.
+> 
+> Desidero esprimere la mia sincera gratitudine al Presidente @giorgiameloni e al Governo italiano per l’attenzione particolare e la sensibilità dimostrate.
+> 
+> La diplomazia riguarda anche la vita quotidiana dei cittadini, e il benessere delle persone rappresenta un autentico interesse nazionale. Anche se non sempre si tratta di risultati visibili o immediati, sono convinto che affrontare e risolvere i problemi concreti di ogni singolo cittadino costituisca l’essenza stessa della diplomazia formale.
+> 
+> Continueremo a impegnarci affinché i nostri connazionali, ovunque si trovino, possano essere rispettati come cittadini della Repubblica di Corea e svolgere il proprio lavoro con dignità e sicurezza, prestando un’attenzione sempre più accurata alle loro esigenze.
+
+좋아요 4,908 · 재게시 953 · 답글 258 · 조회 125,059 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2066919502840025197
+
+### 2026-06-16 16:02 — 외교·통상 · 직접 작성
+
+> 작년 6월 취임 직후 G7 정상회의에 참석해 민주주의를 회복한 대한민국의 모습을 전 세계에 알렸던 것이 엊그제 같은데, 어느덧 1년이 흘렀습니다. 오늘 저는 다시 2026 G7 정상회의가 열리는 프랑스 에비앙으로 향합니다.
+> 
+> 2년 연속 회의에 초청받은 것은 대한민국에 대한 국제사회의 신뢰와 기대를 보여주는 매우 뜻깊은 일입니다. 국제 연대와 모두를 위한 성장, AI와 미래 기술의 발전 방향 등 시대의 핵심 의제를 두고 G7 회원국을 비롯한 초청국 정상들과 함께 심도 있는 논의를 나눌 예정입니다.
+> 
+> 위대한 대한국민 여러분께서 만들어주신 대한민국의 힘을 바탕으로 우리의 국익을 굳건히 지키고, 세계 평화와 번영에 기여하는 책임 있는 역할을 다하겠습니다.
+> 
+> 대한민국은 더 이상 변화를 따라가는 나라가 아닌, 변화를 만들고, 미래를 이끌어가는 나라입니다. 더욱 단단해진 우리의 저력과 자신감을 세계 무대에 당당히 전하고 돌아오겠습니다.
+> 
+> It feels like only yesterday that, shortly after taking office last June, I attended the G7 Summit and shared with the world the image of a Republic of Korea that had restored its democracy. A year has already passed, and today I am once again heading to Évian, France, where the G7 Summit 2026 will be held.
+> 
+> Being invited to the G7 Summit for the second consecutive year is a deeply meaningful testament to the trust and expectations that the international community places in the Republic of Korea. I will engage in in-depth discussions with the leaders of the G7 members and invited countries on the defining issues of our time, including international partnerships and solidarity, more balanced economic growth, and the future of AI and emerging technologies.
+> 
+> Building on the strength of the Republic of Korea made possible by our great people, I will firmly safeguard our national interests and faithfully fulfill our responsible role in contributing to global peace and prosperity.
+> 
+> The Republic of Korea is no longer a country that simply follows change, but one that creates change and leads the future. I will proudly convey to the world our stronger resilience and confidence, and return home.
+
+좋아요 6,165 · 재게시 1,216 · 답글 879 · 조회 165,843 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2066778344679735495
+
+### 2026-06-16 09:30 — 정치·국정 · 직접 작성
+
+> 한국과 이탈리아를 가장 가깝게 이어주는 가교이자 양국 우정의 원천, 이탈리아 동포 여러분께 인사드렸습니다.
+> 
+> 사람과 문화를 중요하게 여기는 이탈리아 사회 속에서, 남다른 성실함과 책임감으로 신뢰를 쌓아 오신 동포 여러분이 바로 우리 외교의 가장 든든한 뿌리입니다. 
+> 
+> 우리 동포들이 대한민국이라는 자긍심을 갖고 현지 사회의 당당한 주역으로 성장할 수 있도록 정부가 든든하게 뒷받침할 것을 약속드립니다. 아울러 주권자 한 분 한 분의 의사가 모국의 국정에 제대로 반영될 수 있도록, 더욱 촘촘히 챙기겠습니다. 
+> 
+> 앞으로도 대한민국이 이탈리아에서 또 세계 무대에서 더 큰 신뢰와 역량을 키워갈 수 있도록, 이탈리아 동포 사회가 큰 역할을 해내 주실 것으로 믿습니다.
+
+좋아요 4,224 · 재게시 842 · 답글 367 · 조회 93,517 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2066679650106110199
+
+### 2026-06-16 09:00 — 사회 · 직접 작성
+
+> 레오 14세 교황님께서는 아우구스티노 수도회 총장 재임 시절 다섯 차례나 한국을 방문하시며 우리나라에 각별한 관심을 보여주신 분입니다. 그래서인지 오늘의 만남은 첫 알현이라는 사실이 무색할 만큼 따뜻하고 정겨운 분위기 속에 이루어졌습니다.
+> 
+> 이어 파롤린 교황청 국무원장님을 예방해 한반도 평화를 비롯한 국제사회의 여러 도전과 과제에 대해 의견을 나누었습니다. 또한 내년 서울에서 열리는 세계청년대회의 원활한 준비를 위해 더욱 긴밀히 협력해 나가기로 했습니다.
+> 
+> 평신도들의 자발적 신앙으로 시작된 한국 가톨릭은 수많은 시련과 박해를 이겨내며 우리 사회에 공동선과 연대의 가치를 전해 왔습니다. 그 거룩한 역사를 되새기며, 오늘날 세계가 직면한 불확실성과 도전 역시 함께라면 충분히 극복해 나갈 수 있다고 확신했습니다.
+> 
+> 바티칸에서 나눈 은총의 시간을 오래도록 간직하겠습니다. 앞으로도 대한민국과 교황청이 평화와 연대, 인간 존엄과 공동선을 증진하는 동반자로서 더 나은 미래를 향해 함께 걸어가길 기대합니다. 교황님, 국무원장님, 따뜻하게 환대해 주셔서 진심으로 감사드립니다.
+> 
+> Sua Santità Papa Leone XIV, durante il suo mandato come Superiore Generale dell’Ordine di Sant’Agostino, ha visitato la Corea in cinque occasioni, manifestando un particolare interesse per il nostro Paese. Per questo motivo, l’incontro odierno si è svolto in un clima cordiale e accogliente, tanto da rendere pressoché irrilevante il fatto che si trattasse della prima Udienza.
+> 
+> Successivamente, mi sono recato in visita dal Segretario di Stato della Santa Sede, Sua Eminenza il Cardinale Parolin, con cui ho avuto uno scambio di opinioni sulle principali sfide e responsabilità della comunità internazionale, inclusa la questione della pace nella penisola coreana. Abbiamo inoltre concordato di rafforzare ulteriormente la cooperazione per garantire l'ottima organizzazione della Giornata Mondiale della Gioventù che si terrà a Seoul il prossimo anno.
+> 
+> La Chiesa cattolica coreana, nata dalla fede spontanea dei laici, ha attraversato numerose prove e persecuzioni, trasmettendo alla nostra società i valori del bene comune e della solidarietà. Ripercorrendo questa storia di fede, abbiamo maturato la convinzione che anche le incertezze e le sfide che il mondo affronta oggi possano essere superate se affrontate insieme.
+> 
+> Conserverò a lungo nel cuore il momento di grazia trascorso in Vaticano. Auspico che la Repubblica di Corea e la Santa Sede possano continuare a camminare insieme verso un futuro migliore, quali partner impegnati nella promozione della pace, della solidarietà, della dignità umana e del bene comune. Rivolgo un sentito ringraziamento al Santo Padre e a Sua Eminenza il Segretario di Stato per la calorosa accoglienza ricevuta.
+
+좋아요 4,309 · 재게시 1,025 · 답글 207 · 조회 91,691 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2066672104976924988
+
+### 2026-06-15 23:07 — 경제·민생 · 직접 작성
+
+> 중동 관련 협상이 타결된 것을 환영합니다. 이는 국제사회가 오랫동안 기대해 온 사태 해결을 위한 중요한 진전입니다. 이번 협상 타결을 이끌어낸 트럼프 대통령의 리더십과 협상 당사국 및 관련국들의 외교적 노력을 높이 평가합니다.
+> 
+> 이번 합의를 통해 중동 지역의 평화와 안정이 조속히 회복되고, 역내 주민들의 안전과 번영을 위한 기반이 마련되길 기대합니다. 아울러 글로벌 에너지 수급이 안정화되고, 그간 호르무즈 해협 항행에 제약을 받아온 우리 선박과 선원들을 포함한 모든 선박이 조속히 안전한 운항을 재개할 수 있길 바랍니다.
+> 
+> 그동안 중동 지역의 긴장 고조는 에너지 가격과 물류비 상승을 초래하며 국내 물가와 기업 경영, 일상생활 전반에 상당한 부담으로 작용해 왔습니다. 단기간 내 변화를 체감하긴 어렵겠지만, 우리 경제의 불확실성이 점차 해소되며 회복의 계기가 마련되길 기대합니다.
+> 
+> 대한민국은 국제사회의 책임 있는 일원으로서, 이번 합의가 중동 지역을 넘어 세계 평화와 번영에 기여할 수 있도록 필요한 지원과 협력을 아끼지 않겠습니다. 앞으로도 호르무즈 해협에서의 자유롭고 안전한 항행이 지속적으로 보장될 수 있도록 미국을 비롯한 국제사회와 긴밀히 공조하며 필요한 역할을 수행해 나가겠습니다.
+
+좋아요 5,783 · 재게시 1,189 · 답글 561 · 조회 160,853 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2066522939865080175
+
+### 2026-06-15 14:12 — 사회 · 직접 작성
+
+> <좋은 지적 감사합니다. 명백히 불법인듯 한데, 아직도 이런 행태가 계속 되고 있네요. 시정조치해야겠습니다.>
+> 
+> [단독] “800만원 쓰면 470만원 페이백” 입원하면 돈 주는 요양병원 https://v.daum.net/v/20260615050322378
+
+좋아요 6,053 · 재게시 1,484 · 답글 784 · 조회 530,031 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2066388358126080277
+
+### 2026-06-15 13:49 — 사회 · 직접 작성
+
+> <시위대는 의사표현을 넘어 타인의 권리침해가 없도록 자제해야.. 시위대의 민간인 출입제한 행패 등 위력에 의한 업무방해에 대해 행위자는 물론 공모자에 대해 엄중수사를 경찰에 지시했습니다.>
+> 
+> 잠실 봉쇄에 국제대회 출전 무산 위기… 체육단체 "일터 돌려달라" 호소 https://v.daum.net/v/20260611130902052
+
+좋아요 6,710 · 재게시 1,957 · 답글 1,292 · 조회 468,861 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2066382575980118075
+
+### 2026-06-14 15:03 — 일상·인사 · 직접 작성
+
+> 성벽 너머 세상을 향해 평화와 사랑의 메시지를 전해온 성 밖 성 바오로 대성당에서 열리는 '평화와 연대를 위한 특별미사'에 참석합니다. 
+> 
+> 존경하는 유흥식 추기경님, 그리고 한국인 성직자 여러분과 함께할 수 있어 더욱 뜻깊고 감사한 마음입니다. 이어 레오 14세 교황님을 단독으로 뵙고, 파롤린 국무원장님과도 만날 예정입니다.
+> 
+> 교황님께서는 한 청년이 내민 포켓몬 카드에도 기꺼이 사인을 해주실 만큼 따뜻하고 격의 없는 분입니다. 이처럼 작은 친절과 다정함이 사람과 사람 사이의 거리를 좁히고, 나아가 세상을 더욱 평화롭게 만든다고 믿습니다.
+> 
+> “평화가 여러분 모두와 함께”
+> 즉위 후 교황님께서 세상에 처음으로 건네신 인사를 떠올리며, 오늘 이곳 로마에서 다시 한번 진정한 평화의 의미를 되새깁니다. Pax vobis!
+> 
+> Parteciperò alla “Messa speciale per la pace e la solidarietà” che si terrà presso la Basilica di San Paolo fuori le Mura, luogo che da sempre trasmette al mondo, oltre le sue mura, un messaggio di pace e di amore.
+> 
+> Sarà per me motivo di particolare significato e profonda gratitudine poter condividere questo momento con Sua Eminenza il Cardinale You Heung-sik e i membri del clero coreano presenti.
+> 
+> A seguire, avrò l’onore di incontrare in udienza privata Sua Santità Papa Leone XIV, e successivamente incontrerò anche Sua Eminenza il Cardinale Pietro Parolin, Segretario di Stato della Santa Sede.
+> 
+> Il Santo Padre è una persona dall’animo generoso, che, senza formalismi, accoglie con benevolenza anche il gesto di firmare una carta Pokémon che un giovane gli porge. Credo che tali piccoli atti di gentilezza e affetto avvicinino le persone tra loro e contribuiscano, inoltre, a rendere il mondo più pacifico.
+> 
+> «La pace sia con tutti voi».
+> Ripensando al primo saluto che il Santo Padre ha rivolto al mondo dopo la sua elezione, mi preparo a rinnovare oggi, qui a Roma, una riflessione profonda sul significato autentico della pace.
+> Pax vobis!
+
+좋아요 5,603 · 재게시 1,171 · 답글 689 · 조회 138,221 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2066038704112808390
+
+### 2026-06-14 10:15 — 문화·체육 · 직접 작성
+
+> 르네상스의 숨결이 생생히 살아 넘치는 우피치 미술관에서 ‘높은 문화의 힘’을 마주합니다. 
+> 
+> 당대 최고의 국제무역도시이자 금융도시, 첨단산업 중심지 피렌체의 저력은 사실 인류를 매료시킨 문화의 힘에서 나온 것이 아니었을지요. 
+> 
+> 한 점 한 점의 그림들이 수백 년의 시간을 지나 오늘의 우리와 만났습니다. 대한민국과 이탈리아가 쌓아갈 우정과 협력도 미래 세대에 영감과 울림을 전할 소중한 유산으로 남길 바랍니다.
+
+좋아요 4,333 · 재게시 877 · 답글 321 · 조회 108,933 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2065966302746103831
+
+### 2026-06-14 10:00 — 문화·체육 · 직접 작성
+
+> 토스카나는 우피치 미술관을 비롯해 세계적인 문화유산을 간직한 이탈리아 문화예술의 중심지입니다. 일찍부터 ‘피렌체 한국영화제’를 개최하며 한국 영화의 예술성과 작품성을 유럽과 세계에 알려온 든든한 문화 교류의 동반자이기도 합니다.
+> 
+> 이번 방문 때 타결한 ‘한-이탈리아 영화 공동제작 협정’은 양국 국민에게 더욱 다양한 문화적 경험을 선사할 든든한 주춧돌이 될 것입니다. 양국의 우수한 문화 역량이 큰 시너지 효과를 발휘할 것으로 믿습니다. 
+> 
+> 해마다 수많은 우리 국민들이 자유와 낭만을 찾아 토스카나로 떠납니다. 그만큼 우리 국민이 더 안전하고 편리한 여행을 즐길 수 있도록, 주정부와 피렌체 시정부의 지속적인 관심과 협조를 당부했습니다.
+> 
+> 문화와 예술이야말로 시대와 국경을 넘어 사람의 마음을 잇고 서로를 이해하게 만드는 가장 강력한 힘입니다. 에우제니오 쟈니 주지사님과의 이번 만남을 통해 한국과 이탈리아의 우정이 더욱 깊어지고, 미래 세대까지 이어질 풍성한 자산으로 남길 기대합니다.
+> 
+> La Toscana , cuore della cultura e dell’arte italiane, è custode di un patrimonio culturale di valore mondiale, a cominciare dalla Galleria degli Uffizi. Questa regione è inoltre un solido partner di scambio culturale, avendo promosso sin da tempo il Florence Korea Film Fest, che ha contribuito a far conoscere in Europa e nel mondo il valore artistico e la qualità del cinema coreano.
+> 
+> L’accordo di coproduzione cinematografica tra Corea e Italia, concordato in occasione di questa visita, costituirà una base solida per offrire ai cittadini dei nostri due Paesi esperienze culturali ancora più diversificate. Sono certo che le eccellenti capacità culturali di entrambe le nazioni genereranno una forte sinergia.
+> 
+> Ogni anno numerosi cittadini coreani scelgono la Toscana alla ricerca di libertà e romanticismo. Proprio per questo ho chiesto l’attenzione e la collaborazione costante del Governo regionale e del Comune di Firenze affinché i nostri connazionali possano viaggiare in condizioni di maggiore sicurezza e comodità.
+> 
+> La cultura e l’arte sono le forze più potenti in grado di unire le persone oltre il tempo e i confini, favorendo una comprensione reciproca più profonda. Confido che l’incontro con il Presidente @EugenioGiani possa rafforzare ulteriormente l’amicizia tra Corea e Italia e lasciare un patrimonio ricco e duraturo per le generazioni future.
+
+좋아요 4,280 · 재게시 880 · 답글 209 · 조회 95,273 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2065962481043071076
+
+### 2026-06-14 01:59 — 정치·국정 · 인용 · 분류 검토 대기
+
+> 멜로니 총리님(@GiorgiaMeloni)과 이탈리아 국민들의 환대에 대한민국 국민들과 함께 감사드립니다.
+> 
+> 이탈리아와 대한민국은 '특별전략적 동반자로서' 복잡하고 불투명한 국제정세 속에서 더 새롭고 깊은 협력관계로 공동번영의 길을 열어 나갈 것입니다.
+
+좋아요 4,575 · 재게시 953 · 답글 282 · 조회 134,422 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2065841565080400021
+
+### 2026-06-13 19:12 — 사회 · 직접 작성
+
+> <여당과 야당 그리고 정치적책임>
+> 여당(與黨)의 사전적 의미는 더불어 함께 하는 무리입니다. 
+> 
+> 여당은 이미 집권에 성공하여 주어진 공식 권력으로 주장 아닌 행동을 통해 자신의 가치와 신념을 실현할 수 있는 대신, 
+> 
+> 국가의 미래와 온 국민의 삶을 통째로 책임져야 하며, 결과로 증명된 성과를 통해 재집권을 추구합니다.
+> 
+> 반대로 조정에서 밀려나 들판에서 재집권을 위해 노력하는 정치집단을 야당(野黨)이라 합니다.
+> 
+> 야당은 여당과 정부에 대한 감시, 견제, 공격이 중요하지만, 여당은 주어진 권력으로 책임을 지는 능력과 실적, 포용과 통합이 중요합니다.
+> 
+> 이상과 현실, 복잡한 이해관계 속에서 정치인들은 자주 길을 잃는데, 철학자 막스 베버는 정치인이 지녀야 할 세 가지 자질을 주문했습니다.
+> 
+>  1) 사익이 아닌 대의(Idea)에 대한 열정, 
+> 
+>  2) 자신의 행위가 초래할 '결과'에 대한 무한한 책임감(좋은 의도만 앞세우고 결과는 나 몰라라 하는 '신념윤리'보다, 결과를 예측하고 책임지는 '책임윤리'가 정치인에게 더 중요하다고 합니다.)
+> 
+>  3) 현실과 이상간의 균형감각(서생의 문제의식과 상인의 현실감각의 조화를 주창한 김대중 선생의 말씀도 같은 뜻이겠지요).
+> 
+> 이상이 없는 현실주의자는 눈앞의 이익만 좇는 기회주의자가 되고, 현실이 없는 이상주의자는 해결책 없이 편가르기에 집중하는 무능한 선동가가 됩니다. 
+> 
+> 정치가 현실의 제약과 인간의 한계를 무시하고 이상만 고집하면 독선과 진영에 빠지게 되고, 이상을 잃어버리면 단순한 권력 유지로 전락하기 때문에, 
+> 
+> 현실을 바꾸려면 가치와 지향을 잊지않되 역설적으로 현실을 냉정하게 바라보는 균형감각이 필수적입니다.
+> 
+> 야당이 군대나 창과 가깝다면 여당은 농사와 그릇에 가깝다는게 제 생각입니다.
+> 
+> 그래서 집권여당은 신념을 버리지는 않되 신념의 언어보다는 '책임의 언어'에 더 집중해야 합니다. 야당은 이상과 신념을 외치고 상대를 부정하며 투쟁에 매달릴 수 있지만, 여당은 장애와 방해를 뚫고 국민의 먹고사는 현실의 문제를 해결하며 결과로 증명해야 하는 책임이 있기 때문입니다. 
+> 
+> 이미 쟁취한 권력에 근거한 정책 결정과 집행의 결과가 국민의 삶에 직접적인 영향을 미치므로, 집권세력은 구호나 주장이 아닌 냉철한 균형감각에 의한 실행에 집중해야 합니다.
+> 
+> 여당의 열정은 '우리 진영'이 아니라 '국민 전체'를 향해야 합니다. 대결과 배제보다 끊임없는 대화 소통을 통해 갈등을 조정하고 반발을 최소화하는 '큰 그릇' 역할을 해야 합니다. 
+> 
+> 강한 힘이라면 모든 것을 휩쓰는 격류 보다는 모든 것을 담아 정화하는 큰 바다가 더 좋겠습니다. 불가피하게 깨고 나가야(돌파)한다면 깨지는 이들에 대한 배려, 공감도 잊지 말아야 합니다. 
+> 
+> 국민의 위임을 받아 이미 집권했다면 사익 아닌 공익을 향한 가장 뜨거운 열정으로 고민하되, 가장 차가운 균형감각으로 현실과 이상을 조화시키며, 방해나 난관을 이겨내고 결과에 대해 무한책임을 져야 합니다. 
+> 
+> 지금 당장 우리의 손에 이 나라의 운명과 5200만 국민의 삶이 달려 있습니다.  더 크게 더 넓게 더 멀리 보며, 더 많은 국민과 함께 갑시다. 
+> 
+> 전쟁을 통해 점령한 것이라면 배제와 독점이 이상할 게 없지만, 경쟁을 통해 부분의 힘으로 승리하여 전체를 대표하게 되었다면, 이제 모두를 위한 포용과 개방은 필수입니다.
+
+좋아요 8,688 · 재게시 2,393 · 답글 3,418 · 조회 486,989 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2065739112465014822
+
+### 2026-06-13 15:59 — 사회 · 직접 작성
+
+> <비정상의 정상화.. 패가망신하는 주가조작 이제 그만하시고 정론직필하는 정상적 언론인으로 돌아가시기 바랍니다.
+> 
+> 이미 저지른 일이라면, 공익신고 하면 처벌감면에 신고포상금도 지급되니 자수하기 바랍니다. 
+> 
+> 규칙을 지키는 선량한 국민들에게 피해를 끼치며, 규칙을 어겨 이익을 얻는 모든 행태가 구시대의 비정상이고, 
+> 
+> 함께 잘 사는 대한민국을 만들기 위해서는, 모든 비정상의 정상화는 피할 수 없는 시대적 과제입니다.>
+> 
+> [단독] 기사 2천 건으로 90억 챙긴 ‘선행매매’ 기자 등 2명 구속 | 다음 - KBS
+
+좋아요 6,075 · 재게시 1,506 · 답글 688 · 조회 378,756 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2065690478599884834
+
+### 2026-06-13 09:00 — 경제·민생 · 직접 작성
+
+> 대한민국과 이탈리아 경제를 이끌어가는 기업인 여러분을 만났습니다. 인류 문명 발전을 이끌어온 이탈리아에서 양국의 미래 협력 방안을 함께 논의할 수 있어 매우 뜻깊었습니다.
+> 
+> 기초과학과 디자인, 첨단 기술 분야에서 강점을 지닌 이탈리아와 세계적인 제조·혁신 역량을 갖춘 대한민국은 서로에게 더없이 좋은 협력 파트너입니다. 새로운 기술과 산업을 함께 개척하고, 눈에 띄는 성과를 낼 수 있도록 힘을 모으겠습니다.
+> 
+> 과거 이탈리아가 뛰어난 항해술로 새 시대를 열었듯, 오늘 이 만남 역시 대한민국과 이탈리아가 미래를 향한 새로운 항해를 시작하는 의미 있는 출발점이 되길 기대합니다.
+
+좋아요 4,633 · 재게시 931 · 답글 413 · 조회 102,834 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2065584939286810779
+
+### 2026-06-12 16:36 — 문화·체육 · 직접 작성
+
+> 우리 축구 국가대표팀이 2026 FIFA 북중미 월드컵 첫 경기에서 체코를 상대로 값진 승리를 거두었습니다. 자랑스러운 태극전사 여러분, 그리고 감독님과 코칭스태프 분들께 뜨거운 박수를 보냅니다.
+> 
+> 해발 1,500m가 넘는 쉽지 않은 환경 속에서도 집중력을 잃지 않고 끝내 승부를 뒤집어내며 국민들에게 큰 기쁨을 안겨주었습니다. 역전골이 터지는 순간 온 나라가 함께 환호하며 하나가 되었습니다.
+> 
+> 첫 단추를 힘차게 끼운 만큼, 남은 경기에서도 자신있는 플레이와 특유의 투혼으로 대한민국 축구의 저력을 마음껏 보여주시길 기대합니다. 우리 국민 모두가 선수 여러분의 서포터입니다. 함께 뛰는 마음으로 힘껏 응원하겠습니다!
+
+좋아요 10,295 · 재게시 1,469 · 답글 713 · 조회 326,039 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2065337458267746808
+
+### 2026-06-12 15:50 — 외교·통상 · 직접 작성 · 분류 검토 대기
+
+> 로렌초 폰타나 이탈리아 하원의장님과 만나 양국 의회 간 교류 확대를 비롯해 첨단기술과 경제협력, 사회정책 등 다양한 분야의 협력 방안에 대한 논의를 나누었습니다. 무엇보다 국민의 삶과 직결되는 분야에서 서로의 경험과 지혜를 공유하고, 협력을 한층 확대해 나가자는 데 뜻을 함께 했습니다. 
+> 
+> 아울러 이탈리아에서 활동하고 있는 대한민국 기업, 그리고 재외동포 여러분에 대한 지속적 관심과 지원을 당부드렸습니다. 머나먼 타국에서 땀 흘리고 계신 우리 국민 모두가 안전하고 안정된 환경에서 생활하실 수 있도록 정부도 더욱 세심히 살피겠습니다.
+> 
+> 오랜 시간 양국이 쌓아온 신뢰와 우정이 외교적 성과를 넘어 우리 기업의 성장과 미래 세대의 새로운 기회, 국민의 일상 속에서 체감되는 실질적 협력으로 이어질 수 있도록 최선을 다하겠습니다. 하원의장님, 뜻깊은 시간 함께해 주셔서 감사합니다.
+> 
+> Ho incontrato il Presidente della Camera dei Deputati, Lorenzo Fontana, con il quale ho avuto un proficuo scambio di opinioni sull’ampliamento degli scambi interparlamentari tra i nostri due Paesi, nonché sulle possibili forme di cooperazione in vari ambiti, tra cui le tecnologie avanzate, la collaborazione economica e le politiche sociali. Abbiamo condiviso in particolare l’importanza di rafforzare ulteriormente la cooperazione nei settori che incidono direttamente sulla vita dei cittadini, mettendo a fattor comune esperienze e competenze.
+> 
+> Ho inoltre chiesto una costante attenzione e un continuo sostegno alle imprese coreane attive in Italia e ai nostri connazionali residenti all’estero. Il Governo della Repubblica di Corea continuerà a impegnarsi affinché tutti i nostri cittadini che vivono e lavorano lontano dalla madrepatria possano operare in un ambiente sicuro e stabile.
+> 
+> Faremo tutto il possibile affinché la fiducia e l’amicizia costruite nel corso di molti anni tra i nostri due Paesi si traducano non solo in risultati diplomatici, ma anche in una cooperazione concreta e percepibile nella vita quotidiana dei cittadini, nella crescita delle nostre imprese e nelle nuove opportunità per le future generazioni. Ringrazio il Presidente @Fontana3Lorenzo per il tempo prezioso condiviso.
+
+좋아요 3,714 · 재게시 753 · 답글 228 · 조회 84,063 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2065325839466869244
+
+### 2026-06-12 09:00 — 일상·인사 · 직접 작성 · 분류 검토 대기
+
+> 조국의 자유와 평화를 위해 기꺼이 목숨을 바친 이탈리아 무명용사들의 넋을 기리며, 그 숭고한 희생에 추모의 마음을 전합니다.
+> 
+> 여러분의 희생과 헌신이 오늘의 이탈리아를 만들었고 자유와 평화, 민주주의라는 인류 공동의 가치를 지탱하는 굳건한 토대가 되었습니다. 
+> 
+> 희생 위에 세워진 평화의 소중함을 다시금 되새깁니다. 두 나라가 자유와 연대의 가치를 함께 지키며, 다음 세대에게 더 평화로운 미래를 물려줄 수 있도록 손을 맞잡겠습니다.
+
+좋아요 4,965 · 재게시 951 · 답글 353 · 조회 103,290 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2065222550066536591
+
+### 2026-06-12 08:30 — 문화·체육 · 직접 작성
+
+> 2026 FIFA 북중미 월드컵의 막이 올랐습니다.
+> 
+> 우리 축구 국가대표팀도 오늘 오전 11시 체코와의 첫 경기를 시작으로 새로운 도전에 나섭니다. 오랜 시간 흘린 땀과 노력, 수많은 훈련과 준비가 있었던 만큼 선수 여러분 모두 그동안 갈고닦은 기량을 마음껏 펼쳐주시길 바랍니다.
+> 
+> 그라운드 위 선수들의 패스와 압박, 공격이 모여 소중한 골을 만들어내듯, 국민 여러분께서 한마음으로 보내주시는 응원 역시 우리 대표팀을 뛰게 하는 가장 큰 힘이 될 것입니다.
+> 
+> 5천2백만 뜨거운 함성이 지구 반대편 경기장까지 전해져, 마지막 종료 휘슬이 울리는 순간까지 선수들의 용기와 자신감이 되어주길 소망합니다.
+> 
+> 태극마크를 가슴에 품고 대한민국의 이름으로 뛰는 우리 국가대표 선수 한 분 한 분을 국민 여러분과 함께 힘차게 응원하겠습니다. 무엇보다 모두 부상 없이 건강한 모습으로 돌아와 주시길 온 마음으로 기원합니다! @theKFA
+
+좋아요 5,606 · 재게시 939 · 답글 475 · 조회 178,988 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2065214998817730733
+
+### 2026-06-11 20:15 — 일상·인사 · 직접 작성
+
+> <故 고노 요헤이 전 일본 중의원 의장님의 명복을 기원합니다>
+> 
+> 고노 요헤이(河野洋平) 전 일본 중의원 의장님의 별세 소식에 애도의 뜻을 표합니다. 
+> 
+> 고노 전 의장님은 일본 정계의 존경받는 원로로서 이웃 국가들과의 화해와 신뢰 관계 구축에 힘쓰며 한일관계의 발전에도 큰 역할을 하셨습니다.
+> 
+> 특히, 1993년 발표한 「고노 담화」는 위안부 문제와 관련하여 ‘많은 여성들의 명예와 존엄에 깊은 상처’를 남긴 역사적 사실을 인정하고, ‘마음에서 우러나오는 사죄와 반성의 마음’을 명기한 최초의 공식 문서였습니다. 
+> 
+> 고노 전 의장님은 역사의 사실을 피하지 않고 교훈으로 직시해 나갈 것이며, 똑같은 잘못을 결코 되풀이하지 않겠다는 의지도 표명하셨습니다. 
+> 
+>  「고노 담화」에 담긴 역사를 성찰하는 용기와 피해자의 아픔에 대한 공감은 한일 양국이 미래지향적 관계로 발전해 나가는 데 있어 중요한 주춧돌이 되었습니다. 
+> 
+> 고인이 남기신 업적과 숭고한 뜻을 소중히 기억하면서, 상호 존중과 신뢰에 기반한 미래지향적 한일관계를 발전시켜 나가기 위해 계속 노력하겠습니다. 
+> 
+> 삼가 고인의 명복을 빌며, 유가족 여러분들께도 깊은 위로의 말씀을 전합니다.
+> 
+> <故河野洋平元衆議院議長のご冥福をお祈り申し上げます>
+> 
+> 河野洋平元衆議院議長のご逝去の報に接し、衷心より哀悼の意を表します。
+> 
+> 河野元議長は、日本の政界で広く尊敬を集める重鎮として、とりわけ隣国との和解および信頼関係の構築にご尽力され、韓日関係の発展に多大なるご貢献を賜りました。
+> 
+> 特に、1993年に発表された「河野談話」は、慰安婦問題について、「多数の女性の名誉と尊厳を深く傷つけた」歴史的事実を認め、「心からのお詫びと反省の気持ち」を明確に示した初めての公式表明でありました。
+> 
+> 河野元議長は、歴史の事実を回避することなく、それを教訓として直視し、同じ過ちを決して繰り返さないという決意を表明されました。
+> 
+> 「河野談話」に込められた、歴史をかえりみる勇気と被害を受けた方々の痛みに寄り添う思いは、韓日両国の未来志向の関係に向けて、重要な礎となっております。
+> 
+> 故人のご功績と崇高なご意思を深く胸に刻み、相互尊重と信頼に基づく未来志向の韓日関係のさらなる発展に向け、今後とも力を尽くしてまいる所存です。
+> 
+> 故人のご冥福を心よりお祈り申し上げますとともに、
+> ご遺族の皆様に対しましても謹んで深甚なるお悔やみを申し上げます。
+
+좋아요 5,500 · 재게시 1,217 · 답글 280 · 조회 257,137 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2065030103294517479
+
+### 2026-06-11 19:19 — 정치·국정 · 인용 · 분류 검토 대기
+
+> 이재명에 대한 예우가 아니라 대한민국 그리고 대한국민에 대한 예우입니다.
+> 
+> 최고의 민주주의국가, 최대로 효율적인 나라, 세계적인 문화국가에 대한 그리고 그런 나라를 만든 위대한 대한국민에 대한 존중이라고 생각합니다.
+
+좋아요 9,316 · 재게시 2,033 · 답글 808 · 조회 340,217 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2065016090720366741
+
+### 2026-06-11 17:45 — 외교·통상 · 직접 작성
+
+> 탄탄한 제조업을 바탕으로 성장했고, 오랜 역사와 문화 위에서 혁신을 이어가고 있는 나라. 장인정신과 창의력으로 세계인의 마음을 사로잡아 온 나라. 여러모로 우리 대한민국과 닮은 점이 많은 이탈리아에 도착했습니다.
+> 
+> 마타렐라 대통령님께서는 저와 마찬가지로 법학을 공부하시고, 오랜 시간 헌법과 법치를 연구해 오신 걸로 알고 있습니다. 진중하고 책임감 있는 리더십으로 이탈리아 국민들의 깊은 신뢰를 받고 계시다고 합니다. 기회가 된다면 정상회담 못지않게 법학도 시절 이야기도 함께 나눠보고 싶습니다.
+> 
+> 멜로니 총리님과는 벌써 세 번째 회담입니다. 올해 1월 한국에서 함께 셀카를 찍었던 기억이 생생한데, 이렇게 이탈리아에서 다시 뵙게 되니 더욱 반갑습니다. K-팝 열혈팬인 따님 덕에 한국 문화에 무척 친숙하신 분입니다. 외교도 중요하지만 어쩌면 문화가 양국을 더 가깝게 만들고 있는지도 모르겠습니다. 
+> 
+> 오랜 시간 신뢰와 우정을 쌓아 온 우리 양국이 이번 만남을 계기로 더욱 폭넓게 협력하며, 함께 미래를 설계하는 든든한 동반자로 나아가길 기대합니다. 마타렐라 대통령님, 멜로니 총리님, 곧 뵙겠습니다!
+> 
+> Un Paese che ha costruito la propria crescita su una solida base manifatturiera e che continua a innovare poggiando sulla sua lunga storia e sulla sua ricca tradizione culturale. Un Paese che, grazie alla maestria artigianale e alla creatività, ha saputo conquistare il cuore delle persone in tutto il mondo. Sono giunto in Italia, nazione che sotto molti aspetti presenta numerose affinità con la Repubblica di Corea.
+> 
+> So che il Presidente Sergio Mattarella, come me, ha studiato giurisprudenza e ha dedicato molti anni all’approfondimento della Costituzione e dello Stato di diritto. È considerato un leader serio e responsabile, che gode della profonda fiducia del popolo italiano. Se se ne presenterà l’occasione, mi piacerebbe condividere con lui anche qualche ricordo degli anni di studio.
+> 
+> Quello con la Presidente del Consiglio Giorgia Meloni è già il nostro terzo incontro. Ricordo ancora vividamente il selfie scattato insieme lo scorso gennaio in Corea, e sono particolarmente lieto di poterla rivedere qui in Italia. Grazie alla passione della figlia per il K‑pop, la Presidente Meloni conosce molto bene la cultura coreana. La diplomazia è fondamentale, ma talvolta è proprio la cultura ad avvicinare ancora di più i nostri due Paesi.
+> 
+> Confido che, forti della fiducia e dell’amicizia costruite nel tempo, le nostre due nazioni possano ampliare ulteriormente la loro cooperazione e avanzare come partner solidi nella progettazione del futuro. Presidente Sergio Mattarella, @GiorgiaMeloni, sarà un piacere incontrarvi presto!
+
+좋아요 4,672 · 재게시 939 · 답글 334 · 조회 101,356 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2064992315496948080
+
+### 2026-06-11 13:59 — 정치·국정 · 직접 작성
+
+> <아직도 이런 구태 공직자들이 있다니 참으로 개탄스럽습니다. 
+> 
+> 회식 음주강요 등 소방관의 사망원인과 경위는 물론 감찰조사 요청 묵살 경위까지 철저히 조사하되
+> 조사주체는 객관성을 담보할 수 있도록 소방청이 아닌 국무조정실로 하고,
+> 
+> 조사결과 음주 강요, 감찰 조사요구 묵살이 사실로 드러나면 징계는 물론 형사처벌에 민사 손해배상후 구상청구까지 할 수 있는 최대치의 문책을 해서 
+> 
+> 다시는 이 나라에서 회식 음주 강요 같은 직장내 악성 갑질이나 부정부패 은폐묵살은 꿈도 꿀 수 없도록 하겠습니다.
+> 
+> 내각에 조치를 지시했습니다. 삼가 고인의 명복을 빌며, 유가족 친지들에게도 깊은 위로말씀을 드립니다.>
+> 
+> [단독] 결혼 앞둔 여성 소방관 사망…유족이 꺼낸 카톡엔 | 다음 - SBS
+
+좋아요 5,821 · 재게시 1,674 · 답글 440 · 조회 294,646 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2064935628878586120
+
+### 2026-06-11 13:33 — 사회 · 직접 작성
+
+> <안타깝지만 어쩔수가 없습니다. 현재 법이 그렇습니다. 
+> 
+> 법원이 원고인 노동자 패소로 즉 불법적 공권력 행사가 아닌 것으로 판결하면서 소송비용을 패소한 노동자가 부담하도록 명령했고,
+> 
+> 현행법상 판결대로 소송비용을 청구하지 않고 포기하면 배임죄, 직무유기죄로 처벌하게 되어 있기 때문에 이제  어쩔 수가 없습니다.
+> 
+>  공권력 행사를 적법, 신중하게 하도록 노력하고 있지만 이 사건은 이미 소송이 끝나고 판결이 확정되었기 때문에 재심으로 취소되지 않는 한 정부로서도 할 수 있는 일이 없어 참으로 안타깝기만 합니다.
+> 
+> 이 비정상은 너무 많이 진행되어 바로잡을래야 바로잡을 길이 없습니다.>
+> 
+> "윤석열 비정상 바로잡겠다더니" 비정규직 '배신감' 들게 한 정부의 청구서 | 다음 - 프레시안
+
+좋아요 5,266 · 재게시 1,291 · 답글 915 · 조회 832,506 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2064929066239844740
+
+### 2026-06-11 00:56 — 외교·통상 · 직접 작성 · 분류 검토 대기
+
+> 벨기에의 통합과 화합을 상징하는 필립 벨기에 국왕님을 만나 뵈었습니다. 국왕님께서는 왕세자 시절부터 다섯 차례 한국을 방문하시며 우리나라에 각별한 관심과 애정을 보여주셨고, 이는 오늘날 대한민국과 벨기에가 굳건한 신뢰와 협력 관계를 이어오는 든든한 토대가 되었습니다.
+> 
+> 오늘 우리는 미래세대가 서로를 더 깊이 이해하고, 함께 배우며 성장할 수 있는 기반을 단단히 다져가자는 데 뜻을 함께했습니다. 뿐만 아니라 교육과 문화, 과학기술, 인적 교류를 비롯한 다양한 분야에서도 협력을 폭넓게 확대해 가길 기대합니다.
+> 
+> 올해는 대한민국과 벨기에가 수교 125주년을 맞는 뜻깊은 해입니다. 125년에 걸쳐 쌓아온 두터운 신뢰와 우정을 바탕으로, 앞으로 더 큰 미래를 함께 열어가는 동반자로 나아가길 소망합니다. 따뜻하게 맞아주신 국왕님께 깊은 감사를 전합니다.
+> 
+> @MonarchieBe
+> I had the pleasure of meeting His Majesty the King of the Belgians, who symbolizes the unity and cohesion of Belgium.
+> 
+> Since his time as Crown Prince, His Majesty has visited Korea on five occasions, demonstrating his deep interest in and affection for our country. His longstanding commitment has helped lay a strong foundation for the close relationship of trust and cooperation that Korea and Belgium enjoy today.
+> 
+> Today, we shared the view that we should further strengthen the foundations that will enable future generations to better understand one another, learn together, and grow together. We also expressed our hope to expand cooperation across a wide range of fields, including education, culture, science and technology, and people-to-people exchanges.
+> 
+> This year marks the 125th anniversary of diplomatic relations between the Republic of Korea and the Kingdom of Belgium. Building on the trust and friendship we have cultivated over the past 125 years, I hope our two countries will continue to advance as partners in shaping a greater future together. I extend my sincere gratitude to His Majesty for the warm welcome.
+
+좋아요 3,968 · 재게시 830 · 답글 401 · 조회 94,128 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2064738445734617226
+
+### 2026-06-10 21:03 — 외교·통상 · 직접 작성
+
+> 안토니우 코스타 EU 정상회의 상임의장님 @eucopresident 께서는 축구를 무척 사랑하신다고 들었습니다. 각자 맡은 포지션은 다르지만 결국 가장 중요한 것은 좋은 팀워크라는 점에서 축구와 외교는 비슷한 점이 참 많은 것 같습니다.
+> 
+> 남다른 열정으로 업무에 임하시는 우르술라 폰 데어 라이엔 EU 집행위원장님 @vonderleyen 을 뵙는 만큼 저도 평소보다 더 부지런히 준비하고 있습니다. 승마와 조깅을 즐기신다고 들었는데, 역시 체력도 좋은 리더십의 덕목이라는 생각이 듭니다.
+> 
+> 복잡한 국제정세 속에서 대한민국과 유럽연합이 신뢰와 연대를 굳건히 하며, 함께 더 나은 해법과 미래를 만들어갈 수 있도록 최선을 다하고 오겠습니다.
+> 
+> I’ve heard that President António Costa @eucopresident is a passionate football fan. In both football and diplomacy, everyone plays a different position, but in the end, success depends on strong teamwork. There may be more similarities between the two than we think.
+> 
+> I’m also looking forward to meeting President Ursula von der Leyen @vonderleyen who is well known for her tireless work ethic. I understand that she enjoys horseback riding and jogging—reminding us that stamina is an essential quality of leadership. Inspired by her example, I have been preparing even more diligently for this visit.
+> 
+> At a time of growing global uncertainty, I will do my utmost to strengthen the partnership between the Republic of Korea and the European Union, built on trust and solidarity, and to work together toward better solutions and a brighter future.
+
+좋아요 2,892 · 재게시 557 · 답글 218 · 조회 86,749 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2064679831514841287
+
+### 2026-06-10 18:57 — 사회 · 직접 작성
+
+> <현장 경찰관도 '제복 입은 시민'입니다>
+> 
+> 잠실 시위 현장에 배치된 경찰관을 향한 일부 시위대의 모욕과 조롱이 도를 넘어섰습니다. 경찰관을 '가짜 경찰'로 몰거나, 욕설을 하고, 심지어는 감금과 폭행까지 서슴지 않고 있다 합니다. 도저히 납득할 수도 없고 용납하기도 어려운 일들이 백주 대낮에 버젓이 벌어지고 있습니다.
+> 
+> 경찰관도 누군가의 소중한 가족이며 제복을 입은 '시민'입니다. 시민의 안전과 인권을 보호하고 있는 경찰에 대한 폭력행위는 시민들을 위험에 빠뜨리고, 민주주의 공론장을 훼손하는 결과를 낳게 될 뿐입니다. 
+> 
+> 시민들의 자유로운 의사표현과 토론은 마땅히 보장되어야 하지만, 선을 넘는 행위까지 용인할 수는 없습니다. 현장 경찰관과 주변 시민들에 대한 비상식적인 폭력행위가 더이상 벌어지지 않길 바랍니다. 
+> 
+> 여러 어려움 속에서도 공동체의 질서 유지를 위해 헌신하고 있는 경찰관 여러분께 깊은 감사를 전합니다. 
+> 
+> 잠실 시위 현장을 면밀하게 체크하고 있다는 말씀도 드립니다.
+
+좋아요 8,355 · 재게시 2,541 · 답글 1,510 · 조회 488,762 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2064648069673795610
+
+### 2026-06-10 17:43 — 사회 · 인용
+
+> 신고자 포상금은 없나요? 신고없이 수사한 건가 보지요?
+
+좋아요 5,445 · 재게시 1,319 · 답글 475 · 조회 782,820 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2064629417654296630
+
+### 2026-06-10 14:24 — 정치·국정 · 직접 작성
+
+> 모디 총리님, 세계 최대 민주주의 국가인 인도의 최장수 총리로 재임하게 되신 것을 진심으로 축하드립니다.
+> 
+> 총리님께서는 오랜 시간 인도의 성장과 발전을 이끌며 국제사회에서 인도의 위상을 높이는 데 중요한 역할을 해오셨습니다. 이번 성취는 총리님의 리더십에 대한 인도 국민의 신뢰를 보여주는 결과라고 생각합니다.
+> 
+> 지난 4월 우리는 한-인도 특별 전략적 동반자 관계를 더욱 발전시키고, 성장과 혁신의 미래를 함께 만들어 나가기로 뜻을 모았습니다. 앞으로도 총리님과 함께 신뢰와 우정을 쌓아가며, 양국 국민이 체감할 수 있는 실질적인 성과를 낼 수 있길 바랍니다.
+> 
+> 총리님의 건승과 인도 국민 여러분의 행복과 번영을 온 마음으로 기원합니다.
+> 
+> माननीय प्रधानमंत्री @narendramodi
+> 
+> मैं आपको दुनिया के सबसे बड़े लोकतंत्र भारत के सबसे लंबे समय तक सेवा करने वाले प्रधानमंत्री बनने पर हार्दिक बधाई देता हूँ।
+> 
+> आपने कई वर्षों तक भारत के विकास और प्रगति का नेतृत्व किया है तथा अंतरराष्ट्रीय समुदाय में भारत की प्रतिष्ठा को ऊँचा उठाने में महत्वपूर्ण भूमिका निभाई है। मुझे विश्वास है कि यह उपलब्धि भारत के लोगों द्वारा आपके नेतृत्व पर जताए गए भरोसे को दर्शाती है।
+> 
+> अप्रैल में हमने कोरिया-भारत विशेष रणनीतिक साझेदारी को और आगे बढ़ाने तथा विकास और नवाचार से भरे भविष्य के निर्माण के लिए मिलकर काम करने पर सहमति जताई थी। मैं आपके साथ विश्वास और मित्रता को आगे बढ़ाने तथा हमारे दोनों देशों के लोगों के लिए लाभकारी ठोस परिणाम प्राप्त करने की आशा करता हूँ।
+> 
+> मैं आपके उत्तम स्वास्थ्य और भारत के लोगों के सुख, समृद्धि और खुशहाली की कामना करता हूँ।
+
+좋아요 12,399 · 재게시 1,916 · 답글 285 · 조회 2,979,317 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2064579549137175040
+
+### 2026-06-10 13:40 — 정치·국정 · 직접 작성
+
+> <국민여러분 죄송합니다. 냉정한 국민의 평가를 겸허하게 받아들입니다.
+> 더 낮은 자세로 더 겸손하게, 
+> 더 넓게 벌리고 더 많이 포용하며 더 열심히 하겠습니다.>
+> 
+> 이 대통령 지지율 50.4%…선거 전보다 9.4%p 하락 [KSOI] | 다음 - MBN https://v.daum.net/v/20260610110037573
+
+좋아요 11,778 · 재게시 2,044 · 답글 2,973 · 조회 2,394,940 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2064568403428552787
+
+### 2026-06-10 12:51 — 사회 · 직접 작성 · 분류 검토 대기
+
+> <대한민국 국정원의 새모습입니다. 
+> 잘 드는 칼은 쓰기에 따라 사람을 해칠 수도 살릴 수도 있습니다.>
+> 
+> 국정원, 태국 마약 거점 현지당국과 급습…"막대한 원료 압수" https://v.daum.net/v/20260610111851708
+
+좋아요 5,652 · 재게시 1,568 · 답글 377 · 조회 246,890 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2064555998698979827
+
+### 2026-06-10 08:20 — 정치·국정 · 직접 작성
+
+> 낯선 땅에서 대한민국의 위상을 높이고 계신 벨기에 동포 여러분께 인사드렸습니다. 대한민국 대통령 최초로, 벨기에 동포 여러분과 인사를 나눈 오늘의 시간이 저에게도 오래 기억될 것 같습니다.
+> 
+> 대한민국과 벨기에는 125년이라는 오랜 세월에 걸쳐 깊은 우정을 쌓아왔습니다. 그 긴밀한 신뢰의 역사에는 벨기에 동포 사회의 헌신과 노력이 오롯이 새겨져 있습니다.
+> 
+> 앞으로도 대한민국과 벨기에, 나아가 대한민국과 유럽을 연결하는 든든한 가교가 되어 주십시오. 우리 동포들의 헌신이 대한민국 국민이라는 자긍심으로 빛날 수 있도록, 정부가 더 세심히 살피며 책임 있는 역할을 다하겠습니다.
+
+좋아요 4,524 · 재게시 928 · 답글 417 · 조회 91,718 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2064487934557143472
+
+### 2026-06-10 00:23 — 경제·민생 · 직접 작성
+
+> <농어촌기본소득 2년 한시 도입인데도 이 정도 효과인데, 이를 영구적으로 도입하고 금액을 상향하면 훨씬 효과가 크겠지요?
+> 
+> 재원이요? 
+> 군단위 현재 예산은 보통 1인당 2천만원이 넘는다는 점을 고려하면 결국 의지와 정책 결단의 문제 즉 예산의 우선순위 문제임을 알 수 있습니다. 
+> 
+> 특히 최근 주식시장 활성화로 농어촌에 의무적으로 사용해야하는 농어촌특별세가 수조원대로 폭증하고 있는데 이 예산을 종전대로 농로, 교량 등 기반시설 확보에 쓰지 않고 농어촌기본소득 재원으로 활용해서 농어촌 기본소득을 지속사업으로 확정하고 기본소득액을 15만원에서 그 이상으로 높이면 
+> 농어촌도 살아나고, 
+> 귀농귀어도 늘어나고,
+> 지역소멸도 막고,
+> 국토균형발전도 이루고,
+> 수도권집중에 따른 집값폭등 같은 문제도 완화하고,
+> 행복한 노년도 보장하는 등 일석다조 효과가 있을 것 같습니다.
+> 
+> 여러분 의견도 듣고 싶네요.>
+> 
+> 농어촌기본소득 ‘좋아유~’…충북 옥천 인구 반등세 전환 ‘방긋’ | 한겨레
+
+좋아요 4,607 · 재게시 1,150 · 답글 618 · 조회 262,305 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2064367910903296009
+
+### 2026-06-09 19:00 — 정치·국정 · 인용 · 분류 검토 대기
+
+> 경찰, 국정원, 외교부 모두 수고하셨습니다. 애써주신 필리핀 당국에도 감사드립니다.
+> 
+> 수개월간 추적 끝에 우리 국민을 살해한 현지 전직 경찰을 드디어 체포했습니다.
+
+좋아요 8,141 · 재게시 2,228 · 답글 467 · 조회 413,403 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2064286469150392442
+
+### 2026-06-09 09:00 — 외교·통상 · 직접 작성
+
+> 취임 이후 처음으로 유럽을 방문합니다. 글로벌 복합위기 속에서 협력의 지평을 넓히며, 우리 경제와 외교의 기반을 더욱 굳건히 다지기 위한 여정입니다.
+> 
+> 첫 방문국은 다양성을 존중하며 고유한 문화와 전통을 발전시켜 온 벨기에입니다. 유럽의 물류 중심지이자 혁신적인 중소기업 성장 생태계를 갖춘 벨기에는 우리 기업들의 유럽 진출을 확대하고, 새로운 성장 기회를 만들어가는 데 든든한 파트너가 될 것입니다.  
+> 
+> 문화와 인적 교류의 잠재력도 매우 큽니다. 다음달 초 BTS의 첫 벨기에 단독 콘서트를 앞두고 있는 만큼, 양국의 미래 세대를 잇는 협력도 한층 더 깊어질 것이라 믿습니다.
+> 
+> 특히 올해는 대한민국-벨기에 수교 125주년을 맞는 뜻깊은 해입니다. 바트 드 웨브흐 총리님과의 첫 만남이 양국 관계를 더욱 발전시키고, 나아가 미래 협력의 새 길을 여는 계기가 되길 기대합니다.
+> 
+> I am embarking on my first visit to Europe since taking office. At a time of overlapping global crises, this journey will be an opportunity to broaden the horizons of our cooperation and strengthen the foundations of Korea’s economy and diplomacy.
+> 
+> My first stop will be Belgium—a country that has cultivated a rich history and culture while embracing diversity. As a key logistics hub in Europe and home to a dynamic and innovative SME ecosystem, Belgium will be a trusted partner in expanding the presence of Korean businesses in Europe and creating new opportunities for growth.
+> 
+> There is also tremendous potential to deepen cultural and people-to-people exchanges. With BTS set to hold its first standalone concert in Belgium early next month, I believe it will further deepen the bonds between the younger generations of our two countries.
+> 
+> This year marks the 125th anniversary of diplomatic relations between the Republic of Korea and the Kingdom of Belgium. I hope my first meeting with Prime Minister @Bart_DeWever will serve as a stepping stone toward advancing our bilateral partnership and opening a new chapter of future cooperation.
+
+좋아요 8,044 · 재게시 1,592 · 답글 1,282 · 조회 277,866 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2064135473086550108
+
+### 2026-06-08 08:06 — 경제·민생 · 직접 작성
+
+> <이런 것이 주가 조작 아닌가요?>
+> 
+> [단독]"왜 내 주식만 안 올라" 이유 있었다…정부 비웃는 '주가누르기' 의혹[부의승계]인탑스② 아시아경제 https://v.daum.net/v/20260608071402922
+
+좋아요 5,746 · 재게시 1,573 · 답글 1,042 · 조회 718,723 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2063759578924564908
+
+### 2026-06-07 18:25 — 정치·국정 · 직접 작성
+
+> 중앙선거관리위원회는 이번 6·3 지방선거 과정에서 국민의 참정권 행사에 막대한 지장을 초래했습니다. 사고 자체도 납득하기 어렵지만, 이후의 대응과 국민에 대한 해명 또한 충분하지 못했습니다.
+> 
+> 국민의 참정권은 어떠한 이유로도 제한되거나 침해되어서는 안 되는 헌법적 권리이며, 이번 사태는 국민주권의 근간을 훼손한 중대한 사안입니다. 국민의 한 사람으로서 그리고 정부를 책임지는 대통령으로서 깊은 유감을 표합니다.
+> 
+> 국회는 이번 사안의 진상을 명확히 규명하고 재발 방지 대책을 마련하기 위해 조속히 국정조사를 추진해 주시기 바랍니다. 아울러 선관위에 대한 근본적 제도 개선 방안도 함께 논의해 주시길 요청드립니다.
+> 
+> 정부 역시 사안의 엄중함을 고려해, 행정부 차원에서 가능한 모든 조치를 강구하겠습니다. 검찰과 경찰이 참여하는 합동수사본부를 구성해 책임 소재를 분명히 하고, 사건의 전모를 철저히 규명할 것을 지시했습니다.
+> 
+> 중앙선거관리위원회 위원장이 국가 5부요인으로 규정된 이유는 선관위가 행정부·입법부·사법부와 마찬가지로 그에 상응하는 권한과 의무, 책임을 지닌 독립기관이기 때문입니다.
+> 
+> 국민의 신뢰를 잃은 독립기관은 존재의 의미가 없습니다. 선거관리위원회는 이번 사태를 엄중히 받아들이고, 조직 운영과 선거 관리 전반에 대해 근본적인 점검과 함께 국민이 신뢰할 수 있는 수준의 강도 높은 쇄신과 개혁 의지를 분명히 보여주어야 할 것입니다.
+
+좋아요 31,170 · 재게시 11,785 · 답글 2,749 · 조회 5,115,039 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2063552838387810748
+
+### 2026-06-05 17:55 — 사회 · 직접 작성 · 분류 검토 대기
+
+> <국제 우편 소포 전부 우편집중국에서 검색하는 시스템을 설치한 지 얼마되지 않았는데 벌써 효과가 나고 있습니다. 이제 국제우편 소포로 마약 구매하면 다 걸립니다.>
+> 
+> '마약 2차 저지선' 첫 성과…합수본, 마약 밀수 일당 기소 - 아시아경제 https://v.daum.net/v/20260605103252219
+
+좋아요 6,184 · 재게시 1,790 · 답글 1,752 · 조회 549,281 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2062820506873815233
+
+### 2026-06-05 16:59 — 경제·민생 · 직접 작성
+
+> <주식시장 정상화가 연금고갈방지를 위한 연금구조조정의 필요성과 그 고통의 크기를 확 줄였습니다. 대한민국 대표자산인 주식평가 정상화가 고통없는 연금개혁의 좋은 수단입니다. 대한민국 정상화는 쭈욱 계속됩니다.>
+> 
+> 코스피 불장에 국민연금 고갈 24년 늦춰졌다 | 다음 - 조선일보
+
+좋아요 6,212 · 재게시 1,499 · 답글 1,133 · 조회 510,340 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2062806600134656186
+
+### 2026-06-05 09:16 — 사회 · 직접 작성
+
+> <공무원들이 열심히 일하면 국민이 행복해 집니다. 열일하는 공직자들에게 감사드립니다. 여러분도 칭찬해 주세요>
+> 
+> “보이스피싱 43% 줄고 동남아서 391명 검거” | 한국경제 https://v.daum.net/v/20260604120314037
+
+좋아요 8,204 · 재게시 2,181 · 답글 1,957 · 조회 652,179 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2062690075474030614
+
+### 2026-06-05 09:00 — 과학기술·AI · 직접 작성
+
+> 오늘 6월 5일 환경의 날을 맞아 ‘대한민국 기후행동 출범식’이 열립니다. 종교계와 산업계, 시민사회와 정부가 한자리에 모여 기후위기 대응을 위한 실천을 다짐하는 뜻깊은 자리입니다.
+> 
+> 일회용품 사용 줄이기, 안 쓰는 전등 끄기, 가까운 거리는 걸어 다니거나 대중교통 이용하기, 장바구니 사용하기와 같은 사소해 보이는 실천도 함께하면 미래를 바꾸는 강력한 힘이 됩니다.
+> 
+> 지속 가능한 대한민국을 위해 일상 속 기후행동에 함께해 주시길 부탁드립니다. 정부 역시 최선을 다해 국민 여러분께서 체감하실 수 있는 실질적 변화를 만들어 가겠습니다.
+
+좋아요 4,766 · 재게시 1,172 · 답글 1,075 · 조회 295,196 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2062685859615526948
+
+### 2026-06-04 22:44 — 재난·안전 · 인용
+
+> 산림청, 소방청, 관할 지방정부 공무원 여러분 정말 수고 많으셨어요. 
+> 
+> 혹여 산불피해로 죽거나 재산피해를 입을수도 있었던 국민들께서 피해를 면했으니, 얼마나 여러분이 하신 일들이 소중합니까. 
+> 
+> 진심으로 감사합니다.
+
+좋아요 8,052 · 재게시 2,272 · 답글 933 · 조회 825,783 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2062531017244885221
+
+### 2026-06-03 15:00 — 경제·민생 · 인용
+
+> 대한민국은 이미 집값, 부동산 값이 비싸도 너무 비쌉니다. 
+> 더구나 국민 보유 자산중 부동산 비중이 많이 낮아졌다고는 하나 여전히 너무 높습니다. 
+> 
+> 대한민국 주식시장이 여전히 저평가되는 원인중 하나입니다.
+> 
+> 대한민국은 반드시 부동산투기공화국 탈출, 창업국가로 대전환, 대체불가 핵심국가로 발전을 이뤄내야 합니다.
+> 
+> 투표참가, 유능하고 충직한 머슴 선택이 진정한 세계에 자랑할 민주공화국 대한민국을 만듭니다.
+
+좋아요 5,025 · 재게시 1,257 · 답글 1,767 · 조회 385,727 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2062051717236289836
+
+### 2026-06-03 14:03 — 정치·국정 · 직접 작성
+
+> '유능하고 충직한 일꾼을 뽑자. 반드시 투표하자. 정치를 포기한 결과는 가장 저질스런 인간에게 지배당하는 것'이라는 말은 특정한 후보나 진영을 유리하게 하는 선거운동일 수 없습니다.
+> 
+> 착하게 살아야 한다. 나쁜 아이들과 어울리지 말아야 한다는 충고가 편가르기나 누군가를 음해하는 것일 수 없는 것과 마찬가지입니다.
+> 
+> 자신이 나쁜 사람이라고 스스로 생각하는 사람이 아닌 한 민주주의에 대한 공자님 말씀인 이 말에 화낼 이유가 없습니다. 도둑조차도 도둑질은 나쁘다는 말에 속으로 화가 날 지언정 겉으로 화를 내지는 않습니다.
+> 
+> 민주주의의 기본원리와 선거참여를 강조하는 말이 선거운동이나 정치중립의무 위반이라 생각하는 사람이 있다면 그는 어머니나 유초등 선생님을 찾아 스스로의 도덕적 민주적 판단기준이 온당한 지 극히 초보적인 의논을 해 볼 필요가 있습니다.
+> 
+> 민주공화국에서 정치적 판단의 기준은 상식과 국민이어야 하고, 정치는 누군가를 욕하며 우연한 실패의 반사이익을 노리는 것이 아니라 잘하기 경쟁이어야 합니다.
+> 
+> 이런 점에서 "많은 국민이 투표했으면" 하는 이명박 전 대통령의 말이나 "반드시 투표에 참여해달라"는 박근혜 전 대통령의 말에 대해 아무도 이것이 반론하지 않습니다. 맞는 말이기 때문입니다.
+> 
+> 대한민국의 주권자이자 현실과 미래의 주인이신 대한국민여러분.
+> 
+> 나와 가족의 미래를 위해 
+> 투표를 포기하지 말고, 
+> 유능하고 충직한 일꾼을 찾아 반드시 투표합시다.
+
+좋아요 9,190 · 재게시 2,415 · 답글 1,159 · 조회 446,189 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2062037342576422983
+
+### 2026-06-03 10:04 — 경제·민생 · 인용
+
+> 개인이든 기업이든 정부든, 부정부패를 신고하면 그 회수가액의 20~30%를 포상금으로 지급합니다. 
+> 
+> 예를 들어 비싸게 팔기 위한 기업담합을 신고하면 수백 수천억을 포상금으로 지급합니다. 
+> 
+> 밀가루 등 담합 과징금이 약 7천억원이니, 관련 회사 임직원(실제 담합에 관여한 경우도 포함)이 신고했다면 최대 2천억원 가량을 포상금으로 지급할 수도 있었다는 말입니다.
+> 
+> 앞으로 대한민국에서는 불법을 저지르고 타인에게 피해를 입히며 돈을 버는 것이 불가능하게 만들 것입니다.
+> 
+> 물론 공정하고 투명한 룰에 의해 성실하고 능력있는 사람들이 기회를 가질 수 있게 만드는 것은 기본입니다.
+> 
+> 부동산투기국에서 프리미엄
+> 금융국가로 변해가는 것처럼, 이제 대한민국은 위대한 대한국민의 힘으로 추격국가에서 선도국가를 넘어 대체불가 핵심국가로 가야합니다. 얼마든지 갈 수 있고 이미 가고 있습니다.
+> 
+> 단, 투표를 포기하지 않고,
+> 유능하고 충직한 일꾼들을 잘 고르면.
+
+좋아요 5,433 · 재게시 1,867 · 답글 418 · 조회 337,493 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2061977241236754484
+
+### 2026-06-03 08:55 — 정치·국정 · 인용
+
+> 대대적인 팔로잉으로 정성호랑이님이 x세계에 오심을 환영해 주십시오.
+> 
+> 플라톤의 말대로 최악의 저질들에게 지배당하지 않기위해 투표 하셨나요?
+
+좋아요 9,445 · 재게시 2,398 · 답글 828 · 조회 1,066,980 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2061959826541085098
+
+### 2026-06-02 20:10 — 외교·통상 · 직접 작성
+
+> 멀리 아프리카에서 대한민국을 찾아주신 귀한 손님들이 계십니다. 아프리카 18개국 장관님들과 두 국제기구 대표님들의 방한을 진심으로 환영합니다.
+> 
+> 아프리카 국가들은 국제평화와 식량안보, 기후위기 대응, 경제협력을 비롯한 다양한 분야에서 우리나라의 중요한 협력 파트너입니다. 오늘 만남을 통해 우리는 공동의 과제와 미래 비전을 나누고, 상호 신뢰와 협력의 의지를 확인했습니다.
+> 
+> 2029년 대한민국에서 개최될 한-아프리카 정상회의 역시 이러한 협력과 연대를 한 단계 발전시키는 뜻깊은 계기가 될 것입니다. 각국이 함께 성장하고 번영하는 미래를 만들기 위한 의미 있는 출발점이 되길 기대합니다.
+> 
+> Today, I had the pleasure of greeting distinguished guests from Africa. I warmly welcomed ministers and senior representatives from 18 African countries, as well as two international organizations, who visited Korea for the 2026 Korea–Africa Foreign Ministers' Meeting.
+> 
+> Africa is an indispensable partner in advancing our shared efforts to promote peace, strengthen food security, address climate change, and expand economic cooperation. Our discussions reaffirmed the trust and friendship that underpin Korea–Africa relations while highlighting the vast potential for deeper collaboration in the years ahead.
+> 
+> Looking toward the 2029 Korea–Africa Summit, I am confident that the Summit will serve as a meaningful milestone in furthering our cooperation and solidarity. I look forward to the Summit bringing Korea and Africa closer together in pursuit of shared growth and prosperity.
+
+좋아요 4,351 · 재게시 897 · 답글 233 · 조회 124,037 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2061767496936612286
+
+### 2026-06-02 09:11 — 사회 · 직접 작성
+
+> <마약투약사범 여러분, 사회악인 마약 단속을 위해 모든 국내 우편집중국에 마약단속요원을 배치했습니다. 마약탐지견 인조코 등 탐지장비도 설치합니다.
+> 
+> 우편으로 마약 구입하면 반드시 적발되어 처벌됩니다.
+> 
+> 공연히 돈 쓰면서 교도소 가지 마시고 일찍 치료받으시기 바랍니다.>
+> 
+> '마약과의 전쟁' 李정부 1년…2.3만명 검거·국경선 3.2톤 적발
+
+좋아요 6,087 · 재게시 1,859 · 답글 432 · 조회 364,585 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2061601510098915482
+
+### 2026-06-02 07:14 — 사회 · 인용
+
+> 고의적 허위사실 유포로 사회혼란, 경제피해를 야기하는 행위는 반드시 찾아내 엄단해야 합니다.
+> 
+> 공공에 피해를 입히는 허위사실 유포는 표현의 자유도 아니고, 포용의 대상도 아닙니다.
+> 
+> 장난? 놀이라구요?
+> 사람을 죽이고 공동체의 질서와 가치를 파괴하는 것은 장난이나 놀이로 했더라도 엄벌되어야 할 중대범죄인 것과 마찬가지입니다.
+> 
+> 열일하는 경찰 수사팀에 피자라도 보내줘야겠지요?
+
+좋아요 7,558 · 재게시 2,304 · 답글 729 · 조회 293,779 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2061572074108538912
+
+### 2026-06-01 11:36 — 경제·민생 · 직접 작성
+
+> <"축구 실력 빼면 손흥민도 보통 사람?" 이러는 사람 없습니다. 
+> 
+> 오히려 "반도체 빼고도 한국 증시 무려 4,100" 이래야 하는 것 아닐까요?
+> 
+> 반도체가 우리 산업의 핵심 중 하나인데 왜 반도체를 빼고 종합주가지수를 계산해야 하는 지 이해가 잘 안됩니다.>
+> 
+> ‘착시’ 빠진 증시… 반도체 빼면 코스피 4100선 불과 - 조선일보
+
+좋아요 8,597 · 재게시 2,775 · 답글 1,106 · 조회 982,451 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2061275548329074956
+
+### 2026-06-01 07:40 — 경제·민생 · 직접 작성
+
+> <부동산 불법투기 탈세 이제는 안됩니다. 망국적인 부동산 불로소득 공화국은 반드시 탈출할 것입니다.>
+> 
+> 최대 40억 포상금에 신고 폭주…부동산 탈세 제보 10건 중 8건 수도권 https://v.daum.net/v/20260601064439899
+
+좋아요 5,562 · 재게시 1,693 · 답글 474 · 조회 285,422 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2061216207827849481
+
+## 2026년 5월 (59건)
+
+### 2026-05-31 17:22 — 사회 · 직접 작성
+
+> <허위 댓글 세번째 구속..인면수심도 유분수지 대체 왜 이러는 것일까요? 자신의 가족이 그런 피해를 입었다고 생각해 봅시다. 역지사지해야 하지 않을까요? 앞으로도 더 철저히 수사하고 엄단할 것입니다.>
+> 
+> 사회적 참사에 "대국민 사기"…허위글로 2차 가해한 50대 구속 https://v.daum.net/v/20260531090151008
+
+좋아요 6,946 · 재게시 1,854 · 답글 603 · 조회 294,931 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2061000318188683535
+
+### 2026-05-31 00:04 — 정치·국정 · 직접 작성
+
+> “정치무관심의 대가는 최악의 저질들에게 지배당하는 것이다" - 플라톤
+> 
+> 민주공화국에서 주권자의 침묵과 투표포기는 국민을 속이고 사익을 위해 권력을 남용하며 나와 가족의 삶을 망치는 자들에게 기회를 주는 것입니다.
+> 
+> 존경하는 국민 여러분, 투표에 적극 참여해 이 나라의 주인은 국민이라는 사실을, 권력은 어디를 향해야 하는지를, 주권자의 뜻이 어디에 있는 지를 분명히 보여주십시오.
+> 
+> 국민이 맡긴 권력을 오로지 국민의 뜻에 따라 국민만을 위해 사용할, 충직하고 유능한 이들을 찾아 그들에게 기회를 주시기 바랍니다.
+> 
+> 선출된 공직자가 어떤 마음과 자세로 어떻게 하느냐에 따라 세상은 지옥이 될 수도 천국이 될 수도 있습니다.
+> 
+> 투표의 힘은 생각보다 강합니다. 
+> 선출된 그들이 내 삶을 풍요롭게 만드는 충직한 머슴이 될 지, 세상을 파괴하고 국민에게 고통을 주는 악성 지배자가 될 지는 주권자의 손에 달려 있습니다.
+> 
+> 이 말이 불편한 정치인이나 정치집단이 있다면 그들이 바로 주권자가 투표로서 극복해야할 구태 기득권자들입니다.
+
+좋아요 21,562 · 재게시 8,155 · 답글 1,119 · 조회 1,326,604 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2060739144066932762
+
+### 2026-05-30 08:42 — 정치·국정 · 직접 작성
+
+> <꼭 투표합시다.>
+> 투표는 민주주의의 생명줄입니다.
+> 투표를 포기하는 것은 나와 가족의 미래를 포기하는 것과 같습니다.
+> 투표 포기는 중립이 아니라 내 삶과 공동체를 해치는 그들을 편드는 것입니다.
+
+좋아요 19,145 · 재게시 6,160 · 답글 1,036 · 조회 872,614 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2060507155736957097
+
+### 2026-05-28 20:01 — 정치·국정 · 직접 작성
+
+> 우원식 국회의장님께서 제22대 국회 전반기 의장으로서의 소임을 마무리하셨습니다. 
+> 
+> 돌아보면 지난 2년은 우리 헌정사의 중대한 변곡점이었고, 의장님께서는 역사의 거센 소용돌이 한가운데에서 무거운 책무를 감당하셨습니다. 특히 ‘12·3 내란’이라는 민주주의의 중대한 위기 속에서 보여주신 의장님의 담대하고 강단 있는 리더십은 무너질 뻔한 헌정 질서를 지켜낸 버팀목이었습니다. 
+> 
+> 우리는 그 위기 앞에서 민주주의의 힘을 다시 확인했고, ‘민주주의 최악의 위기’를 ‘민주주의가 가장 빛난 순간’으로 바꾸어낼 수 있었습니다. 국민주권정부가 안정적으로 출범하고 국정이 빠르게 정상화될 수 있었던 데에도 국회의 책임 있는 역할과 의장님의 헌신이 큰 힘이 되었습니다.
+> 
+> 의장님께서는 갈등과 대립이 첨예한 정치 현실 속에서도 언제나 대화와 조정, 타협의 가치를 놓지 않으셨습니다. 무엇보다 국민의 삶을 최우선에 두고 정치의 역할을 끊임없이 고민해 오신 의장님의 행보는 여야를 넘어 우리 정치권에 귀감으로 남을 것입니다.
+> 
+> “정치는 힘이 약한 사람들의 가장 강한 무기”라는 의장님의 오랜 신념처럼, 앞으로도 진짜 민주주의를 향한 길에  앞장서 주시리라 믿습니다. 
+> 
+> 헌신과 노고에 깊은 감사를 전합니다.
+> 그동안 정말 고생 많으셨습니다.
+
+좋아요 7,110 · 재게시 1,503 · 답글 592 · 조회 215,306 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2059953166616268941
+
+### 2026-05-27 18:38 — 문화·체육 · 직접 작성
+
+> 한국전쟁 당시 피난 수도이자 국제 원조의 관문이었던 부산은 이제 글로벌 해양도시로 힘차게 도약하고 있습니다. 대한민국의 성장과 도전의 역사를 세계와 나누기에 이보다 더 의미 있는 장소는 없지 않을까 생각합니다.
+> 
+> 다가오는 7월 부산에서 열리는 제48차 유네스코 세계유산위원회는 세계유산 분야의 최대 국제행사입니다. 우리의 문화적 역량과 품격을 세계에 알리는 소중한 계기가 될 것이라 믿습니다.
+> 
+> 우리나라에서 처음 개최되는 만큼 교통, 숙박, 치안 등 전반을 세심하게 점검하고 차질 없이 준비해 가겠습니다. 이번 행사를 통해 우리의 자랑스러운 유산, ‘K-헤리티지’의 가치가 전 세계에 더욱 널리 확산되길 기대합니다.
+
+좋아요 4,325 · 재게시 963 · 답글 432 · 조회 128,937 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2059569852767928714
+
+### 2026-05-27 18:16 — 정치·국정 · 인용
+
+> 국세청이 운영하는 국세와 국가세외수입 체납관리단은 
+> 조세정의 실현, 
+> 재정확보,
+> 생산적 일자리 확충,
+> 체납장부정리,
+> 복지대상자 발굴 등 1석 5조의 효과가 있습니다.
+> 
+> 국세청 공직자 여러분과 임광현 국세청장님 잘 하고 계십니다.
+> 
+> 지방정부도 이번 선거가 끝나면 다 시행하게 해야겠지요?
+
+좋아요 5,533 · 재게시 1,492 · 답글 365 · 조회 185,646 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2059564341717012921
+
+### 2026-05-26 20:00 — 국방·안보 · 직접 작성
+
+> 지금 우리는 그 어느 때보다 중대한 선택의 기로에 서 있습니다. 국제질서는 빠르게 재편되고 있으며, 안보 환경 또한 한 치 앞을 예측하기 어려울 만큼 급변하고 있습니다. 이러한 시대일수록 국가의 원칙과 방향은 더욱 분명해야 합니다. 자주국방은 더 이상 선택이 아닌, 국가의 존립과 국민의 안전을 지키기 위한 기본이자 핵심 토대입니다.
+> 
+> 미래 안보는 정부의 노력만으로 완성될 수 없습니다. 민간의 창의성과 기술력, 산업 현장의 전문성, 그리고 정부의 강력한 실행력이 유기적으로 결합될 때 비로소 더 강한 국방, 더 안전한 대한민국을 만들어낼 수 있습니다. 대한민국 국방 역량의 새로운 도약을 위해 미래국방전략위원회 여러분의 지혜와 역량을 모아가겠습니다.
+> 
+> 정부는 핵추진잠수함 건조 추진과 전시작전통제권의 조기 회복 등 안보 주권 강화를 위한 과제들을 차질 없이 추진해 나가겠습니다. 아울러 첨단 과학기술 기반의 국방 혁신과 방위산업 경쟁력 강화를 통해 대한민국이 한반도 방어의 주체로서 확고한 위상을 갖출 수 있도록 중장기적 로드맵 또한 체계적으로 마련해 가겠습니다.
+> 
+> 오늘 열린 제1회 미래국방전략위원회 회의가 대한민국 국방의 새로운 전환점을 여는 뜻깊은 계기가 되길 기대합니다. 함께해 주신 모든 분들께 감사드립니다.
+
+좋아요 7,108 · 재게시 1,510 · 답글 805 · 조회 268,436 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2059228238828945728
+
+### 2026-05-26 14:02 — 사회 · 직접 작성
+
+> 가정의 달 5월을 지나며, 미처 응원하지 못한 이들의 이름이 떠올랐습니다. 배움의 속도와 삶의 경로가 조금 다를 뿐 똑같이 존중받아야 할 대한민국의 미래. 바로 '학교 밖 청소년'들입니다.
+> 
+> 마침 EBS에서 학교 밖 청소년들에게 용기와 희망을 전하는 뜻깊은 시리즈를 방영했다는 반가운 소식을 접했습니다. 여러분께서도 함께 시청하시며 각자의 꿈과 색깔로 미래를 가득 채워갈 청소년들의 도전에 따뜻한 박수를 보내주셨으면 합니다.
+
+좋아요 4,339 · 재게시 1,044 · 답글 335 · 조회 199,404 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2059138189550633278
+
+### 2026-05-25 08:42 — 미분류 · 리트윗 · 분류 검토 대기
+
+> RT @[비공개]: ADALET DEDİĞİN BÖYLE İŞLER...
+> ✓Kanada’da İhtiyar Bir Adam Ekmek ÇaLmaktan TutukLanıp Mahkemeye Sevk EdiLdi..
+> ✓YaşLı Adam Suç…
+
+좋아요 0 · 재게시 7,805 · 답글 0 · 조회 26 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2058695140898902194
+
+### 2026-05-24 18:26 — 일상·인사 · 직접 작성
+
+> 중국 산시성 탄광 가스폭발 사고로 대규모 인명피해가 발생했다는 소식에 안타까움과 슬픔을 금할 수 없습니다.
+> 
+> 중국 정부와 관계 당국의 노력으로 이번 사고가 조속히 수습되길 바랍니다.
+> 
+> 불의의 사고로 희생되신 분들의 명복을 빌며, 유가족 분들과 중국 국민 여러분께 깊은 애도와 위로를 전합니다. 아울러 부상자 모두의 쾌유를 기원합니다.
+> 
+> 惊悉中国山西省煤矿发生瓦斯爆炸事故，造成重大人员伤亡，我对此深感痛惜与悲痛。
+> 
+> 希望在中国政府及有关部门的努力下，此次事故早日得到妥善处置。
+> 
+> 我对不幸遇难者表示诚挚哀悼，愿逝者安息，并向遇难者家属及中国国民致以深切慰问，祝愿所有受伤者早日康复。
+
+좋아요 9,170 · 재게시 1,382 · 답글 1,051 · 조회 728,889 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2058479816769503639
+
+### 2026-05-24 08:34 — 정치·국정 · 직접 작성
+
+> <일베처럼 조롱 모욕으로 사회분열 갈등을 조장하는데 대해 표현의 자유로 보호해야 한다는 주장과 처벌을 포함한 제재가 필요하다는 주장이 병존합니다.
+> 
+> 일베 폐쇄 논란도 있었지요?
+> 
+> 엄격한 조건하에 조롱 혐오 표현에 대한 처벌과 징벌배상, 
+> 일간베스트저장소처럼 조롱 혐오를 방치 조장하는 사이트 폐쇄, 징벌배상, 과징금 등 필요조치를 허용하는대한 공론화와 실제 검토가 필요해 보입니다.
+> 
+> 국무회의에도 지시하겠습니다. 
+> 
+> 여러분의 의견은 어떠신가요?>
+> 
+> “봉하마을서 일베 손가락질 사진 찍어”…조수진 노무현재단 이사 주장
+
+좋아요 15,324 · 재게시 6,533 · 답글 2,372 · 조회 1,441,797 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2058330881304166859
+
+### 2026-05-23 20:22 — 일상·인사 · 직접 작성
+
+> 세월호 참사 추모일(4.16)에 싸이렌 이벤트 개시라니.. 
+> 
+> 제발 사실이 아니길 바랍니다. 인두겁을 쓰고서는 도저히 할 수 있는 일이 아니기 때문입니다.
+> 
+> 일베보관소도 아니고 대기업 공식 행사라는데 더 할말이 없습니다.
+> 
+> 세월호참사 추모일을 맞아 유가족들이 고통에 몸부림치고 국민들이 슬픔에 빠져 있을 때, 조롱코드를 감춘 암호같은 이런 행사를 시작하며 희생자들을 모욕하고 국민들을 우롱하며 나름 즐겼겠지요. 
+> 
+> 사건을 연결시켜 보면 이번 5.18 맞이 탱크데이 행사로 광주민주화운동과 박종철 열사를 조롱하고 모욕한 것이 우발적 사건이라 보기 어렵습니다.
+> 
+> 어쩌다 우리 사회가 여기까지 왔을까요?
+> 
+> 돈 좀 벌겠다고 상습적으로 국가폭력과 참사 희생자들을 능멸하는 이 금수같은 행태에 국민적 심판이 있을 것입니다.
+> 
+> 그러고 보니 이들이 벌이는 짓은 저질 장사치의 막장행태가 아니라 악질 장사치의 패륜행위 같습니다.
+
+좋아요 19,620 · 재게시 8,403 · 답글 1,729 · 조회 3,561,723 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2058146587407487264
+
+### 2026-05-23 19:40 — 문화·체육 · 직접 작성
+
+> 아시아축구연맹(AFC) 여자 챔피언스리그 우승을 차지한 내고향여자축구단 선수 여러분께 진심 어린 축하를 전합니다.
+> 
+> 챔피언스리그에서 펼쳐진 수준 높은 경기들은 아시아 여자 축구의 눈부신 발전과 역량을 전 세계에 분명히 보여주었습니다.
+> 
+> 이번 대회가 승패를 넘어, 아시아 스포츠의 도약을 이끌고 평화와 화합이라는 스포츠의 가치를 되새기는 뜻깊은 계기가 되었길 바랍니다.
+> 
+> 뜨거운 관심 속에 펼쳐진 수원FC 위민 선수들의 수중전 투혼 역시 오래도록 기억될 것입니다. 도쿄 베르디 벨레자와 멜버른 시티 FC 선수들도 고생 많으셨습니다.
+> 
+> 무엇보다 성숙한 응원 문화로 대회를 빛내주신 우리 응원단 여러분께 깊은 경의를 표합니다.
+> 
+> 공은 둥글고, 우리는 또 다시 만나게 될 것입니다. 선수 여러분의 다음 도전을 힘차게 응원하겠습니다!
+
+좋아요 5,300 · 재게시 1,034 · 답글 330 · 조회 302,222 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2058135894432079941
+
+### 2026-05-23 01:13 — 외교·통상 · 직접 작성 · 분류 검토 대기
+
+> <아파트든 오피스텔이나 상가든 공동사용 건물에 대한 관리비 과다징수는 이제 불법입니다. 
+> 
+> 누구든지 관리비 내역을 요구할 권리가 있습니다.
+> 
+> 이제부터 대한민국에선 모든 비정상이 정상화됩니다.>
+> 
+> 회계감사 꼼수?…아파트 관리비 제도 '대수술' https://v.daum.net/v/20260522214524716
+
+좋아요 6,923 · 재게시 2,054 · 답글 671 · 조회 355,585 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2057857389026841042
+
+### 2026-05-22 20:04 — 경제·민생 · 직접 작성 · 분류 검토 대기
+
+> 질베르 웅보 국제노동기구(ILO) 사무총장님과 AI시대 노동의 미래에 대해 심도 있는 의견을 나누었습니다.
+> 
+> 우리는 AI 기술의 급속한 발전이 노동시장과 산업구조 전반에 큰 변화를 가져오고 있으며, 기술혁신과 노동권 보호가 조화를 이룰 수 있도록 해법을 모색해야 한다는 데 공감했습니다. 특히 AI가 일자리 대체를 넘어 양질의 일자리 창출과 노동환경 개선으로 이어질 수 있기 위해 국제적 협력이 중요하다는 점도 함께 확인했습니다 
+> 
+> 대한민국은 국제사회의 책임 있는 일원으로서, 앞으로도 ILO와의 협력을 더욱 강화해 나갈 것입니다. 일하는 모든 이들의 권리가 보장되는 포용적 노동환경 조성과 지속 가능한 일자리 창출을 위해 적극 기여하겠습니다.
+> 
+> 한국을 찾아주신 웅보 사무총장님께 다시 한번 깊은 감사를 전합니다.
+
+좋아요 3,628 · 재게시 758 · 답글 277 · 조회 118,087 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2057779672591876573
+
+### 2026-05-22 09:10 — 정치·국정 · 인용 · 분류 검토 대기
+
+> 김민석 국무총리께서 큰 성과를 내셨습니다.
+> 차지호 의원님도 애 많이 쓰셨습니다. 
+> 두 분 모두 대한민국의 복입니다. 노고에 감사합니다.
+
+좋아요 6,347 · 재게시 1,342 · 답글 661 · 조회 256,552 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2057615152657375509
+
+### 2026-05-21 16:22 — 경제·민생 · 인용 · 분류 검토 대기
+
+> 서울경제TV가 "중국인 서울 강남 아파트 944채 기습매수..다주택자 던진 물량 싹쓸이" 이런 가짜 영상기사를 냈다가 지금은 삭제 했습니다.
+> 
+> 확인해보니 1~4월 간 강남구 집합건물 중국인 매수는 5명 불과 등 명백한 허위기사입니다.
+> 
+> 혐중 선동재료로 사용될 수 있게 의도적으로 만든 가짜뉴스 기사로 추정됩니다.
+> 
+> 명색이 언론, 그것도 경제언론인데 혐중을 부추겨 나라와 국민에 무슨 도움이 되겠습니까.
+> 
+> 엄중하게 책임을 물어야겠지요?
+
+좋아요 17,754 · 재게시 6,137 · 답글 1,462 · 조회 3,058,980 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2057361287173361708
+
+### 2026-05-21 09:13 — 정치·국정 · 직접 작성 · 분류 검토 대기
+
+> <김용범 실장님의 주장이 초과이윤 배당이 아니라 초과세수 배당이었는데 잘못 보도했다며 정정한 외신.. 정론직필하는 자존감 높은 언론의 이 모습이 얼마나 당당하고 보기좋은가요.
+> 
+> 특정세력을 편들거나 누군가를 공격하기 위해 고의적인 조작왜곡으로 가짜뉴스를 남발하는 언론은 결코 보일 수 없는 자세입니다.
+> 
+> 명백하게 정치적 의도를 가지고 조작왜곡 보도 일삼으며 정정거부하는 일부 국내 언론들이 귀감으로 삼으면 좋겠습니다.>
+> 
+> 블룸버그, '국민배당금' 보도 청와대 서한에 응답… 정정보도 고지
+
+좋아요 6,460 · 재게시 1,909 · 답글 639 · 조회 307,002 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2057253452988985549
+
+### 2026-05-20 11:18 — 사회 · 리트윗
+
+> RT @[비공개]: 🚨 하천·계곡 불법시설 지금 신고하세요!
+> 
+> 📌 자진 신고 기간: 2026. 5. 20.(수) ~ 6. 30.(화)
+> 📌 자진 신고 대상: 점용허가를 받지 않은 불법 시설물
+> ✅ 자진 신고 시
+> - 자진 철거가 가능하도록 철거…
+
+좋아요 0 · 재게시 426 · 답글 0 · 조회 11 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2056922498986569732
+
+### 2026-05-20 09:46 — 정치·국정 · 직접 작성
+
+> 박종철 열사 고문치사사건, 그로 시발된 6월 민주항쟁을 모욕하고 조롱하는 광고입니다.
+> 
+> 제보받은 것인데 진짜인지 확인해 봐야겠습니다. 
+> 여러분도 함께 확인해 봐 주십시오
+> 
+> 사실이 아니길 바라지만, 사실이라면 참으로 심각한 문제입니다
+> 
+> 돈이 마귀라지만 사람의 탈을 쓰고 이럴수가 있을까요
+
+좋아요 24,419 · 재게시 11,271 · 답글 1,105 · 조회 7,594,123 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2056899225225658622
+
+### 2026-05-20 09:06 — 일상·인사 · 직접 작성
+
+> 故 이종욱 박사님은 한국인 최초로 국제기구 수장을 맡아 세계 보건의 최전선에서 헌신하신 분입니다. 의왕시 성 라자로 마을 한센병 환자들을 돌보는 것으로 시작해 세계보건기구(WHO) 사무총장으로 재임하시며 소아마비, 결핵, 에이즈 등 인류가 직면한 치명적 질병에 맞서 국제사회의 대응을 이끌었습니다.
+> 
+> 특히 소아마비 퇴치 글로벌 캠페인을 통해 백신 보급 확대와 국제 협력 체계 강화를 주도하며 전 세계 소아마비 발생률을 획기적으로 낮추는 성과를 이루었습니다. 이는 인류 보건 역사의 새로운 전기를 마련한 것으로 평가받고 있습니다.
+> 
+> 서거 20주기를 맞아, 제네바 세계보건총회 기간 중 박사님의 업적과 헌신을 기리는 추모식이 개최됩니다. "가능한 한 많은 사람에게 가능한 최고의 건강을"이라는 박사님의 신념과 실천을 오래도록 기억하겠습니다. 대한민국은 박사님의 숭고한 뜻을 이어받아 국제사회와의 연대를 더욱 강화하고, 세계 보건 증진에 책임 있게 기여해 나가겠습니다.
+
+좋아요 5,132 · 재게시 1,031 · 답글 186 · 조회 179,193 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2056889224960655712
+
+### 2026-05-18 20:35 — 사회 · 직접 작성
+
+> 역사적인 광주 5.18 민주화운동 기념일에 광주희생자들과 광주시민들의 피어린 투쟁을 모독하는 '5.18 탱크데이' 이벤트라니..
+> 
+> 그 날 억울하게 죽어간 생명이 대체 몇이고 그로 인한 정의와 역사의 훼손이 얼마나 엄혹한데 무슨 억하심정으로 이런 짓을 저질렀을까요?
+> 
+> 대한민국 공동체와 기본적 인권, 민주주의 가치를 부정하는 이런 저질 장사치의 비인간적 막장행태에 분노합니다.
+> 
+> 마땅히 그에 상응하는 도덕적, 행정적, 법적, 정치적 책임이 주어져야 할 것입니다.
+> 
+> 5.18 유가족 피해자들에게 사과는 했습니까?
+
+좋아요 44,752 · 재게시 23,177 · 답글 1,242 · 조회 5,333,768 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2056337791546740976
+
+### 2026-05-18 19:44 — 일상·인사 · 직접 작성 · 분류 검토 대기
+
+> 불법적 국가폭력에 맞선 최후의 시민항쟁지 전남도청, 이곳에 오롯이 새겨진 흔적들이 그 날의 참혹함과 시민군의 담대한 용기를 말없이 증언하고 있습니다.
+> 
+> 오월의 광주는 이제 세계가 기억하는 인류 보편의 가치로 거듭나고 있습니다. 그 희생과 연대의 정신이 깃든 전남도청이 K-민주주의의 살아있는 성지가 될 수 있도록, 적극 뒷받침하겠습니다.
+> 
+> 많은 국민들께서 이곳을 찾아 오늘의 대한민국을 만든 민주화 영령들을 추모하고, 살아 있는 오월 정신을 직접 마주하고 가실 수 있길 바랍니다.
+
+좋아요 7,224 · 재게시 1,833 · 답글 237 · 조회 212,559 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2056325084063871479
+
+### 2026-05-18 09:23 — 사회 · 직접 작성
+
+> 자유민주적 기본질서와 자본주의적 시장경제질서를 채택한 대한민국에서는 기업만큼 노동도 존중되어야 하고, 노동권만큼 기업경영권도 존중되어야 합니다.
+> 
+> 노동자는 노무 제공에 대해 정당한 노동의 대가를 받을 수 있어야 하고, 위험과 손실을 부담하며 투자한 주주들은 기업이윤에 몫을 가집니다.
+> 
+> 한때 제헌 헌법에 노동자의 기업이익 균점권이 규정된 적도 있었습니다. 
+> 
+> 현행 헌법상 모든 국민의 기본권은 보장되지만, 본질적 내용을 침해하지 않는 범위내에서 공공복리 등을 위해 제한될 수 있습니다.
+> 
+> 양지만큼 음지가 있고 산이 높으면 골짜기도 깊은 법입니다. 
+> 과유불급 물극필반입니다.
+> 
+> 힘 세다고 더 많이 가지고 더 행복한 것이 아니라, 연대하고 책임지며 모두가 함께 잘 사는 세상이 새로운 대한민국의 미래입니다.
+
+좋아요 6,382 · 재게시 1,491 · 답글 882 · 조회 367,764 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2056168674504184063
+
+### 2026-05-18 00:53 — 외교·통상 · 직접 작성
+
+> 트럼프 미국 대통령과 통화하며 미중 정상회담 결과를 전해 듣고, 국제정세와 한미 협력 방안에 대한 의견을 교환했습니다. 우리 정부는 이번 미중 정상회담에 앞서 미중 무역협상이 한국에서 원활히 개최될 수 있도록 적극 지원한 바 있습니다.
+> 
+> 우리는 급변하는 국제 환경 속 한미 간 긴밀한 소통과 공조가 무엇보다 중요하다는 데 인식을 같이했으며, 한반도 평화와 안정을 위해 지속적으로 협력해 나가기로 뜻을 모았습니다. 
+> 
+> 또한 지난해 경주 한미 정상회담의 성과를 바탕으로 공동 설명자료(Joint Fact Sheet)를 충실히 이행해 한미 관계를 더욱 심화, 발전시켜 나갈 계획입니다.
+> 
+> 미국이 트럼프 대통령의 리더십 아래 더욱 발전하길 기원한다고 전했습니다. 트럼프 대통령 또한 위대한 대한민국 국민들께 각별한 안부를 전했습니다. 한미 관계의 미래지향적 발전을 위해 앞으로도 폭넓은 협력을 이어가겠습니다. 한미동맹의 굳건함을 다시금 확인하는 뜻깊은 시간이었습니다.
+> 
+> I had a phone call with U.S. President @realDonaldTrump and was briefed on the results of the U.S.-China summit. We also exchanged views on the international situation and ways to strengthen cooperation between the ROK and the United States. Ahead of the summit, our government provided support to ensure that the U.S.-China trade negotiations could proceed smoothly in Korea.
+> 
+> We shared the understanding that close communication and coordination between our two governments is more important than ever amid rapidly changing global circumstances, and agreed to continue working together for peace and stability on the Korean Peninsula.
+> 
+> In addition, based on the achievements of the ROK-U.S. summit held last year in Gyeongju, we plan to faithfully implement the Joint Fact Sheet in order to further deepen and advance our bilateral relations.
+> 
+> I conveyed my best wishes for the continued prosperity of the United States under President Trump’s leadership. Likewise, President Trump extended his warm regards to the great people of the Republic of Korea. We will continue to broaden our cooperation for the forward-looking advancement of ROK-U.S. relations. It was a meaningful opportunity to once again confirm the strength of the ROK-U.S. alliance.
+
+좋아요 6,026 · 재게시 1,202 · 답글 594 · 조회 426,190 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2056040326247424388
+
+### 2026-05-15 22:51 — 정치·국정 · 인용 · 분류 검토 대기
+
+> 한성숙 중기부장관님 큰 성과 감사합니다. 
+> 덕분에 실질적 창업중심 국가로 가는 길이 열리고 있습니다.
+> 2차, 3차, n차도 기대합니다.
+
+좋아요 3,451 · 재게시 754 · 답글 368 · 조회 173,174 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2055284824441852145
+
+### 2026-05-15 20:38 — 국방·안보 · 직접 작성
+
+> 대구경북통합신공항은 도심 군공항 이전을 통해 주민들의 오랜 불편을 해소하고, 국가안보 역량을 강화하는 중요한 국가적 과제입니다. 동시에 대구·경북이 국가균형발전의 중심축으로 도약하는 중대한 전환점이기도 합니다.
+> 
+> 신공항 건설 예정지인 대구 군위군과 경북 의성군을 방문해 사업 추진 현황 및 향후 계획을 보고받았습니다. 사업 장기화로 인한 재정 부담과 각종 리스크가 지방정부에 과도하게 집중되고 있는 문제점도 확인했습니다. 
+> 
+> 민·군공항을 함께 이전하는 최초 사례인 만큼, 관계 기관이 긴밀히 협력해 현실적이고 실행 가능한 대안을 마련해 주길 당부했습니다. 대구·경북의 미래가 달린 이번 사업이 안정적으로 추진될 수 있도록 정부 역시 필요한 역할을 충실히 수행하겠습니다.
+
+좋아요 3,581 · 재게시 805 · 답글 224 · 조회 96,788 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2055251374972273073
+
+### 2026-05-15 19:27 — 사회 · 직접 작성
+
+> 사적보복대행은 부탁받는 사람도 부탁하는 사람도 모두 중대범죄입니다. 
+> 
+> 사소하다 생각되는 일로 인생을 그르쳐서야 되겠습니까?
+> 
+> 현대 문명국가에서 사적분쟁은 법질서에 따라 해결해야 합니다.
+
+좋아요 4,011 · 재게시 1,024 · 답글 422 · 조회 123,224 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2055233514086559944
+
+### 2026-05-15 18:05 — 과학기술·AI · 직접 작성
+
+> 노벨경제학상을 수상하신 피터 하윗 교수님을 만나 대한민국 경제의 지속적인 성장 전략에 대해 깊이 있는 대화를 나누었습니다.
+> 
+> 대한민국이 AI, 반도체를 비롯한 첨단 기술 산업의 혁신을 선도하고 있다고 평가해 주신 점이 매우 뜻깊었습니다. 특히 연구개발 투자와 스타트업·중소기업에 대한 적극적인 지원, 그리고 성장의 혜택을 국민 모두가 함께 나누는 경제정책 방향에 대해 깊은 공감과 지지를 보내주셨습니다.
+> 
+> 글로벌 경제의 불확실성이 커질수록 국가의 역할이 더욱 중요해질 수밖에 없습니다. 혁신의 불씨를 키우며 도전하는 기업을 든든하게 뒷받침하고, 나아가 성장의 기회와 과실이 국민 삶 곳곳에 스며들 수 있도록 정부의 역량을 집중하겠습니다.
+> 
+> 피터 하윗 교수님, 앞으로도 한국 경제의 미래를 위해 아낌없는 관심과 고언을 보내주시길 기대합니다.
+
+좋아요 3,727 · 재게시 815 · 답글 265 · 조회 83,107 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2055213007144435842
+
+### 2026-05-15 16:58 — 사회 · 리트윗
+
+> RT @[비공개]: 농식품부 김민혁 주무관이라는 이름으로 보이스피싱 메시지가 발송되고 있습니다. 
+> 
+> 제 서명이 포함된 ‘농기계업체 대표 간담회’ 초청장인데요. 농식품부에는 해당 직원이 없으며, 기재된 메일 주소 또한 허위입니다. 만약 기재…
+
+좋아요 0 · 재게시 938 · 답글 0 · 조회 19 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2055196054925308120
+
+### 2026-05-15 04:16 — 경제·민생 · 직접 작성
+
+> <무조건 긴축 주장하는 분들이 나라를 생각한다면 꼭 봐야될 기사입니다.>
+> 
+>  "한국이 현재 매우 신중한 재정 정책 기조를 유지하고 있다"면서 "비록 현재 다소의 재정 확장 기조가 보이기는 하지만, 이러한 재정 확장은 매우 적절한 조치"라고 평가했다.
+> 
+>  "궁극적으로 한국의 생산성을 끌어올리는 것을 목표로 하는 구조 개혁을 뒷받침하기 위한 것이기 때문"이라고 설명했다. 그는 더불어 "한국이 직면한 인구 구조적 압박을 고려할 때, 이러한 생산성 향상은 향후 경제 성장에 있어 매우 중요한 요소가 될 것"이라고 밝혔다.
+> 
+> IMF "韓 부채 지속가능한 수준.. 증가 속도보다 전체 상황 봐야"[이상은의 워싱턴나우] - 한국경제
+
+좋아요 4,859 · 재게시 1,398 · 답글 665 · 조회 616,871 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2055004439992471954
+
+### 2026-05-14 20:15 — 재난·안전 · 직접 작성
+
+> 산업화 시대 '전 국민 잘 살기'를 목표로 큰 성과를 이룬 새마을운동은 모두가 함께 잘 사는 사회를 지향하는 우리 정부의 정책 방향과 결을 같이 합니다. 
+> 
+> 1980년 창립 이후 자연재해 피해 복구 지원, 대한민국 새단장, 차량 2부제 시행 등 변함없이 공동체를 위해 헌신해 주시는 새마을운동중앙회 여러분께 깊은 감사를 전합니다. 
+> 
+> 불확실한 국제 정세 속, 이념과 진영을 넘어 실용과 통합을 우선해야 할 시기에 찾아뵙게 되어 더욱 뜻깊습니다. 
+> 
+> 모래만으로는 그저 모래더미에 불과하지만 자갈과 시멘트, 물이 더해지면 단단한 콘크리트가 되듯, 우리가 함께 힘을 모은다면 어떤 역경이든 능히 이겨내리라 확신합니다. 
+> 
+> 근대화 역사에 큰 획을 그은 새마을운동중앙회가 앞으로도 우리 사회는 물론 국제사회에서도 의미 있는 역할을 이어가 주시길 기대합니다.
+
+좋아요 2,719 · 재게시 641 · 답글 298 · 조회 76,567 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2054883365225214052
+
+### 2026-05-14 19:19 — 외교·통상 · 직접 작성
+
+> 지난주 BTS를 보기 위해 멕시코 소칼로 광장에 수만 명이 모인 것에서 확인할 수 있듯, 우리 문화에 대한 멕시코 국민들의 관심은 매우 뜨겁습니다. 멕시코가 매년 5월 4일을 '한인 이민자의 날'로 기념하고 있으며, 중남미 최초로 한국인이 이주한 국가라는 점 또한 양국 간 오랜 교류의 역사와 우호 관계를 잘 보여줍니다.
+> 
+> 오늘 셰인바움 멕시코 대통령님과 통화를 나누며 경제, 문화, 에너지를 비롯한 다양한 분야에서 양국 협력을 강화해 나가기로 뜻을 모았습니다. 특히 이러한 협력의 성과가 양국 국민들께 실질적 혜택으로 이어질 수 있도록 한-멕시코 FTA 협상의 조속한 재개 필요성을 강조했습니다.
+> 
+> 또한 다음 달 멕시코에서 개최되는 월드컵의 성공을 온 마음으로 기원합니다. 한국과 멕시코는 같은 조에 편성되어 오는 6월 18일 예선전을 치르게 됩니다. 승패를 떠나 양국 국민이 함께 즐길 수 있는 뜻깊은 경기가 되었으면 좋겠습니다.
+> 
+> 향후 이루어질 대통령님과의 만남이 양국 간 전략적 동반자 관계를 한층 더 심화시키고, 나아가 미래 협력을 구체화하는 계기가 되길 희망합니다. 셰인바움 대통령님, 가까운 시일 내 멕시코에서 뵙겠습니다.
+> 
+> Como se podía confirmar la semana pasada cuando decenas de miles de personas se reunieron en la Plaza Zócalo de México para ver a BTS, el interés del pueblo mexicano por nuestra cultura es sumamente alto. México celebra cada 4 de mayo como el “Día del Inmigrante Coreano” y fue el primer país de América Latina al que emigraron los coreanos. Esto demuestra la larga historia de intercambios y amistad entre nuestros dos países.
+> 
+> Hoy he tenido una conversación telefónica con la Presidenta Sheinbaum del México, y coincidimos en fortalecer la cooperación bilateral en diversos sectores, tales como la economía, la cultura y la energía. Sobre todo, he subrayado la necesidad de reanudar a la mayor brevedad posible las negociaciones del TLC entre Corea y México, con el fin de que los resultados de esta cooperación puedan convertirse en beneficios reales para los pueblos de nuestros ambos países.
+> 
+> Asimismo, deseo sinceramente el éxito de la Copa Mundial que se celebrará el próximo mes en México. Corea y México estan en el mismo grupo y se enfrentarán en la fase de grupos de la Copa Mundial el próximo 18 de junio. Espero que sea un partido memorable que pueda ser disfrutado por los pueblos de ambos países, más allá del resultado.
+> 
+> Espero que el próximo encuentro con la Presidenta contribuya a profundizar aún más la asociación estratégica entre nuestros dos países y sirva como una oportunidad para materializar nuestra cooperación con miras al futuro. Presidenta @Claudiashein, espero poder verla en México en un futuro próximo.
+
+좋아요 14,050 · 재게시 2,946 · 답글 452 · 조회 368,397 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2054869198401405251
+
+### 2026-05-14 18:28 — 정치·국정 · 인용
+
+> 미국 재무장관님과의 만남을 통해 양국 간 깊은 신뢰와 협력 의지를 다시금 확인했습니다.
+> 
+> 대한민국과 미국은 서로의 성장을 뒷받침하는 가장 중요한 파트너입니다. 어려운 국제 정세 속에서도 양국이 함께 기회를 만들고, 공동 번영의 미래를 열어갈 수 있도록 긴밀히 협력해 나가겠습니다. 
+> 
+> 아울러 2028년 G20 의장국을 맡게 되는 만큼, 2026년 G20 의장국인 미국과 소통하며 대한민국 역시 국제사회에서 책임 있는 역할을 다하겠습니다.
+
+좋아요 3,862 · 재게시 780 · 답글 264 · 조회 131,134 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2054856301369557095
+
+### 2026-05-14 13:20 — 경제·민생 · 직접 작성
+
+> 법정이자 초과대출은 무효, 이자율(명목 불문) 60%이상이면 원금도 무효. 갚을 필요 없고 그렇게 빌려준 업자는 형사처벌까지 됩니다.
+> 무허가 대부업도 처벌됩니다.
+> 
+> 고리대, 도박은 망국징조입니다. 금융은 민간영업 형태이지만 국가발권력과 독과점적 인허가에 기반한 준공공사업이니, 공적책임을 다해야 합니다. 
+> 
+> 서민금융, 포용금융을 신속하게 그리고 최대한 확보하겠습니다.
+
+좋아요 4,719 · 재게시 1,401 · 답글 317 · 조회 126,946 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2054778869148946580
+
+### 2026-05-13 21:00 — 사회 · 직접 작성
+
+> 허허벌판 위에 K-조선의 기적을 일궈낸 울산에서, 우리 조선 산업의 미래를 두 눈에 담고 왔습니다.  서로 신뢰하고 협력하는 건강한 생태계야말로 대한민국의 성장을 이끌어갈 핵심 동력임을 다시 한번 확인한 시간이었습니다.
+> 
+> 글로벌 조선 산업 경쟁은 이제 개별 기업 간 경쟁을 넘어 국가 간 경쟁, '생태계 경쟁으로의 대전환'에 직면했습니다. 대기업과 중소기업, 원청과 협력사, 노동자와 기업, 정부가 서로를 든든하게 받쳐주는 구조를 만들어 낼 때, K-조선은 세계 시장에서 흔들림 없는 초격차 경쟁력을 확보할 수 있을 것입니다.  
+> 
+> 업황 사이클이 회복되는 지금이 미래를 준비할 적기입니다. 정부는 튼튼한 산업 기반을 만드는 것을 넘어, 현장의 안전과 공정한 성과 공유가 가능한 생태계 구축에 힘을 모으겠습니다. 멈추면 뒤처지는 냉혹한 글로벌 경쟁 속에서, K-조선이 한 걸음 더 빠르게 미래를 선도할 수 있도록 과감하게 뒷받침하겠습니다.
+
+좋아요 4,424 · 재게시 974 · 답글 387 · 조회 85,348 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2054532147218882655
+
+### 2026-05-13 12:16 — 경제·민생 · 직접 작성 · 분류 검토 대기
+
+> <여론조작용 가짜뉴스 안됩니다.>
+> 
+> 김용범 실장이 한 말은 'AI 부문 초과이윤으로 발생하는 국가의 초과세수를 국민배당하는 방안 검토'이고 
+> 
+> 이에 일부 언론이 이 발언을 편집하여 '김 실장이 기업의 초과이윤을 국민배당하는 방안 검토를 주장했다'는 음해성 가짜뉴스를 유포하자,
+> 
+> 김 실장이 이를 부인하고 초과세수 배당 검토 주장이었다며 해명 아닌 설명을 친절하게 하였고 관련 보도까지 났음에도 여전히 이런 음해성 보도를 하는 이유가 뭘까요?
+> 
+> 정치적 비난이나 비판도 사실에 기반하지 않으면 민주주의를 해치게 된다는 점을 반드시 기억해야 합니다.
+> 
+> "베네수엘라 떠올라"…김용범 'AI 과실 배당' 논란 - 한국경제TV
+
+좋아요 7,300 · 재게시 2,491 · 답글 1,269 · 조회 622,509 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2054400336681677149
+
+### 2026-05-12 19:44 — 정치·국정 · 인용
+
+> 정일연 국민권익위원장님을 믿습니다. 국민들의 국민권익위원회에 대한 기대를 잊지 말아 주십시오.
+
+좋아요 3,121 · 재게시 720 · 답글 279 · 조회 114,027 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2054150730706276549
+
+### 2026-05-12 18:16 — 정치·국정 · 직접 작성
+
+> <민원은 피해야 하는 귀찮은 일이 아닙니다. 국민의 공복인 공직자들이 존중하고 탐구해야 할 국민의 뜻입니다.
+> 
+> 민원 속에는 존중하고 받을어 시행해야 할 국민의 목소리가 들어있을 뿐 아니라, 국정개혁 과제들이 가득한 보물창고 같은 것입니다. 
+> 
+> 고질 만성화된 반복민원은 민원인의 삶을 황폐화시키고, 행정낭비를 초래합니다.
+> 
+> 부당한 주장을 알면서 하는 경우는 많지 않습니다. 
+> 
+> 오해나 불신 악감정은 진지한 대화와 존중으로 상당부분 해결 가능합니다.
+> 
+> 진지하고 존중하는 자세로 충분한 시간을 투자해서 깊이 대화하다보면 상당한 민원들은 정리가 됩니다.
+> 
+> 안되면 안되는 이유를 근거를 가지고 차근차근 합리적으로 설명하는 것만으로도 많은 민원들이 해소됩니다.
+> 
+> 안되는 줄 알면서 화난 민원인들을 일시적으로 무마하기 위해 하는, "함께 노력해 봅시다", "적극 검토하겠습니다"류의 회피성 희망고문은 절대 금물입니다.
+> 
+> 최선을 다하는 갈등담당 공무원 여러분 감사하며 큰 기대를 겁니다. 고맙습니다.>
+> 
+> 靑, 李대통령 의지 담아 '범정부 갈등조정담당관' 전격 가동
+
+좋아요 3,961 · 재게시 996 · 답글 430 · 조회 518,442 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2054128601268687166
+
+### 2026-05-12 17:49 — 사회 · 인용
+
+> 경찰이 잘 한 일을 국민들께 알려 드리고, 고생한 경찰의 성과를 칭찬 격려하며, 
+> 
+> 모르는 국민들이 혹여라도 이런 범죄에 연루되지 마시라고 계도하는 것입니다.
+> 
+> 그게 대통령이 할 일이기도 합니다. 
+> 
+> 오해가 없으시기 바랍니다.
+
+좋아요 5,092 · 재게시 1,362 · 답글 539 · 조회 545,090 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2054121792630067702
+
+### 2026-05-12 15:55 — 정치·국정 · 직접 작성 · 분류 검토 대기
+
+> 국민의 삶이 걸린 국정에 관하여 가짜뉴스를 만들어 유포하는 것은 장난이 아니라 형사처벌되는 범죄입니다.
+> 
+> 가짜뉴스로 사회혼란을 야기하는 것은 표현의 자유로 보호받지도 못합니다.
+> 
+> 사실에 기반한 정확한 정보의 유통, 합리적인 비판과 토론이 민주공화국을 떠받치는 대의민주주의의 핵심입니다.
+
+좋아요 6,233 · 재게시 1,787 · 답글 707 · 조회 128,861 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2054093157055472015
+
+### 2026-05-12 15:45 — 사회 · 직접 작성
+
+> 불법 성착취물 사이트 폐쇄하고 운영진 해외에서 검거후 강제귀국.
+> 
+> 이제 이런 짓 하고 해외로 숨어도 강제귀국시켜 반드시 엄벌합니다.
+
+좋아요 12,100 · 재게시 5,218 · 답글 438 · 조회 905,600 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2054090595359199458
+
+### 2026-05-12 08:06 — 경제·민생 · 직접 작성
+
+> <아직도 이런 원시적 약탈금융이 버젓이 살아남아 서민들의 목줄을 죄고 있는 줄 몰랐습니다. 
+> 지금까지 관할당국은 왜 이런 부조리를 발견조차 못하고 있었을까요? 
+> 
+> 오늘 국무회의에서 해결방안을 찾아보겠습니다. 
+> 
+> 보도에 진심으로 감사드립니다. 
+> 
+> 경제활동이나 기업의 수익활동에도 정도가 있는 것입니다. 아무리 돈이 최고라지만 함께 살아가야할 공동체안의 우리 이웃인데, 과유불급입니다.>
+> 
+> “1000만원 빚이 4400만원으로, 죽기 전엔 빚 조정 어려워”···은행도 상록수 그늘에 숨었다
+
+좋아요 6,116 · 재게시 1,824 · 답글 576 · 조회 314,026 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2053974965792444629
+
+### 2026-05-11 15:43 — 정치·국정 · 인용
+
+> 선호투표제는 제가 민주당 대표일때 결선투표제와 함께 도입했는데,
+> 
+> 1차투표에서 1등이 과반 미달일때 결선투표를 한번 더 할 필요없이, 
+> 1차투표에서 예비적으로 결선투표를 미리 해 두는 방안입니다.
+> 
+> 3인경선에서 1등, 2등 선호를 미리 투표하게 하면, 과반 미달로 결선투표를 할 경우 1차투표에서 3등에게 투표한 선거권자가 두번째로 선택한 표를 1, 2등에게 더하면 결선투표한 것과 동일한 효과가 있습니다.
+> 
+> 선호투표제는 결선투표를 위한 비용과 시간을 아끼기 위한 것인데 1차 투표에서 1, 2위를 선택한 선거권자는 결선투표에서도 동일한 선택을 하는 것으로 간주하는 한계는 있습니다.
+> 
+> 2등을 선택해 두지 않으면 본인이 1등으로 선택한 후보가 탈락한 결선투표에는 기권하는 결과가 되는 점을 숙지하시고, 오해하지 마시고 1, 2등 선호를 모두 선택하시기 바랍니다.
+> 
+> 우리나라도 대선 등의 선거에서 결선투표제를 도입할 경우 선호투표제 동시도입을 논의하게 될 것입니다.
+
+좋아요 4,304 · 재게시 1,225 · 답글 465 · 조회 236,038 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2053727635721838998
+
+### 2026-05-11 00:24 — 경제·민생 · 직접 작성
+
+> <'사실상 갭투자허용' 주장은 소위 억까에 가깝습니다.>
+> 
+> 국토부가 형평성 보장을 위해 다주택자와 동일하게,
+> 세입자 있는 1주택자에게도 매도기회를 주려고,
+> 
+> 매수인은 무주택자로 한정하고, 매수인은 기존 임차인의 잔여 임차기간이 지난 후에 입주할 수 있게 허용하되 그 기간은 최고 2년을 넘지 못하게 하려고 합니다. 
+> 
+> 임차기간 때문에 4~6개월 내 입주할 수 없어 매각하지 못하는 1주택자들에게도 매각 기회를 주되, 
+> 
+> 매수인은 2년 이내에는 반드시 보증금을 내 주고 직접 입주하라는 것입니다.
+> 
+> 잔여 임대기간, 그것도 최대 2년 이내에 보증금 포함 매매대금 전액을 지급해야 하는데, 이걸 가지고 갭투자를 허용하는 것이라고 하는 건 과해 보입니다.
+> 
+> 부동산 공화국 탈출은 우리나라의 정상화와 지속 발전을 위한 필수 과제입니다. 부동산 투기 재발하면 몇이나 득을 보겠습니까? 협조를 요청드립니다.>
+> 
+> 거래절벽 막으려… 비거주 1주택 매매 길 튼다
+
+좋아요 5,209 · 재게시 1,384 · 답글 720 · 조회 269,600 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2053496317226172703
+
+### 2026-05-09 08:05 — 정치·국정 · 직접 작성
+
+> <검찰의 조작기소를 통한 사법살인,
+> 테러범을 동원한 흉기살인,
+> 조작언론을 동원한 명예살인.
+> 
+> 이 위중한 3대살해 위협으로부터 국민 곧 하늘이 저를 살려 주셨으니 제 목숨은 이제 온전히 국민의 것입니다.
+> 
+> 하늘이 제게 생명 보전을 넘어 큰 일까지 맡겨 주셨으니 제가 할 일은 오로지 국민을 위한 나라, 오로지 국민만을 위해 작동하는 권력을 만드는 것입니다.
+> 
+> 국민 여러분,
+> 그저 고맙습니다.
+> 
+> 마지막 한 순간까지 몸이 부서지는 한이 있더라도, 국민 곧 하늘을 위해 충심과 전력을 다하겠습니다.>
+> 
+> 권익위 “이재명 대표 피습사건 헬기 전원 당시 전 부위원장 부당 개입 있었다” 인정
+
+좋아요 8,233 · 재게시 2,220 · 답글 1,330 · 조회 374,779 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2052887765864649031
+
+### 2026-05-08 18:51 — 외교·통상 · 직접 작성
+
+> 캐나다는 우리와 동맹에 준하는 핵심 우방국입니다. 6·25 전쟁 당시 수교 이전임에도 미국과 영국에 이어 세 번째로 많은 2만 7천여 명을 파병했으며, 현재도 한반도 정책을 지지하고 태평양 지역에서 공동 훈련을 실시하는 등 역내 안보 협력에 적극 참여하고 있습니다.
+> 
+> 한-캐나다 관계는 안보, 경제, 인적 교류를 아우르는 포괄적 전략 동반자로서 꾸준히 발전해 왔습니다. 양국 간 교역 규모는 FTA 발효 이후 크게 늘었고, 캐나다 내 재외동포 사회 역시 양국을 잇는 든든한 가교 역할을 하고 있습니다.
+> 
+> 오늘 마크 카니 캐나다 총리님과 통화를 나누며 안보, 경제, 에너지, 문화 등 여러 분야에서 협력을 한층 더 강화해 나가자는 데 의견을 같이했습니다. 또한 중동 정세의 평화적 해결과 호르무즈 해협 항행의 자유 보장을 위한 국제사회의 노력에도 함께 힘을 모으기로 했습니다.
+> 
+> 북태평양을 공유하는 대한민국과 캐나다가 인도-태평양 지역에서 신뢰받는 파트너로서 더욱 확고히 자리 잡아 가길 바랍니다. 앞으로 더욱 단단해질 우리의 협력과 우정을 기대합니다.
+> 
+> Canada is a key partner to Korea, comparable to an ally. Even before our two countries established diplomatic relations, Canada sent as many as 27,000 troops to support us during the Korean War. This marked the third-largest contribution, following the United States and the United Kingdom. To this day, Canada continues to support our policy toward North Korea and engages actively in regional security cooperation, including through joint exercises in the Pacific. 
+>  
+> Our bilateral relations have steadily evolved within the framework of the Comprehensive Strategic Partnership encompassing security, economic cooperation, and people-to-people exchanges. Our bilateral trade has expanded significantly since the Korea-Canada Free Trade Agreement (FTA) took effect. The Korean community in Canada continues to serve as a robust bridge connecting our two countries. 
+>  
+> In today's phone call with Prime Minister @MarkJCarney, we shared the view that our two countries should further strengthen cooperation across a wide range of areas, including security, economic cooperation, energy, and culture. We also reaffirmed our commitment to join forces in the international community's efforts toward resolving the situation in the Middle East peacefully and ensuring freedom of navigation in the Strait of Hormuz. 
+>  
+> As countries sharing the North Pacific region, I hope to see Korea and Canada further strengthening our standing as reliable partners in the Indo-Pacific region. I look forward to ever-deepening cooperation and friendship between our two countries in the years ahead.
+
+좋아요 4,921 · 재게시 1,008 · 답글 368 · 조회 98,583 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2052687861280047517
+
+### 2026-05-08 10:51 — 재난·안전 · 직접 작성 · 분류 검토 대기
+
+> <매점매석은 망하는 길입니다.>
+> 돈 좀 벌어보겠다고 매점매석하다가는 완전히 망하게 됩니다.
+> 
+> 법률상 매점매석을 하면 매점매석 대상인 물품 전체를 몰수하고, 몰수가 어려우면 그 가액을 추징합니다.
+> 
+> 필요적 몰수, 즉 몰수 추징이 의무이기 때문에 일단 발각되면 봐주고 싶어도 봐줄 수가 없습니다.
+> 
+> 들키지 않으면 된다구요? 
+> 신고 포상제로 매점매석 물건 가액의 20~30%를 포상금으로 지급하는데 안들킬 수 있을까요?
+> 
+> 이제 비정상의 시대는 저물고 정상시대가 시작되었습니다. 비정상에 기대 부당이익을 취하려다가는 큰코다치십니다.
+> 
+> 아직도 세상이 변한 걸 모르고 구시대적 사고로 망하는 길을 가는 분들이 있어 미리 알려 드립니다.
+
+좋아요 6,148 · 재게시 1,640 · 답글 605 · 조회 169,659 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2052567067501682975
+
+### 2026-05-07 21:34 — 외교·통상 · 직접 작성
+
+> 네덜란드의 롭 예튼 총리와 처음으로 통화하게 되어 매우 기쁘게 생각합니다. 
+> 
+> 양국은 1961년 수교 이래 65년간 다양한 분야에서 굳건한 파트너십을 구축해왔습니다. 특히 반도체 분야에서 양국 협력의 위상은 남다르며, 앞으로의 잠재력 또한 무궁무진합니다. 
+> 
+> 반도체 제조 강국인 대한민국과 첨단 반도체 장비에 큰 강점을 지닌 네덜란드가 지속적으로 협력한다면, 글로벌 반도체 공급망을 안정화하는 데 있어 큰 기여를 할 수 있을 것입니다. 
+> 
+> 중동 정세를 포함해 다양한 현안에 대해 예튼 총리님과 허심탄회한 의견을 나눌 수 있어 뜻깊은 시간이었습니다. 앞으로 더 긴밀히 소통하며 양국 협력의 지평을 넓혀가겠습니다. 
+> 
+> @MinPres  I was very pleased to hold my first telephone conversation with Prime Minister Rob Jetten of the Netherlands.
+> 
+> Since the establishment of diplomatic relations in 1961, our two countries have built a steadfast partnership across a wide range of fields over the past 65 years. In particular, cooperation between our countries in the semiconductor sector is truly exceptional, with boundless potential for the future as well.
+> 
+> If the Republic of Korea, a global leader in semiconductor manufacturing, and the Netherlands, which possesses significant strengths in advanced semiconductor equipment, continue to work closely together, we will be able to make a substantial contribution to stabilizing the global semiconductor supply chain.
+> 
+> It was also meaningful to exchange views with Prime Minister Jetten on a range of issues, including developments in the Middle East. Going forward, we will continue to communicate closely and further expand cooperation between our two countries.
+
+좋아요 4,538 · 재게시 868 · 답글 289 · 조회 93,556 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2052366582253535672
+
+### 2026-05-06 17:55 — 정치·국정 · 인용
+
+> 불법시설 점검 기회를 2번이나 주었는데도 누락한 곳이 있다면 심각한 문제겠지요.
+> 
+> 감찰을 철저히 해서 담당 공무원들에 대한 국민의 불신을 철저히 씻어내야 합니다.
+> 
+> 단속 기회를 두번이나 주었는데도 제대로 적발 단속하지 않았다면, 당초 예고했던 것처럼 담당 공직자들에게 직무유기 책임을 엄격히 물어야겠습니다.
+
+좋아요 5,351 · 재게시 1,291 · 답글 561 · 조회 156,750 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2051948861602795705
+
+### 2026-05-06 00:19 — 재난·안전 · 직접 작성
+
+> <보도에 감사드립니다. 내각에 이같은 구조적 부정비리를 장기간 방치한 상황에 대한 파악과 근본대책 수립, 문책방안 검토를 지시했습니다.>
+> 
+> 취재 시작하자 "문제없게 하라"…'산불 카르텔' 어디까지 https://v.daum.net/v/20260505211209139
+
+좋아요 5,153 · 재게시 1,184 · 답글 413 · 조회 200,814 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2051683259545981229
+
+### 2026-05-06 00:12 — 경제·민생 · 직접 작성
+
+> <부동산 불패? 이제 그런 신화는 없습니다. 계곡 불법시설 정비, 주식시장 정상회복처럼 대한민국 모든 것들이 정상을 되찾고 있습니다. 
+> 
+> 부동산 정상화 역시 피할 수 없는 시대적 흐름이자 반드시 해야할 국가 핵심과제입니다.>
+> 
+> 석 달 만에 뒤집힌 집값 전망… 하락론 부상 https://v.daum.net/v/20260505190356695
+
+좋아요 5,922 · 재게시 1,450 · 답글 759 · 조회 319,698 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2051681474441891984
+
+### 2026-05-05 20:31 — 정치·국정 · 직접 작성 · 분류 검토 대기
+
+> <104번째 어린이날을 맞이하며>
+> 
+> 지금은 각자의 자리에서 어엿한 어른의 모습으로 살아가고 있지만, 한때 우리는 모두 누군가의 보살핌 속에 세상을 배워가던 어린이였습니다. 5월 5일 어린이날을 맞아, 그 시절의 마음을 떠올려봅니다. 
+> 
+> 작은 것 하나에도 설레고 들뜨며, 사소한 일에도 울고 웃었습니다. 세상의 모든 것이 낯설지만 그래서 더 새롭고 신기했습니다. 무엇이든 될 수 있고, 무엇이든 할 수 있다고 믿으며, 한계보다 가능성을 먼저 바라보던 날들이었습니다.
+> 
+> 돌이켜보면, 어린이는 어른에 비해 조금 더 시간이 필요할 뿐 결코 부족하거나 미숙한 존재가 아니었습니다. 저마다의 속도로 배우고 성장하며, 자신만의 방식으로 세상을 이해해 나가는 온전한 한 사람이지요.
+> 
+> 우리가 아이들을 어떻게 바라보고, 어떻게 대하느냐에 따라 참 많은 것이 달라지리라 생각합니다. 따뜻한 시선으로 지켜보며 충분히 기다려준다면, 우리 아이들은 훗날 더 넓은 마음과 깊은 배려를 지닌 어른으로 성장할 것입니다.
+> 
+> 저 역시 어린이를 단지 보호의 대상이나 귀여운 존재로만 여기지 않고, 존엄과 인격을 지닌 한 사람으로 존중하겠다 다짐합니다. 어린이의 품위를 지켜주는 품위 있는 어른이 되기 위해 끊임없이 노력하겠습니다.
+> 
+> 오늘 하루에 그치지 않고, 1년 365일 매일이 어린이날처럼 느껴질 수 있는 사회를 만들기 위해 더욱 최선을 다하겠습니다. 대한민국의 미래인 우리 아이들이 늘 건강해 주기만을 온 마음으로 기원합니다.
+> 
+> #어린이대공원 #깜짝방문 #어린이날 #동심풀충전완료
+
+좋아요 4,908 · 재게시 968 · 답글 330 · 조회 103,658 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2051625710360616991
+
+### 2026-05-05 19:28 — 경제·민생 · 직접 작성
+
+> <시도 때도 없이 긴축 노래 부르는 이상한 분들에게..>
+> 
+> 연구소는 “국채를 통해 조달한 재원이 경제성장률을 높이고, 사회적 생산성·잠재성장률·미래 세입 기반을 확대하는 투자로 이어진다면 국가부채 비율은 오히려 안정될 수 있다”고 했다.
+> 
+> IMF “올해 한국 순부채비율 10.3%…G20 평균보다 79.3%p 낮아”
+
+좋아요 5,205 · 재게시 1,465 · 답글 449 · 조회 263,905 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2051609967262679294
+
+### 2026-05-04 19:30 — 정치·국정 · 직접 작성
+
+> <Loading... 잼블록스>
+> 
+> [ERROR] '공부 스트레스'가 감지되었습니다
+> [SUCCESS] 5월 5일 숙제 프리존 가동
+> 
+> 5월 5일, 잊지 말고 ㄱㄱ 👧🏻👦🏻
+> 
+> #어린이날 #잼블록스 #청와대
+
+좋아요 5,819 · 재게시 1,251 · 답글 685 · 조회 167,850 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2051247998999658714
+
+### 2026-05-03 18:00 — 외교·통상 · 직접 작성
+
+> 프라보워 대통령님이 선물해 주신 옷을 입은 🐶바비
+> 
+> 새 옷 입고 신나게 놀다가 지쳐 휴식 중..ㅎㅎ
+> 
+> 인도네시아 🐱바비도 건강히 잘 지내고 있겠지요?
+> 
+> Bobby pakai baju hadiah dari Presiden Prabowo (@prabowo)
+> 
+> Habis seru-seruan pakai baju baru, sekarang capek dan lagi istirahat.. hehe
+> 
+> Bobby di Indonesia juga sehat-sehat aja kan?
+> 
+> #데일리바비 #ootd #DailyBobby
+
+좋아요 5,428 · 재게시 1,089 · 답글 433 · 조회 142,244 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2050862936328192330
+
+### 2026-05-03 10:18 — 일상·인사 · 인용
+
+> 조정식 특보님 그간 수고 많으셨습니다.
+> 언제나 함께 해 주셨는데 진심으로 감사드립니다.
+
+좋아요 4,437 · 재게시 926 · 답글 231 · 조회 158,728 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2050746824303301012
+
+### 2026-05-03 09:50 — 경제·민생 · 인용
+
+> 법정 허용치를 초과하는 불법대부는 무효입니다.
+> 즉 갚지 않아도 무방합니다.
+
+좋아요 5,538 · 재게시 1,770 · 답글 361 · 조회 201,388 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2050739830909485382
+
+### 2026-05-01 12:15 — 정치·국정 · 인용
+
+> 단기간에 국민의 피해가 줄어 참으로 다행입니다. 
+> 
+> 모두 경찰 국정원 외교부 등 일선 공직자들의 헌신 덕분입니다.
+> 
+> 수고 많으셨습니다. 
+> 감사합니다.
+> 
+> 피해가 0이 될 때까지 좀 더 노력해야겠지요?
+> 
+> 우리 공직자들 꼭 그렇게 할 것입니다. 
+> 
+> 많이 격려해 주시면 좋겠습니다.
+
+좋아요 7,399 · 재게시 1,779 · 답글 640 · 조회 217,303 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2050051566221373500
+
+## 2026년 4월 (66건)
+
+### 2026-04-30 22:38 — 경제·민생 · 인용
+
+> <이재명은 합니다!>
+> 
+> 약속하면 지킵니다!
+> 
+> 지킬 수 있는 약속만 합니다!
+> 
+> HMM 부산 이전, 
+> 이재명은 했습니다!
+
+좋아요 6,442 · 재게시 1,420 · 답글 631 · 조회 200,597 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2049845852416745863
+
+### 2026-04-30 22:28 — 정치·국정 · 인용
+
+> 우리 허은아 비서관님 
+> 청와대에서 맡겨진 일 잘 하고 계십니다.
+> 
+> 그런데 뼈를 묻지는 마세요.
+> 그 전에 제가 이미 청와대를 떠날 듯..
+
+좋아요 7,217 · 재게시 1,278 · 답글 694 · 조회 355,254 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2049843430726222250
+
+### 2026-04-30 20:00 — 일상·인사 · 직접 작성 · 분류 검토 대기
+
+> <HMM 노사가 부산 이전에 합의했습니다. 그동안 어려운 협상을 이어온 노사 양측 모두 고생 많으셨습니다. 무엇보다 대승적 결단을 내려주신 HMM 임직원 여러분께 깊은 감사를 전합니다.
+> 
+> 이번 합의가 우리나라 해운산업의 경쟁력을 높이고, 지역 균형 발전에도 기여하는 계기가 되길 기대합니다. 정부 역시 HMM이 세계적 해운기업으로 자리매김할 수 있도록 필요한 지원을 아끼지 않겠습니다.
+> 
+> 건설적 논의를 이어가며 이전 작업을 원활히 마무리해 주시리라 믿습니다. 고맙습니다.>
+
+좋아요 5,663 · 재게시 1,417 · 답글 253 · 조회 102,461 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2049806068579279348
+
+### 2026-04-30 13:00 — 사회 · 직접 작성
+
+> <인면수심의 가짜뉴스 모욕적 댓글은 엄벌해 마땅합니다. 향후에도 가짜뉴스나 2차가해 댓글 등에는 경찰 전담팀이 엄정하게 대응할 것입니다>
+> 
+> 댓글로 세월호·이태원 참사 피해자 조롱한 50대 남성 구속. 
+> 
+> 경찰 "무관용 원칙" https://v.daum.net/v/20260430122149929
+
+좋아요 5,371 · 재게시 1,587 · 답글 471 · 조회 169,796 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2049700452749742412
+
+### 2026-04-29 20:11 — 정치·국정 · 리트윗
+
+> RT @[비공개]: 어제 국무회의에서 현장체험학습 관련한 대통령의 발언의 일부를 두고, 교사 개인에게 책임을 전가하는 것 아니냐는 많은 의견이 있었습니다. 
+> 청와대 강유정 수석 대변인은 “현장학습 중 발생한 안전사고로부터 오히려 교사를 두…
+
+좋아요 0 · 재게시 487 · 답글 0 · 조회 59 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2049446564385751103
+
+### 2026-04-28 20:13 — 국방·안보 · 직접 작성
+
+> 충무공 이순신 장군 탄신 제481주년을 맞아 장군의 숭고한 정신과 숨결이 깃든 현충사를 찾았습니다.
+> 
+> 이순신 장군께서는 흔들림 없는 신념과 헌신으로 국난을 극복하고 조국을 지켜내셨습니다. 수많은 고난과 역경 속에서도 끝까지 자신의 소명을 다하셨던 장군의 삶을 되새겨봅니다.
+> 
+> 불확실한 국제정세 속 지금 우리가 마주한 도전 또한 결코 가볍지 않습니다. 그러나 우리가 서로를 믿으며 힘을 모아 나아간다면 어떠한 어려움도 반드시 극복할 수 있을 것입니다.
+> 
+> 이순신 장군의 정신을 등불로 삼아 국민 통합의 힘을 더욱 굳건히 하고, 이를 바탕으로 오늘의 위기를 새로운 도약의 기회로 바꿔 나가겠다 다짐합니다.
+
+좋아요 6,553 · 재게시 1,344 · 답글 533 · 조회 126,142 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2049084567706071396
+
+### 2026-04-28 00:57 — 정치·국정 · 인용
+
+> 조세정의는 매우 중요한 가치입니다.
+> 
+> 국회의원 버리고 국세청장을 맡아주신 임광현 청장님 열일 해 주셔서 감사합니다.
+
+좋아요 6,780 · 재게시 1,643 · 답글 537 · 조회 223,544 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2048793638931771687
+
+### 2026-04-26 15:10 — 정치·국정 · 직접 작성 · 분류 검토 대기
+
+> 오늘 백악관 기자단 만찬에서 발생한 폭력 사태에 충격을 금할 수 없습니다. 무엇보다 언론과의 소통과 표현의 자유를 확인하는 자리에서 이와 같은 일이 발생했기에 더욱 안타깝습니다. 
+> 
+> 도널드 트럼프 대통령 내외를 비롯해 현장에 계셨던 모든 분들이 무사하다는 소식에 안도하며, 미국 국민 여러분께도 깊은 위로의 마음을 전합니다.
+> 
+> 정치적 폭력은 민주주의의 근간을 훼손하는 중대한 위협이며, 어떠한 이유로도 결코 정당화될 수 없습니다. 대한민국 정부는 민주주의와 법치주의의 가치를 훼손하는 모든 형태의 폭력과 극단주의에 단호히 반대합니다.
+> 
+> I am deeply shocked by the violent incident at the White House Correspondents’ Dinner tonight. It is especially regrettable that such an incident occurred at an event meant to reaffirm the role of the press and freedom of speech.
+> 
+> I am relieved to hear that President Donald Trump and the First Lady, as well as all those present, are safe. I offer my deepest sympathies to the American people.
+> 
+> Political violence is a grave threat that undermines the very foundation of democracy and can never be justified under any circumstances. The Government of the Republic of Korea firmly opposes all forms of violence and extremism that erode the values of democracy and the rule of law.
+
+좋아요 7,146 · 재게시 1,223 · 답글 925 · 조회 372,368 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2048283659518787826
+
+### 2026-04-25 15:19 — 사회 · 직접 작성
+
+> <공동체의 위기를 이용해 위기를 악화시키며 돈벌이하는 이런 반사회적 행태는 엄중하게 단죄할 것입니다.
+> 
+> 지속적 단속은 물론 발각된 위반행위에 대해서는 신속한 수사와 엄벌, 최대치의 행정제재 등 최대한의 사후조치를 내각에 지시했습니다.
+> 
+> '혼자 잘 살면 뭔 재민겨? 같이 삽시다.'>
+> 
+> 창고에 13만개, 단골에 59배 납품…'주사기 매점매석' 무더기 적발(종합)
+
+좋아요 6,798 · 재게시 1,986 · 답글 618 · 조회 1,219,983 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2047923337326927902
+
+### 2026-04-24 15:51 — 외교·통상 · 답글
+
+> Hàn Quốc và Việt Nam là đối tác hợp tác kinh tế quan trọng không thể tách rời của nhau. Đặc biệt, Hàn Quốc đã và đang không ngừng đóng góp cho sự phát triển công nghiệp và tạo việc làm cho người lao động với tư cách là nhà đầu tư lớn nhất của Việt Nam. Tôi cho rằng những thành quả này không chỉ nhờ có sự nỗ lực của Chính phủ hai nước mà còn nhờ có sự thiết lập nền tảng chính sách nhất quán và ổn định cũng như sự hỗ trợ tích cực của Quốc hội Việt Nam.
+> 
+> Cuộc hội kiến Ngài Trần Thanh Mẫn, Chủ tịch Quốc hội nước Cộng hoà xã hội chủ nghĩa Việt Nam mới tái đắc cử với sự tín nhiệm của nhân dân Việt Nam là dịp để tái khẳng định rằng quan hệ hai nước đã vượt qua sự hợp tác kinh tế đơn thuần và phát triển thành quan hệ Đối tác chiến lược toàn diện hơn. 
+> 
+> Tôi hy vọng hợp tác giữa Quốc hội hai nước trong thời gian tới sẽ diễn ra sôi nổi hơn, góp phần củng cố quan hệ hai nước Hàn Việt lên một tầm cao mới dưới sự lãnh đạo của Ngài Chủ tịch. Với tư cách là Tổng thống Đại Hàn Dân Quốc, tôi sẽ nỗ lực vì sự phát triển và thịnh vượng chung của hai nước.
+
+좋아요 1,353 · 재게시 225 · 답글 42 · 조회 52,802 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2047569199095263636
+
+### 2026-04-24 15:51 — 외교·통상 · 답글
+
+> Tôi đã hội kiến Ngài Lê Minh Hưng, Tân Thủ tướng Chính phủ nước Cộng hoà xã hội chủ nghĩa Việt Nam. Chúng tôi đã có thời gian trao đổi sâu sắc về phương hướng hợp tác và tầm nhìn tương lai giữa hai nước, đồng thời củng cố hơn nữa sự tin cậy lẫn nhau.
+> 
+> Trước hết, tôi đã đề nghị Ngài Thủ tướng dành quan tâm đặc biệt để các doanh nghiệp Hàn Quốc đầu tư tại Việt Nam có thể tiếp tục hoạt động kinh doanh trong điều kiện ổn định hơn. Hàn Quốc sẽ đóng góp cho mục tiêu phát triển kinh tế mà Việt Nam đang hướng tới với tư cách là đối tác đáng tin cậy.
+> 
+> Tôi cho rằng trong bối cảnh tình hình chính trị thế giới thay đổi nhanh chóng và môi trường kinh tế đối ngoại không mấy dễ dàng, kinh nghiệm dày dạn và sự thấu suốt của Ngài Thủ tướng, người đã từng trên cương vị Thống đốc Ngân hàng nhà nước sẽ giúp ích cho việc dẫn dắt sự ổn định và thịnh vượng của nền kinh tế Việt Nam. Hàn Quốc sẽ đồng hành cùng hành trình rực rỡ đó.
+
+좋아요 1,210 · 재게시 224 · 답글 30 · 조회 43,243 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2047569080773947445
+
+### 2026-04-24 10:08 — 정치·국정 · 직접 작성
+
+> <한국신문상 심사위원회는 “대장동 이슈 보도에서 지속적으로 파괴력 있는 팩트를 발굴했다”며 수상 사유를 밝혔다고 합니다.
+> 
+> 그러나 사실은 팩트발굴이 아니라 엄청난 조작을 한 것입니다.
+> 
+> 대장동 녹취록에 있지도 않은 "그 분" 이재명을 창조하여 보도함으로써 지난 대선에서 민주당 대선후보를 낙선 시키고 대한민국 역사를 바꾸었습니다. 
+> 
+> 이로 인해 나라는 후퇴하고 국민들은 엄청난 고통을 겪었고 지금도 그 후과는 계속되고 있습니다. 
+> 
+> 이제라도 수상을 취소 반납하고 사과 및 보도 정정하는 게 마땅하지 않을까요?
+> 
+> 다시는 권력기관과 언론에 의한 대선조작으로 역사를 바꾸는 일이 있어서는 안되기 때문입니다.
+
+좋아요 7,012 · 재게시 2,146 · 답글 789 · 조회 185,622 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2047482898811703443
+
+### 2026-04-24 09:55 — 경제·민생 · 직접 작성
+
+> <"소득 있는 곳에 세금 있다". 열심히 일해 번 돈에도 근로소득세 내는데, 주택양도소득에 양도세 내는 건 당연합니다.
+> 
+> 1주택을 보호하려면 실거주기간에 대한 양도세 감면은 필요하지만, 살지도 않으면서 투자용으로 사 오래 투자했다는 이유만으로(더구나 고가주택에) 양도세를 깎아주는건 주거보호정책이 아니라 '주택투기권장정책'입니다.
+> 
+> 전국  아니 전세계에서  서울 강남중심으로 "똘똘한 한 채 사기' 투기를 확산시키고 집값을 연쇄 폭등시킨 사람들, 이들을 비호하는 사람들은 대체 누구일까요?
+> 
+> 살 지도 않을 집에 오래 투기했다고 세금 깎아주는 비정상을 정상화 하는게 세금폭탄입니까?
+> 
+> 잠시 조용하다 싶더니 부동산 투기조장 세력이 다시 활동을 시작하는 모양입니다.
+> 
+> 일부 야당이 낸 장특공제제한 법안은 정부와 무관한데도 마치 대통령이 낸 법안인 것처럼 조작해 공격하고 있습니다.
+> 
+> 1주택자의 주거를 제대로 보호하려면, 비거주보유기간에 대한 감면을 축소하고 그만큼 거주보유기간에 대한 감면을 더 늘리는 게 맞을 겁니다. 
+> 
+> 비정상의 정상화, 부동산투기 탈출은 이 나라의 최후 생존전략입니다. 집값이 안정되야 보금자리 만들어 결혼도 하고, 아이도 낳아 기를 거 아닙니까?
+> 
+> 여러분 생각은 어떠신지, 댓글 부탁드립니다.>
+> 
+> "이러면 누가 집 사나"…'장특공제 폐지' 논란에 시장 혼란
+
+좋아요 6,138 · 재게시 1,686 · 답글 1,174 · 조회 309,782 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2047479510476689891
+
+### 2026-04-23 23:55 — 경제·민생 · 직접 작성
+
+> 한국과 베트남은 서로에게 없어서는 안 될 중요한 경제 협력 파트너입니다. 특히 한국은 베트남의 최대 투자유치국으로서, 산업 발전과 일자리 창출에 꾸준히 기여해 왔습니다. 이와 같은 성과는 양국 정부뿐 아니라 베트남 국회가 일관되고 안정적인 제도적 기반을 마련하며 적극적으로 뒷받침해 준 덕분이라고 생각합니다.
+> 
+> 베트남 국민들의 신뢰 속에 재선출되신 쩐 타잉 먼 국회의장님과의 만남은 양국 관계가 단순한 경제 협력을 넘어 보다 포괄적이고 전략적인 동반자 관계로 발전하고 있음을 다시금 확인하는 자리였습니다.
+> 
+> 앞으로도 의장님의 리더십 아래 양국 국회 간 협력이 더욱 활발히 이루어지고, 이를 통해 한-베 관계가 한층 더 공고해지길 기대합니다. 저 역시 대한민국 대통령으로서 양국의 상생과 공동 번영을 위해 노력해 나가겠습니다.
+
+좋아요 4,426 · 재게시 826 · 답글 291 · 조회 109,299 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2047328436092543094
+
+### 2026-04-23 23:45 — 경제·민생 · 직접 작성
+
+> 얼마 전 새로 선출되신 레 밍 흥 베트남 총리님을 찾아 뵈었습니다. 양국 간 협력의 방향과 미래 비전에 대한 깊이 있는 의견을 나누며 상호 신뢰를 더욱 공고히 하는 시간이었습니다.
+> 
+> 가장 먼저, 베트남에 진출한 우리 기업들이 보다 안정적인 환경 속에서 경영 활동을 이어갈 수 있도록 각별한 관심을 부탁드렸습니다. 대한민국 역시 베트남이 지향하는 경제 발전 목표 달성에 신뢰할 수 있는 동반자로서 기여해 나갈 것입니다.
+> 
+> 급변하는 국제정세와 녹록지 않은 대외 경제 환경 속, 과거 중앙은행 총재를 역임하신 총리님의 풍부한 경험과 통찰이 베트남 경제의 안정과 번영을 이끄는 데 큰 도움이 되리라 생각합니다. 그 빛나는 여정에 대한민국이 함께하겠습니다.
+
+좋아요 4,390 · 재게시 740 · 답글 248 · 조회 127,355 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2047325931203932455
+
+### 2026-04-23 11:37 — 일상·인사 · 직접 작성
+
+> 어제저녁, 또 럼 베트남 당서기장님께서 베풀어 주신 만찬에 참석했습니다.
+> 
+> "백 개의 강이 모여 하나의 바다를 이룬다"라는 베트남의 속담처럼, 대한민국을 가로지르는 한강과 하노이를 품고 있는 홍강이 하나로 이어진 뜻깊은 시간이었습니다.
+> 
+> 양국이 함께 나눈 비전과 약속은 수많은 협력의 물줄기가 되어 흐르고, 마침내 양국 번영이라는 바다에서 만나게 될 것입니다. 그 위대한 항해에, 대한민국이 변함없는 동반자로 베트남과 함께하겠습니다.
+> 
+> 다시 한번 또 럼 당서기장님과 베트남 국민 여러분의 뜨거운 환대에 감사 인사를 전합니다. Xin cảm ơn!
+
+좋아요 4,873 · 재게시 901 · 답글 284 · 조회 133,972 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2047142776886919473
+
+### 2026-04-23 08:00 — 문화·체육 · 직접 작성
+
+> 호치민 주석 묘소 앞에 서서 한 나라의 독립과 건국을 이끈 위대한 지도자의 삶을 되새겨보았습니다. 자주 역량을 키워 국가의 더 나은 내일을 만들어가고자 했던 그의 철학은 오늘날 베트남이 이룩한 발전의 토대이자 베트남 국민들의 무한한 자긍심이리라 생각합니다.
+> 
+> 대한민국과 베트남은 서로의 성장을 응원하며 새로운 상생의 미래를 열어가고 있습니다. 수많은 베트남 청년들이 우리 기업에서 기술을 배우고, 한국의 문화와 콘텐츠는 베트남 국민들의 자연스러운 일상이 되었으며, K-푸드 역시 하노이 거리를 채우고 있습니다. 
+> 
+> 우리는 앞으로도 지속 가능한 공동 번영의 길을 함께 개척해 나갈 것입니다. 상호 역사와 문화를 존중하는 가운데, 양국의 협력 관계가 더욱 성숙하고 미래지향적으로 발전해 나가길 기대합니다.
+
+좋아요 5,519 · 재게시 972 · 답글 281 · 조회 145,655 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2047088060421312874
+
+### 2026-04-23 01:53 — 외교·통상 · 직접 작성 · 분류 검토 대기
+
+> 한국과 베트남은 닮은 점이 참 많습니다. 외세의 시련을 이겨내고 스스로의 힘으로 나라를 일으켜 세웠고, 분단과 전쟁의 아픔을 겪고도 다시 일어섰습니다. 이러한 공통의 경험은 오늘날 양국 관계의 단단한 토대가 되고 있습니다.
+> 
+> 우리는 서로에게 가장 중요한 교역 파트너로 자리 잡았고, 경제, 문화, 인적 교류 전반에 걸쳐 긴밀한 협력을 이어가고 있습니다. 뿐만 아니라 수많은 기업이 함께 양국의 미래를 설계하며 그 어느 때보다 역동적으로 성장하고 있습니다.
+> 
+> 오늘의 한-베트남 관계를 만든 주역은 바로 재외동포 분들입니다. 약 20만 명 규모로 성장한 베트남 한인 사회는 아세안 최대이자 세계적으로도 손꼽히는 공동체가 되었습니다. 현지에서의 조화로운 공존과 상생을 위해 애써주시는 동포 여러분께 깊은 존경과 감사를 전합니다. 
+> 
+> 낯선 이국 땅에서 땀 흘리며 살아가고 계신 재외동포 여러분을 뵐 때마다 늘 마음이 뭉클해집니다. 자랑스러운 동포 여러분의 든든한 버팀목이 될 수 있도록 정부 역시 더욱 노력하겠습니다. 함께한 시간 덕분에 큰 힘을 얻었습니다. 고맙습니다.
+
+좋아요 5,700 · 재게시 1,077 · 답글 311 · 조회 119,916 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2046995832113975599
+
+### 2026-04-23 00:44 — 문화·체육 · 직접 작성
+
+> '베트남 히딩크' 박항서 전 베트남 국가대표 축구팀 감독님은 베트남 국민들에게 전설로 불리신다고 하지요. 그 바통을 이어받아 새로운 도전에 나서고 계신 우리 김상식 감독님께서도 좋은 성과를 만들어가시길 응원합니다.
+> 
+> 두 분과 이야기를 나누며 축구가 단순한 스포츠를 넘어 사람과 사람, 나라와 나라를 이어주는 가교라는 점을 다시금 느꼈습니다. 그라운드 위에서 한국과 베트남의 우정을 굳건히 다져주셔서 진심으로 고맙습니다 ^^
+> 
+> #박항서 #김상식 #BongDaVietNam #TuyenVietNam
+
+좋아요 5,160 · 재게시 871 · 답글 154 · 조회 126,053 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2046978537610186976
+
+### 2026-04-22 16:35 — 과학기술·AI · 인용
+
+> 지구 지키기,
+> 우리 대한민국도 함께 합니다.
+
+좋아요 4,321 · 재게시 846 · 답글 358 · 조회 138,111 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2046855471479595506
+
+### 2026-04-21 16:06 — 일상·인사 · 직접 작성 · 분류 검토 대기
+
+> 어제 저녁, 드라우파디 무르무 인도 대통령께서 베풀어 주신 만찬에 참석해 뜻깊은 시간을 보냈습니다. 
+> 
+> 사회적 제약과 개인적 어려움을 극복하고 공동체와 소외계층을 위해 헌신해 오신 대통령님의 삶에 깊은 감명을 받았습니다. 오늘날 인도가 보여주는 자신감 역시 대통령님의 용기와 비전에서 비롯된 것임을 느낄 수 있었습니다.
+> 
+> 대한민국과 인도의 가능성은 무궁무진합니다. 이제 우리는 정치와 경제를 넘어, 서로의 미래를 함께 만들어가는 든든한 동반자로 나아갈 것입니다.
+> 
+> 무르무 대통령님과 인도 국민 여러분의 따뜻한 환대에 다시 한번 깊은 감사를 전합니다. धन्यवाद!
+
+좋아요 9,063 · 재게시 1,268 · 답글 406 · 조회 261,902 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2046485641836548354
+
+### 2026-04-21 02:17 — 외교·통상 · 인용
+
+> 대한민국과 인도는 신뢰와 우의를 바탕으로 번영하는 미래를 함께 열어갈 것입니다.
+> 
+> 모디 총리님의 환대에 감사드리며, 총리님의 국빈방한을 손꼽아 기다리겠습니다.
+
+좋아요 6,579 · 재게시 1,201 · 답글 284 · 조회 154,116 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2046276978609918289
+
+### 2026-04-20 20:25 — 외교·통상 · 직접 작성
+
+> <정 정관 '구성 핵시설' 발언 이전에 구성 핵시설 존재사실은 각종 논문과 언론보도로 이미 전 세계에 널리 알려져 있었던 점은 명백한 팩트입니다. 
+> 
+> 정 장관이 '미국이 알려준 기밀을 누설'했음을 전제한 모든 주장과 행동은 잘못입니다.
+> 
+> 대체 왜 이런 터무니없는 일이 벌어지고 있는지 자세히 알아봐야겠습니다.>
+> 
+> 정동영 내쫓으려 '한미 관계'까지 볼모?  鄭 "공개 정보 수 차례 언급…느닷없이 나온 저의 의심"
+
+좋아요 5,682 · 재게시 1,561 · 답글 584 · 조회 389,844 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2046188519811654111
+
+### 2026-04-20 19:26 — 사회 · 직접 작성
+
+> 인도 간디 추모공원에서 '인류의 양심'이라 불리는 마하트마 간디의 숭고한 정신을 되새겨봅니다. 억압과 차별에 맞서 싸우면서도 증오가 아닌 사랑과 이해를 택했던 그의 철학은 갈등과 분열이 반복되는 오늘의 국제정세 속 더욱 깊은 울림으로 다가옵니다.
+> 
+> 대한민국 역시 수많은 도전과 시련에도 평화와 민주주의, 인권의 가치를 지켜내기 위해 끊임없이 노력해 왔습니다. 서로 다른 역사와 문화를 지니고 있지만, 양국은 이러한 보편적 가치를 바탕으로 서로를 이해하고 존중하며 함께 발전해가고 있습니다.
+> 
+> 앞으로도 우리는 상호 신뢰를 토대로 국제사회에서 책임 있는 파트너로서의 역할을 충실히 수행하며, 인류 공동의 번영과 평화를 향해 더욱 긴밀히 협력해 나갈 것입니다. 한국과 인도가 함께 열어갈 빛나는 미래를 기대합니다.
+
+좋아요 4,852 · 재게시 961 · 답글 162 · 조회 101,964 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2046173704489779392
+
+### 2026-04-20 12:13 — 외교·통상 · 직접 작성
+
+> 인도 순방 첫 일정으로 낯선 땅에서 대한민국의 위상을 높이고 계신 자랑스러운 재외동포 여러분께 인사드렸습니다. 고국을 떠나 새로운 환경 속에서 삶의 터전을 일구어 오신 동포 여러분의 노력과 헌신에 경의를 표합니다. 
+> 
+> 중동 전쟁의 여파로 공급망 불안과 글로벌 경제 위기가 이어지는 가운데, 대한민국과 인도는 서로에게 더욱 중요한 전략적 동반자로 자리하고 있습니다. 이번 정상회담을 계기로 우리의 관계가 한층 더 깊어지고 넓어지길 기대합니다.
+> 
+> 이럴 때일수록 두 나라를 이어주는 재외동포 여러분의 역할이 매우 중요합니다. 현지에서 쌓아오신 신뢰와 경험을 바탕으로, 앞으로도 양국 관계 발전에 든든한 원동력이 되어주시길 부탁드렸습니다. 
+> 
+> 따뜻하게 맞아주신 덕에 큰 힘을 얻었습니다. 대한민국 대도약의 주역이신 동포 여러분께서 어디에 계시든 우리 국민으로서 존중받으며 안전하게 생활하실 수 있도록 정부 역시 더욱 세심히 살피겠습니다. 다시 한번 깊은 감사를 전합니다.
+
+좋아요 6,024 · 재게시 1,107 · 답글 253 · 조회 116,500 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2046064733338616197
+
+### 2026-04-20 11:01 — 정치·국정 · 직접 작성 · 분류 검토 대기
+
+> 세계 최대인구 초고속 성장국가 인도입니다.
+> 
+> 잘 찾아보면, 억지로 뺏지 않아도 양국 모두에 이익되는 일들이 참 많습니다.
+> 
+> 평화와 민주주의를 사랑하는 인도와 함께 찬란한 미래를 열어갑시다.
+> 
+> 잘 챙겨 돌아가겠습니다.
+
+좋아요 8,746 · 재게시 1,585 · 답글 517 · 조회 217,568 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2046046460102525142
+
+### 2026-04-20 11:00 — 일상·인사 · 인용
+
+> 이 회장님은 저와 같은 검정고시 동문이시고, 
+> 성남에 사셨고 
+> 심지어…
+> 
+> 제가 어릴때 다녔던 오리엔트 시계공장에도 다니셨답니다. 다만 제가 대학에 들어가면서 그만둔 후라서 당시 만나지는 못했다네요.
+
+좋아요 7,246 · 재게시 1,537 · 답글 251 · 조회 317,469 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2046046271581065426
+
+### 2026-04-18 12:25 — 경제·민생 · 직접 작성
+
+> <'장특공제 폐지는  집 한 채 가진 실거주 국민에게 세금 폭탄 안기는 것'이라구요?>
+> 
+> 부당한 목적을 감춘 잘못된 자기주장을 합리화 하려고 이런 거짓말로 국민을 속여서는 안됩니다. 특히 공적책임을 가진 정치인과 언론인이라면.
+> 
+> 양도세 장기보유특별공제는 '거주여부와 무관하게' 오로지 장기보유했다는 사유만으로 양도세를 대폭 깎아 주는 제도입니다. 장기거주에 대해 양도세를 깎아 주는 제도는 따로 있습니다.
+> 
+> 따라서 '장특공제 폐지는 실거주 1주택자에게 세금폭탄'이라는 주장은 논리모순이자 명백한 거짓선동입니다.
+> 
+> 거주할 것도 아니면서 돈 벌기 위해 사둔 주택값이 올라 번 돈에 당연히 낼 세금인데, 오래 소유했다는 이유로 왜 대폭 깎아줘야 하나요?
+> 
+> 부동산 투기 옹호하는 사람이 아니라면 오래 소유했다는 이유로 양도소득세를 깎아주라고 주장할 이유가 없습니다. 차라리 그 돈으로 오래 일한 사람 근로소득세 깎아 주는게 더 낫지 않을까요?
+> 
+> 성실한 1년간 노동 댓가인 근로소득이 10억 넘으면 거의 절반을 세금으로 내는데, 부동산 투기불로소득은 수십, 수백억이라도 오래 보유했다는 이유만으로(거주와 무관하게) 세금을 대폭 깎아주는 건 정의와 상식에 어긋납니다.
+> 
+> 장특공제 폐지가 매물잠김을 불러올 거라구요?
+> 
+> 갑자가 전면 폐지하면 그럴 수도 있겠지만, 점진적 단계적으로 폐지해 팔 기회를 주면 다 해결되겠지요. 예를 들어 공제폐지를 하되 6개월간은 시행유예, 다음 6개월간은 절반만 폐지, 1년후에는 전부폐지 이런 방식으로 빨리 파는 사람이 이익이 되게 하면 매물 잠김이 아니라 매물 유도가 될 것입니다.
+> 
+> 거기다가 장특공제 부활 못하도록 법으로 명시해두면 정권교체 되더라도 대통령이 맘대로 못바꿀테니 버티는게 의미가 없어지겠지요.
+> 
+> 실거주 1주택, 직장 등 이유로 일시적으로 비거주한 실주거용 1주택 등 정당한 보유주택 외에, 투자 투기용부동산의 보유부담을 선진국 수준으로 강화하면 버틸수록 손실이 되겠지요?
+> 
+> 부동산 투기용 대출은 전면봉쇄하고 기 대출금도 엄격히 회수하며, 보유부담도 정상화 되면 지금의 지나치게 높은 부동산 가격은 정상화 될 수밖에 없습니다. 
+> 
+> 지금까지 부동산이 거의 유일한 자산증식수단이었지만 이제는 훌륭한 대체수단도 생겨나고 있습니다.
+> 
+> 이런 위험과 부담을 안고 끝까지 버틴다구요? 결정은 자유지만, 경제적 이익 손실은 잘 계산해야 할 것입니다.
+> 
+> "올 것이 왔다"⋯장특공제 폐지 논의에 1주택자 세금 '폭탄' 우려
+
+좋아요 7,109 · 재게시 1,922 · 답글 1,245 · 조회 458,184 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2045342832756687055
+
+### 2026-04-17 23:31 — 외교·통상 · 직접 작성
+
+> 호르무즈 해협 자유항행에 관한 화상 정상회의에 참석했습니다.
+> 
+> 대한민국은 원유 수입의 약 70%를 호르무즈 해협에 의존하는 핵심 이해 당사국입니다. 해당 해역의 안정과 항행의 자유 보장은 우리 경제와 국민 생활에 직결되는 중대한 사안입니다.
+> 
+> 글로벌 책임강국으로서, 국제법에 기반한 해협 내 항행의 자유 보장을 위해 책임 있는 역할을 수행해 나가겠습니다. 아울러 향후 상황 변화에 대비해 외교·군사적 협력 증진 방안도 적극 모색할 계획입니다.
+> 
+> 자유로운 국제 통항 원칙과 글로벌 공급망 안정에 기여하기 위한 국제사회의 노력에 주도적으로 동참하며, 우리 국민의 일상이 흔들림 없이 유지될 수 있도록 최선을 다하겠습니다.
+
+좋아요 7,716 · 재게시 1,760 · 답글 559 · 조회 196,124 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2045148207416770961
+
+### 2026-04-17 13:24 — 일상·인사 · 직접 작성 · 분류 검토 대기
+
+> <호르무즈 해협 봉쇄 후 처음으로 우리 선박이 홍해를 통해 원유를 안정적으로 운송하고 있다는 기쁜 소식입니다. 
+> 
+> 관련 부처들이 원팀으로 움직이며 이뤄낸 값진 성과입니다. 어려운 여건 속에서도 밤낮없이 애써주신 모든 분들께, 특히 선원분들께 감사의 말씀을 전합니다.
+> 
+> 정부는 중동전쟁이 불러온 위기를 돌파하기 위해 모든 역량을 집중하고 있습니다. 앞으로도 철저한 대응과 빈틈없는 준비로 국민의 삶과 국익을 지켜내는 일에 혼신의 힘을 다하겠습니다.>
+
+좋아요 17,359 · 재게시 5,395 · 답글 1,090 · 조회 998,532 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2044995428811419931
+
+### 2026-04-16 18:58 — 일상·인사 · 직접 작성
+
+> 또다시 4월 16일이 되었습니다.
+> 매년 이맘때가 되면, 말로 다 담아내기 어려운 마음과 마주하게 됩니다. 12년이 흘렀지만, 그날의 기억은 여전히 어제 일처럼 선명하게 각인되어 있습니다.
+> 
+> 사랑하는 이를 잃은 깊은 슬픔 속에서도 그 절절한 기록을 하나하나 남기며, 더 안전한 사회를 만들기 위해 헌신해 오신 유가족 여러분께 머리 숙여 경의를 표합니다. 오랜 세월 동안, 매일 같이 얼마나 큰 고통과 그리움을 감내해 오셨을지 감히 헤아릴 수 없습니다.
+> 
+> 대한민국 대통령으로서, 무거운 책임을 통감합니다.
+> 
+> 국민의 생명과 안전을 지켜야 할 국가가 제 역할을 다하지 못했을 때 어떤 일이 벌어지는지 우리 모두가 똑똑히 목격했습니다. 그 대가가 얼마나 가혹한 것인지도 뼈저리게 깨달았습니다. 그날의 과오와, 그 무거운 교훈을 한시도 잊지 않으며, 다시는 같은 일이 반복되지 않도록 하겠다고 다짐합니다.
+> 
+> 국가가 존재하는 이유는 바로 국민의 생명과 안전을 지키기 위함입니다. 너무나 당연한 이 기본과 원칙을 반드시 바로 세우겠습니다. 
+> 
+> 생명과 안전에 관해서는 단 한 치의 빈틈도 허용하지 않겠습니다. 어떠한 상황에서도 국민을 지켜내는 나라, 온전히 믿고 의지할 수 있는 나라를 만들겠습니다. 국민 여러분께서 체감하실 수 있는 실질적이고 구체적인 변화를 이루어 낼 것입니다.
+> 
+> 이 약속을 지키는 것이야말로 세월호가 우리에게 남긴 숙제를 완성하는 길이라고 믿습니다. 지난 슬픔을 넘어, 더 나은 내일로 나아가는 것. 그것이 바로 지금을 살아가는 우리의 몫입니다.
+> 
+> 그리운 이름을 부르는 것조차 여전히 아프고 힘든 일임을 알고 있습니다. 그러나 우리가 기억하고, 기록하고, 기리고, 다짐하는 한 삼백 사명 한 분 한 분의 이름과 그들이 미처 이루지 못한 삼백 네 개의 꿈은 결코 잊히지 않을 것입니다.
+> 
+> 다시 한번 깊은 애도를 전합니다. 
+> 기억하겠습니다. 잊지 않겠습니다.
+
+좋아요 11,909 · 재게시 3,821 · 답글 682 · 조회 279,025 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2044716986043928710
+
+### 2026-04-16 10:08 — 사회 · 직접 작성 · 분류 검토 대기
+
+> 제주 4.3의 상흔과 화해, 역사적 책임을 절절하게 그려 낸 정지영 감독의 <내 이름은>을 보았습니다. 
+> 
+> 주인공의 가슴 속 깊은 상처는 망각을 뚫고 고통스러운 트라우마로 현재를 괴롭힙니다. 그 고통은 딸, 손자 혈맥을 타고 유전되어 현재화됩니다.
+> 
+> 역사의 진실은 덮어 놓는다고 묻히지 않습니다. 은폐된 역사는 오히려 현재의 삶을 방해합니다. 진실을 알리고 역사의 궤도를 바로잡는 데 늦은 때는 없습니다.
+> 
+> 지금이라도 바로 잡기 시작하면 그 순간이 바로 옳은 때입니다. 국가폭력에 대한 공소 시효를 없애고 민사 소송의 길을 보장해 폭력과 거짓으로 얻은 바가 있다면 피해자에게 보상될 수 있도록 하겠습니다.
+> 
+> 영원한 책임은 올바른 기억에서 시작됩니다. 기억하고 책임지기 위해 바로 잡겠습니다. 
+> 
+> 영화 속 주인공이 이름을 되찾았듯이 제주 4.3의 상처에 제대로 된 “이름”을 찾아 주도록 하겠습니다.
+
+좋아요 6,764 · 재게시 1,881 · 답글 385 · 조회 154,390 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2044583689431183618
+
+### 2026-04-15 18:38 — 정치·국정 · 직접 작성 · 분류 검토 대기
+
+> <지금 대한민국의 가장 시급한 과제는 성장 잠재력을 회복하는 것입니다. 이를 위해 우리 기업들의 혁신과 도전을 가로막는 장벽을 걷어내는 일, ‘규제 합리화’는 더 이상 미룰 수 없는 숙제입니다.
+> 
+> 과거 대한민국은 관료 중심으로 산업 정책을 기획하고 설계했습니다. 하지만 눈 깜짝할 사이에 페이지가 넘어가는 기술 경쟁의 파고를 넘어서려면 정부의 역할도 바뀌어야 합니다. 핵심은 ‘네거티브 규제’로 전환하여 창의적이고 능동적인 기업 활동을 뒷받침하는 것입니다.
+> 
+> ‘규제 강화냐 폐지냐’는 이분법 자체가 이미 낡은 논쟁입니다. 공정한 시장 질서와 국민의 생명을 지키는 규제는 더욱 강화하면서도 기술 발전과 성장의 발목을 잡는 낡은 규제는 과감히 정비해야 합니다.
+> 
+> 오늘 모인 규제합리화위원회 위원님들께서 머리를 맞대어 사회적 합의를 도출하고, 성장 잠재력을 회복할 실질적 해법을 만들어주실 것으로 기대합니다.  규제합리화가 대도약의 마중물이 될 수 있도록, 정부도 있는 힘껏 지원하겠습니다. >
+
+좋아요 6,114 · 재게시 1,255 · 답글 630 · 조회 147,747 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2044349570193457588
+
+### 2026-04-15 15:25 — 사회 · 직접 작성
+
+> <국힘은 조폭설 조작유포 사과 안하십니까?
+> 
+> 어린 아이들도 잘못한게 드러나면 사과합니다. 또 그렇게 가르칩니다. 공당인 국힘도 큰 잘못이 백일하에 드러났으니 이제 사과해야 합니다.
+> 
+> 국힘당 소속 장모씨가 이재명 조폭연루 주장하고, 당 차원에서 지속적으로 이재명조폭설 퍼트려 질 대선을 이겼는데, 
+> 
+> 장모씨 유죄확정 판결로 조폭설 거짓말이 드러났으니 최소한 유감 표명이라도 해야 하는 것 아닐까요?
+> 
+> 이미 지난 이야기지만, 조폭설만 아니었어도, 대장동 부패 조작만 아니었어도 대선 결과는 완전히 달랐을 것입니다. 차이는 0.73%, 100명 중 한명도 안되었습니다. 
+> 
+> 국힘이 조폭설 유포로 대선 훔칠 수 있게 한 공로자들에게 돈이든 자리든 뭔가 보상했을 거로 추측했었는데.. 이 사건의 실체가 언젠가는 드러나겠지요.
+> 
+> 허무맹랑한 조폭연루설 유포로 대선결과를 바꾼 국힘의 진지한 공식사과를 기다립니다.>
+> 
+> ‘이재명 허위 폭로’ 조폭 가족, 윤석열 당선 직후 시의원 공천
+
+좋아요 11,370 · 재게시 3,644 · 답글 1,726 · 조회 739,956 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2044300957765513593
+
+### 2026-04-14 00:21 — 정치·국정 · 직접 작성
+
+> <오목 좀 둔다고 명인전 훈수하는 분들>
+> 
+> 훈수까지는 좋은데 판에 엎어지시면 안됩니다. 
+> 
+> 집안 싸움 집착하다 지구침공 화성인 편들 태세인데, 일단 지구부터 구하고 봐야 하지 않겠습니까?
+
+좋아요 14,617 · 재게시 3,892 · 답글 2,170 · 조회 1,476,279 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2043711259892498581
+
+### 2026-04-12 12:45 — 재난·안전 · 직접 작성
+
+> 완도 화재 현장에서 임무 수행 중이던 소방대원 두 분의 순직을 보고받았습니다. 삼가 고인의 명복을 기원합니다.
+> 
+> 국민의 생명과 안전을 지키기 위해 가장 위험한 현장으로 달려가 마지막까지 소임을 다하셨습니다. 그 용기와 헌신에 머리숙여 경의를 표합니다.
+> 
+> 정부는 이번 사고를 엄중히 받아들이며, 모든 현장인력이 보다 안전한 환경에서 임무를 수행할 수 있도록 하겠습니다.
+> 
+> 유가족 여러분께 깊은 애도의 뜻을 전하며, 동료 대원들께도 위로와 함께 격려의 말씀을 드립니다.
+
+좋아요 9,020 · 재게시 1,710 · 답글 777 · 조회 363,068 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2043173663776952481
+
+### 2026-04-12 12:07 — 외교·통상 · 리트윗
+
+> RT @[비공개]: 이재명 대통령을 존경하고 신뢰할 수밖에 없는 이유를
+> 다시 한 번 확인하게 해주는 기사입니다.
+> 
+> 대통령님께서 X에 올리신 글을 리트윗하며,
+> 그 메시지에 깊이 공감합니다.
+> 
+> 베냐민 네타냐후 총리는
+> 이재명 대통령의 지적을 경청하고…
+
+좋아요 0 · 재게시 1,198 · 답글 0 · 조회 26 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2043164039824777419
+
+### 2026-04-12 11:19 — 경제·민생 · 직접 작성
+
+> <생산적 금융 강화는 피할 수 없는 길입니다.
+> 
+> 남의 돈으로 부동산 투기해 돈 벌면 열심히 일하는 사람들은 의욕을 잃습니다.
+> 
+> 세제, 금융, 규제 정상화를 통한 부동산투기 제로 구현은 얼마든지 가능하고 또 반드시 해야 합니다.>
+> 
+> [단독]'1주택자 전세대출 14조' 만기연장 제한 타깃..배수진 친 정부
+
+좋아요 5,944 · 재게시 1,487 · 답글 683 · 조회 384,669 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2043152008614752394
+
+### 2026-04-12 09:44 — 사회 · 직접 작성
+
+> 사욕을 위해 국익을 훼손하는 자들을 매국노라 부른다.
+> 
+> 매국 행위를 하면서도 사욕을 위해 국익을 해치는 것이 나쁜 짓임을 모르는 이들도 많다. 아니 알면서 감행하는 것인지도 모르겠다.
+> 
+> 심지어 국익을 포함한 공익추구가 사명인 정치와 언론 영역에서도 매국행위는 버젓이 벌어진다.
+> 
+> 결국 이 역시 우리가 힘을 모아 가르치고 극복해야할 국가적 과제, 비정상의 정상화 과제이다.
+> 
+> 각국의 주권과 보편적 인권은 존중되어야 하고 침략적 전쟁은 부인된다. 그게 우리 헌법정신이자 국제적 상식이다.
+> 
+> 역지사지는 개인만이 아니라 국가관계에도 적용된다.
+> 
+> 내 생명과 재산만큼 남의 생명 재산도 귀하다.
+> 
+> 존중해야 존중받는다.
+
+좋아요 34,585 · 재게시 9,605 · 답글 2,741 · 조회 1,930,790 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2043128131469607051
+
+### 2026-04-11 10:29 — 외교·통상 · 리트윗 · 분류 검토 대기
+
+> RT @mofa_kr: 우리는 이스라엘 외교부가 대통령께서 특정사안에 대한 의견이 아닌 보편적 인권에 대한 신념을 표명한 글의 의도를 잘못 이해하고 이를 반박한 것에 대해 유감스럽게 생각합니다.
+> 
+> 우리 정부는 이스라엘이 지적한 테러를 포함, 모든 형…
+
+좋아요 0 · 재게시 5,547 · 답글 0 · 조회 31 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2042777058607321114
+
+### 2026-04-11 10:24 — 외교·통상 · 리트윗
+
+> RT @[비공개]: 이스라엘 스스로 확인한 시신 앞에서, 검증을 논하는 자들에게
+> 
+> 서안지구의 한 팔레스타인 주민이 이재명 대통령의 리트윗을 “기도에 대한 신의 응답”이라 불렀습니다. 그 한 문장이, 지금 이 나라에서 벌어지고 있는 논쟁의 본질을…
+
+좋아요 0 · 재게시 3,007 · 답글 0 · 조회 22 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2042775710113427941
+
+### 2026-04-11 10:00 — 일상·인사 · 직접 작성 · 분류 검토 대기
+
+> <4월, 제주의 봄을 기억하며>
+> 
+> 영화 「내 이름은」 관람에 함께해주실 국민 여러분을 기다립니다.
+> 
+> 어린 시절 제주 4·3의 비극을 겪고 기억을 잃은 채 살아온 어머니의 삶을 통해 시대의 아픔과 그 치유 과정을 섬세히 그려낸 작품입니다. 베를린 국제영화제에 초청되어 한국 영화의 깊이와 저력을 널리 알리기도 했습니다.
+> 
+> 이번 관람을 통해 우리 모두가 제주의 아픔을 기억하고, 상처 너머의 희망과 용기를 발견할 수 있길 기대합니다.
+> 
+> 4월 15일, 극장에서 인사드리겠습니다.
+> 
+> ☑️ 모집인원 : 대한민국 국민 165명
+> ☑️ 행사날짜 : 2026년 4월 15일(수) 저녁, 서울
+> * 시간, 장소는 경호상의 이유로 추후 안내 예정
+> ☑️ 참여신청 : 2026년 4월 11일(토) 10시 ~ 4월 12일(일) 12시 네이버폼 접수(  )
+> * 신원 확인이 어려운 경우 출입이 제한될 수 있으니, 신청 시 이름과 주민등록번호를 정확하게 기입해 주시기 바랍니다.
+> * 선정되신 분들께는 시간과 장소 안내 및 참석 여부 확인 연락을 드릴 예정입니다.
+
+좋아요 7,177 · 재게시 2,572 · 답글 471 · 조회 358,332 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2042769603311386926
+
+### 2026-04-11 07:45 — 사회 · 직접 작성
+
+> <끊임없는 반인권적 반국제법적 행동으로 고통받고 힘들어하는 전 세계인들의 지적을  한번쯤은 되돌아볼 만도 한데 실망입니다.
+> 
+> 내가 아프면 타인도 그만큼 아픕니다.
+> 
+> 나의 필요 때문에 누군가 고통받으면 미안한 것이 인지상정입니다.
+> 
+> 아닌 밤중에 홍두깨라고 아무 잘못없는 우리 국민들께서 뜬금없이 겪고 있는 이 엄청난 고통과 국가적 어려움을 지켜보는 마음이 매우 불편합니다.
+> 
+> 보편적 인권과 대한민국의 국익을 위해 할 수 있는 일을 더 열심히 찾아봐야겠습니다.>
+> 
+> 이스라엘, ‘전시 살해=유대인 학살’ 李대통령 발언에 “용납 못해”
+
+좋아요 50,483 · 재게시 13,679 · 답글 2,505 · 조회 9,425,746 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2042735643449782314
+
+### 2026-04-10 20:12 — 정치·국정 · 직접 작성 · 분류 검토 대기
+
+> <오늘 민주노총 위원장님들과의 만남을 통해, 대화와 협력만이 상생의 미래를 열어갈 유일한 해법이라는 사실을 다시 한 번 확인합니다. 
+> 
+> 노동시장 격차 해소부터 AI와 산업 대전환의 파고까지, 우리 앞에 놓인 과제들은 어느 것 하나 쉬운 것 없는 도전의 연속입니다. 과거와는 질적으로 다른 복합위기를 도약의 기회로 삼으려면 노동계와 기업, 정부가 존중과 신뢰를 바탕으로 머리를 맞대고 지혜를 모아야 합니다. 
+> 
+> 정부는 사회적 대화에 대한 민주노총의 고민과 노력을 존중하며, 열린 자세로 협력 관계를 모색해 나갈 것입니다. 오늘 주신 의견 하나하나 역시 꼼꼼하게 살피며, 국민 삶을 바꿀 정책적 대안을 만들어내겠습니다. 
+> 
+> '노동 존중 사회'로 나아가는 길에 전국민주노동조합총연맹이 든든한 파트너가 되어주실 것으로 기대합니다.>
+
+좋아요 4,649 · 재게시 981 · 답글 400 · 조회 291,383 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2042561412455919796
+
+### 2026-04-10 12:37 — 외교·통상 · 인용 · 분류 검토 대기
+
+> 어떠한 상황에서도 국제인도법은 준수되어야 하며, 인간의 존엄성 역시 타협할 수 없는 최우선 가치로 지켜져야 합니다.
+> 
+> 영상은 24년 9월 발생한 실제 상황으로 미국 백악관이 매우 충격적(deeply disturbing)이라고 평가했고 존 커비 등 미당국자가 혐오스럽고 용납할 수 없는 행동”이라고 까지 언급했던 일입니다. 이에 이스라엘의 관련 조사와 조치도 이루어졌다고 합니다.
+> 
+> 조금 다행이라면 살아있는 사람이 아니라 시신이었다는 점이지만, 시신이라도 이와같은 처우는 국제법 위반입니다. 
+> 
+> 지난 역사 속에서 일어난 수많은 비극은 인권의 소중함이 무엇보다 최고이자 최선의 가치임을 가르쳐 주었습니다 .
+> 
+> 뼈아픈 상처 위에 남겨진 교훈을 반복된 참혹극으로 되풀이 해서는 안됩니다. 그래야 인류 모두가 상생하는 화해와 협력의 미래로 나아갈 수 있습니다.
+> 
+> 어떤 이유에서든 어디에서든 인권은 최후의 보루이며 무엇과도 바꿀 수 없는 가치입니다.
+
+좋아요 19,700 · 재게시 6,057 · 답글 1,264 · 조회 1,933,351 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2042446838536814611
+
+### 2026-04-10 08:47 — 외교·통상 · 인용
+
+> 이게 사실인지, 사실이라면 어떤 조치가 있었는지 알아봐야겠습니다.
+> 
+> 우리가 문제삼는 위안부 강제, 유태인 학살이나 전시 살해는 다를 바가 없습니다.
+
+좋아요 63,805 · 재게시 15,279 · 답글 3,871 · 조회 11,816,320 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2042388873570107631
+
+### 2026-04-09 21:18 — 재난·안전 · 직접 작성
+
+> 현재 경찰과 소방, 군이 총력을 다해 안전한 포획과 복귀를 위해 노력하고 있습니다. 부디 어떠한 인명 피해도 발생하지 않길 바라며, 늑구 역시 무사히 안전하게 돌아오길 기원합니다.
+> 
+> https://n.news.naver.com/mnews/article/001/0016012095?sid=102
+
+좋아요 6,313 · 재게시 1,514 · 답글 346 · 조회 324,632 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2042215546729717846
+
+### 2026-04-09 17:58 — 사회 · 직접 작성
+
+> 이 정부 출범후 초국가범죄 강력대응으로 보이스피싱 등 스캠범죄가 대폭 감소했습니다.
+> 
+> 캄보디아 정부의 적극 협조와 강력한 소탕 의지에 감사드립니다.
+
+좋아요 5,778 · 재게시 1,411 · 답글 386 · 조회 191,340 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2042165286842098018
+
+### 2026-04-08 23:27 — 과학기술·AI · 리트윗
+
+> RT @[비공개]: < 중기부 직원이 쓴 광고 시나리오, AI로 완성한 모두의창업 홍보 영상, 200만 재생수를 넘다 >
+> 
+> “콩쥐가 일상 속 작은 아이디어에서 창업 기회를 찾아낸 점이 정말 멋져요.”
+> “밑 빠진 독에 물 붓기 같던 가사…
+
+좋아요 0 · 재게시 401 · 답글 0 · 조회 12 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2041885743027769442
+
+### 2026-04-08 21:03 — 정치·국정 · 직접 작성
+
+> <국민과 직접 대화, 정말 중요합니다. 이훈기 의원님 잘 하십니다. 정치는 국민이 합니다.>
+> 
+> 이훈기표 '불금정치' 100만보의 기적…눈물 닦고 현안 풀어 https://v.daum.net/v/20260403160001655
+
+좋아요 4,457 · 재게시 1,142 · 답글 281 · 조회 243,191 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2041849444765986988
+
+### 2026-04-08 20:21 — 경제·민생 · 직접 작성
+
+> 고유가로 어려움을 겪고 계신 화물운송과 물류업계 종사자분들을 찾아 뵈었습니다. 오랜 시간 우리 경제를 지탱해 오신 여러분의 노고가 얼마나 큰지 다시금 느낄 수 있었습니다.
+> 
+> 정부의 신속한 대응으로 시행된 석유 최고가격제와 유가 연동보조금이 피해를 줄이는 데 도움이 되었다고 말씀해 주셨지만, 여전히 부담이 크다는 점을 잘 알고 있습니다.
+> 
+> 화물차주 소상공인 대출 지원 제도 개선, 안전운임제 확대 검토, 수도권 유휴지 활용 물류 인프라 확충, 전기·수소 화물차 전환 지원 등 건의해 주신 사항은 즉시 검토하도록 지시했습니다.
+> 
+> 어려운 시기일수록 현장의 목소리에 더욱 세심히 귀 기울이겠습니다. 오늘도 각자의 자리에서 최선을 다하고 계신 국민 여러분께 깊은 감사와 존경의 마음을 전합니다.
+
+좋아요 4,615 · 재게시 1,064 · 답글 288 · 조회 106,292 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2041838839594115226
+
+### 2026-04-08 19:08 — 외교·통상 · 직접 작성
+
+> 작년 가을 부산에서 열린 정상회담 이후 약 반년 만에 이시바 시게루 전 일본 총리님을 다시 뵙게 되어 매우 뜻깊습니다. 바쁜 일정에도 한국을 찾아주신 총리님께 깊이 감사드립니다.
+> 
+> 급변하는 국제정세 속 한국과 일본이 힘을 모아 공동의 과제에 대응하는 것이 그 어느 때보다 중요합니다. 총리님과 저는 양국 간 상호 이해와 신뢰를 바탕으로 소통과 협력을 한층 강화해야 한다는 데 의견을 같이했습니다.
+> 
+> 일본 정치 원로로서 폭넓은 식견과 풍부한 경륜을 지니신 총리님께서 앞으로도 한일 간 우호 증진을 위해 애써주시길 기대합니다. 양국 관계가 보다 성숙하고 안정적으로 발전할 수 있도록 저 역시 최선을 다하겠습니다.
+> 
+> @[비공개] 昨秋、釜山で開催された首脳会談から約半年ぶりに、日本の石破茂前総理とお会いし、大変有意義な時間を過ごすことができました。ご多忙の中、韓国にお越しいただいたことに心より感謝申し上げます。
+> 
+> 急激に変動する国際情勢の中、韓国と日本が力を合わせて共通の課題に対応することは、かつてなく重要です。総理と私は、両国が相互理解と信頼を基盤に、意思疎通と協力を一層強化していかなければならないという認識で一致しました。
+> 
+> 日本の政界の重鎮であり、高いご見識と豊かなご経験をお持ちの総理には、これからも両国間の友好促進に向けて変わらぬお力添えを頂戴できれば幸いです。両国の関係がより成熟かつ安定的に発展できるよう、私としても最善を尽くしてまいります。
+
+좋아요 13,426 · 재게시 2,978 · 답글 340 · 조회 350,265 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2041820481662198189
+
+### 2026-04-08 17:32 — 사회 · 직접 작성 · 분류 검토 대기
+
+> <노동 대가는 온당하게 지급해야지요?>
+> 
+> ‘공짜노동’ 포괄임금 오남용 뿌리 뽑는다… 9일부터 ‘지도 지침’ 시행 https://v.daum.net/v/20260408120209668
+
+좋아요 5,429 · 재게시 3,055 · 답글 335 · 조회 575,004 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2041796290368172223
+
+### 2026-04-07 21:21 — 국방·안보 · 직접 작성 · 분류 검토 대기
+
+> 아누틴 태국 총리님의 재선출을 진심으로 축하드립니다. 
+> 
+> 오늘 나눈 통화에서 총리님의 탁월한 리더십 아래 태국이 지속적인 안정을 이루며, 경제 목표를 성공적으로 달성하길 기원한다고 전했습니다.
+> 
+> 글로벌 에너지 공급망의 불확실성이 이어지는 가운데, 한국과 태국은 긴밀한 공조를 통해 공동의 번영을 도모해 나갈 것입니다. 경제, 안보, 치안, 문화 교류를 비롯한 다양한 분야에서의 협력도 한층 심화해 나가고자 합니다.
+> 
+> 앞으로도 양국이 서로에 대한 굳건한 신뢰를 바탕으로 더욱 폭넓은 협력 관계로 나아가길 기대합니다. 그 과정에서 대한민국은 태국의 신뢰할 수 있는 동반자로 늘 함께하겠습니다.
+> 
+> ขอแสดงความยินดีอย่างสุดซึ้งในโอกาสที่ท่าน อนุทิน ได้รับเลือกเป็นนายกรัฐมนตรีแห่งประเทศไทยอีกสมัยหนึ่ง 
+>  
+> ระหว่างการสนทนาในวันนี้ ผมได้แสดงถึงความปรารถนา ให้ประเทศไทย ภายใต้ภาวะผู้นำที่เป็นเลิศของท่านนายก มีความมั่นคงต่อ ๆ ไปและสามารถบรรลุเป้าหมายด้านเศรษฐกิจได้อย่างสำเร็จลุล่วง 
+>  
+> ท่ามกลางความไม่แน่นอนของห่วงโซ่อุปทานพลังงานโลก ประเทศเกาหลีและไทยจะร่วมมือกันอย่างใกล้ชิดเพื่อส่งเสริมความเจริญรุ่งเรืองร่วมกัน จะยกระดับความร่วมมือในหลากหลายด้าน  อาทิ ด้านเศรษฐกิจ ด้านความมั่นคง ด้านความปลอดภัย และการแลกเปลี่ยนทางวัฒนธรรม 
+>  
+> ผมหวังเป็นอย่างยิ่งว่า ทั้งสองประเทศจะพัฒนาความสัมพันธ์และขยายความร่วมมือให้กว้างขึ้น บนพื้นฐานของความไว้วางใจอันมั่นคงที่มีต่อกัน โดยระหว่างทางนั้น สาธารณรัฐเกาหลีจะยืนเคียงข้างประเทศไทยเสมอในฐานะเพื่อนร่วมทางที่เชื่อใจได้
+
+좋아요 3,313 · 재게시 646 · 답글 294 · 조회 101,720 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2041491675416326641
+
+### 2026-04-06 23:38 — 경제·민생 · 리트윗
+
+> RT @[비공개]: 중동전쟁에 따른 공급망 병목 해소를 위해 4월 6일부터 [전국민 공급망 애로 핫라인]을 가동합니다.
+> 수입·생산·유통 과정의 인허가, 물류, 원자재 조달 등 현장 애로와 개선사항을 구글 폼으로 실시간 접수받고, 재정경제…
+
+좋아요 0 · 재게시 397 · 답글 0 · 조회 6 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2041163677982966045
+
+### 2026-04-05 18:01 — 정치·국정 · 직접 작성
+
+> 전쟁과 가난으로 황폐했던 우리의 산과 들은 국민 여러분의 손길로 되살아났습니다. 한 그루 한 그루 정성 다해 심은 나무들이 모여 전국 곳곳에 80억 그루가 넘게 자라났고, 그 덕에 산천은 다시 푸른 생명으로 가득해졌습니다.
+> 
+> 제81회 식목일을 맞아 관저와 청와대에도 새 생명을 심었습니다. 체리나무와 복사나무입니다. 아직은 작은 묘목이지만 따스한 봄 햇살이 더해지면, 국민 여러분의 정성으로 키워낸 나무들처럼 머지않아 꽃을 피우고 풍성한 열매를 맺겠지요.
+> 
+> 우리 대한민국은 언제나 시련을 넘어 희망을 일궈온 굳건한 저력을 지닌 나라입니다. 혹독한 겨울 지나 새순이 돋고 꽃이 피는 봄의 순리처럼, 이 땅에도 다시 희망의 기운이 널리 퍼질 수 있도록 대통령으로서 최선을 다하겠습니다.
+
+좋아요 5,814 · 재게시 1,177 · 답글 528 · 조회 132,127 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2040716348150755361
+
+### 2026-04-05 11:41 — 일상·인사 · 직접 작성
+
+> "너희에게 평강이 있을지어다(요한복음 20:19)."
+> 부활하신 예수 그리스도께서 두려움에 떨던 제자들에게 나타나 전하신 첫 말씀입니다.
+> 
+> 이 말씀은 중동전쟁으로 인한 불안 속 각자의 자리에서 애쓰며 살아가고 있는 우리에게도 변함없는 위로와 용기가 됩니다.
+> 
+> 대립과 분열이 아닌 평화, 증오와 갈등이 아닌 사랑으로 나아가는 부활의 기적이 오늘날 우리 사회에 이루어지길 간절히 소망합니다.
+> 
+> 대한민국은 한마음으로 뜻을 모아 이 위기를 지혜롭게 극복해 나갈 것입니다.
+> 
+> 부활의 주님께서 주시는 복된 평강과 은혜가 온 나라와 국민 위에 충만히 임하길 기도합니다.
+
+좋아요 7,406 · 재게시 1,512 · 답글 546 · 조회 438,490 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2040620933623550036
+
+### 2026-04-05 10:23 — 경제·민생 · 직접 작성
+
+> <전액 지역주민에 지급되는 유가피해지원금인데,
+> 중앙정부가 7~80%, 지방정부가 20~30% 부담.
+> 
+> 이번 추경에서 지방정부 재정 여력 보강을 위해 지방정부에 주는 돈(지방교부세라 호칭)은 9.7조 원이고, 지원금 사업에 드는 지방정부 부담금은 1.3조이니 지방정부 재정여력은 8.4조 늘어납니다.
+> 
+> 결론적으로 지방의 재정 부담이 늘었나요? 늘었나요? 줄었나요? 명백히 줄었습니다. 이건 초보 산수입니다.
+> 
+> 확대된 재정 여력에 대한 지방정부 자율 결정권을 침해하냐고 비판하는 건 몰라도 재정 부담 증가는 말이 안 됩니다.
+> 
+> 이 사업은 강제가 아니니 지방정부는 20~30% 부담이 싫으면 안 해도 됩니다. 그런데 지역주민에 대한 지원금 중 중앙정부가 70~80% 부담해 주는 이익이 크기 때문에 거부할 이유가 없습니다. 정부가 조금 더 부담해 주기를 바랄 수는 있지만.>
+
+좋아요 4,642 · 재게시 1,183 · 답글 325 · 조회 220,129 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2040601131785883941
+
+### 2026-04-03 17:56 — 외교·통상 · 직접 작성
+
+> 한불 수교 140주년, Félicitations! 
+> 
+> 홍보대사로 함께해주시는 #전지현 님 그리고 #StrayKids #필릭스 용복 님
+> 
+> 두 분 덕에 참 든든합니다 ^^
+> 
+> 140년 우정과 신뢰를 기반으로 
+> 더욱 빛날 양국의 미래를 기대합니다. 🇰🇷🇫🇷
+> 
+> #한불수교140주년 #coréefrance140
+
+좋아요 44,041 · 재게시 11,957 · 답글 792 · 조회 1,274,702 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2039990363986026808
+
+### 2026-04-03 08:30 — 외교·통상 · 인용
+
+> "Au nom du peuple coréen, nous souhaitons la plus chaleureuse bienvenue au Président Emmanuel Macron pour sa visite d'État en Corée."
+> 
+> 엠마뉴엘 마크롱 프랑스 대통령님의 국빈방문을 대한민국 국민들과 함께 환영합니다.
+
+좋아요 4,785 · 재게시 950 · 답글 187 · 조회 145,178 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2039848079499878504
+
+### 2026-04-02 23:24 — 외교·통상 · 직접 작성
+
+> 한미동맹은 매우 특별합니다. 대한민국의 발전은 과거 미국의 지지와 지원을 빼놓고는 설명하기 어려우며, 이제 대한민국은 한층 성장한 국력을 바탕으로 미국의 제조업 부흥과 글로벌 리더십 강화에 적극 기여하고 있습니다.
+> 
+> 한국을 방문해 주신 진 섀힌 상원 외교위원회 간사님과 존 커티스 상원의원을 비롯한 의원 여러분을 만나, 한미동맹에 대한 초당적 지지가 굳건히 유지되고 있음을 다시 한번 확인했습니다.
+> 
+> 양국은 지난해 두 차례 정상회담을 통해 미래지향적 협력을 더욱 발전시킬 동력을 마련했습니다. 이를 토대로 대미 전략투자를 차질 없이 이행하는 동시에 원자력의 평화적 이용, 핵추진잠수함, 조선 등 주요 분야에서의 협력을 가속화하기 위해 노력하고 있습니다.
+> 
+> 오늘 우리는 중동 지역 분쟁의 여파가 민생과 산업에 미치는 영향을 최소화하기 위해 한미 간 소통이 중요하다는 데 인식을 같이했습니다. 아울러 한국의 대미 투자가 원활히 추진될 수 있도록 이를 뒷받침할 비자 제도 개선 방안에 대한 미 의회의 협조도 요청했습니다.
+> 
+> 미 의회의 지속적인 관심과 지원 속에 한미동맹이 더욱 발전해 나가길 기대합니다. 앞으로도 양국은 서로를 뒷받침하며, 든든한 파트너로서 함께 할 것입니다.
+> 
+> The ROK-U.S. Alliance is truly special. The support of the United States has been indispensable to Korea's development. Now, based on its remarkable growth, Korea is actively contributing to America's manufacturing renaissance and strengthening its global leadership.
+> 
+> Today's meeting with Sen. Jeanne Shaheen, Ranking Member of the Senate Foreign Relations Committee, Sen. John Curtis, and their delegation provided a good opportunity to reaffirm that the bipartisan support for our alliance in the U.S. Congress remains strong.
+> 
+> Building on the two bilateral summits last year, we are actively working together to further advance future-oriented cooperation, including Korea's strategic investment in the United States, peaceful use of nuclear energy, conventionally armed nuclear-powered submarines, and shipbuilding.
+> 
+> We shared the view that close communication between our two countries is essential to minimizing the impact of the crisis in the Middle East on people's livelihoods and industries. I also asked for cooperation from the U.S. Congress to improve the U.S. visa system so as to facilitate Korean investment in the United States.
+> 
+> I look forward to seeing the ROK-U.S. Alliance grow ever stronger with the continued interest and support of the U.S. Congress. Our two nations will continue to stand by each other as steadfast partners.
+
+좋아요 4,748 · 재게시 907 · 답글 490 · 조회 119,500 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2039710483520147729
+
+### 2026-04-02 12:03 — 재난·안전 · 직접 작성
+
+> Momen bersama dengan Bapak Sugianto, yang menyelamatkan nyawa dengan membantu evakuasi para lansia saat kebakaran hutan di Yeongdeok-Gun, Gyeongbuk, tahun lalu, serta Carmen, member asal Indonesia dari grup Hearts2Hearts.
+> 
+> Meskipun negara, bahasa dan budaya kita berbeda, persahabatan dan solidaritas kita semakin mendalam. Semoga pertemuan ini menjadi momentum yang semakin mendekatkan Korea dan Indonesia.
+> 
+> 지난해 경북 영덕군 산불 당시 어르신들의 대피를 도우며 생명을 구한 수기안토님, 그룹 하츠투하츠의 인도네시아 출신 멤버 카르멘님과 함께한 시간.
+> 
+> 비록 나라와 언어, 문화는 다르지만 우리의 우정과 연대는 깊어져갑니다. 이번 만남이 대한민국과 인도네시아를 더욱 가깝게 잇는 계기가 되었길 소망합니다.🇰🇷🇲🇨
+> 
+> #수기안토 #하츠투하츠 #카르멘
+> #Sugianto #Hearts2Hearts #Carmen #Indonesia
+
+좋아요 18,677 · 재게시 3,841 · 답글 400 · 조회 551,606 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2039539272408260754
+
+### 2026-04-01 22:07 — 경제·민생 · 리트윗
+
+> RT @[비공개]: <"기본소득으로 지역에 활력이 생겼고, 따뜻한 일들이 벌어지고 있습니다. 너무 좋습니다. 그리고 정말 고맙습니다.">
+> 
+> 농어촌 기본소득 첫 지급 후 약 한 달이 지났습니다. 주민들이 체감하고 있는 생생한 목소리를 듣기…
+
+좋아요 0 · 재게시 612 · 답글 0 · 조회 6 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2039328697946419608
+
+### 2026-04-01 21:57 — 사회 · 리트윗
+
+> RT @[비공개]: <신임 노동감독관 교육과정에 전태일 기념관 견학 추진하겠습니다>
+> 소년공 대통령의 꿈은 모든 일하는 사람의 꿈입니다. 사람 목숨 구하는 특공대의 필수과목!
+> #함께살자 #전태일바로알기
+> #약자를보호하는_민중의지팡이되길
+> ht…
+
+좋아요 0 · 재게시 376 · 답글 0 · 조회 6 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2039326161709519003
+
+### 2026-04-01 21:56 — 경제·민생 · 직접 작성
+
+> <기획예산처 공무원 여러분, 정말로 애 많이 쓰셨습니다.
+> 
+> 워낙 긴급한 상황이라 무리하게 추경예산안 조기 편성을 지시했는데 코삐까지 흘리며 훌륭하게 잘 해내 주셨습니다. 
+> 
+> 흘리신 코피는 꼭 보상하겠습니다. 혹 필요한 거 있으면 박홍근 장관님 통해 얘기해 주세요.
+> 
+> 미안하고 감사하며 사랑합니다.>
+> 
+> 17일 만에 ‘최단기 추경’…밤새고 코피 쏟으며 만든 ‘민생 방파제’
+
+좋아요 6,776 · 재게시 1,504 · 답글 536 · 조회 276,728 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2039325928808169959
+
+### 2026-04-01 08:18 — 경제·민생 · 직접 작성 · 분류 검토 대기
+
+> < “비거주 1주택도 주거용이 아닌 투자·투기용이라면 장기 보유에 따른 세금 감면은 타당하지 않다”, 
+> 
+> 아래 기사 분문에서 인용한 제가 한 이 말에 의하면, 갭투자용이 아니라 주거용인데 직장 등 불가피한 사유로 일시 비거주하는 경우는 제외됨이 명백합니다.
+> 
+> 그런데 동일한 "심층기획" 기사에서 투기용 아니고 직장 자녀교육 등으로 일시 거주하지 못하는 사람은 어쩌란 말이냐고 쓰는 건 몰라서일까요? 알면서 그러는 걸까요?
+> 
+> 명백히 모순되는 기사이니, 조금만 더 심층분석해서 기사를 정정해 주시기 바랍니다.>
+> 
+> 투기용 아닌데… 집 팔기도, 세 놓기도, 직접 살기도 어렵다 [심층기획-비거주 1주택자의 하소연]
+
+좋아요 4,808 · 재게시 1,279 · 답글 672 · 조회 250,620 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2039120143360671865
+
+## 2026년 3월 (94건)
+
+### 2026-03-31 20:57 — 외교·통상 · 직접 작성
+
+> 미국 연방하원 아미 베라 동아태소위원회 간사님을 비롯한 코리아 스터디그룹 의원 여러분의 방한을 진심으로 환영합니다.  
+> 
+> 코리아 스터디그룹 의원들께서는 그간 한미동맹의 발전을 위해 초당적 지지를 보내주셨습니다. 오늘의 회동 역시 이러한 연속선상에서 협력을 더욱 공고히 하기 위한 자리였습니다.  
+> 
+> 우리는 대한민국 기업의 대미 투자 패키지를 비롯해 원자력의 평화적 이용, 핵추진 잠수함, 조선 등 주요 분야 협력 강화와 양국의 전략적 이익 극대화를 위해 노력해 나가자고 뜻을 모았습니다.  
+> 
+> 아울러 조지아주에서 발생한 한국인 구금 사태와 같은 일이 재발하지 않도록 해야 한다는 데 의견을 같이 하고, 미국 내 우리 노동자들의 안정적 체류 보장을 위한 제도 개선에도 긴밀히 협력하기로 했습니다.
+> 
+> 최근 중동 전쟁으로 인한 위기 대응 과정에서도 협력을 지속적으로 추진해 나갈 계획입니다. 앞으로도 한미동맹 발전을 위한 의원 여러분의 각별한 관심과 지속적인 기여를 부탁드립니다.
+> 
+> I sincerely welcome the visit to the Republic of Korea by members of the Congressional Study Group on Korea(CSGK), including Representative Ami Bera, Ranking Member of the U.S. House Foreign Affairs Subcommittee on East Asia and the Pacific.
+> 
+> The members of the CSGK have long demonstrated bipartisan support for the advancement of the ROK-U.S. Alliance. Today's meeting was held in that same spirit, as a step toward further solidifying our cooperation.
+> 
+> We agreed to work together to strengthen cooperation in key areas —including the investment packages of Korean companies in the United States, peaceful use of nuclear energy, conventionally armed nuclear-powered submarines, and shipbuilding— and to maximize our mutual strategic interests through these efforts.
+> 
+> We also shared concerns that incidents such as the detention of Korean nationals in Georgia should not recur, and agreed to work closely together on improving relevant systems to ensure a stable legal status for our workers in the United States.
+> 
+> We also plan to continue to advance cooperation in the course of dealing with the recent crises in the Middle East. I ask you, the members, for your continued attention and contributions to the further development of the ROK-U.S. Alliance.
+
+좋아요 3,616 · 재게시 702 · 답글 281 · 조회 78,813 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2038948760269492565
+
+### 2026-03-30 17:35 — 사회 · 직접 작성
+
+> <제20회 사회복지사의 날을 맞아, 전국 각지에서 헌신하며 이웃의 삶을 지켜주고 계신 모든 사회복지사 분들께 깊은 존경과 감사를 전합니다.
+> 
+> 급변하는 시대 속에서 사회안전망의 중요성은 날로 커지고 있습니다. 돌봄과 연대의 가치를 몸소 실천해 주신 덕분에, 대한민국은 한층 더 따뜻하고 살기 좋은 사회로 나아가고 있습니다.
+> 
+> 여러분께서 보다 자긍심을 가지고 일하실 수 있도록 처우 개선과 권익 보호를 비롯한 정책적 노력을 앞으로도 꾸준히 강화해 나가겠습니다. 
+> 
+> 우리 사회의 든든한 버팀목이 되어 주시는 모든 사회복지사 여러분께 다시 한번 진심으로 감사드립니다.>
+
+좋아요 4,156 · 재게시 871 · 답글 391 · 조회 102,803 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2038535461346345422
+
+### 2026-03-30 11:24 — 일상·인사 · 인용
+
+> 혜인 어린이는 더 착한 어린이같습니다.
+> 고마워요. 박혜인어린이.
+> 행복한 하루 되세요.
+
+좋아요 7,836 · 재게시 1,287 · 답글 427 · 조회 1,312,000 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2038442103223865472
+
+### 2026-03-30 11:10 — 일상·인사 · 인용
+
+> 이룸과 시온 어린이에게.
+> 대통령 할아버지도 대한민국 모든 어린이들처럼 이룸, 시온 어린이를 사랑합니다.
+> 
+> 이 글이 두 어린이에게 닿을 수 있을 지 모르겠습니다만, 꼭 전달되기를 바랍니다.
+> 
+> 그리고..
+> 앞으로는 가급적 아저씨라고 불러주면 더 좋겠습니다 ^^;
+
+좋아요 5,643 · 재게시 1,374 · 답글 333 · 조회 686,827 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2038438732710478248
+
+### 2026-03-29 22:06 — 과학기술·AI · 직접 작성
+
+> <나의 하GPT, 봤습니다>
+> 
+> "이재명 대통령이 꼭 보셨으면 좋겠네요" 하정우 수석의 '쇼츠 요청' #shorts #오마이tv #하정우 https://youtube.com/shorts/6f3AYiHdgw8?si=oaaPDvkMVxl1cs2k - @[비공개]
+
+좋아요 4,559 · 재게시 911 · 답글 314 · 조회 227,692 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2038241393098055805
+
+### 2026-03-29 19:03 — 사회 · 직접 작성
+
+> <모두 잘 하고 계십니다. 감사합니다.
+> 
+> 그러나 아직 갈 길이 멉니다. 조금만 더 힘을 냅시다.>
+> 
+> 부처간 벽 허물자…보이스피싱 범죄 31% 급감 https://v.daum.net/v/20260329163903711
+
+좋아요 7,022 · 재게시 1,729 · 답글 471 · 조회 310,522 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2038195370866716833
+
+### 2026-03-29 13:58 — 일상·인사 · 직접 작성
+
+> 또 한 분의 일본군 ‘위안부’ 피해자께서 우리 곁을 떠나셨습니다. 비통한 마음으로, 삼가 고인의 명복을 빕니다.
+> 
+> 고인께서는 인간의 존엄이 철저히 유린된 시대를 온몸으로 견뎌내셨으며, 참혹한 고통을 딛고 세상에 나와 진실을 증언하셨습니다.
+> 
+> 우리 모두에게 결코 역사를 잊어서는 안 된다는 사실을 일깨워 주셨고, 다음 세대가 보다 정의롭고 평화로운 세상에서 살아갈 수 있도록 해야 한다는 과제를 남겨주셨습니다. 
+> 
+> 고인의 숭고한 뜻과 용기를 오래도록 기억하겠습니다.
+> 
+> 정부는 일본군 '위안부' 피해자분들의 명예와 존엄 회복을 위해 할 수 있는 모든 것을 다하겠습니다. 다시는 이러한 비극이 반복되지 않도록 인권과 평화의 가치를 굳건히 세워 나갈 것입니다.
+> 
+> 이제 모든 짐을 내려놓으시고, 부디 평안하시길 온 마음으로 기원합니다. 다시 한번 머리 숙여 깊은 애도를 표합니다.
+
+좋아요 8,747 · 재게시 2,016 · 답글 509 · 조회 280,312 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2038118609093116144
+
+### 2026-03-29 07:45 — 사회 · 직접 작성
+
+> <고문과 사건조작 사법살인 같은 최악의 국가폭력 범죄자들에게 준 훈포장 박탈은 만시지탄이나  당연한 조치입니다. 
+> 
+> 국가폭력범죄의 형사 공소시효와 민사소멸시효 배제법도 꼭 추진하겠습니다. 
+> 
+> 오늘 최악의 국가폭력 사건인 제주 4.3 참배를 갑니다. 영문도 모른채 이유 없이 죽창에 찔리고 카빈 총에 맞고 생매장당해 죽은 원혼들의 명복을 빕니다. 
+> 
+> 다시는 대한민국에 이런 비극이 발생하지 않게 하겠습니다. 
+> 
+> #비정상의정상화 #국가폭력범죄시효배제 >
+> 
+> 남영동 절규어린 '금빛 훈장' 박탈되나…경찰, 7만개 전수조사
+
+좋아요 6,160 · 재게시 1,831 · 답글 452 · 조회 242,260 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2038024783141728280
+
+### 2026-03-28 09:28 — 사회 · 리트윗 · 분류 검토 대기
+
+> RT @[비공개]: 하천ㆍ계곡 불법 시설물 재조사 철저히 하고 있습니다! 국민 여러분께서 발견하는 즉시 손쉽게 신고하실 수 있도록 안전신문고에 전용 신고 창구도 운영하고 있으니 많은 관심 부탁드립니다. 한 점의 누락이나 축소도 없도록 제대로 점검…
+
+좋아요 0 · 재게시 585 · 답글 0 · 조회 4 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2037688168502469068
+
+### 2026-03-28 03:11 — 경제·민생 · 직접 작성
+
+> <청와대는 다주택 공직자에게 집을 팔아라 말아라 하지 않습니다. 정부는 세제, 금융, 규제 권한 행사만으로도 충분히 집값안정을 이룰 수 있기 때문입니다.
+> 
+> 5급 이상 공직자라도 손해와 위험을 감수하며 다주택을 유지하겠다면 그것은 그의 자유이고 그 결과인 손실은 그의 책임일 뿐입니다. 
+> 
+> 청와대가 다주택 미해소를 이유로 승진배제 불이익을 주며 사실상 매각을 강요할 필요는 전혀 없습니다.
+> 
+> 공직자들에게 주택보유 자체는 재산증식 수단이 못될 것을 알려주어 그들에게 손실을 피할 기회를 주는 것은 몰라도, 공직자들에게 매도압박을 가한다는 것은 주택안정 정책의 효과가 없음을 자인하는 것이나 마찬가지이기 때문에 종전에 '매각 권유는 할 지언정 매각압박을 하지는 않는다'고 한 것입니다. 
+> 
+> 어떤 경위로 취재되었는지는 모르겠으나 저는 5급이상 승진배제를 검토한 적도, 보고받은 적도 없습니다. 정치적 고려나 사적이익 개입이 없다면 치밀하고 일관된 정책만으로도 집값은 분명히 안정시킬 수 있습니다.
+> 
+> '정부가 특별관계에 있는 다주택 공직자들을 승진배제하며 사실상 주택매각을 강요하고 있다'는 사실 아닌 보도는 현 정부의 주택정책 신뢰도를 심히 훼손하는 것이므로, 시정하여 주시기를 바랍니다.>
+> 
+> [단독]다주택 5급 이상 공무원… 靑 “승진 배제 방안 검토”
+
+좋아요 6,893 · 재게시 1,846 · 답글 800 · 조회 381,401 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2037593296126812205
+
+### 2026-03-27 18:02 — 문화·체육 · 직접 작성
+
+> 한강 작가님의 전미도서비평가협회상 소설 부문 수상을 진심으로 축하합니다. 우리나라 작품이 이 상의 소설 부문에서 수상한 것은 처음이라 더욱 뜻깊습니다.
+> 
+> 수상작 「작별하지 않는다」는 제주 4·3이라는 우리 현대사의 비극을 인간의 존엄과 기억, 서사로 승화시킨 작품입니다. 고통스러운 역사를 시적으로 풀어내며 깊은 울림을 주었습니다.
+> 
+> 지난해 노벨문학상 수상에 이어 다시 한번 대한민국 문학의 깊이와 품격을 전 세계에 증명해 주신 한강 작가님, 참 자랑스럽습니다. 
+> 
+> 작가님께서 열어주신 문학의 새로운 지평을 따라 앞으로 우리 예술인들 또한 더 넓은 무대를 향해 힘차게 나아가리라 기대합니다.
+> 
+> “나는 여전히 우리들 안에 깜빡이는 빛이 존재한다고 믿고 싶다. 그리고 그 빛을 굳건히 붙들고 앞으로 나아가길 희망한다”고 말씀하셨지요.
+> 
+> 우리 안에 존재하는 빛을 들고, 어둠 속에서도 서로의 온기를 잊지 않으며, 앞으로 나아갈 용기를 건네주고 계신 한강 작가님께 깊은 감사를 전합니다.
+
+좋아요 8,073 · 재게시 1,974 · 답글 263 · 조회 716,589 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2037455179780432062
+
+### 2026-03-27 17:53 — 국방·안보 · 직접 작성
+
+> <조성현 대령은 진급시기가 안되어 조기특진을 검토하였으나 본인이 진급시기전에 특진하는 것을 사양해 장군진급을 시키지 못했습니다. 
+> 
+> 국민의 군인으로서 당연히 해야 할 일을 한 것에 대해 특진을 수용하지 않겠다는 의사였던 것으로 압니다. 
+> 
+> 조대령의 국민과 국가에 대한 충정을 존중하여 진급시키지 못하였으니 국민여러분의 이해를 바랍니다.
+> 
+> 진정한 참군인 조 대령을 응원하고 기억해 주시기 바랍니다.>
+> 
+> 李, '서강대교 넘지 말라' 조성현 대령 만나…"한 번 보고팠다"
+
+좋아요 7,129 · 재게시 1,918 · 답글 403 · 조회 440,180 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2037453041658741071
+
+### 2026-03-27 08:03 — 정치·국정 · 직접 작성
+
+> <스토리 라인이 워낙 부실해서 쓰다만 소설.. 출연진 연기가 조금만 리얼했어도..>
+> 
+> 이재명과 조폭 엮으려…검·경이 '파타야 주범' 회유 https://v.daum.net/v/20260327072510764
+
+좋아요 5,727 · 재게시 1,555 · 답글 533 · 조회 295,795 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2037304390399435153
+
+### 2026-03-26 23:25 — 일상·인사 · 인용
+
+> 안귀령 대변인 호떡 정말 맛있게 드시네요. 안 드렸으면 큰 일 날뻔 했습니다.
+> 
+> 그런데 훈식이 성은 왜 잘린겨?
+
+좋아요 7,649 · 재게시 1,365 · 답글 776 · 조회 859,084 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2037174208246264026
+
+### 2026-03-26 19:50 — 재난·안전 · 직접 작성 · 분류 검토 대기
+
+> <서산 한국석유공사 비축기지를 찾아 에너지 수급 상황을 직접 점검했습니다.  현장에서 마주한 현실에 무거운 책임감을 느낍니다. 
+> 
+> 중동전쟁이 불러온 위기는 우리만의 어려움이 아니라 전 세계가 함께 겪고 있는 공통의 도전입니다. 지금 이 위기에 어떻게 대응하느냐에 따라 국민의 삶도 국가의 미래도 크게 달라질 것입니다. 
+> 
+> 원칙은 분명합니다. 가능한 한 많은 원유를 확보하고, 한 방울의 에너지도 아끼며 지혜롭게 위기를 견뎌내는 것입니다. 쉽지 않은 일이지만 민관이 한 마음 한 뜻으로 협력한다면 지금의 위기를 충분히 극복할 수 있고, 오히려 더 단단한 미래를 준비하는 계기가 될 것으로 믿습니다. 
+> 
+> 오늘 주신 여러 의견을 바탕으로 비상한 상황에 걸맞은 비상한 대책을 마련해 나가겠습니다. 국민 여러분께서도 함께 힘을 모아주시길 부탁드립니다.>
+
+좋아요 4,560 · 재게시 1,035 · 답글 336 · 조회 96,878 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2037119872979911107
+
+### 2026-03-26 17:43 — 경제·민생 · 직접 작성 · 분류 검토 대기
+
+> <중동 전쟁 위기에 대응하기 위해 어제부로 청와대 내 '비상경제상황실'과 국무총리 주재 '비상경제본부'를 본격 가동했습니다. 다음 주 발표 예정인 '전쟁 추경'으로 대응의 큰 틀도 마련했습니다. 
+> 
+> 이제 중요한 것은 실행입니다. 이번 위기는 국민 여러분의 일상 곳곳에 예상치 못한 불편과 부담을 초래할 수 있습니다. 단기간에 상황을 반전시킬 해법은 없지만, 지혜를 모으고 고통을 나누는 연대가 그 어느 때보다 절실합니다.
+> 
+> 공공부문은 차량 5부제 시행 등으로 먼저 행동에 나서겠습니다. 국민 여러분께서도 대중교통 이용, 전기 에너지 절약을 비롯한 일상 속 작은 실천으로 함께해 주시길 부탁드립니다.  
+> 
+> 아울러 내일부터 시행되는 정유사 공급가 2차 최고가격제가 현장에서 실효성 있게 작동하도록 주유소의 합리적 가격 책정을 당부드립니다. 위기를 틈타 담합이나 매점매석 등으로 부당이익을 취하는 행위에는 엄정 대응할 것입니다.
+> 
+> 이번 사태는 특정 국가를 넘어, 전 세계가 직면한 공동의 도전입니다. 위기는 정부의 진짜 실력을 드러내며, 동시에 위기를 기회로 바꾸는 역량을 보여줄 수 있는 시험대이기도 합니다. 작은 부분 하나도 놓치지 않도록 책임 있게 대응해 나가겠습니다.>
+
+좋아요 4,290 · 재게시 1,008 · 답글 343 · 조회 90,516 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2037087946051117063
+
+### 2026-03-26 15:21 — 외교·통상 · 리트윗
+
+> RT @[비공개]: <누구나 도전할 수 있는 ‘모두의창업’이 시작됩니다> 
+> 
+> 누구나 아이디어가 있으면 창업에 도전할 수 있는 <모두의창업>이 26일 6시에 드디어 시작됩니다. 
+> https://www.modoo.or.kr/
+> 
+> 대통령님께서…
+
+좋아요 0 · 재게시 409 · 답글 0 · 조회 8 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2037052261457944884
+
+### 2026-03-26 15:05 — 사회 · 직접 작성
+
+> <지방균형발전, 청년희망 되살리기는 국가 존망의 문제.
+> 청년재단 오창석 대표님 잘 하고 계십니다. 
+> 
+> 감사하며, 오늘도 화이팅!>
+> 
+> 청년재단·현대캐피탈, 청년 지역이주·다자녀가구 지원 업무협약 체결 http://zul.im/0P7gz3
+
+좋아요 3,455 · 재게시 727 · 답글 220 · 조회 72,531 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2037048336281460953
+
+### 2026-03-25 20:21 — 국방·안보 · 직접 작성
+
+> <우리의 독자 기술로 설계하고, 우리 손으로 완성한 한국형 최첨단 전투기 KF-21 양산 1호기가 오늘 출고됐습니다. 땅과 바다를 넘어 하늘에서도 대한민국 스스로의 힘으로 평화를 지키는 자주국방의 시대를 열었음을 의미합니다.  
+> 
+> 이제 대한민국은 외국 원조 무기에 의존하던 시기를 지나, 우리 기술로 첨단 무기를 개발하고 세계가 앞다투어 찾는 나라로 도약했습니다. 참으로 자랑스럽습니다.
+> 
+> 앞으로도 끊임없는 혁신과 도전으로 국민의 삶을 더욱 풍요롭게 하고, 세계 평화에 기여하는 나라로 나아가겠습니다. 우리 기술이 대한민국의 자부심이 되도록 세심히 살피고 힘껏 뒷받침하겠습니다.
+> 
+> KF-21의 개발과 제작을 이끈 한국항공우주산업, 핵심기술 연구를 담당한 국방과학연구소, 수많은 방산기업과 연구기관, 그리고 우리 공군 장병 여러분께 대한민국을 대표해 깊은 존경과 감사를 전합니다.>
+
+좋아요 5,943 · 재게시 1,286 · 답글 350 · 조회 204,405 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2036765424617214321
+
+### 2026-03-25 20:19 — 일상·인사 · 인용
+
+> 내 고향 경북은 왜 없냐고 했더니..ㅋ
+
+좋아요 4,265 · 재게시 971 · 답글 314 · 조회 1,173,191 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2036764865990480017
+
+### 2026-03-25 19:57 — 정치·국정 · 리트윗 · 분류 검토 대기
+
+> RT @[비공개]: <종량제봉투 충분합니다>
+> 
+> 최근 쓰레기 종량제봉투 공급에 대한 우려의 목소리가 일부 있습니다만, 종량제 봉투 재고와 원료 모두 충분히 확보되어 있으니 걱정하지 않으셔도 됩니다.
+> 
+> 일상생활에 불편함이 없도록 지방정부와 합동상황…
+
+좋아요 0 · 재게시 3,037 · 답글 0 · 조회 14 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2036759430264758392
+
+### 2026-03-25 19:52 — 정치·국정 · 인용 · 분류 검토 대기
+
+> 창업시대 창업국가.. 정부가 전적으로 지원하니, 아이디어와 열정만 있으면 한번 도전하세요
+
+좋아요 3,570 · 재게시 841 · 답글 140 · 조회 174,157 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2036758194379501614
+
+### 2026-03-25 07:49 — 사회 · 직접 작성
+
+> <대한국민을 해치는 자는 지구끝까지 추적해서라도 반드시 잡습니다. 
+> 
+> 한필우정과 정의를 위한 협력에 대해 대한민국 국민을 대표하여 마르코스 필리핀 대통령님께 깊이 감사드립니다.>
+> 
+> 李대통령이 지목한 ‘마약왕’ 박왕열, 한국서 벌 받는다 https://v.daum.net/v/20260325023625660
+
+좋아요 7,030 · 재게시 1,835 · 답글 667 · 조회 518,552 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2036576214983516549
+
+### 2026-03-24 22:44 — 정치·국정 · 직접 작성
+
+> 이 캡처는 그알 게시판에 올라온 글이라는데 진위는 잘 모르겠습니다. 그러나 이 글이 의미하는 바는 매우 엄중합니다.
+> 
+> 그알의 문제된 보도처럼 정치적 목적에 따라 정치인을 악마화한 조작보도로 주권자의 선택을 바꾼 것은 정치인에 대한 명예훼손이기도 하지만, 이를 넘어 주권자의 국민주권을 탈취하는 선거방해, 민주주의 파괴라는데 심각성이 있습니다. 
+> 
+> 민주주의는 자유로운 주권자의 선택으로 완성되는데 악의적 조작보도로 주권자의 결단을 비트는 것은 민주공화정을 부정하는 행위에 다름 아닙니다.
+> 
+> 사실 이 방송의 제작ㆍ송출 관련자들이 사과할 대상은 정치인 이재명보다 대통령 선택권을 박탈당하거나 심지어 이 분처럼 반대의 선택을 강요당한 후 억울함과 후회에 가슴을 치는 대한민국 주권자들입니다. 
+> 
+> 방송에 속아 다른 선택을 하고 가슴 아파 하시거나 지금도 저를 살인조폭 연루자로 알고 계신 분들께 말씀드립니다. 지연된 그 몇배로 열과 성을 다해 지금 된 것이 그때 된 것보다 훨씬 더 나은 대한민국을 반드시 만들테니 안타까워 마시기 바랍니다.
+
+좋아요 9,629 · 재게시 2,578 · 답글 1,022 · 조회 439,019 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2036439072043089983
+
+### 2026-03-24 22:28 — 국방·안보 · 직접 작성 · 분류 검토 대기
+
+> 국제 정세의 불확실성이 커지는 상황에서, 오랜 우방이자 역내 핵심 협력국인 뉴질랜드와의 협력은 그 어느 때보다 중요합니다.
+> 
+> 크리스토퍼 럭슨 총리와 전화 통화를 하며 최근 중동 정세가 국제 경제와 에너지 안보에 미치는 영향에 대해 심도 있는 대화를 나눴습니다.
+> 
+> 양국은 지난해 관계 격상을 바탕으로 다양한 분야에서 협력을 한층 확대, 심화하기로 뜻을 모았습니다. 앞으로도 양국 관계 발전을 위한 구체적 협력 방안을 지속적으로 논의해 나갈 계획입니다.
+> 
+> 크리스토퍼 총리님, 향후 적절한 시점에 만나 보다 심도 있는 협의를 이어가길 기대하겠습니다.
+> 
+> @chrisluxonmp With global uncertainty on the rise, cooperation with New Zealand—our long-standing friend and key regional partner—is more important than ever.
+> 
+> During my phone call with Prime Minister Christopher Luxon, we had an in-depth discussion regarding how recent developments in the Middle East are affecting the global economy and energy security.
+> 
+> Building on the elevation of our bilateral relationship last year, we agreed to further expand and deepen cooperation across a wide range of areas. We will continue to explore concrete ways to advance our partnership going forward.
+> 
+> Prime Minister Luxon, I look forward to meeting you at a mutually convenient time to continue our in-depth discussions.
+
+좋아요 3,988 · 재게시 817 · 답글 179 · 조회 75,982 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2036435063160840644
+
+### 2026-03-24 21:00 — 경제·민생 · 직접 작성 · 분류 검토 대기
+
+> <나라 망치는 악질 부동산 범죄, 꼭 뿌리 뽑겠습니다.
+> 
+> 망국적 '부동산 공화국' 정상화 없이 대한민국의 미래는 없습니다.>
+
+좋아요 6,119 · 재게시 1,515 · 답글 654 · 조회 159,982 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2036412805512044595
+
+### 2026-03-24 19:56 — 사회 · 직접 작성
+
+> <공공기관 지방이전, 이제야 효과가 제대로 나는 듯 합니다.>
+> 
+>  '1600조 큰손 있는 곳' 속속 입성…전주에 무슨 일이? https://v.daum.net/v/20260324174746107
+
+좋아요 4,215 · 재게시 1,187 · 답글 209 · 조회 236,756 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2036396839671570951
+
+### 2026-03-24 19:56 — 정치·국정 · 직접 작성 · 분류 검토 대기
+
+> <우리 사회는 여전히 대기업과 중소기업, 정규직과 비정규직, 원청과 하청, 그리고 성별에 따른 노동격차를 비롯한 다양한 형태의 양극화 문제를 안고 있습니다. 
+> 
+> 이제 우리는 노동의 가치가 정당하게 존중받고, 힘의 균형이 바로 서며, 어떠한 형태의 부당한 착취도 용납되지 않는 사회를 만들어가야 합니다. 이는 노동의 문제를 넘어, 사회 전반의 지속가능성과 직결된 과제이기 때문입니다.
+> 
+> 한국노동조합총연맹이 그 중심에서 책임 있는 대화와 협력의 주체로서 본보기가 되어주시길 기대합니다. 정부 역시 노동계의 목소리에 귀 기울이며, 상생의 가치가 현장에서 실현될 수 있도록 최선을 다하겠습니다.>
+
+좋아요 3,443 · 재게시 876 · 답글 157 · 조회 76,066 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2036396794087874812
+
+### 2026-03-24 19:22 — 국방·안보 · 직접 작성
+
+> <내란사범들이 훈장이라니,있을 수 없는 일입니다. 국방부 보훈부 행안부 칭찬합니다. 
+> 
+> 이런게 바로 별로 힘들 것도 없는, 비정상의 정상화 아닐까요. >
+> 
+> ‘전두환 12·12 군사반란’ 가담 10명 무공훈장 박탈…국방부, 김진영 전 육참총장 포함 https://v.daum.net/v/20260324164605211
+
+좋아요 6,678 · 재게시 1,829 · 답글 429 · 조회 194,577 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2036388083533541820
+
+### 2026-03-24 12:41 — 미분류 · 인용 · 분류 검토 대기
+
+> 개구리를 보호한다고 모기까지 보호해야하는 것은 아닙니다.
+
+좋아요 4,388 · 재게시 1,279 · 답글 510 · 조회 991,687 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2036287349991379182
+
+### 2026-03-23 23:59 — 경제·민생 · 직접 작성
+
+> <저도 궁금했습니다.>
+> 선진국 주요 도시 보유세, 우리나라와 비교하면? 
+> 
+> https://v.daum.net/v/20260323200805657
+
+좋아요 5,601 · 재게시 1,350 · 답글 846 · 조회 822,432 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2036095497644265787
+
+### 2026-03-23 23:37 — 일상·인사 · 인용
+
+> 공정위 잘하십니다. 
+> 열일하는 공정위 공무원 여러분 감사합니다.
+> 
+> 그런데 규모가 작아서겠지만 과징금 액수가 그렇게 크지는 않네요?
+> 
+> 법률이 허용하는 최대치로 부과한 거겠지요?
+
+좋아요 5,174 · 재게시 1,417 · 답글 390 · 조회 813,027 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2036089876924543297
+
+### 2026-03-22 18:04 — 과학기술·AI · 직접 작성
+
+> <공무원이 열심이면 국민이 행복합니다. 기후에너지환경부 김성환 장관님과 공무원 여러분 잘 하고 계시는군요. 감사합니다. 
+> 
+> 김성환 장관님, 피자 값 부족하면 언제든지 연락 바랍니다. >
+> 
+> “장관님이 피자 들고 오셨다!”…김성환표 기후부 행복프로젝트 https://v.daum.net/v/20260322140146902
+
+좋아요 4,488 · 재게시 894 · 답글 445 · 조회 211,121 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2035643729781154186
+
+### 2026-03-22 09:53 — 정치·국정 · 인용
+
+> 권리에는 의무가 자유에는 책임이 따릅니다.
+> 진실과 정의는 민주주의의 숨구멍이라 헌법은 특권설정은 금하면서도 정론직필을 전제로 언론을  특별히 보호합니다.
+> 
+> 그렇다고 언론의 자유가 언론의 특권을 의미하는 것은 아닙니다. 정론직필의 책임을 외면한 채 정치적 목적으로 사실을 왜곡하고 거짓을 유포한다면 그 악영향에 비추어 언론은 일반인보다 더 큰 책임을 지는 것이 타당합니다. 
+> 
+> 자유와 권리만큼 책임과 의무를 지는 것이 특권설정을 금지하는 헌법에도 부합하고, 일반적 상식에 비추어 공정 타당하지 않습니까?
+> 
+> 책임없는 자유는 타인의 자유를 침해하다 결국 자신의 자유와 권리마저 해치게 됩니다.
+
+좋아요 8,195 · 재게시 2,286 · 답글 908 · 조회 767,611 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2035520271453753382
+
+### 2026-03-22 09:37 — 경제·민생 · 직접 작성
+
+> 주택과 부동산정책의 논의, 입안, 보고, 결재 과정에서 다주택자와 비거주고가주택 소유자, 부동산 과다보유자를 배제하도록 청와대와 내각에 지시했습니다.
+> 
+> 부동산공화국 탈출은 대한민국 대전환을 위한 핵심중의 핵심과제이고, 부동산이나 주택정책에서는 단 0.1%의 결함이나 구멍도 있어서는 안되기 때문입니다. 
+> 
+> 다주택자나 투자ㆍ투기용 비거주 주택 보유자, 초고가주택 자체를 비난할 이유는 없습니다. 주택보유가 많을수록 유리하도록, 집값이 오르도록 세제, 금융, 규제 정책을 만든 공직자들이 문제입니다. 그런 제도를 만든 공직자나 그런 제도를 방치한 공직자가 그 잘못된 제도를 악용해 투기까지 한다면 그는 비판을 넘어 제재까지 받은 게 마땅하겠지요. 
+> 
+> 지금부터라도 부동산 주택정책에서 배제하는 것이 타당하겠지요?
+> 
+> 부동산 특히 주택가격 안정은 이 정권의 성패가 달린 일이고, 대한민국의 운명을 가르는 일입니다. 
+> 
+> 집이 있어야 살림도 하고 결혼해 아이 낳아 기르기도 할 것 아니겠습니까? 
+> 
+> 몇몇의 돈벌이를 위해 수많은 이들을 집없는 달팽이처럼 만들면 안된다고 생각하는데, 여러분 의견은 어떠신가요?
+
+좋아요 6,641 · 재게시 1,496 · 답글 902 · 조회 260,540 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2035516278035878113
+
+### 2026-03-22 09:00 — 문화·체육 · 직접 작성
+
+> <유채꽃 피는 따스한 봄날, 제주특별자치도에서 뵙겠습니다>
+> 
+> 국민 여러분과 함께 지역의 미래를 그려가는 타운홀 미팅, 그 열두 번째 장소는 대한민국의 가장 특별한 섬 제주특별자치도입니다.
+> 
+> 세계인의 사랑을 받는 관광지 제주는 태양광과 풍력 등 청정에너지를 바탕으로 탄소중립을 가장 앞서 실현할 수 있는 가능성을 지니고 있습니다. 관광과 문화, 기술이 공존하는 대한민국 미래의 축소판이기도 합니다.
+> 
+> 이제 이러한 제주의 강점들이 도민 여러분의 삶의 질 향상과 지역경제의 지속적인 성장으로 이어져야 합니다. 관광의 양적 성장과 더불어 지역 자원을 활용한 산업과 일자리도 더욱 확대되어야 합니다. 
+> 
+> 대한민국 탄소중립을 선도하는 ‘에너지 대전환의 섬’이자, 머무는 관광과 K-컬처가 결합된 ‘세계적 관광수도’, 그리고 ‘지역경제 혁신 중심지’로 도약하며 새로운 성장 모델을 만들어 갈 제주를 꿈꿉니다. 
+> 
+> 이 과정에서 무엇보다 중요한 것은 도민 여러분의 목소리입니다. 지역에서 쌓아온 경험과 지혜, 그리고 미래 비전에 대한 의견을 나누며 제주가 나아갈 길을 함께 모색하고자 합니다. 많은 관심 부탁드립니다.
+>  
+> ☑️ 모집인원 : 제주도민 200명
+> ☑️ 행사날짜 : 2026년 3월 30일(월) 
+> * 시간, 장소는 경호상의 이유로 추후 안내 예정
+> ☑️ 참여신청 : 2026년 3월 22일(일) 09시 ~ 3월 24일(화) 12시 네이버폼 접수(  )
+> * 신원 확인이 어려운 경우 출입이 제한될 수 있으니, 신청 시 이름과 주민등록번호를 정확하게 기입해 주시기 바랍니다. 
+> * 선정되신 분들께는 시간과 장소 안내 및 참석 여부 확인 전화를 드릴 예정입니다.
+
+좋아요 3,813 · 재게시 841 · 답글 222 · 조회 88,079 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2035506750401794298
+
+### 2026-03-21 19:44 — 재난·안전 · 직접 작성
+
+> <끝까지 책임지고 함께하겠습니다>
+> 
+> 대전 대덕구 사고 현장을 찾아 피해 상황과 구조 진행 전반을 면밀히 점검했습니다.
+> 
+> 유가족분들의 요청을 반영해 현장 책임자를 지정하고, 상시 대응 체계를 유지하며 진행 상황을 정례적으로, 성실히 설명드릴 것을 지시했습니다. 원인 규명 등 조사 과정에서도 가능한 범위 내에서 유가족의 참여를 보장하고, 의견이 반영될 수 있도록 할 것입니다.
+> 
+> 지원에 있어서도 한 치의 소홀함 없도록 하겠습니다. 긴급한 도움이 필요한 경우 정부가 비용을 선지급하는 방안을 포함해 실질적 지원이 신속히 이루어지도록 하고, 이후 관계 기관과의 정산 및 구상 절차까지 검토하겠습니다.
+> 
+> 아울러 병원에서 치료 중인 부상자분들을 찾아뵙고 위로의 말씀을 전했습니다. 하루빨리 건강을 회복하시어 일상으로 복귀하시길 진심으로 기원합니다.
+> 
+> 국민의 생명과 안전을 지키는 것은 국가의 가장 기본적인 책무입니다. 정부는 이번 사고의 원인과 경위를 철저히 규명하고, 다시는 이와 같은 비극이 발생하지 않도록 근본적인 대책을 마련하겠습니다.
+> 
+> 이번 사고로 소중한 생명을 잃으신 분들의 명복을 빌며, 유가족분들께 깊은 애도의 뜻을 표합니다.
+> 
+> 사고 현장에서 구조와 수습에 혼신의 힘을 다하고 계신 소방대원과 관계자 여러분께도 깊은 감사를 전합니다.
+
+좋아요 5,871 · 재게시 1,370 · 답글 434 · 조회 204,388 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2035306641139421680
+
+### 2026-03-21 12:13 — 사회 · 직접 작성
+
+> <사기죄 형사처벌에 국세청 세무조사까지 받고 강제대출회수 당하는 것과 선제적으로 자발상환 하는 것 중 어떤 선택이 더 합리적일 지는 분명합니다.>
+> 
+> 이 대통령 “사업자 대출로 주택 구입 꼼수” 지적 사실이었다···국세청장 “전수 검증”  https://naver.me/FqIwhbtN
+
+좋아요 4,959 · 재게시 1,301 · 답글 408 · 조회 142,367 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2035192974276272595
+
+### 2026-03-21 11:57 — 일상·인사 · 인용
+
+> 김남희 의원님 감사합니다. 
+> 
+> 국민이 정치하는 시대에는 국민에게 성과와 실적으로 평가 받는 것이 중요합니다. 
+> 내 편이 아무리 많아도 국민에게 인정받지 못하면 정치적으로 성공 하기 어렵습니다. 
+> 
+> 비록 혼자일지라도 국민이 인정 하면 결국 성공한 정치인이 될 수 있습니다. 
+> 
+> 국민을 믿어요.
+> 사필귀정!
+
+좋아요 4,394 · 재게시 1,037 · 답글 302 · 조회 265,693 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2035188982364217707
+
+### 2026-03-20 21:47 — 재난·안전 · 직접 작성
+
+> 대전 대덕구에서 발생한 공장 화재 사고의 수습과 인명 구조를 위해 가용한 모든 장비와 인력을 즉시 총동원하도록 지시했으며, 현재 화재 진압과 구조 활동에 총력을 다하고 있습니다.
+> 
+> 행정안전부, 보건복지부, 고용노동부를 비롯한 관계부처 장관들이 상황을 지휘하고 있고, 곧 국무총리도 현장에 도착해 지방정부와 함께 대응 상황을 점검하고 추가 대책을 마련할 계획입니다.
+> 
+> 화재 진압과 함께 피해 상황을 면밀히 파악해 필요한 지원과 후속 조치를 신속히 추진하겠습니다. 또한 구조 인력과 현장 관계자들의 2차 안전사고 예방에도 한 치의 소홀함이 없도록 하겠습니다.
+> 
+> 아직 연락이 닿지 않는 분들의 무사함이 조속히 확인되길 간절히 기원합니다.
+
+좋아요 5,264 · 재게시 1,205 · 답글 380 · 조회 598,978 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2034975222236074308
+
+### 2026-03-20 08:07 — 정치·국정 · 인용
+
+> 이재명 조폭연루설을 만든 그것이 알고싶다는 과연 순순히 추후보도할 지, 한다면 어떤 내용으로 보도할 지 궁금합니다.
+> 
+> 그알 PD의 기적의 논리, 김상중씨의 리얼 연기 덕분에 졸지에 살인조폭으로까지 몰렸습니다. 
+> 
+> 이 방송은 나를 제거하기 위해 동원된 물리적 테러, 검찰을 통한 사법리스크 조작, 언론을 통한 이미지 훼손 작전중의 하나로 보입니다. 
+> 
+> 그알로 전보되어 만든 첫 작품이 이 방송이고 얼마후 이 그알을 떠났다고 하는 담당PD는 여전히 나를 조폭연루자로 생각하고 있을 지, 이 방송후 후속 프로그램 만든다며 전국민 상대로 몇달간 방송을 동원해 제보를 받고 대규모 취재진이 성남바닥을 샅샅히 훓었는데 과연 제보된 단서 비슷한 것이 단 한개라도 있었는지 궁금합니다. 티끌만한 건덕지라도 있었으면 후속보도를 안했을 리 없겠지요?
+> 
+> 정치적 목적으로 거짓의 무덤에 사람을 매장하는 일이 재발하지 않게 하려면 조작폭로한 국민의힘이나 그알같은 조작방송의 반성과 사과가 필요합니다.
+> 
+> 저도 과욕이겠지만, 미안하다는 진솔한 한마디를 듣고 싶습니다.
+
+좋아요 12,304 · 재게시 4,620 · 답글 1,445 · 조회 4,468,032 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2034768764542361914
+
+### 2026-03-19 20:39 — 사회 · 직접 작성
+
+> <경제사회노동위원회 제1기가 첫걸음을 내디뎠습니다. 결코 쉽지 않은 여정이겠지만, 그렇기에 더욱 의미 있는 도전이 될 것입니다.
+> 
+> 사회의 갈등과 대립은 날로 깊어지고 있으며, 대내외 여건 또한 녹록지 않습니다. 이럴 때일수록 우리에게 필요한 것은 충돌이 아니라 서로 마주 앉아 대화하고 타협하려는 용기입니다.
+> 
+> 돌아보면 노동자와 기업, 정규직과 비정규직 간 쌓여온 불신과 격차는 결국 우리 모두의 부담으로 작용했습니다. 이 악순환을 끊기 위해 무엇보다 중요한 것은 신뢰의 회복입니다.
+> 
+> 처음부터 완벽한 합의를 이루려 하기보다 서로의 입장을 충분히 듣고 이해와 공감을 쌓아가는 과정이 필요합니다. ‘누가 옳은가’를 따지기보다 ‘어떻게 함께 살아갈 것인가’를 고민해야 할 때입니다.
+> 
+> “빨리 가려면 혼자 가고, 멀리 가려면 함께 가야 한다”는 말이 있지요. 경사노위 제1기가 빠른 속도가 아니라 올바른 방향으로 나아가는 출발점이 되어주길 기대합니다.>
+
+좋아요 3,665 · 재게시 817 · 답글 232 · 조회 91,163 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2034595573886501298
+
+### 2026-03-19 19:03 — 국방·안보 · 인용
+
+> 비자금 조성에  국가기밀인 군사정보 유출?
+> 정말 한심하고 악질적인 마타도어입니다.
+> 엄중하게 단죄해야될 일입니다.
+
+좋아요 6,369 · 재게시 1,829 · 답글 636 · 조회 249,955 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2034571516571275643
+
+### 2026-03-19 12:58 — 경제·민생 · 인용
+
+> 송미령 장관님 잘 하십니다. 
+> 
+> 이런 성과들이 쌓이면 악명높은 대한민국 고물가도 많이 시정될 것입니다. 
+> 
+> 열심히 해 주셔서 감사드립니다. 
+> 
+> 공정거래위원회도 아주 잘 하고 있습니다. 
+> 
+> 화이팅!
+> 친구님들도 RT로 응원 해 주십시오
+
+좋아요 9,042 · 재게시 2,749 · 답글 479 · 조회 295,640 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2034479679315611807
+
+### 2026-03-18 19:58 — 경제·민생 · 직접 작성
+
+> <늘 말씀드리듯 대한민국의 가장 큰 과제는 먹고사는 문제, 곧 경제입니다. 우리 사회의 성장 동력이 지속되려면 그 성과가 공정하게 돌아가야 하지만, 국민 자산의 상당 부분이 부동산에 집중된 현실은 주거비 부담과 기업 생산비 상승, 산업 경쟁력 저하 등 여러 부작용을 낳고 있습니다. 이제 자금이 보다 생산적으로 흐를 수 있도록 구조를 과감히 바꿔야 할 때입니다.
+> 
+> 오랫동안 우리 자본시장은 '코리아 디스카운트'라는 이름 아래 제 가치를 충분히 인정받지 못했습니다. 그러나 시장의 투명성과 공정성을 확립한다면 코리아 디스카운트는 분명 '코리아 프리미엄'으로 바뀔 수 있습니다. 
+> 
+> 국민주권정부의 목표는 분명합니다. 국민이 안정적으로 투자하고, 기업은 혁신을 통해 성장하며, 그 성과가 다시 국민에게 돌아가는 선순환 구조를 실현하는 것입니다. 공정한 시장과 투명한 제도를 통해 신뢰할 수 있는 경제 생태계를 만들어가겠습니다.  
+> 
+> 정책은 현장에서 완성됩니다. 아무리 좋은 제도라도 현장에서 제대로 작동하지 않으면 무의미합니다. 오늘 들려주신 귀한 의견은 정책의 방향을 더욱 분명히 하고, 실질적인 변화를 이끄는 기반이 될 것입니다. 현장의 목소리에 귀 기울이며, 국민 여러분께서 체감하실 수 있는 살아 있는 정책을 실현해 나가겠습니다.>
+
+좋아요 5,363 · 재게시 1,141 · 답글 522 · 조회 120,133 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2034222916007776618
+
+### 2026-03-18 16:39 — 과학기술·AI · 인용
+
+> 차지호 의원님 열심히 잘 하고 계십니다. 대한민국이 인공지능 3강으로 가는데 큰 도움이 될 것입니다.
+> 
+> 김민석 총리님과 역할분담 잘 하셔서 글로벌 AI 허브 꼭 유치하세요
+
+좋아요 5,014 · 재게시 1,207 · 답글 189 · 조회 227,672 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2034172803763867867
+
+### 2026-03-18 16:27 — 미분류 · 인용 · 분류 검토 대기
+
+> 위험해서 걱정되었는데 잘 하셨습니다. 성과도 기대 이상입니다.
+
+좋아요 8,303 · 재게시 1,803 · 답글 414 · 조회 554,432 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2034169702415798406
+
+### 2026-03-18 11:00 — 문화·체육 · 직접 작성
+
+> <3월 21일 토요일, 광화문광장에서 대한민국의 자랑스러운 아티스트 BTS의 공연이 열립니다. '아리랑'을 주제로 우리의 아름다운 문화유산과 K-컬처의 매력을 함께 나누는 뜻깊은 시간이 되길 기대합니다.
+> 
+> 행사가 안전하게 진행될 수 있도록 관계 부처와 지방정부, 경찰, 소방을 비롯한 유관 기관과 함께 만반의 준비를 하고 있습니다. 공연 전후 교통과 인파 관리, 비상 상황 대응까지 모든 절차를 세심히, 철저히 대비하겠습니다.
+> 
+> 우리 국민 여러분께서도 언제나 그랬듯 서로를 배려하고 질서를 지키며, 성숙한 시민의식을 보여주시리라 믿습니다. 현장 안전요원의 안내에 협조해 주시고, 시장 질서를 해치는 암표 거래는 반드시 신고해 주시기 바랍니다.
+> 
+> 이번 BTS의 공연이 대한민국이 만들어 낸 위대한 문화의 힘을 다시 한번 증명하고, 전 세계인에게 오래도록 기억될 특별한 순간이 되었으면 좋겠습니다.>
+
+좋아요 25,649 · 재게시 8,336 · 답글 1,186 · 조회 3,641,349 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2034087400952238256
+
+### 2026-03-17 21:38 — 경제·민생 · 직접 작성
+
+> <부동산 투기 자금으로 쓰려고 부동산 구입자금 대출을 하지않으려는 금융기관에서 사업자금이라 속이고 대출받아 부동산 구입용으로 쓰면 사기죄로 형사처벌 됩니다. 
+> 
+> 금감원과 국세청이 합동으로 전수조사해서, 사기죄로 형사고발한고 대출금을 회수할 수도 있습니다. 
+> 
+> 국민주권정부에서는 편법 탈법을 결코 용인하지 않으니, 최소한 이 순간부터는 자제하기 바랍니다.
+> 
+> 돈 벌기위해 부동산 투기 나섰다가 투기이익은커녕 원금까지 손해보실 수가 있습니다.
+> 
+> 국민주권정부는 빈 말 하지 않습니다. 꼼수 쓰다가 공연히 피해 입지 마시라고 미리 알려드리는 것입니다.> 
+> 
+> [단독] 규제 피해 사업자 대출로 ‘아파트 쇼핑’…작년 하반기에만 6백억 원 육박
+
+좋아요 6,255 · 재게시 1,543 · 답글 600 · 조회 297,299 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2033885697585860978
+
+### 2026-03-17 19:36 — 문화·체육 · 직접 작성 · 분류 검토 대기
+
+> <자랑스러운 신임 경찰 여러분의 임용을 국민 모두와 함께 축하합니다. 패기 넘치고 늠름한 여러분의 모습을 보니 마음이 참으로 든든했습니다. 
+> 
+> ‘세계에서 가장 안전한 나라’ 대한민국은 14만 경찰 가족들의 큰 희생과 헌신의 토대 위에서만 가능합니다. 우리 국민과 한국을 찾는 수많은 해외 관광객들이 늦은 시간에도 걱정 없이 거리를 다닐 수 있는 것 또한 모두 경찰 여러분의 헌신 덕분입니다.
+> 
+> 국민에게 사랑받는 경찰보다 강한 경찰이 없고, 국민의 믿음에 부응하는 경찰만큼 빛나는 이름도 없습니다. 언제나 이 사실을 명심하고, 국민의 사랑과 신뢰를 기반으로 오직 국민을 위해서만 헌신하는 ‘국민의 경찰’이 되어주길 바랍니다. 
+> 
+> 정부는 전국의 14만 경찰 가족들이 오직 국민만을 바라보며 일할 수 있도록 든든하게 뒷받침하겠습니다.>
+
+좋아요 3,970 · 재게시 786 · 답글 175 · 조회 79,409 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2033854964637044869
+
+### 2026-03-17 13:57 — 정치·국정 · 직접 작성
+
+> <다행히 나라가 위신을 되찾고 있습니다.>
+> 
+> [단독]韓민주주의 세계 41위→22위 껑충…'자유민주주의' 복귀  https://v.daum.net/v/20260317125458193
+
+좋아요 8,402 · 재게시 2,331 · 답글 627 · 조회 396,240 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2033769761302270434
+
+### 2026-03-17 08:00 — 정치·국정 · 직접 작성
+
+> <당정협의로 만든 당정협의안은검찰수사배제에 필요한 범위내라면 당정협의를 통해 10번이라도 수정가능합니다. 
+> 
+> 당정 협의안 중 특사경에 대한 지휘조항이나 수사진행중 검사의 관여 여지가 있는 조항도 삭제하도록 정부에 지시하였습니다. 
+> 
+> 수사기소 분리와 검찰수사배제는 분명한 국정과제로 확고히 추진합니다. 다만 어떤 이유든 개혁에 장애를 가져오는 불필요한 과잉은 안됩니다.>
+> 
+> 이 대통령, 검찰개혁안에 “선명성 위한 재수정 안돼”…“집권하니 관대” 김어준 발언 기사 공유도
+
+좋아요 5,139 · 재게시 1,374 · 답글 715 · 조회 214,160 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2033679907109409163
+
+### 2026-03-16 19:00 — 문화·체육 · 직접 작성
+
+> <2026 밀라노–코르티나 동계패럴림픽이 막을 내렸습니다. 머나먼 이국 땅에서 빛나는 활약을 펼쳐준 대한민국 국가대표 선수단 여러분께 뜨거운 박수를 보냅니다.
+> 
+> 우리 선수단은 이번 대회 여러 종목에서 메달을 획득하며 역대 최고 성적을 기록했습니다. 대한민국 장애인 스포츠의 새로운 역사를 쓰는 동시에 국민들께 큰 감동과 자부심을 선사했습니다.
+> 
+> 선수들의 투지는 분명 누군가에게 희망과 꿈이 되었으리라 확신합니다. 메달과 관계 없이 끝까지 최선을 다한 모두가 참 자랑스럽습니다. 앞으로 선수들이 걸어갈 여정도 힘차게 응원하겠습니다.
+> 
+> 또한 선수단이 오롯이 경기에 집중할 수 있도록 애써주신 지도자와 트레이너, 조리사, 영양사 분들께도 깊은 감사를 전합니다. 여러분의 헌신이 선수들의 든든한 버팀목이 되었습니다. 고생 많으셨습니다.>
+
+좋아요 3,765 · 재게시 737 · 답글 171 · 조회 88,423 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2033483469695901992
+
+### 2026-03-16 16:55 — 문화·체육 · 직접 작성
+
+> <'케이팝 데몬 헌터스' 아카데미 2관왕을 진심으로 축하합니다>
+> 
+> 아카데미 시상식에서 '케이팝 데몬 헌터스'가 장편 애니메이션상과 주제가상을 수상했다는 기쁜 소식을 접했습니다. 세계 영화계의 권위 있는 무대에서 거둔 뜻깊은 성과에 대한민국 국민 여러분과 함께 힘찬 박수를 보냅니다.
+> 
+> '케이팝 데몬 헌터스'는 문화가 국경과 언어를 넘어 세계인의 마음을 연결할 수 있음을 보여준 작품입니다. 케이팝의 역동적 에너지와 한국적 감성, 그리고 독창적 상상력이 어우러져 새로운 즐거움을 전하며 우리 문화의 지평을 한층 넓혀 주었습니다.
+> 
+> 우리 문화의 가능성과 잠재력을 세계 무대에서 당당히 증명해 주신 매기 강 감독님과 모든 제작진, 그리고 '골든'의 작곡가, 프로듀서 여러분께 깊은 감사를 전합니다. 대한민국과 전 세계의 한국인들에게 더할 나위 없이 큰 자부심을 안겨주셨습니다.
+> 
+> 감독님의 수상 소감처럼, 우리가 주인공인 이야기가 세계의 중심에서 빛나기까지 참 오랜 시간이 걸렸습니다. 그러나 오늘의 성과를 토대로 이제 다음 세대의 창작자들은 더 큰 꿈을, 더 넓은 무대에서, 더 빠르게 펼칠 수 있을 것입니다. 
+> 
+> 대한민국을 넘어 전 세계에 감동을 전해주신 '케이팝 데몬 헌터스' 관계자 분들께 다시 한번 축하를 전합니다. 앞으로 여러분이 펼쳐갈 새로운 창작의 여정도 꾸준히 관심 갖고 응원하겠습니다.
+> 
+> 김구 선생께서 꿈꾸셨던 '높고 새로운 문화의 근원이 되고, 목표가 되고, 모범이 되는 나라'가 어느덧 현실이 되고 있습니다. 정말 자랑스럽습니다. 고맙습니다.
+
+좋아요 7,875 · 재게시 1,641 · 답글 198 · 조회 390,969 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2033452075242369375
+
+### 2026-03-16 15:54 — 정치·국정 · 직접 작성 · 분류 검토 대기
+
+> <검찰개혁에 대한 일각의 우려는 기우입니다.>
+> 
+> 검찰개혁의 핵심은 수사와 기소를 분리해 검사의 수사권을 배제하는 것입니다.
+> 
+> 국민주권정부는 검찰개혁을 통해 검찰이 직접 수사하거나, 영장청구 등 헌법이 정한 권한 외에 수사기관의 수사에 관여하지 못하게 한다는 명확한 방침을 가지고 있습니다.
+> 
+> 수사기소 분리와 검찰의 수사배제는 국정과제로 이미 확정된 것이고 돌이킬 수 없습니다.
+> 
+> 그런데 공소청 책임자 명칭을 헌법이 규정한 '검찰총장'으로 할 것인지 공소청장으로 할 것인지, 검사 전원을 면직한 후 선별 재임용할 것인지는 수사 기소 분리(검사의 수사 배제)와는 직접 관련이 없는 것입니다.
+> 
+> 개혁은 실질적 성과가 중요합니다. 본질과 괴리된 과도한 선명성 경쟁과 긴요하지 않은 조치 때문에 해체되어야 할 기득 세력이 반격의 명분과 재결집 기회를 가지게 할 필요가 없습니다.
+> 
+> 과잉 때문에 결정적인 개혁 기회를 놓치고 결국 기득권의 귀환을 허용한 역사적 경험을 상기해 볼 필요가 있습니다.
+> 
+> 정부안이 입법예고되었지만 당과 정부가 당정협의를 통해 수정안을 만들었고, 이를 여당 당론으로 채택된 바 이 수정안은 정부안이 아니라 당정협의안입니다.
+> 
+> 이 당정협의안 역시 만고불변의 확정안이 아니라 필요하면 입법과정에서 또 논의하고 수정하면 됩니다.
+> 
+> 다만 그 재수정은 수사기소 분리, 검찰의 수사배제라는 대원칙을 관철하는데 도움되는 것이어야지, 만의 하나라도 누군가의 선명성을 드러내거나 검찰개혁의 본질과 무관한 다른 목적에 의한 것이어서는 안될 것입니다.
+> 
+> 집권세력은 집권의 이유와 가치를 잃지 않되, 언제나 국가와 국민 모두를 위해 모든 국민을 대표하려 노력해야 합니다.
+> 
+> 위헌논란 소지를 남겨 반격할 기회와 명분을 허용할만큼 검찰총장 명칭을 공소청장으로 굳이 바꾸어야할 이유를 납득하기 어렵습니다.
+> 
+> 재임용 기준도 불명확한 마당에 사조직화 주장 등으로 반격할 여지를 만들어 주면서까지 검사전원해임 선별재임용이라는 부담을 떠안을 이유도 분명치 않습니다.
+> 
+> 헌법은 검찰사무 주체로 검사를, 검찰사무 총책임자로 검찰총장을 명시하고 있어서 검찰사무담당기관명은 검찰청이 상식적으로 맞습니다. 그런데 검찰청을 공소청으로 바꾸었더니 이제와서 검찰총장을 공소청장으로, 검사를 공소관으로 바꿔야한다고 하는 것은 과유불급입니다. 
+> 
+> 수사기소 분리, 검찰의 수사배제라는 이 정부의 명확한 국정과제인 검찰개혁은 추호의 흔들림 없이 추진할 것입니다. 다만, 국민의 삶과 국가 백년대계인 국정시스템을 대대적으로 재구성함에 있어 일호의 빈틈도 있어서는 안됩니다.
+> 
+> 객관성과 평정심을 잃지 않고 지금 이 순간을 넘어 세월이 지나고 세력관계가 변할지라도 언제나 통용될 수 있는, 합리적이고 효율적이며 악용되기 어려운 시스템을 만들어야 합니다. 그 판단기준은 국민의 눈높이입니다.
+> 
+> '덮어서 돈 벌고, 만들어서 출세한다.'
+> 
+> 정치검찰의 사건조작만큼 부패 검찰의 사건덮기도 문제입니다.
+> 
+> 수사권 남용하는 검찰의 수사권 제한도 중요하지만, 경찰 등 수사기관의 사건덮기에서 범죄피해자들을 보호하고 부패범죄자들을 규제하는 것도 중요합니다.
+> 
+> 수사 종결후 송치된 사건의 보완수사 문제는 추후 검사의 수사지휘를 규정하고 있는 형사소송법 개정시에 심층 논의하기로 되어 있습니다.
+> 
+> 보완수사 허용 여부 역시 남용가능성 등을 고려하여 충분히 논의하기를 바랍니다.
+> 
+> 아래 기사중 정부안 통과를 의원들에게 당부하였다는 것은 사실이 아닙니다. 정부안이란 기실 당정합의 수정안이고, 법안이란 심의도중 의견을 모아 언제든지 수정할 수 있는 것입니다.
+> 
+> 일부 언론이 보도한 나쁜 검사들만 있는 건 아니라는 언급 역시 왜곡된 것입니다. 정치화된 일부 특수부 검사들도 있지만 충직하게 본분을 다하는 검사들도 많으니, 전원해임 재임용 등으로 전체를 몰아 모욕감을 줄 필요는 없다는 언급의 일부를 떼어낸 것으로 말의 진의가 왜곡되었습니다.
+> 
+> ㅡㅡㅡㅡ
+> 
+> 李, 檢개혁 정부안 당부…김어준 "객관 강박, 설득되고 싶다"
+
+좋아요 6,224 · 재게시 1,862 · 답글 1,712 · 조회 437,044 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2033436737620558306
+
+### 2026-03-16 12:29 — 문화·체육 · 직접 작성
+
+> <노경은 선수 수고 많으셨습니다.>
+> 이번 WBC대회 아시아 예선에서는 국가대표팀의 42세 베테랑 투수 노경은 선수가 보여준 장면이 깊은 인상을 남겼습니다.
+> 
+> 조별예선 마지막 호주전에서 선발투수가 갑작스러운 부상으로 마운드를 내려간 직후, 노경은 선수는 급히 등판해 2이닝을 무실점으로 막아내며 팀의 7대2 승리를 이끌었습니다.
+> 
+> 당시 한국의 8강 진출 확률은 5% 미만이던 어려운 상황에서 그 투구는 기적 같은 반전의 출발점이 되었고 결국 대표팀은 극적으로 본선 진출에 성공했습니다.
+> 
+> 무엇보다 많은 이들이 감동한 이유는 그가 42세의 나이에도 불구하고 포기하지 않고 스스로를 단련해 온 베테랑이라는 점 때문입니다. 
+> 
+> 시속 150㎞는 기본이고 160㎞도 넘는 빠른 공이 지배하는 시대 속에서도 그는 경험과 절제, 그리고 오랜 시간 쌓아온 감각으로 자신의 역할을 훌륭하게 해냈습니다.
+> 
+> 이 장면은 단순한 승부를 넘어 “늦었다고 포기하지 말라”는 하나의 메시지로 느껴졌습니다. 
+> 
+> 지금 우리 사회에도 여러 이유로 좌절하거나, 포기를 고민하는 이들이 적지 않기 때문에, 노경은 선수가 보여준 끊임없는 도전과 큰 용기는 많은 국민들에게 희망과 투지를 불어넣을 것으로 믿습니다.
+> 
+> 식민지에서 해방된 나라중에 산업화와 민주화를 모두 달성한 나라는 대한민국이 유일합니다.
+> 
+> 선진국과 어깨를 나란히 하는 지금의 대한민국은 끊임없이 배우고 익히며 도전하는 국민들이 있기 때문에 가능했습니다.
+> 
+> 국내외적으로 어려운 상황이지만 우리는 포기하지 않고, 전진할 것이며, 이겨낼 것이고 마침내 성취할 것입니다.
+
+좋아요 5,870 · 재게시 2,896 · 답글 192 · 조회 578,439 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2033385149497565365
+
+### 2026-03-16 08:24 — 사회 · 직접 작성
+
+> <부부가 해로 하는 것이 불이익받을 일은 아닙니다. 기초연금 감액 피하려고 위장이혼하는 경우까지 있다고 합니다. 
+> 
+> 감액지급은 재정 부족 때문이니, 가급적 시정해야지요. 
+> 
+> 전체자살율, 노인자살율 세계 최고급인 우리나라에서 노인자살의 제일 큰 원인이 빈곤입니다. 자살까지 유도하는 노인빈곤 줄이려면 기초연금을 좀 바꿔야할 것 같습니다. 
+> 
+> 월수입 수백만원 되는 노인이나 수입 제로인 노인의 기초연금액이 똑 같습니다. 이제는 일부는 빈곤 노인에게 조금 후하게 지급해도 되겠지요? 지금까지 지급되는 것은 그냥 두고, 향후 증액만 하후상박으로 하는 것도 방법일듯 한데 여러분 의견은 어떤신가요?>
+> 
+> 부부라서 깎였던 기초연금, 확 달라진다…어떻게?
+
+좋아요 5,823 · 재게시 1,480 · 답글 611 · 조회 360,376 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2033323503756423459
+
+### 2026-03-15 18:30 — 국방·안보 · 직접 작성 · 분류 검토 대기
+
+> <기쁜 소식입니다. 최근 중동 정세로 인해 고립돼 있던 우리 국민 204명이 군 수송기를 통해 무사히 귀국했습니다. 
+> 
+> 외교부와 국방부, 합동참모본부와 공군, 그리고 주사우디아라비아, 바레인, 쿠웨이트, 레바논 대사관 등 현지 공관은 물론 정부 합동 신속대응팀에 참여한 경찰청까지 힘을 모았습니다. 범정부 차원의 원팀 협력으로 이뤄낸 의미 있는 성과입니다.
+> 
+> 어려운 여건 속에서도 작전 성공을 위해 밤낮없이 애써주신 모든 관계자 분들께 감사드립니다. 여러분의 노고와 헌신에 무한한 경의를 표합니다. 정말 고생 많으셨습니다.>
+
+좋아요 8,328 · 재게시 1,694 · 답글 620 · 조회 566,836 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2033113700773888478
+
+### 2026-03-15 01:15 — 재난·안전 · 직접 작성
+
+> <산림 인근에서 소각 절대 안되요. 산불 나면 실화죄로 처벌받고 피해배상까지 해야 합니다. 조심, 또 조심>
+> 
+> "태우지 말고 파쇄"…영농 부산물 처리 산불 예방  https://v.daum.net/v/20260314184840455
+
+좋아요 4,675 · 재게시 1,099 · 답글 378 · 조회 268,481 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2032853238068949166
+
+### 2026-03-14 18:30 — 일상·인사 · 직접 작성 · 분류 검토 대기
+
+> <쉰들러가 대한민국 정부를 상대로 제기한 투자자-국가 간 분쟁(ISDS) 사건에서 전부 승소했습니다. 약 3,250억 원 규모의 배상 청구가 기각되며 국민의 소중한 혈세를 지켜냈습니다.
+> 
+> 어려운 소송을 끝까지 책임 있게 수행해 준 법무부 관계자 여러분께 깊은 감사를 전합니다. 앞으로도 국가와 국민의 재산을 지키고 국익을 수호하기 위해 더욱 최선을 다하겠습니다.>
+
+좋아요 6,316 · 재게시 1,616 · 답글 519 · 조회 144,723 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2032751307296223378
+
+### 2026-03-14 14:47 — 경제·민생 · 인용
+
+> 좋은 나라 만들면서 부자되는 방법.
+
+좋아요 4,505 · 재게시 1,170 · 답글 466 · 조회 285,049 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2032695020038533318
+
+### 2026-03-14 02:01 — 정치·국정 · 리트윗 · 분류 검토 대기
+
+> RT @msitminister: 오늘 충북 타운홀 참석하진 못했는데 대통령님께서 저를 찾으셨다고 합니다.
+> 
+> 그리고 제 영혼의 단짝이신 산업통상부 #김정관 장관께서 제가 없어서 많이 힘들어하셨다는 후기가 있었습니다. 
+> 
+> 너무 감사한 일입니다.
+> 
+> 역대…
+
+좋아요 0 · 재게시 599 · 답글 0 · 조회 51 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2032502437345660954
+
+### 2026-03-14 00:41 — 사회 · 인용
+
+> 아무 근거없는 이재명 조폭연루설을 확인도 없이 무차별 확대 보도한 언론들이 이런 판결이 나는데도 사과는커녕 추후정정보도 하나 없습니다. 추후정정은 고사하고 사실보도조차 없습니다.
+> 
+> 세상에는 저를 여전히 조폭 연루자로 아는 사람들이 많을 것입니다.
+> 
+> 그래서 사실확인 없이 보도하는 언론, 의도적으로 조작왜곡보도하는 언론, 근거없는 허위주장을 그대로 옮기는 무책임한 언론은 흉기보다 무서운 것입니다.
+> 
+> 가짜뉴스 없는, 진실과 정의가 강물처럼 흐르는 맑은 세상을 희구합니다.
+> 
+> 이건태 의원님 고생하신거 잘 압니다. 참으로 감사합니다.
+> 앞으로도 할 일이 많은데 잘 부탁드립니다.
+
+좋아요 11,842 · 재게시 3,948 · 답글 1,077 · 조회 1,019,355 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2032482233643336183
+
+### 2026-03-13 21:01 — 경제·민생 · 답글
+
+> 📢 신고 안내
+> -X(구. 트위터) : 오일콜센터 @[비공개] (댓글·DM 24시간 가능)
+> -전화 : 1588-5166 (24시간 가능)
+> -홈페이지 : https://www.kpetro.or.kr (3/13 21시부터 팝업창 통해 신고 가능)
+
+좋아요 3,095 · 재게시 1,656 · 답글 97 · 조회 339,645 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2032426864489505097
+
+### 2026-03-13 16:54 — 사회 · 인용
+
+> 쉽지않은 일인데..
+> 의료개혁 성과에 감사드립니다.
+
+좋아요 5,036 · 재게시 1,007 · 답글 270 · 조회 472,418 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2032364539665355041
+
+### 2026-03-13 11:11 — 경제·민생 · 직접 작성
+
+> 유류값 많이 안정되가고 있나요?
+> 바가지는 신고하세요
+
+좋아요 14,596 · 재게시 5,187 · 답글 884 · 조회 4,991,913 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2032278368952213662
+
+### 2026-03-13 09:45 — 일상·인사 · 직접 작성 · 분류 검토 대기
+
+> <오늘부터 석유 최고가격제 전면 시행합니다. 불안정한 국제 정세로 요동치는 국내 기름값을 잡기 위해 공급가격에 분명한 상한선을 두기로 했습니다.  
+> 
+> 일부 업체가 어수선한 틈을 타 폭리를 취하거나 부당이득을 챙기는 일 없도록 국민 여러분의 감시와 참여가 필요합니다.  
+> 
+> 만약 제도를 어기는 주유소 등을 발견하신다면 지체 없이 저에게 신고해 주십시오.>
+
+좋아요 6,984 · 재게시 2,547 · 답글 533 · 조회 494,109 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2032256802210136329
+
+### 2026-03-13 08:03 — 과학기술·AI · 직접 작성
+
+> <칸막이가 사라진 국민주권정부니까 가능한 일. 있는 힘을 다 모아 산업인공지능전환을 신속하게 추진하겠습니다. 
+> 위대한 대한민국, 힘내자!>
+> 
+> 과기정통·산업·중기부, 4320억 규모 AI전환 사업 통합 공고https://naver.me/GSQZJ9jn
+
+좋아요 3,646 · 재게시 855 · 답글 184 · 조회 118,927 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2032230932313444391
+
+### 2026-03-13 01:28 — 사회 · 직접 작성
+
+> <약속은 지킵니다 - 국민주권정부>
+> 
+> 18개월 군대 갔다 왔더니 연금도 18개월…내년부터 복무 전 기간 인정 https://v.daum.net/v/20260313001206830
+
+좋아요 5,092 · 재게시 1,166 · 답글 509 · 조회 1,325,166 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2032131718279544915
+
+### 2026-03-12 17:00 — 사회 · 직접 작성
+
+> <전 세계에서 가장 높은 물가로 악명높은 대한민국. 독과점적 지위를 남용한 부당한 가격인상 이제 더이상은 안됩니다. 
+> 
+> 상품가격 인하는 쉽지않은 일이지만 철저한 시장감시와 물가관리로 국민부담을 최소한으로 줄여나가겠습니다. 
+> 
+> 스스로 가격을 정상화하는 기업들을 제외하고, 부당한 담합이나 시장지배력 남용 등 부당행위에 대해서는 공정거래위나 국세청 수사기관들이 철저히 감시 조사 제재할 것입니다.>
+> 
+> 안성탕면·삼양라면 가격 내려간다…라면·식용유값, 4월부터 인하
+
+좋아요 10,049 · 재게시 3,827 · 답글 696 · 조회 1,634,812 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2032003865810178493
+
+### 2026-03-12 16:18 — 정치·국정 · 직접 작성
+
+> 「대한민국과 미합중국 간 전략적투자의 운영 및 관리를 위한 특별법」이 국회 본회의를 통과했습니다. 국가적 과제 앞에 여야가 따로 없다는 것을 보여준 뜻깊은 사례입니다. 우리 경제와 안보를 위해 대승적 결단을 내려주신 국회에 깊은 감사를 전합니다. 
+> 
+> 특별법 통과로 한미 관세합의 이행을 위한 제도적·법적 기반이 마련됐습니다. 앞으로 양국은 조선, 에너지를 비롯한 전략적 산업 분야에서 더욱 긴밀하고 강력한 협력 체계를 구축해 나갈 것입니다. 
+> 
+> 최근 중동지역 위기로 국제 정세와 글로벌 경제 환경의 불확실성이 커지고 있습니다. 이번 특별법 통과가 우리 기업이 마주한 위기를 완화하고, 보다 적극적인 투자와 협력으로 이어지는 계기가 되길 기대합니다.
+> 
+> 정부 역시 특별법 시행을 위한 준비와 후속 조치를 차질 없이 추진하겠습니다. 전략적 투자가 한미 양국 경제 발전은 물론 공급망 안정과 국가안보 이익 증진에도 기여할 수 있도록 최선을 다하겠습니다. 
+> 
+> 법안 심사를 위해 애써주신 대미투자특별위원회 위원 여러분, 정말 수고하셨습니다.
+
+좋아요 3,808 · 재게시 953 · 답글 182 · 조회 101,217 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2031993131198267558
+
+### 2026-03-10 20:26 — 경제·민생 · 직접 작성
+
+> 호랑이도 풀밭이 있어야 살아갈 수 있습니다. 자연의 이치가 그렇듯, 우리 경제 역시 혼자서는 지속될 수 없습니다. 한쪽이 지나치게 강해지고 다른 한쪽이 약해지면 결국 생태계 전체가 무너지기 마련입니다. 
+> 
+> 그렇기에 상생을 실천하는 것은 기업의 지속 성장을 위한 가장 현명하고도 효율적인 투자라고 생각합니다. 더 멀리, 더 오래, 더 높이 비상하기 위한 필수 생존 전략이기도 할 테지요.
+> 
+> 한화오션은 하청업체 노동자에게도 본사 노동자와 동일한 성과급을 지급하는 등 협력업체와의 임금 격차를 줄이는 데 연간 890억 원을 투입했습니다. 우리 산업 전체가 함께 성장할 수 있다는 것을 보여주는 귀한 사례입니다.
+> 
+> 이러한 상생의 가치가 대한민국 곳곳에 퍼져나갈 수 있도록 제도적, 재정적 지원을 아끼지 않겠습니다. 기업과 노동자, 도시와 농촌, 세대와 지역을 아우르는 포용의 경제, 그리고 누구도 소외되지 않는 나라를 만들기 위해 최선을 다하겠습니다.
+
+좋아요 6,290 · 재게시 1,303 · 답글 1,070 · 조회 154,970 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2031330861875081733
+
+### 2026-03-09 18:34 — 경제·민생 · 직접 작성 · 분류 검토 대기
+
+> <기업경영은 정상적으로 해야 합니다. 불법에 대해서는 예외없이 엄중한 제재가 따를 것이고 불법을 통해 얻은 부당이익 그 이상을 반환하게 될 것입니다. 국민에게 피해를 입히고 경제질서를 교란시키는 담합 같은 불법행위를 하지 않으면 아무 일도 일어나지 않습니다.>
+> 
+> “담합하면 패가망신”...20배 뛴 공정위 과징금, 기업 경영 흔들 변수로
+
+좋아요 4,783 · 재게시 1,344 · 답글 792 · 조회 434,935 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2030940389281009784
+
+### 2026-03-09 14:13 — 외교·통상 · 인용
+
+> 외교부 잘 하고 있습니다. 
+> 누구보다 빠르게 안전하게..
+
+좋아요 6,231 · 재게시 1,236 · 답글 520 · 조회 200,342 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2030874702798008448
+
+### 2026-03-09 13:40 — 경제·민생 · 직접 작성
+
+> <최악에서도, 비상한 각오로 나아갑시다>
+> 
+> 🔗 https://youtube.com/shorts/qfhjxTHvMRQ?si=YAcd-lvhKE1t4XwT
+> 
+> #이재명 #중동 #비상경제점검회의
+
+좋아요 4,300 · 재게시 947 · 답글 418 · 조회 100,558 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2030866178655334411
+
+### 2026-03-09 00:49 — 사회 · 인용
+
+> <개혁은 외과시술적 교정이 유용할 때가 많습니다.>
+> 
+> 공직사회에 문제가 많다지만 구성원 모두의 문제는 아닙니다. 
+> 
+> 부패하고 부정의한 조직으로 비난받는 조직도 대개는 미꾸라지 몇마리가 우물 흐리는 것처럼, 정치화되고 썩은 일부의 문제이지 대다수는 충직하게 공직자의 책임과 역할을 다하고 있습니다.
+> 
+> 구성원 모두가 그랬다면 오늘같은 대한민국의 발전은 있을 수 없었을 것입니다.
+> 
+> 법원에도 정치적 사적 때문에 정의를 비트는 경우가 있지만, 사법정의와 인권보호를 위해 법과 양심에 따라 용기 있게 판결하는 법관들이 훨씬 많습니다. 
+> 
+> 수십년간 법정변호를 생업삼아 수천건의 송사를 하였지만 악의적 왜곡으로 의심되는 판결은 열손가락 안에 꼽을 정도였고, 대다수 법관들은 어려운 환경 속에서도 정의와 진실을 위해 노력했습니다. 
+> 
+> 우리의 사법 신뢰도는 세계적 수준이라는 게 법조인으로서 저의 믿음이었고, 개인적 경험으로 보더라도 그렇습니다. 
+> 
+> 시민운동과정에서 부동산 비리 기득권과 부딛치면서 시작된 부패 검찰의 수사ㆍ기소권 남용으로 오랫동안 기소와 구속영장 청구가 반복되었지만 양심적 법관들의 정의로운 판결 덕에 제가 지금껏 살아남아 대통령 직무까지 수행하고 있습니다.
+> 
+> 경기도지사로 당선된 2018. 12. 검찰이 저를 허위사실공표 공직선거법위반 3건, 형님을 강제입원시키려 했다는 직권남용죄 1건 등 총 4건이나 기소했지만 결국 다수의 법관들이 무죄판결 함으로써 정치적으로 살아남았습니다.
+> 
+> 윤석열 정권때는 일부 정치검사들이 '시장으로서 돈을 더 많이 못벌었'으니 배임죄, '성남시 행정을 하면서 시 산하기관에 이익을 주게 하였'으니 제 3자 뇌물죄, 모르는 업자가 북한에 100억원을 방북대가로 주는 걸 승인했으니 제3자 뇌물죄, '사실대로 말해달라'고 부탁했지만 들은 사람이 위증부탁으로 이해했으니 위증교사죄, 허위로 오해될 여지가 있도록 말했으니 허위사실공표죄, 직원들이 업추비를 잘못 쓰는데 도지사가 알았을 것이니 배임죄라며 기소했습니다.
+> 
+> 저는 검찰이 기소할 때마다 결국 법원이 법과 양심에 따라 무죄판결할 것으로 믿었고 지금도 믿습니다.
+> 
+> 저의 구속영장에 국회가 가결동의했을때 서슬퍼런 윤석열 정권 치하이고 윤대통령이 임명한 대법원장과 대법관들이 대다수였으니, 영장판사가 정권과 대법원의 압박을 이겨내기 어려울 것으로 생각했지만 영장판사의 용기있는 판결로 구속영장은 기각되어 또 한번 기사회생하였습니다. 
+> 
+> 검찰 역시 저를 기소할 때마다 법원이 호락호락하지 않음을 알고 있었습니다. 검찰은 증거도 논리도 없는 사건을 대량 기소해놓고 재판지연을 위해 증인을 수백명(성남FC사건은 578명) 수십명씩 신청하며 시간을 끌었는데 조기에 결론나는 것을 막고 저를 법정에 가둬두려 한 것입니다. 
+> 
+> 검찰이 그나마 유죄가능성이 있다고 보아 굳이 분리해 신속진행한 위증교사 사건은 재판부가 검찰의 기대와 달리 무죄를 선고해 또다시 제가 살아날 수 있었습니다. 
+> 
+> 검찰이 증인을 50명 넘게 신청하며 2년이 넘도록 질질 끌던 선거법사건은 이해하기 어려운 과정을 거쳐 재판장이 바뀐 후, 일반적인 예상을 뒤엎고 유죄에 심지어 징역 1년이라는 황당한 판결이 났지만 서울고등법원은 대법원 판례에 충실하게 무죄를 선고함으로써 또다시 기사회생 하였습니다.
+> 
+> 저의 대한민국 사법부 전체에 대한 일반적 신뢰는 인혁당이나 조봉암 사건같은 사법살인범죄, 선거법 1심판결이나 대법원 파기환송으로 상당히 훼손되긴 했지만, 구속영장 기각이나 위증교사판결 선거법사건 항소심 무죄판결에서 보는 것처럼 사법부정은 법원 전체가 아니라 일부의 문제임을 알 수 있습니다.
+> 
+> 문제 해결을 위해서는 원인을 정확히 파악하고 옥석을 분명히 가려야 합니다. 문제를 제거하고 문제인사에게 엄정한 책임을 묻되 무관한 다수 구성원들이 의욕을 잃거나 상처 입게 하는 것은 최소화 해야 합니다.
+> 
+> 필요한 개혁을 하더라도, 전체를 싸잡아 비난하며 모두를 개혁대상으로 몰아, 빈대 잡자고 초가삼간 태우는 결과가 되지 않게 조심해야 합니다. 
+> 
+> 검찰 개혁이든, 노동ㆍ경제개혁이든, 언론개혁이든, 법원개혁이든 그 무슨 개혁이든 그래야 한다는게 제 생각입니다. 
+> 
+> 아무리 어려운 개혁이라도 결코 포기하지 않되, 개혁으로 인한 상처와 갈등을 최소화하기 위해서는 조심 또 조심해야겠지요.
+> 
+> 국민통합과 개혁이라는 양립하기 어려운 두 과제를 모두 원만하게 이행하기 위한 제 나름 고심의 결과임을 이해해 주시기 바랍니다.
+> 
+> 개혁은 혁명보다 어렵다고 합니다. 지난하고 번거롭고 복잡하다고 혁명을 할 수는 없습니다. 
+> 
+> 더디고 힘들더라도, 시간이 걸리고 조금 마뜩치 않더라도 서로 믿고 격려하며 든든하게 함께 가 주시면 고맙겠습니다.
+
+좋아요 5,681 · 재게시 1,508 · 답글 3,141 · 조회 384,989 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2030672157374894334
+
+### 2026-03-08 10:02 — 정치·국정 · 직접 작성 · 분류 검토 대기
+
+> <차이가 차별이 되지 않고, 다름이 배제의 이유가 되지 않는 사회를 향해> 
+>  
+> 3월 8일 오늘은 세계여성의날입니다. 매년 이날이 되면 여성의 인권 신장을 위해 애써 오신 분들의 지난한 발걸음을 되새기며, 우리 사회의 성평등을 위한 과제를 다시금 돌아보게 됩니다.  
+>  
+> 탄핵 이후 처음으로 맞이하는 올해 세계여성의날은 더욱 각별한 의미를 지닙니다. 2024년, 내란 위기 극복을 위해 광장에서 연대했던 여성들이 한국여성단체연합으로부터 ‘올해의 여성운동상’을 수상했다는 반가운 소식도 전해 들었습니다. 
+>  
+> 국가인권위원회에 따르면, 우리나라에서는 이미 1920년대 나혜석, 박인덕 선생 등 여성운동가들이 세계여성의날을 기념해 왔습니다. 그러나 일제의 탄압으로 맥이 끊겼다가 1985년 제1회 한국여성대회를 열며 비로소 공식적인 기념이 다시 이어지기 시작했다고 합니다. 
+>  
+> 얼마 전까지만 해도 우리는 여성가족부 폐지 공약을 내건 전 정부로 인해 성평등 정책이 축소되고 후퇴하는 시기를 겪기도 했습니다. 이제 그 흐름을 되돌려 성평등 정책을 제자리로 복원하고, 과거의 공백을 채우며, 실질적인 성평등 사회를 향해 한 걸음 한 걸음 나아가고 있습니다. 
+>  
+> 차이가 차별이 되지 않고, 다름이 배제의 이유가 되지 않는 사회. 그리하여 누구나 안전하고 존엄하게 살아갈 수 있는 공동체를 반드시 만들겠습니다. 대한민국이 명실상부한 성평등 국가로 거듭날 수 있도록 주어진 역할과 책임을 다하겠습니다. 
+>  
+> 세계여성의날 조직위원회(IWD)가 정한 2026년 세계여성의날 주제는 ‘베풀수록 커진다(#GiveToGain)’입니다. 우리가 함께 베풀며 가꾸어 갈 성평등의 결실이 여성과 남성, 세대와 계층을 넘어 대한민국 국민 모두의 삶에 골고루 스며들길 간절히 소망합니다. 
+>  
+> #세계여성의날 #IWD2026 #GiveToGain
+
+좋아요 10,707 · 재게시 3,910 · 답글 598 · 조회 1,929,979 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2030449076396015675
+
+### 2026-03-07 23:51 — 과학기술·AI · 인용
+
+> 하정우 수석님의 열정과 실력, 그리고 시대와 국민에 대한 충심을 믿습니다.
+
+좋아요 5,097 · 재게시 924 · 답글 325 · 조회 210,481 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2030295389174427764
+
+### 2026-03-07 21:56 — 정치·국정 · 직접 작성
+
+> <책임과 권력>
+> 권한을 가진다는 것은 동일한 양의 책임을 진다는 것을 의미합니다.
+> 
+> 대통령의 제일 큰 책임은 국민을 통합하는 것입니다. 늘 말씀 드리는 것처럼 대통령이 되기까지는 한쪽을 대표하지만, 대통령이 된 순간부터 국민 전체를 대표해야 합니다. 
+> 
+> 대통령이 되기까지 가졌던 이상이나 가치, 약속을 결코 포기해서는 안되겠지만, 대통령이 되고 집권세력이 되었다고 마음대로 다 할 수도 없고 그래서도 안될 것입니다.
+> 
+> 모든 공적 현안을 결정할 때 토론하고, 의견을 모으고, 대세에 지장이 없는 한 조정하고 타협하는 이유는 어떤 의견은 틀리고 어떤  의견은 옳아서가 아니라 모든 의견이 나름의 타당성이 있기 때문입니다. 
+> 
+> 나의 의견만이 진리이자 정의이고, 너의 의견은 불의이고 거짓이라는 태도는 극한적 대립과 실패의 원인이 될 수 있습니다. 
+> 
+> 주장하고 비판하는 것으로 충분한 입장과 주장하는 만큼의 대안을 내고 그 결과에 대해 무한책임을 져야하는 입장은 또 다릅니다.
+> 
+> 마음 가는대로 감정 나는대로 내 이익대로 하고 싶은 것이 인지상정이겠으나, 권한만큼 무거운 책임을 져야하는 공인은 공정한 제3자의 시각과 냉철한 이성으로, 국가와 국민 최대다수에게 최대의 행복이 되는 길이 무엇인지 치열하게 찾아야 합니다. 
+> 
+> 아무리 잘 포장하고 숨겨도 집단지성체로 진화한 국민대중을 속일 수는 없습니다. 특정 개인이나 집단의 정치적 입지나 선거에서의 유불리가 국가의 미래나 국민의 편익에 앞설 수는 없는 것입니다.
+> 
+> 권한과 책임의 크기는 동일하다는 사실을, 위대한 국민지성의 무서움을 결코 잊지 말아야 합니다.
+
+좋아요 22,865 · 재게시 6,491 · 답글 2,223 · 조회 2,383,887 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2030266439274561935
+
+### 2026-03-07 11:22 — 문화·체육 · 직접 작성
+
+> 영화 <왕과 사는 남자>가 천만 관객을 돌파했다는 반가운 소식을 들었습니다. 2024년 이후 2년 만에 이룬 성과이기에 더욱 뜻깊습니다.
+> 
+> 이처럼 많은 이들이 한 영화를 찾았다는 것은 작품이 전하는 진심이 관객의 마음을 움직이며 깊은 울림을 이끌어냈다는 뜻이겠지요. 소중한 공감의 장을 만들어 주신 감독님과 배우, 그리고 작품을 완성하기 위해 애써주신 모든 스태프 여러분께 축하와 더불어 감사를 전합니다.
+> 
+> 한국 영화는 창작자들의 열정과 도전, 그리고 관객들의 사랑 속에서 꾸준히 성장해 왔습니다. 이번 천만 관객 돌파 역시 영화인들의 뛰어난 상상력과 이야기의 힘, 그리고 이를 아낌없이 응원해 주신 국민 여러분께서 함께 만든 값진 결실입니다.
+> 
+> 앞으로도 더 많은 이야기가 세상과 만나 사랑받길 기대합니다. 창작의 자유가 살아 숨 쉬고, 문화가 국민의 자부심이 되는 나라를 만들기 위해 정부 역시 최선을 다하겠습니다. 한국 영화의 새로운 도전과 빛나는 미래를 힘차게 응원합니다.
+
+좋아요 11,109 · 재게시 2,223 · 답글 493 · 조회 668,837 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2030106698623635644
+
+### 2026-03-06 09:00 — 정치·국정 · 직접 작성 · 분류 검토 대기
+
+> <대한민국의 동서남북을 잇는 중심축, 충청북도에서 뵙겠습니다.>
+> 
+> 국민과 함께 지역의 미래를 그려가는 타운홀 미팅,그 열한 번째 만남은 대한민국의 중심, 충청북도입니다.
+> 
+> 충북은 전국에서 유일하게 바다가 없는 내륙도지만, 지리적 특성을 장점으로 살려 사통팔달의 교통망을 완성했습니다.
+> 
+> 청주국제공항과 오송역을 아우르는 탄탄한 인프라 위에 반도체, 이차전지, 바이오 등의 첨단 산업이 뿌리내리며, 충북은 대한민국의 미래 먹거리를 책임질 핵심 거점으로 성장하고 있습니다.
+> 
+> 그러나 이러한 지역 발전의 성과가 지표상에만 머물러서는 안 됩니다. 첨단 산업의 과실이 지역 경제의 활력과 도민 여러분의 삶의 질 향상으로 이어지는 선순환을 만들어야 할 때입니다.
+> 
+> 그 길을 찾는 데 있어 가장 중요한 것은 도민 여러분의 목소리입니다. 타운홀미팅에 함께하셔서 도민 여러분의 경험과 지혜를 들려주십시오.
+> 
+> 충북의 내일을 여러분과 함께 그려가겠습니다.
+> 
+> ○  모집인원 : 충북도민 200명
+> ○  행사날짜 : 2026년 3월 13일(금) 
+> * 시간, 장소는 경호상의 이유로 추후 안내 예정
+> ○  참여신청 : 2026년 3월 6일(금) 09시 ~ 3월 9일(월) 12시 네이버폼 접수 (  )
+> * 신원 확인이 어려운 경우 출입이 제한될 수 있으니, 신청 시 이름과 주민등록번호를 정확하게 기입해 주시기 바랍니다. 
+> * 선정되신 분들께는 시간과 장소 안내 및 참석 여부 확인 전화를 드릴 예정입니다.
+
+좋아요 3,879 · 재게시 843 · 답글 387 · 조회 106,721 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2029708543662899586
+
+### 2026-03-06 08:26 — 사회 · 직접 작성
+
+> <담합 가격조작은 대국민 중대범죄입니다. 그 대가가 얼마나 큰 지 곧 알게 됩니다. 
+> 
+> 일부 기업들이 범법행위로 큰 돈을 벌며 국민들에게 고통을 가하고도 정부 관리, 정치권과 유착하여 무마하던 야만의 시대가 이제 끝났다는 사실을 아직 잘 모르는 것 같습니다. 
+> 
+> 불법을 자행하며 국민경제 질서를 어지럽히는 악덕기업들에게 콩 심은데 콩 나고 팥 심은데 팥 난다는 평범한 진리를 깨우치게 하겠습니다. 
+> 
+> 합법적 수단을 총 동원하여 경제영역에서도 비정상의 정상화를 반드시 이뤄낼 것입니다.> 
+> 
+> 닷새 만에 140원 올린 정유업계, 대통령 경고에 '멘붕'
+
+좋아요 8,183 · 재게시 2,773 · 답글 866 · 조회 494,241 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2029699982476165504
+
+### 2026-03-05 14:32 — 정치·국정 · 직접 작성 · 분류 검토 대기
+
+> <과거와는 다릅니다. 국민주권정부는 빈 말 하지 않습니다. 
+> 
+> 부당한 시스템에 의존하여 그리고 정당한 정부정책에 역행하여 이익을 얻는 것은 불가능하게 만드는 것이 이 정부의 1차 목표입니다.
+> 
+> 규칙을 어겨 이익 보는 시대, 규칙을 지켜 손해 보는 시대는 갔습니다.>
+> 
+> 주가조작했다가 세무조사·검찰고발 …코스피 4곳·코스닥 20곳 ‘패가망신’
+
+좋아요 7,632 · 재게시 1,870 · 답글 993 · 조회 1,449,902 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2029429812641792250
+
+### 2026-03-05 14:15 — 외교·통상 · 직접 작성
+
+> 해외 순방길에 오를 때마다 무엇보다 가장 기다려지는 시간입니다. 이번 순방 마지막 일정으로 대한민국과 필리핀을 잇는 든든한 가교가 되어주고 계신 재외동포 여러분께 인사드렸습니다. 특별히 한-필리핀 수교 77주년을 맞아 찾아뵙게 되어 더욱 뜻깊습니다.
+> 
+> 필리핀은 전 세계에서 유일하게 ‘코리안 헬프 데스크’를 별도로 운영하며, 현지에 거주하는 우리 국민의 안전과 생명을 지키는 데 각별한 노력을 기울이고 있습니다. 마르코스 대통령님께 다시 한번 깊은 감사를 전합니다.
+> 
+> 각자의 자리에서 대한민국의 이름을 빛내고 계신 자랑스러운 동포 여러분, 세계 어디에 계시든 여러분이 대한민국 국민으로서 존중받으며 안전하게 생활하실 수 있게끔 더욱 세심히 살필 것을 약속드립니다.
+> 
+> 고국을 떠나 낯선 땅에서 땀흘리고 계신 동포 여러분께 조금이나마 힘이 되어드리고자 찾아뵙지만, 돌아보면 에너지를 얻고 오는 것은 언제나 저였습니다. 보내주신 응원에 보답할 수 있도록, 그 이상의 성과로 돌려드릴 수 있도록 최선을 다하겠습니다.
+
+좋아요 4,365 · 재게시 825 · 답글 192 · 조회 92,477 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2029425526000238976
+
+### 2026-03-04 18:02 — 사회 · 직접 작성
+
+> 마음 깊이 남아 있던 한 분을 필리핀 땅에서 만났습니다. 1992년 인권 변호사로 일하던 시절 인연을 맺었던 아리엘 갈락 씨입니다.  
+> 
+> 그는 한국의 공장에서 밤낮없이 일하다 한쪽 팔을 잃는 큰 사고를 당했습니다. 당시만 해도 외국인 노동자들이 산업재해를 입으면 치료나 보상을 받지 못한 채 고국으로 돌려보내지는 경우가 대부분이었기에, 갈락 씨 역시 귀국길에 올라야 했습니다.  
+> 
+> 그의 사연을 접하고 재심 절차를 도왔습니다. 1년여 끝에 갈락 씨는 요양 인정을 받고 보상도 받을 수 있었습니다. 그게 벌써 34년 전 일이니, 세월이 참 빠르게 느껴집니다. 
+> 
+> 현재 갈락 씨는 해외에서 일하려는 노동자들에게 조언을 전하며, 자신의 아픔을 다른 이들의 희망으로 바꾸는 삶을 살고 있습니다. 그가 걸어온 모든 여정에 깊은 존경을 표합니다.  
+> 
+> 국적과 피부색, 언어가 다르더라도 이 땅에서 흘린 땀은 모두 존중받아야 마땅합니다. 한국을 찾는 외국인 노동자분들이 따뜻한 기억을 품고 돌아갈 수 있도록 대통령으로서 더욱 노력하겠다고 다짐합니다.
+> 
+> 아리엘 갈락 씨, 만나서 반가웠습니다. Ingat!
+
+좋아요 12,603 · 재게시 3,013 · 답글 465 · 조회 865,135 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2029120180467712334
+
+### 2026-03-04 15:39 — 일상·인사 · 직접 작성
+
+> 대한민국을 위해 함께 싸워준 필리핀 참전용사들의 숭고한 용기와 희생에 깊은 경의를 표합니다. 여러분이 있었기에 지금의 대한민국이 존재합니다.
+> 
+> 낯선 전장에서 함께 지켜낸 자유와 평화의 가치 위에서, 한국과 필리핀의 우정은 오늘도 더욱 단단해지고 있습니다.
+> 
+> 대한민국은 그 헌신과 연대를 결코 잊지 않지 않겠습니다. 가까운 시일 내 참전용사 분들과 후손들을 초청하여, 감사의 마음을  더 깊이 전할 수 있길 기대합니다.
+
+좋아요 4,826 · 재게시 941 · 답글 225 · 조회 156,900 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2029084251618955404
+
+### 2026-03-04 08:55 — 사회 · 직접 작성
+
+> <정의실현을 하라고 국민이 맡긴 수사기소권으로 누군가를 죽이고 빼앗고 감금하기 위해 하는 증거조작 사건조작은 일반 범죄자가 저지르는 강도나 납치 살인보다 더 나쁜 짓입니다.>
+> 
+> [단독] 김성태 "이재명에게 돈 안줘…검찰 장난쳐" 녹취 나와 - 시민언론민들레 https://v.daum.net/v/20260304080625477
+
+좋아요 7,053 · 재게시 2,117 · 답글 736 · 조회 317,223 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2028982570785092001
+
+### 2026-03-03 23:47 — 정치·국정 · 직접 작성
+
+> 호세 리잘은 스페인 식민 통치 시기 민족의식과 독립 사상을 일깨운 필리핀의 위대한 개혁가입니다. 그의 정신은 필리핀 독립운동의 굳건한 토대가 되었으며, 오늘날에도 필리핀의 정체성과 자긍심을 상징하는 인물로 국민들의 깊은 존경을 받고 있습니다.
+> 
+> 대한민국 역시 수많은 도전과 시련을 딛고 오늘의 민주국가로 성장했습니다. 그렇기에 자유와 인권, 민주주의의 가치를 지켜온 필리핀의 역사는 더욱 깊은 울림으로 다가옵니다.
+> 
+> 77년 전 오늘, 한국과 필리핀은 수교를 맺으며 우정의 첫 장을 열었습니다. 이 뜻깊은 날, 리잘 공원을 찾아 양국이 공유하는 가치를 다시금 되새깁니다. 필리핀 국민 여러분께 변함없는 존중과 우의를 전하며, 앞으로도 함께 미래를 향해 나아가길 희망합니다.
+
+좋아요 4,579 · 재게시 893 · 답글 326 · 조회 115,987 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2028844844857352346
+
+### 2026-03-02 22:06 — 정치·국정 · 인용 · 분류 검토 대기
+
+> 싱가폴과 대한민국간의 새롭고 강력한 협력관계가 시작됩니다.
+> 
+> 대한국민과 함께 환대해주신 로렌스 웡 총리님께 깊이 감사드립니다.
+
+좋아요 5,008 · 재게시 1,009 · 답글 301 · 조회 161,614 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2028456854771454086
+
+### 2026-03-02 22:00 — 사회 · 직접 작성 · 분류 검토 대기
+
+> 대한민국과 싱가포르의 AI 산업을 이끌고 있는 기업인과 연구자, 그리고 청년 혁신가들을 만났습니다. 기술 혁신의 최전선에서 새로운 가능성을 열어가고 있는 이들의 뜨거운 열정을 느낄 수 있었습니다.
+> 
+> 앞으로 우리 정부는 자본, 기술, 인재, 산업이 유기적으로 연결되는 협력 생태계를 구축하고, 이러한 연계가 구체적 성과와 성장 동력으로 이어질 수 있게끔 적극 지원할 계획입니다.
+> 
+> 특히 양국의 유능한 청년 인재들이 국경을 넘어 자유롭게 교류하고, 과감히 도전하며, 함께 미래를 설계할 수 있는 환경을 조성할 것입니다. 실패를 두려워하지 않고 상상력을 마음껏 펼칠 수 있도록 든든히 뒷받침하겠습니다.
+> 
+> 오늘 '한-싱 AI 커넥트 서밋'이 서로의 경험과 비전을 나누는 것을 넘어, 공동의 프로젝트와 투자, 인재 협력으로까지 이어지는 실질적 출발점이 되길 기대합니다.
+
+좋아요 4,037 · 재게시 813 · 답글 151 · 조회 90,218 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2028455451390881840
+
+### 2026-03-02 09:52 — 일상·인사 · 직접 작성
+
+> 싱가포르 한인회는 독립운동가 정대호 선생의 뜻을 이어 아들 정원상 선생께서 1963년 창립하신 이후, 독립운동의 숭고한 정신을 바탕으로 양국을 잇는 가교 역할을 해오고 있습니다.
+> 
+> 뜻깊은 3.1절, 깊은 역사와 자긍심이 깃든 싱가포르에서 재외동포 여러분과 함께하게 되어 감회가 새롭습니다. 대한민국의 '민간 외교관'으로서, 앞으로도 양국의 밝은 미래를 열어가 주시길 부탁드렸습니다.
+> 
+> 먼 이국 땅에서 땀 흘리며 삶의 터전을 일구고 계신 재외동포 분들이 나라 걱정만큼은 하지 않게 해드리겠다 약속했습니다. 또한 어디에 계시든 존중받으며, 더 큰 기회를 누리실 수 있도록 정부가 든든히 지원할 것입니다.
+> 
+> 세계 곳곳에서 조국의 이름을 빛내주시는 우리 동포 여러분이 계시기에 오늘의 대한민국이 있습니다. 다시 한번 깊은 존경과 감사의 인사를 전합니다.
+
+좋아요 4,288 · 재게시 871 · 답글 243 · 조회 94,508 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2028272196511281498
+
+### 2026-03-01 20:00 — 경제·민생 · 직접 작성
+
+> <집을 팔고 사는 것은 개인의 자유지만, 그것이 이익이나 손실이 되게 할지는 정부가 정합니다.>
+> 
+> 주택 특히 다주택을 둘러싼 논쟁에 대해 한말씀 드리겠습니다. 
+> 
+> 다주택이나 비거주라는 이유로 정치인들에게 팔아라 사지마라 강요할 필요 없습니다. 
+> 
+> '고위 공직자이니 먼저 팔라'고 도덕적 의무를 얘기할 필요도 없습니다. 
+> 
+> 자본주의 사회에서 돈이 되니 집도 사 모으는 것이지, 돈이 안되면 집 사모으라고 고사를 지내고 빌어도 살 리가 없습니다. 돈이 되니까 살지도 않을 집을 사모으는 것입니다.
+> 
+> 집을 사모으는 사람 팔지 않는 사람이 문제가 아니라, 사는 것이 이익이 되도록 정부가 세금, 금융, 규제를 만들었기 때문입니다. 
+> 
+> 결국 투기는 투기한 사람이 아니라 투기가 가능하도록 제도를 만든 정치인, 정부가 문제입니다.(물론 투기 이익을 얻기 위해 그런 제도를 만들고 그를 이용해 투기를 하는 정치인이 있다면 정말 나쁜 사람이겠지요.)
+> 
+> 세금, 금융, 규제 등 국가제도를 운영함에 있어 부동산투기가 불가능하도록 만들었다면, 집을 많이 가지거나 살지도 않을 집을 보유하고 초고가주택에 사는 것이 경제적 이익을 낳는 것이 아니라 부작용에 상응하는 부담이 되게 만들었다면 부동산투기는 일어날 수 없습니다.
+> 
+> 이 정부가 다주택이나 투자용 비거주주택의 매도를 유도하는 것은 도덕적 의무를 요구하는 것이 아닙니다. 지금까지처럼 정부의 실패와 방임에 기대 이익을 취해 온 그들에게 불의의 타격을 가하지 않고 피해를 회피할 기회를 주기 위해서입니다. 그것이 사회적 비용을 줄이는 길이기도 하기 때문입니다.
+> 
+> 지금까지와는 달리 앞으로는 과거와 같은 선택이 손실이 되도록 세금, 금융, 규제를 철저히 설계할 것입니다. 그리고 그 어떤 부당한 저항과 비방에도 불구하고 흔들림 없이 시행할 것이기 때문에 새로운 합리적 선택의 기회를 주려는 것입니다.
+> 
+> 싱가폴은 좁은 국토에 국민소득이 1인당 10만불에 가까운 나라이지만 국민들이 부동산투기로 고통받거나 국가발전이 저해되지 않습니다. 정부의 의지만 있으면 얼마든지 투기억제가 가능하다는 것을 보여줍니다.
+> 
+> 다시한번 강조하지만, 
+> 집을 사고 파는 것은 개인의 자유지만, 그것이 이익이 되게 할지 손해가 되게 할지는 정부가 정합니다.
+> 
+> 주택 투기는 젊은이들의 희망을 빼앗고 나라를 망칩니다. 주권자들께서 제게 망국적 투기를 시정할 책무와 권한을 주셨다고 믿습니다.
+> 
+> 주권자 국민의 충직한 공복으로서 국민의 명에 따라 망국적 투기를 확실하게 해결할 것입니다.
+> 
+> 팔기 싫다면 그냥 두십시오.
+> 정부정책에 반한, 정부정책을 불신한 선택이 결코 이익이 될 수 없게 만드는 것이 이 정부의 성공이자 정상사회로 가는 길입니다.
+
+좋아요 13,558 · 재게시 4,286 · 답글 1,336 · 조회 2,241,653 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2028062730863980843
+
+### 2026-03-01 18:33 — 정치·국정 · 직접 작성
+
+> 국민여러분, 
+> 싱가폴에 도착했습니다.
+> 
+> 국제정세가 불안하지만 국민여러분께서는 전혀 걱정하지 않으셔도 됩니다. 
+> 
+> 실물경제, 금융, 군사안보 등 모든 분야에서 김민석 총리를 포함한 내각이 철저히 대비하고 있습니다. 
+> 
+> 대통령실 또한 강훈식 비서실장 이하 모든 비서관들이 비상체제를 유지하며 만약에 있을 수도 있는 모든 가능성에 대비하고 있습니다.
+> 
+> 내란조차 이겨낸 우리 대한국민입니다. 이제 그 위대한 대한국민들이 만든 국민주권정부가 있습니다.
+> 
+> 국민 여러분께서는 안심하시고 일상을 즐기시며 생업에 더욱 힘써 주시기 바랍니다. 
+> 
+> 대한민국은 합니다.
+> 대한국민은 합니다!
+
+좋아요 15,462 · 재게시 2,891 · 답글 1,136 · 조회 1,084,431 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2028040937885385004
+
+### 2026-03-01 11:46 — 외교·통상 · 직접 작성
+
+> 대한민국 국민들의 아세안에 대한 애정은 각별합니다. 지난해 우리 국민이 가장 많이 찾은 해외 지역도 바로 아세안이었습니다.
+> 
+> 대한민국과 아세안은 오랜 세월 깊은 신뢰와 우정을 바탕으로 함께 성장해 왔습니다. 서로의 문화와 콘텐츠를 즐기며 활발히 소통하는 모습은 이제 우리 일상 속 친숙한 장면이 되었습니다.
+> 
+> 이번 싱가포르와 필리핀 방문을 시작으로, 앞으로 아세안의 모든 나라를 방문하고 싶습니다. 2029년 열릴 한-아세안 특별정상회의에서 마주할 정상들과의 만남도 기대하고 있습니다.
+> 
+> 대한민국은 꿈과 희망을 이루는 조력자, 성장과 혁신의 도약대, 그리고 평화와 안정의 파트너로서 언제나 아세안과 함께하겠습니다.
+> 
+> 싱가포르와 필리핀 국민 여러분, 곧 현지에서 뵙겠습니다!
+> 
+> The people of the Republic of Korea hold a special affection for ASEAN. Last year, ASEAN was the region most visited by Korean travelers.
+> 
+> The Republic of Korea and ASEAN have grown together over decades of deep trust and friendship. Enjoying each other’s culture and contents as well as interacting beyond physical borders have become common sights in our everyday lives.
+> 
+> Beginning with my visits to Singapore and the Philippines, I hope to visit all ASEAN member states during my presidency. I also look forward to welcoming the leaders at the Korea-ASEAN Commemorative Summit to be held in 2029.
+> 
+> As a Contributor for Dreams and Hope, a Springboard for Growth and Innovation, and a Partner for Peace and Stability, the Republic of Korea will always stand with ASEAN.
+> 
+> To the people of Singapore and the Philippines, I look forward to seeing you soon!
+
+좋아요 5,078 · 재게시 1,013 · 답글 320 · 조회 138,253 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2027938459642646938
+
+## 2026년 2월 (83건)
+
+### 2026-02-28 09:00 — 일상·인사 · 직접 작성
+
+> <왔다 ㅌㅌ대통령>
+> 
+> 이재명입니다.
+> 앞으로 잘 부탁드립니다 ☺️
+> 
+> https://www.tiktok.com/@jaemyung_lee
+> 
+> #이재명 #대통령 #TikTok
+
+좋아요 10,984 · 재게시 3,374 · 답글 936 · 조회 1,142,898 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2027534217283047534
+
+### 2026-02-27 21:34 — 일상·인사 · 직접 작성
+
+> <2월 28일, 큰 거(?) 온다>
+> 
+> https://youtube.com/shorts/P73X2348ukY?feature=share
+> 
+> #이재명 #결재완 #Teaser
+
+좋아요 9,568 · 재게시 2,906 · 답글 798 · 조회 1,912,935 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2027361707434381346
+
+### 2026-02-27 20:39 — 경제·민생 · 직접 작성
+
+> <이 기사는 왜 이리 악의적일까요? "시세차익만 25억"이라니. 
+> 
+> 내가 이 집을 산게 1998년이고, 셋방살이 전전하다 IMF때 평생 처음이자 마지막으로 산 집입니다. 아이들 키워내며 젊은 시절을 보낸 집이라 돈보다도 몇배나 애착 있는 집입니다. 
+> 
+> 돈 벌려고 산 집도 아니지만 내가 평생 죽어라 전문직으로 일하며 번 돈보다 더 많이 집값이 올라 한편 좋기는 하면서도 뭐 이런 황당한 경우가 있나, 이러면 누가 일하고 싶을까 하여 세상에 죄짓는 느낌이었습니다. 
+> 
+> 앞으로 퇴임하면, 아이들 흔적과 젊은 시절의 추억 더듬어 가며 죽을때까지 살고 싶었던 집입니다. 
+> 
+> 돈 때문에 산 것도 아닌 것처럼 돈 때문에 판 것도 아닙니다. 경제적으로 따지면 이익도 있을 것 같고, 부동산 정책 총책임자로서 집 문제를 가지고 정치적 공격거리를 만들어 주는 것보다 만인의 모범이 되어야 할 공직자로서의 책임을 다하자 싶어 판 것 뿐입니다. 
+> 
+> 내가 이 집을 그대로 보유했더라면 그건 집값이 오를 것 같거나 누구 말처럼 재개발 이익이 있을 것 같아서가 아니라, 내 인생과 아이들의 추억이 묻어있는 애착인형 같은 것이어서 입니다.
+> 
+> 개눈에는 뭐만 보인다는 말이 있습니다. '시세차익만 25억'이라니, 그외에 또 다른 불법행위 같은 게 있기라도 하다는 것인가요? 내가 부동산 투기라도 했다는 이미지를 씌우고 싶은 것이겠지요.
+> 
+> 언론의 자유이니 용인해야 한다고 주장하면 인정은 하겠으나, 나를 부동산 투기꾼 취급한 것은 분명 과하다고 생각됩니다.>
+> 
+> 李 분당집 1시간도 안 돼 팔렸다…3.6억에 사서 시세차익만 25억 | 다음 - 중앙일보
+
+좋아요 17,724 · 재게시 6,668 · 답글 1,848 · 조회 4,052,414 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2027347829640122521
+
+### 2026-02-26 23:48 — 경제·민생 · 직접 작성
+
+> <2026. 5. 9.이 지나면 매물이 잠길 것이라거나, 일부 다주택자들이 버텨보겠다고 한다는 말이 있습니다.
+> 
+> 버티는건 각자의 자유인데, 이점은 알아두는 것이 좋을 것입니다.
+> 
+> 정부가 제대로 작동하려면 권위가 유지되어야 하고, 권위를 잃은 정부는 뒤뚱거리는 오리를 넘어 식물이 됩니다. 
+> 
+> 정부의 권위는 신뢰와 일관성에서 나옵니다. 정부의 안정적 운영, 정부정책의 권위와 신뢰를 위해서라도 5.9. 이전에 매각한 다주택자보다 버틴 다주택자가 유리하도록 방치할 수는 없습니다. 
+> 
+> 5.9.이 지났는데 제대로 된 대책을 세우지 않아 매각한 것보다 버틴 것이 더 유리하게 되면, 매각한 사람은 속았다고 저와 정부를 욕할 것이고, 버틴 사람은 비웃을 것이며, 부동산 시장은 것잡을 수 없이 흔들릴 것입니다. 이렇게 되면 국정을 제대로 이끌어 갈 수 없습니다.
+> 
+> 미리 언명한 것처럼 국민들께서는 저에게 국가와 국민을 위해 일할 권력을 맡기셨고, 그 힘을 위탁받은 제가 표를 계산하지 않고 일각의 비난과 저항을 감수하기만 하면 세제, 금융, 규제 등 막강한 권한으로 망국적 부동산투기를 막기 위해 할 수 있는 조치는 얼마든지 있습니다.
+> 
+> 이재명 정부는 강력한 금융, 세제, 규제를 통하여 2026. 5. 9. 이 지난 후에도 다주택자들이 양도세 중과를 감수하고 매각하는 것이 이익(버틴 것이 더 손해)인 상황을 만들 것입니다. 또 그렇게 할 수밖에 없습니다.
+> 
+> 정책수단을 총동원해, 다주택자는 물론 주거용 아닌 투자 투기용 1주택자도 보유보다 매각이 유리한 상황을 만들 것입니다. 초고가 주택은 선진국 수도 수준의 상응하는 부담과 규제를 안게 될 것입니다. 
+> 
+> 각종 규제와 부담은 실주거용 1주택을 기본으로, 주거여부, 주택수, 주택가격수준, 규제내역, 지역특성 등에 따라 세밀하게 가중치를 주어 통상적 주거는 적극 보호하되, 주택을 이용한 투자투기는 철저히 봉쇄되도록 설계할 것입니다.
+> 
+> 국민의 눈높이에서, 규칙을 지키고 정부정책을 따른 사람이 손해 보지 않도록, 정부정책에 역행하고 규칙을 어긴 이가 이익을 얻지 못하도록 하는 것이 대한민국 정상화의 핵심입니다.
+> 
+> 잠긴 매물은 질식할 것이고, 
+> 버티기는 더 큰 부담을 안길 것입니다.
+> 
+> 이재명은 합니다.
+> 말한 것은 지킵니다.
+> 이것이 바로 국민들께서 저를 신뢰하고, 이 정부에 기대를 가지시는 이유일 것입니다. 국민께서 맡기신 일에 최선을 다하겠습니다.>
+
+좋아요 13,637 · 재게시 3,718 · 답글 1,438 · 조회 745,717 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2027032992284315864
+
+### 2026-02-26 13:54 — 정치·국정 · 리트윗
+
+> RT @[비공개]: 그런데 해를 넘기며 ‘뉴 이재명’이 엉뚱하게 소환되기 시작했다. ‘올드 이재명=친문재인(조국)=합당 찬성’ ‘뉴 이재명=‘찐’이재명=합당 반대’로 의미 연쇄가 확장됐다. ‘집토끼’(고정 지지층=올드 이재명)에 ‘산토끼’(부…
+
+좋아요 0 · 재게시 572 · 답글 0 · 조회 10 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2026883647501119558
+
+### 2026-02-26 13:52 — 정치·국정 · 인용 · 분류 검토 대기
+
+> 구윤철 부총리님 잘 하고 계십니다. 규칙을 어겨 이익을 얻게 해서도 안 되고 규칙을 지키는 것이 손실이 되어서도 안 됩니다.
+
+좋아요 4,828 · 재게시 1,049 · 답글 226 · 조회 164,965 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2026883030439301215
+
+### 2026-02-26 09:14 — 경제·민생 · 인용
+
+> 주식시장 개혁, 자본시장 선진화, 주택시장 안정, 부동산투기공화국 탈출은 앞으로도 쭈욱 계속됩니다.
+
+좋아요 4,500 · 재게시 948 · 답글 339 · 조회 143,371 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2026813184066425209
+
+### 2026-02-26 09:07 — 사회 · 인용
+
+> 불법시설 업주들과 유착해 불법시설 은폐하고 허위보고와 직무유기로 불법계곡시설 정비라는 국가행정을 방해한 공직자 여러분.
+> 
+> 행안부를 통해 재조사, 재보고 기회를 주었습니다.
+> 
+> 이 기회를 놓치면, 지역주민 고용 조사, 신고포상금 등 모든 수단을 동원한 전수조사와 그에 따른 징계, 직무유기와 허위공문서 작성, 공무집행방해 등으로 수사와 처벌을 받게 됩니다.
+> 
+> 마지막 한번의 기회를 놓치지 마시고 국민과 국가에 본연의 책무를 다해 주시기 바랍니다.
+
+좋아요 4,422 · 재게시 1,259 · 답글 247 · 조회 153,774 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2026811436186681425
+
+### 2026-02-25 20:05 — 재난·안전 · 직접 작성
+
+> 지난해 우리나라를 찾은 외국인 관광객이 1,893만 명으로 역대 최고치를 기록했다고 합니다. '2,000만 관광객 시대'가 눈앞으로 다가왔습니다. 대한민국을 찾아주신 모든 분께 감사를 전합니다.  
+> 
+> 이제 양적 성장의 단계를 넘어 질적 도약을 이뤄내야 할 때입니다. 외국인 관광객의 80%가 수도권에 집중된 지금의 구조로는 관광산업의 지속 가능한 발전에 한계가 있습니다. 지역의 고유한 매력을 살려 전국 곳곳을 저마다의 이야기가 있는 여행지로 만들어가야 합니다.
+> 
+> 지방공항과 크루즈, 교통과 숙박, 출입국 제도를 비롯한 관광 전반을 관광객의 눈높이에서 면밀히 점검할 계획입니다. 바가지요금, 불친절, 과도한 호객행위와 같은 악질 관행 역시 반드시 뿌리뽑겠습니다. 관광은 단순히 상품을 판매하는 것이 아닌, 누군가의 소중한 추억을 만드는 것이기 때문입니다. 
+> 
+> 대한민국을 '한 번 더 오고 싶은 나라, 머무는 시간이 행복한 나라'로 만들겠습니다. 관광객에게는 따뜻한 기억을, 지역에는 새로운 활력을 전할 수 있길 기대합니다. 대한민국 관광의 대전환, 지금부터 시작합니다.
+
+좋아요 5,298 · 재게시 1,097 · 답글 334 · 조회 144,665 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2026614504881271192
+
+### 2026-02-25 19:17 — 사회 · 인용 · 분류 검토 대기
+
+> 이억원 위원장님, 잘 하셨습니다.
+> 
+> 이제 주가조작 신고시 수십억, 수백억원을 포상금으로 받을 수 있습니다. 팔자 고치는데는 로또보다 확실히 쉽습니다. 
+> 
+> 가담자인 경우에도 처벌 경감과 포상금 지급도 검토할 것입니다.
+> 
+> 주가조작 조심, 아니 이제 하지 마십시오. 
+> 
+> 주가조작 패가망신!
+
+좋아요 6,789 · 재게시 1,982 · 답글 398 · 조회 605,361 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2026602402175136096
+
+### 2026-02-25 07:56 — 경제·민생 · 직접 작성
+
+> <농지 매각명령 대상은 상속받은 농지나 농사를 짓다 노령 등으로 불가피하게 묵히는 농지 등을 말하는게 아닙니다. 
+> 
+> 투기목적으로 직접 농사 짓겠다고 영농계획서 내고 농지를 취득하고도, 구입후 묵히거나 임대하는 농지를 말하는 것입니다. 
+> 
+> 헌법상의 경자유전(농사 짓는 사람만 농지를 소유한다) 원칙과 이를 지키려는 농지법에 따라, 
+> 
+> 농지는 자경할(직접 농사지을) 사람만 취득할 수 있고, 그래서 어떻게 직접 농사를 지을 지 영농계획서를 내야 하며, 
+> 
+> 이를 어기고 직접 농사를 짓지 않으면 절차를 거쳐 매각명령을 하는 것이 법에 명시되어 있습니다. 
+> 
+> 농사 짓겠다고 속이고 농지를 취득한후 농사를 안지으면, 경자유전의 헌법 원칙을 존중하여 법에 따라 처분하게 해야겠지요?
+> 
+> 경자유전 원칙을 이해하지 못하고 매각명령 하라는 저의 지시를 두고 공산당 운운하는 분들이 있습니다. 
+> 
+> 경자유전 원칙을 헌법에 명시하고 농사를 짓지않는 지주의 땅을 강제취득하여 농민들에게 분배한 이가 이승만대통령입니다. 경자유전 원칙에 따른 이승만 정부의 농지분배는 대한민국 경제 발전의 토대가 되었습니다. 
+> 
+> 이승만 대통령을 양민학살 등 여러 이유로 인정할 수 없으면서도 농지분배를 시행한 업적만은 높이 평가하는 이유입니다. 이승만 대통령이 빨갱이 공산주의자는 아닙니다.>
+> 
+> 이 대통령 "농지까지 투기 대상...농사 안 지으면 매각 명령해야"
+
+좋아요 5,685 · 재게시 1,625 · 답글 495 · 조회 405,550 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2026430970250014801
+
+### 2026-02-25 06:55 — 정치·국정 · 직접 작성 · 분류 검토 대기
+
+> <과도한 걱정을 기우라고 합니다. 당은 당의 일을, 청은 청의 일을 잘 하면 됩니다. 대통령은 뒷전이 된 일이 없고, 그렇게 느낀 적도 없습니다.
+> 
+> 민주당은 야당의 극한투쟁 등 여러 장애에도 불구하고 국민이 맡긴 일을 최선을 다해 잘 하고 있습니다. 개혁입법은 물론 정부지원에도 부족함이 전혀 없습니다.
+> 
+> 언제나 강조하는 것인데, 형식이나 의례보다 중요한 것은 국민이 체감하는 성과와 실적입니다. 여당이 할 일을 잘 하는 것이 최고의 정부지원입니다. 
+> 
+> 자사주 소각 입법이 한 시라도 빨리 되면 좋겠습니다. 기업들도 대다수 수용하고, 국민도 주주도 환영하는 이런 개혁입법을 왜 밤까지 새며 극한반대하는 지, 나름의 사정이 있겠지만 쉽게 납득되지는 않습니다. 해는 짧은데 갈 길이 멉니다. 주가누르기 방지법 등 해야 할 일이 산더미입니다.>
+> 
+> 우연이 계속되면 의도?…'뒷전' 된 대통령에 與 '설왕설래'
+
+좋아요 6,137 · 재게시 1,465 · 답글 450 · 조회 297,526 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2026415731664166944
+
+### 2026-02-25 00:42 — 일상·인사 · 인용
+
+> 깨끗한나라에 감사합니다. 
+> 우리는 이제 조금씩 나아가고 있습니다.
+
+좋아요 14,653 · 재게시 3,458 · 답글 474 · 조회 1,608,133 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2026321782710644765
+
+### 2026-02-24 22:45 — 정치·국정 · 인용
+
+> 김민석 총리님, 수고 많으십니다. 국정을 국민에게 알리고, 현장에서 국민의 의견을 수렴하는 것은 국민주권정부 국정의 시발점입니다.
+
+좋아요 5,229 · 재게시 1,228 · 답글 319 · 조회 252,330 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2026292441566101571
+
+### 2026-02-24 22:42 — 재난·안전 · 리트윗
+
+> RT @[비공개]: 우리 군은 지난 2월 21일 충남 서산을 시작으로 예산과 경남 밀양, 함양 등 전국 각지에서 발생한 산불 현장에 산림청·소방당국·지방자치단체와 긴밀히 협조한 가운데 27대의 헬기와 500여 명의 병력을 후속지원하…
+
+좋아요 0 · 재게시 307 · 답글 0 · 조회 14 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2026291589631623526
+
+### 2026-02-24 16:45 — 정치·국정 · 직접 작성
+
+> <충남 대전은 야당과 충남시도의회가 통합을 반대합니다. 
+> 
+> 천년의 역사를 가진 광역 행정구역 통합을 충분한 공감없이 일방적으로 강행할 수는 없습니다. 
+> 
+> 야당과 시도의회의 반대를 무릅쓰고 무리하지 말라는 것이 정부의 입장이었습니다. 
+> 
+> 100%는 아니더라도 최소한 해당지역이 대체적으로 공감하고 정치권도 대체로 동의해야 통합할 수 있습니다.
+> 
+> 오해가 없기를 바랍니다.>
+> 
+> 대통령이 직접 요청한 ‘충남·대전 통합' 무산…“靑, 민주당에 부글”
+
+좋아요 3,955 · 재게시 1,107 · 답글 232 · 조회 389,733 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2026201908290183668
+
+### 2026-02-24 16:06 — 정치·국정 · 리트윗
+
+> RT @[비공개]: 오늘 국무회의에서 소득세법 시행령 등 여러 세법 시행령 개정안이 의결되었습니다.
+> 
+> 무엇보다 5월 9일 자로 다주택자에 대한 양도세 중과 유예 조치를 확실히 종료하기 위해, 국민 여러분의 불편을 완화하고자 마련된 보완…
+
+좋아요 0 · 재게시 332 · 답글 0 · 조회 10 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2026191879373824147
+
+### 2026-02-24 08:28 — 경제·민생 · 직접 작성
+
+> <시장에 맞서지 말라는 말도 있지만 정부에 맞서지 말라는 말도 있습니다.
+> 
+> 권력은 정상사회를 비정상 사회로 만들 수 있지만 비정상을 정상으로 만들 수도 있습니다. 
+> 
+> 권력이 정상화의 길을 갈 지 비정상화의 길을 갈 지 이정표는 권력의 사심과 사욕입니다. 
+> 
+> 그래서 사심과 사욕을 버리면 정상화가 더 쉽습니다. 권력의 원천인 국민이 원하기 때문입니다.
+> 
+> 우리 국민은 부동산 특히 수도권 아파트 시장이 비정상임은 알고 있고 이 비정상의 정상화를 지지합니다. 
+> 
+> 권력은 규제, 세제, 금융, 공급 등 정상화를 위한 막강한 수단을 가지고 있습니다. 문제는 권력의 의사와 의지입니다.
+> 
+> 다시 한번 미리 알려드립니다. 
+> 다주택을 유지하든, 비거주 투자용 주택을 보유하든, 평당 3억씩 하는 초고가 주택을 보유하든 자유이지만 비정상의 정상화에 따른 위험과 책임은 피할 수 없습니다.
+> 
+> 대한민국 정상화. 
+> 믿거나 말거나, 저항할 지 순응할 지는 각각의 자유이지만, 주식시장 정상화처럼 그에 따른 손익 역시 각자의 몫입니다.
+> 
+> 한번 더 말씀드리면, 
+> 부동산 정상화는 어려운 일이지만 계곡 불법시설 정비나 주식시장 정상화보다는 쉬운 일입니다. 
+> 
+> 비정상인 집값상승세가 국민주권정부에서도 계속될 것이라는 기대는 줄어드는 게 당연합니다.
+> 
+> 부동산투기 극복, 대한민국 정상화. 
+> 국민주권정부는 합니다!>
+> 
+> 대통령 '다주택 압박' 통했다…집값 오를 것이란 기대 한 달 새 반토막
+
+좋아요 7,322 · 재게시 1,780 · 답글 957 · 조회 577,403 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2026076608243880364
+
+### 2026-02-23 22:01 — 사회 · 직접 작성
+
+> 두 소년공이 대통령이 되어 만났습니다.
+> 
+> 상처를 가졌지만 
+> 흉터가 아니고, 
+> 
+> 노동에서
+> 삶의 지혜를 얻었고,
+> 
+> 역경을 겪었으나
+> 국민이 구해주셨습니다.
+> 
+> 그래서 우리는 형제입니다.
+> 형제 룰라 대통령 (@LulaOficial)에게 이 영상을 선물합니다.
+
+좋아요 45,638 · 재게시 6,009 · 답글 1,943 · 조회 4,441,366 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2025918938903900269
+
+### 2026-02-23 15:11 — 외교·통상 · 리트윗
+
+> RT @LulaOficial: Grande honra ser recebido pelo presidente @Jaemyung_Lee. Um encontro para fortalecer nossas parcerias e celebrar a amizade…
+
+좋아요 0 · 재게시 1,467 · 답글 0 · 조회 15 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2025815640842678609
+
+### 2026-02-23 13:02 — 문화·체육 · 직접 작성
+
+> 이탈리아 밀라노–코르티나에서 17일간 펼쳐진 열전이 막을 내렸습니다. 한계를 뛰어넘는 도전으로 뜨거운 감동과 자부심을 안겨준 대한민국 국가대표 선수단 여러분, 정말 고생 많으셨습니다.
+> 
+> 자랑스러운 우리 선수들 덕에 2026년의 겨울은 그 어느 때보다 따뜻했습니다. 앞으로 이어질 여러분의 모든 도전 역시 대한민국 국민과 함께 한마음으로 응원하겠습니다. 
+> 
+> 아울러 선수단이 최고의 경기력을 발휘할 수 있도록 보이지 않는 곳에서 애써주신 수많은 지원 인력, 정성 어린 식사로 힘을 보태주신 조리사와 영양사분들, 그리고 현지에서 한국 문화의 품격을 널리 알린 코리아하우스 관계자 여러분께도 깊은 감사를 전합니다. 모두 고맙습니다.
+
+좋아요 4,370 · 재게시 758 · 답글 140 · 조회 106,289 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2025783407708676272
+
+### 2026-02-23 08:51 — 사회 · 인용
+
+> Com todo o povo coreano, dou as mais calorosas boas-vindas à visita de Estado do respeitado Presidente Lula à República da Coreia.
+> 
+> (존경하는 룰라 대통령님의 대한민국 국빈 방문을 온 국민과 함께 열렬히 환영합니다.)
+> 
+> Como ex-operário infantil, o senhor provou com todo o seu corpo que a democracia é a ferramenta mais útil para o desenvolvimento social e econômico.
+> 
+> (소년노동자 출신으로, 민주주의가 사회 경제 발전에 가장 유용한 도구임을 온 몸으로 증명했습니다.)
+> 
+> O senhor trilhou brevemente o caminho do calvário com a destruição da democracia, mas ressurgiu com força junto ao grande povo brasileiro e agora está fazendo o Brasil renascer.
+> 
+> (민주주의 파괴와 함께 형극의 길을 잠시 걸었으나, 위대한 브라질 국민들과 함께 강건하게 부활하여 이제는 브라질을 부활시키고 있습니다.)
+> 
+> O caminho que o senhor trilhou um passo à frente, tanto na vida quanto na política, assemelha-se muito à trajetória da minha própria vida.
+> 
+> (삶과 정치에서 한발 앞서가신 대통령님의 길이 나의 인생 역정과 너무도 닮았습니다.)
+> 
+> Não tenho dúvidas de que o Brasil prosperará grandemente através da sua retidão, intensidade, desafio indomável e coragem.
+> 
+> (룰라 대통령님의 그 올바름과 치열함, 불굴의 도전과 용기로 브라질이 크게 융성할 것을 믿어 의심치 않습니다.)
+> 
+> Apoio a vida, a luta e as conquistas do Presidente Lula, que ficarão para sempre na história da democracia mundial.
+> 
+> (세계 민주주의 역사에서 길이 남을 룰라 대통령님의 삶과 투쟁, 성취를 응원합니다.)
+> 
+> Anseio por encontrá-lo em breve. Seja bem-vindo, meu eterno companheiro, Presidente Lula!
+> 
+> (빨리 만나고 싶습니다. 나의 영원한 동지 룰라 대통령님, 환영합니다.)
+
+좋아요 28,997 · 재게시 3,523 · 답글 905 · 조회 922,463 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2025720172817105256
+
+### 2026-02-22 08:56 — 사회 · 인용 · 분류 검토 대기
+
+> 테러리스트가 아닌, 
+> 대한의군 참모중장 안중근 의사 유묵의 귀환을 국민과 함께 환영합니다. 
+> 수고 많으셨습니다. 
+> 감사합니다.
+> 
+> 국민주권정부도 안중근 의사 유해발굴과 송환을 위해 최선을 다하고 있습니다.
+> 
+> 독립과 자주는 저절로 오는 것이  아니라 강고한 의지와 끊임없는 투쟁으로 성취되고 지켜집니다.
+> 
+> 나라를 되찾고 지키기 위해 헌신하며 특별한 희생을 치른 분들에 대하여 우리는 끊임없이 기록하고 기억하며 특별한 보상과 예우를 다해야 합니다.
+> 
+> 독립운동하면 3대가 망하고 친일 매국하면 3대가 흥한다는 나라에서 누가 조국과 국민을 위해 흔쾌히 나서겠습니까?
+> 
+> 이제 모든 것을 제자리로 되돌려 놓아야 합니다.
+
+좋아요 7,533 · 재게시 2,051 · 답글 384 · 조회 329,957 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2025358985780720082
+
+### 2026-02-21 22:52 — 경제·민생 · 직접 작성
+
+> <다주택자나 임대사업자가 매각을 통해 다주택을 해소하면 전월세 매물이 줄어 서민주거가 악화될까 걱정되신다구요? 
+> 
+> 그래서 서민들을 위해 다주택과 주택임대사업을 보호해야 한다구요? 그러면 다주택과 주택임대사업을 지금보다 더 늘리면 서민주거가 안정되나요? 그건 아니지만 지금이 최적 균형상태라 늘리지도 줄이지도 말아야 하나요?
+> 
+> 다주택자나 임대사업자가 집을 팔면 전월세 공급도 줄겠지만 그만큼 무주택자 즉 전월세 수요도 줄어듭니다. 공급만큼 수요도 동시에 줄어드는데 전월세 공급축소만 부각하는 건 이상합니다 오히려 주택 매매시장에 매물이 증가함으로써 집값이 안정되고 그에 따라 전월세가도 안정된다는 것이 훨씬 더 논리적입니다.
+> 
+> 현 상태에서 대규모 추가 특혜를 주어 주택임대사업자와 다주택자가 대폭 늘어나면 집값(그에 연동되는 주택임대료)이 오를까 내릴까 생각해보면 답은 간단합니다.
+> 
+> 다주택과 임대사업을 압박하면 전월세 부족으로 서민주거 불안이 심화된다는 주장은 집값 상승과 전월세 부족의 주요 원인인 다주택과 주택임대사업을 비호하는 기적의 논리입니다.
+> 
+> 정치란 원래 이해를 다투는 것이라 일부 정치인들이 지지 또는 소속 집단의 이익을 위해 이런 억지 주장을 하는 것이 조금은 이해가 되지만, 중립적으로 정론직필해야 할 언론들 중 일부가 전면에 나서 이런 억지주장을 하며 부동산 시장 안정을 위한 정부의 필사적 노력에 찬물을 끼얹는 것은 납득하기 어렵습니다.
+> 
+> 더나은 세상을 향한 대도약과 더불어, 비정상의 정상화는 새로운 나라를 만들기 위해 이 정부가 추진하는 필생의 과제입니다.
+> 
+> 불법, 편법, 특혜, 부조리 등 온갖 비정상을 통해 소수가 부당한 이익을 취하고, 힘없는 다수가 그만큼 손해를 보는 일이 계속되는 한 국가발전과 국민행복공동체 건설은 공염불입니다.
+> 
+> 수많은 정상화 과제중의 으뜸은 부동산투기 청산입니다. 부동산투기근절을 통한 정상국가로의 복귀는 결코 포기할 수 없는 중대 국가과제입니다.
+> 
+> 공동체를 해치는 작은 사익을 버리고, 더 나은 내일의 대한민국을 향한 길에 함께 해 주시기를 간곡히 당부드립니다.>
+> 
+> 野 "다주택자 대출연장 규제는 금융독재"…與 "시장 선동"(종합)
+
+좋아요 7,430 · 재게시 1,759 · 답글 1,183 · 조회 421,874 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2025207056933003399
+
+### 2026-02-21 08:21 — 정치·국정 · 직접 작성
+
+> <근본적 문제는 한국의 일부 언론이 국내 문제에 대한 의견을 외국정부에 물어본다는 것입니다. 
+> 
+> 왜 국내 문제, 그것도 정치와 독립된 사법 판결에 대한 입장을 외국정부에 질의할까요? 
+> 
+> 외국정부가 국내 문제에 관여하면 내정간섭이라고 문제제기하는 것이 언론의 정상적 모습 아닐까요?
+> 
+> 한국의 친위군사쿠데타 재판에 대한 입장을 미국에만 물었는지 아니면 일본, 중국, 유럽등 다른 나라에도 물었는지 궁금합니다.>
+> 
+> 미 국무부 “한국 사법 존중”…백악관 논란 메시지 하루 만에 ‘수습’
+
+좋아요 7,891 · 재게시 2,414 · 답글 953 · 조회 401,275 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2024987779072229613
+
+### 2026-02-20 17:30 — 과학기술·AI · 직접 작성
+
+> 오늘 마주한 카이스트 졸업생들의 눈빛에서 대한민국의 밝은 미래를 보았습니다. 여러분의 뜨거운 각오와 소망이야말로 대한민국을 과학기술 강국으로 이끌 귀중한 미래 자산입니다.
+> 
+> 그 어떤 어려움도 여러분의 용기를 꺾지 못하도록, 정부가 든든한 동반자이자 후원자가 되겠습니다. 그러니 정부를 믿고 마음껏 도전해 주십시오. 여러분이 열어갈 빛나는 미래와 가능성에 아낌없이 투자하겠습니다.
+> 
+> 앞으로 더욱 반짝일 여러분의 찬란한 비상을 응원합니다.
+
+좋아요 5,570 · 재게시 1,084 · 답글 332 · 조회 279,828 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2024763456533204995
+
+### 2026-02-20 09:21 — 정치·국정 · 직접 작성
+
+> <초인적 과로에 노출된 청와대 비서진에는 참으로 미안한 일이지만, 현재 대한민국은 전쟁터와 같은 상황이라 어쩔 수가 없습니다. 
+> 
+> 언제나 말씀 드리는 것처럼 국가 공직자의 한 시간은 5200만 시간의 가치가 있습니다.
+> 
+> 국민의 참여와 격려 속에 큰 성과를 내고 안정된 평화시대가 곧 도래할 것입니다. 
+> 
+> 청와대 동지 여러분!
+> 여러분의 10분에 수많은 사람들의 인생, 흥망, 생사가 달려 있습니다.
+> 
+> 비록 힘은 들어도, 
+> 짧은 인생에서 이만큼 의미있는 시간이 또 어디 있겠습니까?
+> 
+> 귀하디 귀한 시간을 가진 여러분,
+> 힘을 냅시다!>
+> 
+> [단독]靑 업무량 역대 최고 수준…1인당 초과근무 月62시간
+
+좋아요 8,315 · 재게시 1,942 · 답글 876 · 조회 2,667,521 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2024640613967417436
+
+### 2026-02-20 09:00 — 과학기술·AI · 직접 작성
+
+> <전통과 첨단이 공존하는 생명의 땅, 전북특별자치도에서 뵙겠습니다> 
+> 
+> 전북은 문화와 역사, 관광의 보고이자 대한민국의 미래를 이끌 전략 산업의 씨앗을 고루 품은 곳입니다. K-푸드와 농생명 바이오, 피지컬 AI, 재생에너지 그리고 새만금에 이르기까지 식량안보와 에너지 전환이라는 국가적 과제를 동시에 책임질 수 있는 잠재력을 갖추고 있습니다.
+> 
+> 그러나 그동안 이러한 강점이 일자리 창출과 인구 증가, 지역 활력으로 충분히 이어지지 못한 아쉬움도 있었습니다. 이제 청년이 떠나지 않고, 기업이 뿌리내리며, 산업과 지역이 선순환하는 새로운 전북의 발전 모델을 만들어가야 합니다. 
+> 
+> 정부는 전북을 ‘5극 3특’ 균형발전 전략의 핵심 축으로 확고히 세워, 미래산업을 주도하고 양질의 일자리와 혁신을 창출하는 기회의 땅으로 도약시킬 것입니다.
+> 
+> 그 과정에서 무엇보다 중요한 것은 이 땅을 삶의 터전으로 삼고 살아가는 도민 여러분의 목소리입니다. 자리에 함께하셔서 여러분의 이야기를 들려주십시오. 경청하고, 책임 있게 답하며, 실행으로 보여드리겠습니다.
+> 
+> ○ 모집인원: 전북도민 200명
+> ○ 행사날짜: 2026년 2월 27일(금)
+> * 시간, 장소는 경호상 이유로 추후 안내 예정
+> ○ 참여신청: 2026년 2월 20일(금) 09시 ~ 2월 23일(월) 12시 네이버폼 접수 
+> * 신원 확인이 어려운 경우 출입이 제한될 수 있으니, 신청 시 이름과 주민등록번호를 정확하게 기입해 주시기 바랍니다.
+> * 선정된 분들께는 시간, 장소 안내 및 참석 여부 확인 전화를 드릴 예정입니다.
+
+좋아요 2,998 · 재게시 709 · 답글 330 · 조회 76,579 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2024635112185614544
+
+### 2026-02-20 08:58 — 경제·민생 · 직접 작성
+
+> <왜 RTI 규제만 검토하나요?
+> 대출기간 만료후에 하는 대출연장이나 대환대출은 본질적으로 신규대출과 다르지 않습니다.
+> 
+> 그러니 기존 다주택에 대한 대출연장이나 대환도 신규 다주택구입에 가하는 대출규제와 동일해야 공평하지 않을까요? 
+> 
+> 일거에 대출을 완전히 해소하는 것이 충격이 너무 크다면 1년 내 50%, 2년내 100% 해소처럼 최소한의 기간을 두고 점진적으로 시행할 수도 있겠지요. 
+> 
+> 신규 다주택에 대한 대출규제 내용 보고, 기존 다주택에 대한 대출 연장 및 대환 현황과 이에 대한 확실한 규제 방안 검토를 내각과 비서실에 지시했습니다. 
+> 
+> "국민이 주인인 나라, 함께 행복한 대한민국"을 위해, 부동산 불로소득 공화국은 반드시 혁파해야 합니다.
+> 
+> 대한국민은 합니다!
+> 대한민국은 합니다!>
+> 
+> 임대사업자 대출 RTI 규제하나…빌라·오피스텔 시장 타격 전망
+
+좋아요 4,467 · 재게시 1,104 · 답글 460 · 조회 195,038 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2024634775055786440
+
+### 2026-02-19 12:00 — 사회 · 인용
+
+> 해수부이전, 해사법원 설치에 이어 동남권 투자공사 설립은 물론 곧  HMM 이전도 곧 합니다.
+> 
+> 대한민국 대전환, 지역균형발전!
+> 
+> 한다면 합니다!
+> 대한민국은 합니다!
+
+좋아요 6,647 · 재게시 1,681 · 답글 413 · 조회 233,024 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2024318074883887398
+
+### 2026-02-18 23:40 — 정치·국정 · 직접 작성
+
+> <인류사의 모범이 될 위대한 대한국민의 나라, 대한민국이었기에 가능했습니다. 
+> 대한민국은 합니다!>
+> 
+>  12·3 계엄 막은 대한민국 국민, 노벨평화상 후보로 추천됐다https://naver.me/xk93rZT9
+
+좋아요 11,047 · 재게시 3,706 · 답글 643 · 조회 399,470 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2024131973858697328
+
+### 2026-02-18 17:57 — 정치·국정 · 리트윗
+
+> RT @[비공개]: 오늘은 이영상을 풀어 볼까?
+> 경기도지사 선거 기간 마지막날.. 처절하게 자신을 뽑되, 자신을 제대로 머슴으로서 쓸모있게 이용할 수 있게, 자신이 왜 이토록 우리 편에 서있는지에 대해 연설하는거 너무 감동이었어..…
+
+좋아요 0 · 재게시 716 · 답글 0 · 조회 8 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2024045702155038799
+
+### 2026-02-18 00:57 — 경제·민생 · 직접 작성
+
+> <사회악은 다주택자들이 아니라, 다주택이 돈이 되게 만든 정치인들>
+> 
+> 민주주의는 사실에 기반한 토론과 타협으로 유지됩니다.
+> 사실을 왜곡하고, 논점을 흐리며, 비합리적인 주장을 하는 것, 특히 상대의 주장을 왜곡조작해 공격하는 것은 비신사적일뿐 아니라 민주주의를 위협합니다.
+> 
+> 각자의 책임으로 주어진 자유를 누리며 법률이 허용하는 최대의 방식으로 돈을 버는 자본주의 시장경제 체제에서, 법과 제도를 벗어나지 않는 다주택보유 자체를 사회악이라 비난할 수는 없습니다. 
+> 
+> 그러나 법과 제도를 설계하고 시행할 권한을 가진 정치(입법, 행정)가 "바람직하지 않은" 다주택 보유를 부담이 되도록 만들거나 금지하지 않고, 오히려 이익이 되도록 특혜를 주어 투기를 조장했다면 이야말로 문제입니다.
+> 
+> 도덕의 최소한인 법은 충분히 지킬 수 있고 반드시 지켜야 하는 것에 한정되어야 하고, 그러한 법을 위반하면 위반을 꿈꿀 수 없을만큼 엄정한 책임을 물어야 합니다.
+> 
+> 지킬 수도 없는 규정을 만들어 힘 없고 양심적인 사람만 지키느라 손해를 보고, 힘세고 약삭빠른 이들은 이를 어겨 이익 보게 해서는 안됩니다.
+> 
+> 주택을 포함한 부동산 투기가 그렇습니다.
+> 
+> 다주택 보유가 집값폭등과 주거불안 야기 등으로 주택시장에 부담을 준다면 이는 바람직하지 않지만 법률로 금지하기도 쉽지 않습니다. 그렇다면 법과 제도를 관할하는 정치(인)는 입법ㆍ행정 과정에서 규제, 세금, 금융 제도 등을 통해 이익이 아니라 손해가 되게 만들어 다주택을 회피하게 해야 합니다. 방법은 얼마든지 있고 국민은 정치인들에게 그렇게 할 권한을 맡겼습니다.
+> 
+> 그런데 "바람직하지 않는 다주택" 보유가 이익 아닌 부담이 되게 해야 할 정치인들이 다주택 특혜를 방치할 뿐 아니라 다주택투기를 부추기거나 심지어 자신들이 다주택에 따른 초과이익을 노리는 이해충돌까지 감행합니다. 
+> 
+> 이 경우 굳이 사회악을 지목해 비난해야 한다면, 그 비난은 나쁜 제도를 활용한 다주택자들이 아니라  나쁜 제도를 만들어 시행한 정치인들이 받아야 합니다.
+> 
+> 돈이 되면 부모가 말려도 하고, 
+> 손해날 일이면 강권해도 안하는 것이 세상인심입니다.
+> 
+> 양심 도덕 내세우며 집 사모으지 말라 강권해도 다주택에 이익이 있으면 할 것이고, 
+> 손해라면 다주택자 되시라 고사를 지내도 하지 않는 법입니다.
+> 
+> 국민주권정부는 세제, 규제, 금융 등 국민이 맡긴 권한으로 "바람직하지 못한" 다주택 보유에 주어진 특혜를 철저히 회수하고, 다주택에 상응하는 책임과 부담을 엄정하게 부과하고 관리할 것입니다.
+> 
+> 팔지 살지는 시장 참여자의 몫입니다.
+> 도덕심에 기대어 팔아라 사라 하는 것은 정부가 할 일이 아닙니다. 정부는 사거나 파는 것이 유리한 '상황'을 만들 뿐입니다.
+> 
+> 왜곡이 많으니 사족 하나.
+> 다주택이 다 문제는 아닙니다.
+> 주택 부족에 따른 사회문제와 무관한 부모님 사시는 시골집, 자가용 별장, 소멸 위험 지역의 세컨하우스 같은 건 누구도 문제삼지 않습니다. 정부도 이런 집 팔라고 할 생각 추호도 없습니다. 
+> 
+> 바람직하지 못한 투자ㆍ투기용 다주택과 정당한 다주택을 묶어 편짜기 하는 것은 선량한 다주택자들을 이용하는 나쁜 행위입니다.
+> 
+> 장동혁 "다주택자 사회악 몰이"…민주당 "품격 없다" 역공
+
+좋아요 8,248 · 재게시 2,386 · 답글 1,057 · 조회 407,297 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2023788856764674127
+
+### 2026-02-17 19:21 — 문화·체육 · 직접 작성
+
+> 대한민국 문화의 힘!
+> 
+> 영화 보러 왔습니다.
+> 어디 무슨 영화인지는 일단 비밀입니다.
+
+좋아요 13,241 · 재게시 1,875 · 답글 825 · 조회 3,310,324 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2023704438213616016
+
+### 2026-02-17 13:36 — 일상·인사 · 직접 작성
+
+> <소원성취>
+> 사랑하는 국민 여러분, 
+> 희망의 새해, 모두 소원성취 하시기 바랍니다. 
+> 
+> 저에게도 소원이 있었습니다.
+> 제가 살아왔던 어둡고 헝클어진 세상을 누구에게도 물려주지 않는 것,
+> 저나 제 가족, 이웃들 그리고 모든 세상사람들이 그 어떤 불의와 부당함에도 고통받지 않고, 누구도 부당하게 남의 것을 빼앗지 못하는 제대로 된 세상을 만드는 것, 그것이 저의 간절한 소원이었습니다.
+> 
+> 저는 대통령이 되려고 대통령이 된 것이 아닙니다.
+> 대통령의 권한으로 하고 싶은 일이 있었기 때문입니다.
+> 
+> "권력이 아니라 일 할 수 있는 권한이 필요합니다"
+> 
+> 20년전 성남시장에 출마해 엎드려 절하며 드렸던 호소입니다.
+> 
+> 이제 대한민국을 바꿀 기회가 왔습니다. 
+> 오직 하나의 소원을 안고, 무수한 죽음의 고개를 넘으며 여기까지 왔는데, 이제 기회가 생겼는데 그 절실한 일을 왜 하지 않겠습니까. 
+> 
+> 부동산공화국을 극복하는 것이든, 안전하고 평화로운 나라를 만드는 것이든, 공정하고 합리적인 세상을 만드는 것이든, 성장ㆍ발전하는 나라를 만드는 것이든, 두려움을 모두 떨쳐내고 촌음까지 아껴 사력을 다하겠습니다.
+> 
+> 국민 여러분의 은혜로 저는 소원을 이루었습니다.
+> 이제 전력질주만 남았습니다.
+> 
+> 존경하는 국민 여러분, 
+> 모두가 함께 행복한 나라, 
+> 우리 서로 굳게 손 잡고 함께 만들어 가시지요.
+> 
+> 고맙습니다.
+> 사랑합니다.
+
+좋아요 15,476 · 재게시 3,846 · 답글 1,455 · 조회 823,271 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2023617606905983319
+
+### 2026-02-17 05:00 — 일상·인사 · 직접 작성
+
+> 거리에서, 가정에서, 일터에서  
+> 이 나라를 굳건히 지켜주신 
+> 모든 주권자 여러분께 감사드립니다.
+> 
+> 지난 한 해, 서로를 격려하며 역경을 이겨낸 것처럼  
+> 새해에도 따뜻한 연대와 신뢰를 토대로
+> 함께 나아가길 온 마음으로 소망합니다.
+> 
+> 2026년 새해, 사랑하는 국민 여러분의 하루하루에
+> 건강과 행복이 충만하시길 기원합니다.
+
+좋아요 8,873 · 재게시 1,910 · 답글 774 · 조회 196,256 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2023487552494379234
+
+### 2026-02-16 10:55 — 과학기술·AI · 리트윗
+
+> RT @msitminister: <역대 기록을 경신중인 과학기술정보통신부 정책성과>
+> 
+> 설명절을 맞아 과기정통부의 그간 정책 성과를 정리해봅니다. 첫번째 성과로는 예산 삭감으로 무너진 R&D 생태계 완벽 복원입니다.
+>  
+> 역대 최대 규모인 35.5조원의…
+
+좋아요 0 · 재게시 495 · 답글 0 · 조회 28 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2023214689510133916
+
+### 2026-02-16 01:40 — 경제·민생 · 직접 작성
+
+> <집은 투자수단일 수도 있지만, 기본적으로 주거수단입니다. 누군가 돈을 벌기위해 살지도 않을 집을 사 모으는 바람에 주거용 집이 부족해 집을 못사고 집값, 전월세값이 비상식적으로 올라 혼인 출생 거부, 산업의 국제경쟁력 저하, 잃어버린 30년 추락 위험 등 온갖 사회문제를 야기한다면, 투자 투기용 다주택을  불법이거나 심각하게 부도덕한 일이라고 비방할 수 없을지는 몰라도 최소한 찬양하고 권장할 일이 못되는 것은 분명합니다.
+> 
+> 긍정적 효과보다 부정적 효과가 큰 것은 분명한만큼 국가정책으로 세제, 금융, 규제 등에서 다주택자들에게 부여한 부당한 특혜는 회수해야할 뿐 아니라, 다주택보유로 만들어진 사회문제에 대해 일정정도 책임과 부담을 지우는 게 공정하고 상식에 부합합니다.
+> 
+> 정치란 국민들간의 이해관계를 조정해 가며 국민 다수의 최대행복을 위해 누가 더 잘하나를 겨루어 국민으로부터 나라살림을 맡을 권력을 위임받는 것입니다. 
+> 
+> 정치에서는 이해관계와 의견 조정을 위한 숙의를 하고 소수 의견을 존중하되 소수독재로 전락하지 않도록 주의해야 하고, 논쟁의 출발점은 언제나 진실(팩트)과 합리성이어야 합니다. 국민들은 웬만한 정치평론가를 뛰어넘는 집단지성체임을 잊지 말아야 합니다.
+> 
+> 국민의힘은 작은 땅덩이에 수도권 집중까지 겹쳐 부동산 투기 요인이 많은 대한민국에서 소수의 투자투기용 다주택 보유를 바람직하다고 생각하는 걸까요? 설마 그 정도로 상식이 없지는 않을 겁니다. 
+> 
+> 폐해가 큰 다주택에 대한 특혜의 부당함, 특혜 폐지는 물론 규제 강화의 필요성을 모를 리 없는 국민의힘이 무주택 서민과 청년들의 주거안정, 망국적 부동산 투기 근절을 위한 다주택 억제정책에 납득하기 어려운 이유를 들어 시비에 가까운 비난을 하니 참으로 안타깝습니다. 
+> 
+> 일각에서 다주택이 임대물건을 공급하는데 다주택 매도로 임대가  줄면 전세 월세가 오르니 다주택을 권장 보호하고 세제 금융 등의 혜택까지 주어야 한다고 주장합니다.
+> 
+> 우선 다주택이 줄어들면 그만큼 무주택자 즉 임대 수요가 줄어드니 이 주장은 무리하고, 주택임대는 주거문제의 국가적 중대성과 공공성을 고려하여 가급적 공공에서 맡는 것이 바람직할 것입니다.
+> 
+> 장동혁대표께서 청와대여 오시면 조용히 여쭤보고 싶었던 게 있었는데, 이번 기회에 여쭙겠습니다.
+> 
+> "국민의힘은 다주택자를 규제하면 안되고, 이들을 보호하며 기존의 금융 세제 등 특혜를 유지해야 한다고 보십니까?">
+> 
+> 野 "李대통령 분당아파트 팔고 주식사라" 與 "장동혁 주택 6채"
+
+좋아요 8,992 · 재게시 2,574 · 답글 1,338 · 조회 617,181 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2023074840153092332
+
+### 2026-02-14 19:27 — 경제·민생 · 직접 작성
+
+> <다주택은 양도세 중과세 유예를 더 이상 안하겠다고 했고, 그러면 안 팔고 버틴다기에 버티는 비용이 더 클 것인데도 그럴 수 있겠냐고 경고하며 세금이나 금융, 규제등에서 비정상적 특혜를 걷어내고 앞으로 부동산 시장은 실거주용 중심으로 정상화될 것이니 과거의 잘못된 정책으로 불로소득 쉽게 얻던 추억은 버리시고 냉정한 현실에 적응하시라고 국민들께 알려 드렸습니다. 
+> 
+> 명시적으로 다주택을 팔아라 말아라 한 것은 아니지만 다주택 유지가 손해 될 것임을 엄중히 경고하였으니 매각 권고 효과가 당연히 있고, 다주택자는 압박을 느끼며 그걸 강요라고 표현할 수도 있지요. 그러나 저는 팔아라는 직설적 요구나 강요는 반감을 사기 때문에 파는 것이 이익인 상황을 만들고 이를 알려 매각을 유도했을 뿐입니다. 
+> 
+> '다주택을 팔라'고 직설적으로 날을 세운 적도 없고, 매각을 강요한 적도 없으며 그럴 생각도 없습니다. 
+> 저는 정치를 하면서도 저를 지지하는 것이 유권자에게 유리한 객곽적 상황을 만들고 이를 알리는데 주력했지만 직설적으로 저를 찍어달라 이런 표현은 거의 하지 않습니다.
+> 
+> 권고냐 강요냐는 말하는 측과 듣는 측에 따라 다른 동전의 양면 같은 것인데, 언론이 동일한 상황에 대한 다른 표현을 가지고 대통령이 다주택 팔라고 날 세우다가 "돌연" 강요 아니라고 말을 바꿨다고 비난하니 쉽게 납득이 되지 않습니다. 
+> 
+> 이전에 정부가 부동산 시장 정상화를 시도하면 정록직필해야 할 일부 언론들이 벌떼처럼 들고 일어나 왜곡조작 보도 일삼으며 부동산 투기세력과 결탁해 그들의 입장을 옹호하고 정부정책을 집중 공격하여 부동산투기 억제 정책을 수십년간 무산시켜 왔습니다. 
+> 
+> 그 결과 부동산이 나라의 부를 편중시키며 무주택 서민과 청년들의 희망을 빼앗고 주택문제가 결혼 출산포기의 가장 큰 원인이 되었습니다. 저출생으로 대한민국이 전세계에서 가장 먼저 사라지게 생겼습니다. 
+> 
+> 수십년간 여론조작과 토목 건설 부동산 투기로 나라를 잃어버린 30년의 위험한 구렁텅이 직전까지 밀어넣으며 그 정도 부와 권력을 차지했으면 이제 그만할 때도 되었습니다.
+> 
+> 여전히 부동산 투기 부추기며 나라를 망국적 부동산 불로소득 공화국으로 밀어넣는 일부 세력과 집단들도 이제 일정한 책임을 져야 한다는 의견도 충분히 경청할 만 합니다.>
+> 
+> '다주택 팔라' 날 세우더니…"강요 아냐" 이 대통령 돌연 SNS | 다음 - SBS
+
+좋아요 8,355 · 재게시 2,281 · 답글 1,281 · 조회 506,387 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2022618586947424686
+
+### 2026-02-14 10:16 — 경제·민생 · 리트윗
+
+> RT @[비공개]: 성실하게 빚을 갚았음에도 연체 기록이 남아 신용점수가 낮은 상태가 장기간 유지되면서 대출·카드 발급 등 정상적인 금융활동에 제약 받은이들에게 재기의 기회를 주겠다는 취지다
+> 
+> “이번 신용회복은 200점대에 머물러 있던 나의…
+
+좋아요 0 · 재게시 456 · 답글 0 · 조회 6 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2022479998112928136
+
+### 2026-02-14 09:52 — 경제·민생 · 직접 작성
+
+> <저는 부동산 시장 정상화를 추구할 뿐, 집을 팔라고 강요하지 않습니다. 부동산 투자ㆍ투기에 주어진 부당한 특혜를 회수하고, 상응하는 부담을 하게 하려는 것입니다. 
+> 
+> 자가 주거용 주택소유자는 철저히 보호하되, 살지도 않는 투자ㆍ투기용 주택이나 다주택 보유자는 무주택자인 청년과 서민들에게 피해를 입히니 그에 상응한 책임과 부담을 지는 것이 공정합니다. 
+> 
+> 정당한 투자수익을 초과하여 과도한 불로소득을 노리는 다주택자, 살지도 않는 투자ㆍ투기용 주택 소유자들이 가진 특혜를 회수하고 세제, 금융, 규제, 공급 등에서 상응하는 부담과 책임을 강화하여 부동산 시장을 선진국들처럼 정상화 하자는 것입니다. 
+> 
+> 정상화된 부동산 체제에서 경제적 손실을 감수하며 집을 소장품이나 과시용으로 여러채 소유해도 괞찮습니다. 
+> 
+> 손실을 감수하며 공동체를 위해 경제적 부담을 기꺼이 하겠다는 걸 왜 말리겠습니까. 일부 국가는 사회주의체제가 아니면서도 거주용 외 일정수 이상의 주택보유를 금지하기도 하지만, 그렇게까지 할 필요는 없다고 생각합니다. 
+> 
+> 강요하지 않습니다.
+> 집은 투자ㆍ투기용보다 주거용으로 사용하는 것이 바람직하니, 그 반대의 선택은 손실이되도록 법과 제도를 정비할 뿐이지요.
+> 손해를 감수할 지, 더 나은 선택을 할지는 각자의 자유입니다.
+> 
+> 사족으로, 저는 1주택입니다. 
+> 직장때문에 일시 거주하지 못하지만 퇴직후 돌아갈 집이라 주거용입니다. 대통령 관저는 제 개인 소유가 아니니 저를 다주택자 취급하지는 말아주시기 바랍니다. 다주택 매각권유는 살 집까지 다 팔아 무주택 되라는 말이 아니니 "너는 왜 집을 팔지 않느냐", "네가 팔면 나도 팔겠다"는 다주택자의 비난은 사양합니다.>
+> 
+> 장동혁 "李대통령 한밤중 다주택자에 사자후…부동산 겁박 멈추라"
+
+좋아요 8,330 · 재게시 2,688 · 답글 1,035 · 조회 1,140,104 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2022474038556397745
+
+### 2026-02-14 00:10 — 정치·국정 · 인용
+
+> 황당한 증거조작이지요. 
+> 무수히 많은 사례중 하나일뿐입니다.
+
+좋아요 6,554 · 재게시 1,840 · 답글 585 · 조회 227,859 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2022327612111274349
+
+### 2026-02-13 21:00 — 국방·안보 · 답글
+
+> 백령도가 아니라 연평도라고 하네요
+
+좋아요 1,968 · 재게시 290 · 답글 95 · 조회 111,290 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2022279635996905490
+
+### 2026-02-13 20:13 — 국방·안보 · 직접 작성
+
+> 오늘 백령도 해병대 연평부대를 방문해 해병대 준4군체제 승격을 축하하고 전방에서 고생하는 해병들 위문하러 가기로 했는데 기상악화로 헬기가 뜰수 없어 못갔습니다.
+> 
+> 저는 못가도 치킨은 간 모양입니다. 
+> 
+> 자랑스런 대한민국 장병 여러분 건강하시고 새해 복 많이 받으시기 바랍니다.
+
+좋아요 6,554 · 재게시 1,363 · 답글 331 · 조회 209,547 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2022267805773799880
+
+### 2026-02-13 15:36 — 정치·국정 · 리트윗 · 분류 검토 대기
+
+> RT @[비공개]: @Jaemyung_Lee 부총리님 중기부장관님 하GPT 산자부장관님, 기업에서 오신분들이 확실히 열심히하고 과함이 없고 성과를 내내요. 다들 전문분야 확실하고 바닥에서부터 올라간 분들이라 더더욱 💙 대통령님 인사 정말…
+
+좋아요 0 · 재게시 183 · 답글 0 · 조회 1 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2022198288871837735
+
+### 2026-02-13 15:36 — 경제·민생 · 리트윗 · 분류 검토 대기
+
+> RT @[비공개]: 설 명절을 앞두고 남대문시장을 찾아 차례상 물가를 살피고 상인·시민들의 목소리를 들었습니다. 청년자문단과 갈치골목에서 저녁을 함께하며 청년 세대의 고민을 나눴습니다. 모두 따뜻하고 평안한 설 명절 보내시기 바랍니…
+
+좋아요 0 · 재게시 436 · 답글 0 · 조회 2 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2022198161008431111
+
+### 2026-02-13 15:30 — 일상·인사 · 인용
+
+> 주권자 국민의 대리인이 주권자와 당연히 직접 소통해야지요. 
+> 감사합니다. 새해 복 많이받으세요
+
+좋아요 7,455 · 재게시 1,750 · 답글 621 · 조회 534,668 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2022196682931548589
+
+### 2026-02-13 15:11 — 경제·민생 · 직접 작성
+
+> <파업 손배소 취하, 하청업체 근로자 동등임금 지급에 이은 연관 기업간 상생협력까지..한화그룹의 선진적 산업문화 실천은 본받을만 합니다. 
+> 
+> 지속적 성장 발전은 활력넘치는 상생적 산업생태계에서만 가능합니다. 
+> 
+> 대한민국 경제 산업의 지속적 호혜적 발전을 가능하게 하는 씨앗을 보는 것 같아 즐겁습니다. 
+> 감사합니다.>
+> 
+> 한화에어로 상생협력 선포…“성과 공유제 도입”
+
+좋아요 3,140 · 재게시 856 · 답글 155 · 조회 140,187 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2022191891790602609
+
+### 2026-02-13 15:05 — 일상·인사 · 직접 작성
+
+> <경제 산업 기업부분의 상생 생태계 조성을 위한 삼성과 LG 그룹의 노력에 감사드립니다. 풀밭이 건강하고 토끼가 살아야 호랑이도 살 수 있습니다. 이 어려운 대내외적 위기를 함께 손잡고 기회로 바꿔 나가기를 소망합니다. 새해 복 많이 받으십시오.>
+> 
+> 삼성-LG, 협력사에 납품대금 조기 지급
+
+좋아요 3,713 · 재게시 983 · 답글 170 · 조회 157,472 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2022190333195596130
+
+### 2026-02-13 14:08 — 정치·국정 · 인용 · 분류 검토 대기
+
+> 배경훈 과기부총리님, 잘 하셨습니다. 감사합니다.
+
+좋아요 3,745 · 재게시 757 · 답글 144 · 조회 115,583 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2022176114891010544
+
+### 2026-02-13 14:08 — 사회 · 리트윗
+
+> RT @msitminister: 설을 앞두고 가장 따뜻했던 순간을 영상으로 남겼습니다.
+> 
+> 세종 전의요셉의집을 찾았던 날, 어르신들의 웃음과 노래, 그리고 꽃 한 송이의 마음을 다시 떠올립니다.
+> 
+> 전통시장에서 장을 보고, 현장에서 직접 뵌 분들의 표정…
+
+좋아요 0 · 재게시 344 · 답글 0 · 조회 3 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2022175950423928833
+
+### 2026-02-13 09:05 — 경제·민생 · 직접 작성
+
+> <다주택자들이 이 좋은 양도세 감면 기회를 버리고 버텨서 성공한다는 건 망국적 부동산투기를 잡으려는 이 정부의 부동산 정책 실패를 의미합니다. 
+> 
+> 만년 저평가 주식시장의 정상화, 경제와 정의로운 사회질서 회복 등 모든 것들이 조금씩 정상을 되찾아가는 이 나라가 오로지 부동산에서만 잃어버린 30년을 향해 역주행을 계속하도록 방치할 수는 없습니다.
+> 
+> 정책결정권자의 의지가 있고 국민적 지지가 확보된다면, 규제와 세제, 공급과 수요조절 권한을 통해 문제해결은 물론 바람직한 상태로의 유도가 가능합니다.
+> 
+> 새로운 정책에 의한 대도약도 중요하지만, 대한민국이 살기위한 제1 우선 과제는 모든 비정상을 정상화하는 것입니다. 잃어버린 30년을 향해 폭주하는 부동산을 방치하면 나라가 어찌될 지 우리는 알고 있습니다.
+> 
+> 시장을 이기는 정부도 없지만 정부를 이기는 시장도 없습니다. 모순적인 이 말이 의미를 갖게 하는 균형추는 상황의 정상성과 정부정책의 정당성입니다.
+> 
+> 아직도 판단이 안서시나요? 
+> 그러시면 이 질문에 답을 해 보십시오
+> 
+> 지금 시장이 정상인가요? 
+> 지금 정부가 부당한가요?>
+> 
+> '집 팔라' 신호에 강남 매물 얼마나 나올까...서울 임대사업자 아파트 15% 강남 3구에
+
+좋아요 5,460 · 재게시 1,559 · 답글 715 · 조회 232,153 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2022099714167173282
+
+### 2026-02-13 00:02 — 경제·민생 · 직접 작성
+
+> <다주택자들의 기존 대출은 만기가 되면 어떻게 처리해야 할까요?>
+> 
+> 힘들고 어렵지만, 모든 행정과 마찬가지로 금융 역시 정의롭고 공평해야 합니다. 
+> 
+> 집값안정이라는 국가적 과제를 해결하기위해서라도 자가 주거용 아닌 투자ㆍ투기용의 다주택 취득에 금융혜택까지 주는 건 문제가 있습니다. 그래서 현재 다주택자 대출규제는 매우 엄격합니다.
+> 
+> 양도세까지 깎아주며 수년간 기회를 주었는데도 다주택을 해소하지 않고 버틴 다주택자들에게 대출만기가 되었는데도 그들에게만 대출연장 혜택을 추가로 주는 것이 공정할까요? 
+> 
+> 규칙을 지키고 사회질서를 존중한 사람들이 부당한 이익을 노리고 규칙을 어긴 사람들보다 불이익을 입어서는 안됩니다.
+> 
+> 아직도 버티면 해결되겠지 생각하시는 분들께 말씀드립니다. 이제 대한민국은 상식과 질서가 회복되는 정상사회를 향해 나아가고 있습니다. 정상사회의 핵심은 규칙을 지키는 선량한 사람이 손해보지 않고, 규칙을 어기는 사람들이 이익 볼 수 없게 하는 것입니다. 
+> 민주사회에서는 공정함이 성장 발전의 원동력입니다.
+
+좋아요 6,899 · 재게시 1,909 · 답글 847 · 조회 233,188 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2021963210723930147
+
+### 2026-02-11 18:19 — 일상·인사 · 직접 작성
+
+> 캐나다 서부 브리티시컬럼비아주 소재 텀블러 리지에서 비극적인 총격 사건이 발생했다는 소식을 접했습니다. 
+> 
+> 이번 사고로 희생된 분들의 명복을 빌며, 부상자 여러분의 쾌유를 기원합니다. 
+> 
+> 사랑하는 가족을 잃은 유가족 여러분과 큰 슬픔에 잠겨 있을 캐나다 국민들께 대한민국을 대표해 깊은 애도와 위로를 전합니다.
+> 
+> 마크 카니 총리님의 지도력 아래 캐나다 국민들이 이 슬픔을 함께 극복하고, 조속히 평온한 일상을 회복하시길 기도합니다. 
+> 
+> I am deeply saddened to learn of the tragic shooting incident that occurred in Tumbler Ridge, B.C., in western Canada.
+> 
+> I extend my deepest condolences to those who lost their lives in this incident, and wish a swift recovery to all those who were injured.
+> 
+> On behalf of the Republic of Korea, I convey my heartfelt sympathies to the bereaved families and to the people of Canada who are mourning this profound loss.
+> 
+> I sincerely hope that the people of Canada, united as one under the leadership of Prime Minister @MarkJCarney, will overcome this grief together and soon return to their peaceful daily lives.
+
+좋아요 4,314 · 재게시 912 · 답글 354 · 조회 140,541 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2021514512353157284
+
+### 2026-02-10 21:20 — 국방·안보 · 직접 작성
+
+> 지난해 7월 이후 7개월 만에 마크 루터 NATO 사무총장과 다시 전화 통화를 나눌 수 있어 기쁘게 생각합니다.
+> 
+> 우리는 대한민국과 NATO가 글로벌 안보 도전에 보다 효과적으로 대응하기 위해 긴밀히 협력해야 한다는 데 공감하고, 앞으로도 지속적인 소통을 이어가기로 했습니다.
+> 
+> 아울러 루터 사무총장은 한국의 우수한 방위산업 역량을 높이 평가하며, 한-NATO 간 방산 협력 강화를 지속적으로 지지하겠다고 전했습니다.
+> 
+> 향후 방산을 비롯해 우주, 정보 공유 등 다양한 분야에서 실질적인 협력을 확대해 가기로 뜻을 모은 만큼, 한-NATO 관계가 더욱 공고해지길 기대합니다.
+> ​
+> @[비공개] ​It was a pleasure to speak with NATO Secretary General Mark Rutte again, following our previous conversation seven months ago.
+> ​
+> We shared the view that the Republic of Korea and NATO should cooperate closely to respond more effectively to global security challenges and agreed to maintain continuous communication going forward.
+> ​
+> Secretary General Rutte spoke highly of Korea's excellent defense industry capabilities and expressed his continued support for strengthening defense cooperation between Korea and NATO.
+> ​
+> I look forward to our partnership deepening in line with our commitment to expand substantive cooperation across various fields, including the defense industry, space, and information sharing.
+
+좋아요 4,300 · 재게시 981 · 답글 361 · 조회 89,301 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2021197583574761905
+
+### 2026-02-10 16:14 — 재난·안전 · 직접 작성
+
+> 올겨울 1월 역대 최저 수준의 강수량으로 전국 곳곳이 심각하게 메말라가고 있습니다. 현재 전국 절반이 넘는 지역에 건조특보가 발령됐고, 경주를 비롯한 경상도의 여섯 곳은 사상 최장 건조특보 기록에 근접하고 있습니다.
+> 
+> 작년 여름 극심한 가뭄으로 큰 어려움을 겪었던 강릉이 떠오릅니다. 당시 많은 이들의 연대로 위기를 극복했지만, 재난이 닥친 뒤에야 대응하는 방식으로는 갈수록 심화하는 기후변화에 맞설 수 없습니다. 산불 위험이 본격적으로 증가하는 계절을 앞두고 특단의 대책 마련이 필요합니다.
+> 
+> '예방이 최선의 해결책'이라는 원칙 아래, 위험의 전조 단계부터 선제적이고 적극적으로 대응하겠습니다. 가뭄과 산불로부터 국민의 생명과 일상을 지키기 위해 늘 한발 앞서 준비해 나가겠습니다.
+
+좋아요 5,069 · 재게시 1,348 · 답글 334 · 조회 184,365 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2021120627160252851
+
+### 2026-02-10 11:40 — 국방·안보 · 직접 작성 · 분류 검토 대기
+
+> 혹한의 기상 여건 속에서 훈련 임무를 수행하던 중 세상을 떠난 故 정상근 준위와 장희성 준위의 숭고한 희생에 머리숙여 경의를 표합니다. 
+> 
+> 두 분께서는 마지막까지 조종간을 놓지 않으며 국민의 생명과 안전을 지켜냈습니다. 사고가 발생한 지점은 주택가에서 불과 60미터 남짓 떨어진 곳이었습니다. 조금만 방향이 틀어졌더라면 더 큰 인명피해로 이어질 수 있었던 상황이었습니다. 
+> 
+> 참된 군인의 헌신과 희생 위에 오늘날 우리의 평온한 일상이 있음을 늘 기억하겠습니다. 
+> 
+> 자랑스러운 아들이자 남편, 그리고 아버지를 떠나보내야 하는 유가족 여러분께 깊은 애도와 위로를 전합니다. 감히 그 슬픔을 헤아릴 수는 없지만, 합당한 예우와 지원에 소홀함이 없도록 하겠습니다.
+> 
+> 삼가 고인의 명복을 빕니다.
+
+좋아요 6,621 · 재게시 1,507 · 답글 382 · 조회 285,532 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2021051571354923371
+
+### 2026-02-10 00:23 — 경제·민생 · 직접 작성
+
+> <기사 본문에 "(매입임대 주택중)아파트는 16%(10만7,732호)에 그치고, 이 중 4만2,500호 정도가 서울에 있다"고 쓰여있네요. 
+> 
+> 서울시내 아파트 42,500세대가 적은 물량은 결코 아닙니다. 
+> 
+> "그치고" "정도가"라는 기사 표현속에 이미 일정한 의도가 드러나고 있지만, 
+> 다주택인 아파트 42,500호가 양도차익 누리며  무기한으로 버티지 않고, 다주택 양도세 중과를 피해 매물로 나오면 "집값 안정 효과가 미지수"일 것 같지는 않습니다.>
+> 
+> "우린 원룸 공급자인데 왜 때리나"… 대통령 발언에 임대사업자들 술렁
+
+좋아요 5,600 · 재게시 1,719 · 답글 714 · 조회 313,391 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2020881185942249615
+
+### 2026-02-09 15:29 — 경제·민생 · 인용
+
+> 서울 시내 등록 임대주택 약 30만호(아파트 약 5만호)는 취득세, 재산세, 종부세 감면과 영구적 다주택 양도세 중과 제외라는 특혜를 받습니다.
+> 
+> 의무임대기간이 지나면 재산세 종부세 감면혜택은 사라지지만 '다주택 양도세 중과 제외' 특혜는 계속되게 되어 있습니다. 
+> 
+> 같은 다주택인데 한때 등록임대였다는 이유로 영구적으로 특혜를 줄 필요가 있냐는 의견도 있습니다. 의무임대에 대한 보상은 임대기간 동안의 취득ㆍ보유ㆍ재산세 감면에 임대 종료후 일정기간의 양도세 중과 제외로 충분하지 않냐는 것입니다. 
+> 
+> 일정기간 처분기회는 주어야겠지만 임대기간 종료후 등록임대주택에 대한 각종 세제도 일반 임대주택과 동일해야 공평하겠지요? 
+> 
+> 특히 등록임대주택에 대한 양도세중과 제외 특혜는 즉시폐기시 부담이 너무 크므로 일정기간(예를 들어 1년)이 지난 후 없애거나 점차적으로 폐지(1년~2년은 특혜 절반 폐지, 2년 지나면 특혜 전부 폐지 등)하는 방안도 있겠습니다. 대상을 아파트로만 한정하자는 의견도 있습니다.
+> 
+> 자본주의 사회에서 집을 여러채 가지든, 금값의 초고가 주택에 살든 기본적으로 자유지만, 그로인해 파생된 사회문제에 대해 일정부분 책임은 지워야겠지요.
+> 
+> 의무임대기간과 일정한 양도세 중과 제외 기간이 지난 등록임대 다주택이 일반 다주택처럼 시장에 나오면 수십만호 공급 효과가 있습니다.
+> 
+> 이제 대체투자수단이 없는 것도 아니니 생각을 바꿀 때도 되었습니다. 국민여러분의 의견은 어떠신지요?
+
+좋아요 6,543 · 재게시 1,938 · 답글 902 · 조회 312,946 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2020746912933302543
+
+### 2026-02-09 13:52 — 외교·통상 · 직접 작성
+
+> 다카이치 총리님의 중의원 선거 승리를 진심으로 축하드립니다.
+> 
+> 총리님의 리더십 아래 일본이 더욱 발전하길 기원합니다. 
+> 
+> 지난 1월 나라에서 열린 한-일 정상회담을 통해 양국은 새로운 60년을 향한 힘찬 발걸음을 함께 내디뎠습니다. 앞으로도 우리의 신뢰와 유대를 바탕으로 한일 양국이 보다 넓고 깊은 협력을 이어가길 바랍니다.
+> 
+> 머지않은 시일 내 다음 셔틀외교를 통해 총리님을 한국에서 맞이하길 기대합니다.
+> 
+> @takaichi_sanae 
+> 高市総理、
+> この度、衆議院選挙における勝利を、心よりお祝い申し上げます。 総理のリーダーシップの下、日本が一層の発展を遂げますことをお祈りいたします。
+> 
+> 本年1月、奈良で開催された韓日首脳会談を皮切りに、両国関係の新たな60年に向けた力強い一歩を共に踏み出しました。今後も、私と総理の絆を基盤に信頼を積み重ね、より広く、より深い協力関係を築き上げていくことを期待しております。
+> 
+> 近いうちに、次回のシャトル外交を通じ、総理を韓国にお迎えできることを心より楽しみにしております。
+
+좋아요 25,708 · 재게시 2,485 · 답글 534 · 조회 3,750,185 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2020722565640266012
+
+### 2026-02-08 17:59 — 외교·통상 · 직접 작성
+
+> <임대용 주택을 건축했다면 몰라도, 임대사업자 등록만 하면 집을 얼마든지 사모을 수 있다는 것도 이상합니다. 한 사람이 수백채씩 집을 사모으도록 허용하면 수만채 집을 지어 공급한들 부족할 수밖에 없지 않을까요? 건설임대 아닌 매입임대를 계속 허용할 지에 대한 의견을 묻습니다.>
+> 
+> 다주택자 압박 통했나… 서울 매물 나흘 만에 1000건 늘어
+
+좋아요 8,237 · 재게시 3,035 · 답글 1,365 · 조회 1,015,027 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2020422196989137197
+
+### 2026-02-07 11:05 — 정치·국정 · 직접 작성
+
+> <사익도모와 정부정책 공격을 위해 가짜뉴스를 생산해 유포하는 행위는 지탄받아 마땅합니다. 더구나 법률에 의한 공식단체인 대한상공회의소가 이런 짓을 공개적으로 벌인다니 믿어지지가 않습니다. 
+> 
+> 엄중하게 책임을 묻고 재발방지 장치를 만들어야겠습니다. 정책을 만드는 주권자 국민의 판단을 흐리려는 고의적 가짜뉴스는 민주주의의 적입니다.>
+> 
+> 존재하지도 않는 '백만장자 탈한국'…철지난 '떡밥' 덥석 문 보수언론들
+
+좋아요 7,278 · 재게시 2,396 · 답글 802 · 조회 645,303 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2019955564114280505
+
+### 2026-02-06 11:05 — 사회 · 직접 작성
+
+> <한국인 건들면 패가망신.. 체포된 캄보디아 스캠범죄단지 외국인 범죄자 2천명중 한국인은 0명. 요즘 보이스피싱이 조금 뜸해진 것 같지 않습니까? 경찰코리아전담반과 국정원의 활약 덕분입니다. 경찰과 국정원을 칭찬합니다.>
+> 
+> 캄보디아, 하루 만에 범죄 가담 외국인 2천명 검거 '역대 최대'
+
+좋아요 7,317 · 재게시 2,043 · 답글 559 · 조회 311,134 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2019593227058520409
+
+### 2026-02-06 09:53 — 경제·민생 · 직접 작성
+
+> <주가조작 패가망신>
+> 
+> 주가조작 대응단 한국경제 압수수색…기자 선행매매 정조준 https://v.daum.net/v/20260205213744452
+
+좋아요 6,817 · 재게시 2,162 · 답글 634 · 조회 799,612 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2019575019765162485
+
+### 2026-02-05 20:29 — 정치·국정 · 직접 작성
+
+> <2월 5일 재명로그>
+> 
+> https://youtube.com/shorts/z4Zp6g508TE
+> 
+> #이재명 #대통령 #청와대 #vlog
+
+좋아요 5,378 · 재게시 1,088 · 답글 495 · 조회 140,372 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2019372868203868408
+
+### 2026-02-05 17:09 — 과학기술·AI · 직접 작성 · 분류 검토 대기
+
+> 미래 대한민국을 이끌 미래 과학자들을 만났습니다. 과학기술 강국을 향한 아이디어와 지혜를 나누고, 우리의 포부와 의지를 견고히 다질 수 있었던 뜻깊은 시간이었습니다.
+> 
+> 인류 역사를 돌아보면 과학기술을 존중했던 나라는 늘 번영을 이뤘고, 이를 소홀히 여긴 국가는 쇠퇴했습니다. 대한민국이 단기간에 선진국으로 성장할 수 있었던 것도 교육과 과학기술에 투자하며 인재를 귀하게 여겼기 때문입니다. 
+> 
+> 특히 국가 간 경쟁이 치열한 시대, 과학기술력이야말로 국력의 제1지표입니다. 과학자들의 꿈과 희망에 대한민국의 명운이 걸려있다는 책임감으로, 정부가 여러분의 미래를 아낌없이 지원하겠습니다. 국가장학금 제도에 더해 국가과학자제도까지 도입해 평생 연구에 종사하면서도 명예롭게 살 수 있는 길을 열겠습니다.
+> 
+> 그러니 정부를 믿고 거침없이 도전해주시기 바랍니다. 실패가 성공의 자산이 되어 마음껏 혁신의 길에 매진할 수 있도록 정부가 미래 과학자들의 든든한 후원자가 되겠습니다.
+
+좋아요 4,042 · 재게시 893 · 답글 216 · 조회 79,874 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2019322554348106008
+
+### 2026-02-05 01:03 — 사회 · 직접 작성
+
+> <똘똘한 한 채로 갈아타기요? 분명히 말씀 드리는데, 주거용이 아니면 그것도 안하는 것이 이익일 겁니다.>
+> 
+> “집도 안 보고 계약” 다주택 압박했더니 1주택자 ‘갈아타기’ 꿈틀https://v.daum.net/v/20260204112526310
+
+좋아요 6,164 · 재게시 1,772 · 답글 761 · 조회 502,614 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2019079259587830233
+
+### 2026-02-05 00:46 — 정치·국정 · 직접 작성
+
+> <법리상 되지도 않는 사건으로 나를 엮어 보겠다고 대장동 녹취록을 "위례신도시 얘기"에서 "윗어르신 얘기"로 변조까지 해서 증거로 내더니..>
+> 
+> 검찰, '이 대통령 겨냥' 위례 사건 항소 포기... 그렇게 할 수밖에 없던 이유 https://v.daum.net/v/20260204203723470
+
+좋아요 5,878 · 재게시 1,822 · 답글 445 · 조회 233,489 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2019075194363453563
+
+### 2026-02-04 18:39 — 사회 · 직접 작성
+
+> <배고프면 서럽습니다. 많이
+> 알려 주세요>
+> 
+> 먹거리-생필품 ‘그냥드림’ 두달간 3만6000명 이용 https://v.daum.net/v/20260204043510231
+
+좋아요 7,532 · 재게시 3,398 · 답글 466 · 조회 456,356 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2018982621720805463
+
+### 2026-02-04 07:52 — 경제·민생 · 직접 작성
+
+> <이미 4년전부터 매년 종료 예정됐던 것인데 대비안한 다주택자 책임 아닌가요? 
+> 
+> 부동산 투자 투기하며 또 연장하겠지라는 부당한 기대를 가진 다주택자보다 집값폭등에 고통받는 국민이 더 배려받아야 합니다.>
+> 
+> [사설]세입자 낀 다주택자, 어떻게 '탈출'하란 말인가 | 다음 - 한국일보
+
+좋아요 8,529 · 재게시 2,934 · 답글 966 · 조회 691,802 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2018819916707897501
+
+### 2026-02-03 22:10 — 사회 · 직접 작성
+
+> <"효과없다, 매물 안나온다" 이런 엉터리 보도도 많던데, 그런 허위보도하는 이유가 뭘까요?>
+> 
+> "버틴다더니 거짓말이었네"...강남3구 매물 수천개 쏟아졌다 | 다음 - 파이낸셜뉴스 https://v.daum.net/v/20260203060218409
+
+좋아요 6,672 · 재게시 2,150 · 답글 615 · 조회 355,069 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2018673565243982037
+
+### 2026-02-03 13:44 — 경제·민생 · 리트윗
+
+> RT @[비공개]: 최경영
+> 
+> 다주택자 양도세 중과 유예 기간은 4년이었다. 
+> 시작일이 2022년 5월 10일이었고 종료일은 2026년 5월 9일이었다. 4년이다. 4년을 줬다. 4년동안 집값이 많이 올랐다. 
+> 
+> 1.그런데 또 "갑자기"란다.…
+
+좋아요 0 · 재게시 803 · 답글 0 · 조회 1 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2018546189092913258
+
+### 2026-02-03 09:07 — 경제·민생 · 직접 작성
+
+> <버티는 것보다 파는 것이, 일찍 파는 것이 늦게 파는 것보다 유리할 것입니다.>
+> 
+> 양도세 중과 부담.. 강남 매물 늘었다 - 파이낸셜뉴스 https://v.daum.net/v/20260202181017591
+
+좋아요 6,050 · 재게시 1,811 · 답글 687 · 조회 337,093 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2018476415457620240
+
+### 2026-02-03 08:08 — 경제·민생 · 직접 작성
+
+> <부동산 투기로 불로소득 얻겠다는 수십만 다주택자의 눈물이 안타까우신 분들께 묻습니다. 
+> 
+> 이들로 인한 높은 주거비용 때문에 결혼 출산을 포기하는 수백만 청년들의 피눈물은 안보이십니까? 
+> 
+> 돈이 마귀라더니, 설마 마귀에게 최소한의 양심마저 빼앗긴 건 아니겠지요? 
+> 
+> 대한민국은 위대한 대한국민들의 나라입니다. 상식적이고 번영하는 나라를 위해 망국적 부동산투기는 '무슨 수를 써서라도'  반드시 잡습니다. 
+> 
+> 이전에도 실패했으니 이번에도 실패할 것으로 기대하고 선동하시는 분들께 알려드립니다.
+> 
+> 먼저, 이전에는 부동산이 유일한 투자수단이었지만, 이제는 대체투자수단이 생겼습니다. 객관적 상황이 과거와 완전히 다릅니다.
+> 
+> 다음으로 국민이 변했습니다. 국민의식조사에 따르면 과거에는 투자수단으로 부동산이 압도적이었지만 이제 2위로 내려앉았습니다. 
+> 
+> 마지막으로 국민이 선출한 권력이 달라졌습니다.
+> 공약이행률 평균 95%. 
+> 저는 당선이 절박한 후보시절에 한 약속조차도 반드시 지키려고 노력했습니다.
+> 이제 대한민국 최종 권한을 가진 대통령으로서 빈말을 할 이유가 없습니다. 
+> 
+> 엄포라고 생각하시는 분들, 다주택자 눈물 안타까워(?) 하며 부동산 투기 옹호하시는 여러분들, 맑은 정신으로 냉정하게 변한 현실을 직시하기 바랍니다. 
+> 
+> 당장의 유불리를 따지지 않으면 사용할 수 있는 정책수단은 얼마든지 있습니다.
+> 
+> 그 엄중한 내란조차 극복하고 새롭게 출발하는 위대한 대한민국인데, 이 명백한 부조리 부동산 투기 하나 못잡겠습니까? 
+> 
+> 협박 엄포가 아니라, 모두를 위해 필요하고 유용한 일이어서 권고드리는 것입니다. 이번이 마지막 탈출 기회입니다.
+> 
+> 이재명은 합니다!
+> 대한민국은 합니다!>
+> 
+> '다주택자 눈물' 꺼낸 보수·경제언론... 정부 '부동산 정상화'가 문제?
+
+좋아요 12,888 · 재게시 5,494 · 답글 1,382 · 조회 1,477,409 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2018461611544158667
+
+### 2026-02-03 07:05 — 정치·국정 · 직접 작성
+
+> <정부는 가장 모범적인 사용자가 되어야 합니다.>
+> 
+> 강훈식 비서실장, '퇴직금 꼼수'에 철퇴‥공공기관 전수조사 지시 https://v.daum.net/v/20260202164319690
+
+좋아요 4,458 · 재게시 1,290 · 답글 234 · 조회 239,920 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2018445761537818930
+
+### 2026-02-02 18:01 — 문화·체육 · 직접 작성
+
+> ‘케이팝 데몬 헌터스’의 주제곡 〈Golden〉이 그래미 어워즈 시상식에서 비주얼 미디어 부문 최우수 작곡상을 받으며 K-팝의 새로운 역사를 썼습니다.
+> 
+> K-팝 작곡가 또는 프로듀서가 그래미 어워즈를 수상한 것은 이번이 처음입니다. 모든 음악인이 꿈꾸는 세계 최고 권위의 무대에서 이뤄낸 값진 성과에 뜨거운 축하를 전합니다.
+> 
+> 비록 수상에는 이르지 못했지만, 후보로 이름을 올리며 세계적 경쟁력을 갖추고 있음을 분명히 보여준 블랙핑크 로제 님과 캣츠아이 정윤채 님께도 응원의 박수를 보냅니다. 
+> 
+> 우리 아티스트들이 더 넓은 무대에서 역량을 펼칠 수 있도록 앞으로도 든든히 뒷받침하겠습니다. 무엇보다 무대 뒤에서 땀 흘리는 제작진과 관계자분들이 계셔 오늘의 성과가 가능했습니다. 여러분 모두가 대한민국의 자랑입니다.
+
+좋아요 9,628 · 재게시 1,734 · 답글 346 · 조회 1,726,183 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2018248427344421031
+
+### 2026-02-02 14:43 — 정치·국정 · 직접 작성
+
+> <검찰이 큰 성과를 냈습니다. 국무회의에 이를 공유하고, 법정형 상한 개정 등 제도 보완방안, 담합업체들의 부당이익 환수방안, 부당하게 올린 물가 원상복구 방안 등 필요한 조치를 지시했습니다. 잘한 건 잘했다고 칭찬해 주시기 바랍니다.>
+> 
+> 李 '강경대응' 지시에…檢 '10조원대' 밀가루·설탕·전력 담합 줄기소
+
+좋아요 6,597 · 재게시 1,936 · 답글 614 · 조회 548,691 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2018198523909669020
+
+### 2026-02-02 14:41 — 일상·인사 · 직접 작성 · 분류 검토 대기
+
+> 이번 희망 나눔캠페인은 그 어느 해보다 뜨거운 관심과 참여 속에 이루어졌습니다. 캠페인 실시 이래 역대 최고로 많은 성금이 모였고, 42일이라는 최단기간에 목표액을 달성하며 뜻깊은 기록을 남겼습니다.
+> 
+> 어려운 경제 여건에도 불구하고 성금 모금에 함께해 주시고 사랑의 열매 배지를 달며 연대와 나눔의 가치를 보여주신 국민 여러분께 깊은 감사를 전합니다.
+> 
+> 우리의 작은 나눔이 누군가에게는 다시 일어설 수 있는 용기가 되고, 또 다른 누군가에게는 삶을 이어갈 희망이 되리라 믿습니다.
+> 
+> 사랑의온도탑 113.9도로 종료…캠페인 사상 첫 5000억원 돌파
+
+좋아요 3,697 · 재게시 882 · 답글 127 · 조회 122,352 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2018198147697439064
+
+### 2026-02-02 08:25 — 경제·민생 · 직접 작성
+
+> <망국적 부동산투기 옹호도, 시대착오적 종북몰이도 이제 그만 하시면 어떨까요.>
+> 
+> “정부가 정해준 ‘부동산 배급’에 만족하라는 거냐” …李대통령 정조준한 국힘 | 다음 - 문화일보 https://v.daum.net/v/20260201223045584
+
+좋아요 5,520 · 재게시 1,731 · 답글 571 · 조회 314,237 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2018103404636352831
+
+### 2026-02-02 08:21 — 경제·민생 · 직접 작성
+
+> 개포 4억 낮춘 급매 나와…“좀 더 지켜보자” 거래는 아직  https://v.daum.net/v/20260201181825717
+
+좋아요 4,725 · 재게시 1,165 · 답글 387 · 조회 403,459 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2018102458552381735
+
+### 2026-02-01 08:24 — 경제·민생 · 직접 작성
+
+> <설탕부담금 논란, 어려운 문제일수록 토론해야 합니다.>
+> 
+> 설탕부담금이나 부동산 세제 개편, 양극화 완화를 위한 제도개혁처럼 이해관계가 복잡하게 얽힌 어려운 문제일수록 곡해와 오해가 많습니다. 
+> 
+> 그러기 때문에 정확한 논리와 사실관계, 실제 현실 사례에 기반한 허심탄회한 토론과 공론화가 필수입니다. 
+> 
+> 공론의 장에서 반대의견을 당당하게 제대로 표현할 수 있도록 보장하는 것도 반드시 필요합니다. 
+> 
+> 그런 점에서 중요한 사실을 소개해 준 이런 기사는 의미가 큽니다. 굳이 지적하자면 용도제한이 없는 세금과 목적과 용도가 제한된 부담금은 완전히 다른데 세금과 부담금을 혼용하고 있다는 정도입니다. 
+> 
+> 성인병을 유발하는 설탕남용을 줄이기 위해 몇몇 과용사례에 건강부담금을 부과하고, 걷혀진 부담금을 설탕과용에 의한 질병의 예방과 치료에 씀으로서 일반 국민들의 건강보험료 부담을 줄이자는  설탕부담금 제도. 
+> 
+> 이 제도의 도입여부에 대해 좀 더 깊이 있고 냉철한 논쟁을 기대합니다.
+> 
+> 정치적 이득 얻어보겠다고 나라의  미래와 정의로운 건보료 분담을 외면한 채, 상대를 증세프레임에 가두려고 하는 무조건 반대나 억지스런 조작왜곡 주장은 사양합니다.
+> 
+> 달콤한 중독과의 전쟁... WHO, '설탕세' 공식 권고
+
+좋아요 4,434 · 재게시 1,204 · 답글 484 · 조회 251,080 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2017740682241445894
+
+### 2026-02-01 07:42 — 사회 · 직접 작성
+
+> <얼굴은 사람인데 마음은 짐승-인면수심>
+> 전쟁범죄 성노예 피해자를 매춘부라니, 대한국민이라면 아니 사람이라면 이럴 수 없는 것입니다. 
+> 
+> 억지로 전쟁터에 끌려가 죽임의 공포속에서 매일 수십차례 성폭행 당하고 급기야 학살당하기까지 한 그들의 고통에 사람의 탈을 쓰고 어찌 그리 잔인할 수 있습니까? 
+> 
+> 그 억울한 전쟁범죄 피해자들을 동정하지는 못할망정, 수년간 전국을 쏘다니며 매춘부라 모욕하는 그 열성과 비용, 시간은 어디서 난 것일까요?
+> 
+> 표현의 자유라.. 
+> 자유도 한계가 있습니다. 내 자유만큼 타인의 자유도 있고 함께 사는 세상 공동체에는 지켜야할 질서와 도덕 법률도 있습니다.
+> 
+> 나의 권리에는 타인의 권리를 존중할 의무도 같은 무게로 붙어 있습니다. 
+> 
+> 사람 세상에는 사람이 살아야 합니다. 사람 사는 세상을 위해서 사람을 해치는 짐승은 사람으로 만들든지 격리해야 합니다. 
+> 
+> 열심히 일하는 경찰에게 격려와 응원 보냅니다.
+> 
+> 경찰, '위안부 모욕' 단체에 "표현의 자유 명백히 일탈"
+
+좋아요 9,847 · 재게시 3,326 · 답글 621 · 조회 750,235 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2017730328220340562
+
+### 2026-02-01 07:03 — 경제·민생 · 직접 작성
+
+> <부동산투기 때문에 나라 망하는 걸 보고도 왜 투기편을 들까요?>
+> 
+> 바른 정보 바른 의견 즉 정론직필은 언론의 사명이자 의무입니다. 그래서 입법 사법 행정에 이은 제 4부라며 보호까지 해 주지 않습니까? 그런데 언론이라면서 대체 왜 이렇게까지 망국적 투기를 편드는 것입니까? 
+> 
+> 돈 벌겠다고 살지도 않는 집을 몇채씩 수십 수백채씩 사모으는 바람에 집값과 임대료가 천정부지로 올라 젊은이들은 결혼을 포기하고, 출산이 줄어 나라가 사라질 지경에 이르렀는데 그렇게 버는 돈에 세금 좀 부과한 것이 그렇게 부당한 것일까요? 
+> 
+> 더구나 세금중과 피하면서 수십 수백% 오른 수익 충분히 누릴 수 있도록 시행령 고쳐가며 1년씩 세금중과 면제해준 것이 야금야금 어언 4년이나 됐습니다. 
+> 
+> 날벼락이요? 문제를 삼으려면 부동산투기 자체, 4년간이나 주어진 기회를 놓치고 이제와서 또 감세연장을 바라는 그 부당함을 문제삼아야지, 이미 4년전에 시행하기로 되어 있었고 그보다도 훨씬 이전에 만들어진 중과법률을 이제와서 날벼락이라며 비난하는 것은 대체 무슨 연유일까요? 
+> 
+> 언론인 본인들이 투기적 다주택자도 아닐터이고, '4년간 중과유예  이번에는 원칙대로 종료'라는 팩트를 모를 리도 없습니다. 
+> 
+> 다수의 다주택자들을 편들어 정부를 곤경에 빠트려 보겠다는 것은 '상대를 공격할 수 있다면 나라가 망해도 좋다'고 하는 저급한 사익추구집단이나 할 생각 아니겠습니까?
+> 
+> 누구나 알듯이 나라가 위기입니다. 위기요인은 대내외적으로 다양하지만 우리 스스로 만들었고 고칠 수 있는 위기는 이제라고 고쳐야 하지 않겠습니까?
+> 
+> 제발 바라건데 정론직필은 못하더라도 망국적 투기두둔이나 정부 '억까' 만큼은 자중해 주시면 좋겠습니다. 제도속에서 하는 돈벌이를 비난할 건 아니지만 몇몇의 불로소득 돈벌이를 무제한 보호하려고 나라를 망치게 방치할 수는 없습니다. 
+> 
+> 또 제도란 필요하면 바꿀 수도 있는 것입니다. 강제매각도 아니고 공익을 해치는, 그리 바람직하지도 않는 수익에 세금을 중과하되 회피기회를 4년이나 주었으면 충분하다고 보여집니다.
+> 
+> 더구나 이 정부가 이제 와서 갑자기 만든 게 아니라 오래전에 만들어 시행유예만 해오던 것으로 2026. 5. 9. 종료는 작년부터 예고되었던 것입니다. 
+> 
+> 그러니 날벼락 운운하며 정부를 부당하게 이기려 하지 마시고, 그나마 우리 사회가 준 중과세 감면 기회를 잘 활용하시기 바랍니다. 아직 100일이나 남았습니다.
+> 
+> '10억 벌면 8억 토해내라' 날벼락...혼돈의 시장, 다주택규제 10가지 부작용 - 파이낸셜뉴스
+
+좋아요 10,475 · 재게시 4,325 · 답글 1,104 · 조회 1,476,234 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2017720376927879633
+
+## 2026년 1월 (67건)
+
+### 2026-01-31 23:49 — 경제·민생 · 직접 작성
+
+> <언어의 맥락과 의미를 이해 못하니..>
+> "해방이후 한번도 성공 못했을만큼 어려운 불법 계곡시설 정비, 대부분 헛소리로 치부하며 비웃었을만큼 어려운 주가 5천포인트, 그렇게 힘든 것도 해냈다. 수십년에 걸쳐온 부동산 불패 신화를 깨고 집값을 안정시키는 일이 얼마나 어렵겠나만 계곡정비나 주가 5천달성보다야 더 어렵겠느냐. 그 어려운 두가지 일도 해냈는데 집값안정은 무슨 수를 써서라도 반드시 성공시킬 것이고 그 두가지처럼 결국 성공할 것이다. 그러니 정부정책에 부당하게 저항해서 곱버스처럼 손해보지 말고 다주택자는 2026.5.9.까지 양도세 중과 면제하는 이번 마지막 기회를 활용해서 감세혜택 누리며 이번 기회에 파시라"는 말을 축약해서 "집값 잡는 것이 계곡정비나 주가 5천 달성보다는 쉽다"고 했더니 말 배우는 유치원생처럼 이 말을 제대로 못알아듣는 분들이 있습니다. 혹시라도 언어해득 능력을 아직 완전히 갖추지 못한 분들을 위해 제가 쓴 "쉽다"는 말의 정확한 의미를 자세히 풀어 써 드립니다.
+> 
+> 계곡정비나 주가 5천 달성이 세인들의 놀림거리가 될만큼 불가능해 보이고 어려웠지만 총력을 다해 이뤄낸 것처럼, 그보다는 더 어렵지도 않고 훨씬 더 중요한 집값안정은 무슨 수를 써서라도 성공시킬 것입니다. 
+> 
+> 집값안정을 위해 법적으로나 정치적으로 가능한 수단은 얼마든지 있지만, 현실적으로는 정치적 유불리 때문에 지금까지는 최적의 강력한 수단을 쓰지 못해 온 것이 사실입니다. 국민을 믿고 정치적 유불리에서 벗어나면 반드시 불가능한 일도 아닙니다. 계곡정비나 주가 5천 달성에 비하면 더 어렵지도 않은 일입니다.
+> 
+> 국민 다수가 지지하는 합법적이고 정당한 정책수단이 있고, 이 권한을 행사할 의지가 있는 정부에 맞서면 개인도 손실, 사회도 손해를 입습니다.
+> 
+> "시장을 이기는 정부도 없고 정부를 이기는 시장도 없다"는 말을 모순되는 말로 오해할 것 같아 첨언합니다. 시장과 정부는 갈등하며 동시에 협력하는 관계에 있는데, 결국 합리성과 행사되는 권한의 크기에 따라 시장의 향방과 변화 속도가 결정된다는 의미입니다. 정부 정책이 합리적이고 정당하며 국민의 지지를 받고 법적근거를 가지고 있다면, 사익에 근거한 일부의 저항은 성공할 수 없고 결국 손실을 입게 된다는 뜻입니다.
+> 
+> 언어의 기본적 맥락과 의미를 이해하지 못하니 안타깝게도 말이 길어집니다.
+> 
+> 결론적으로, 정부는 의지와 수단을 모두 가지고 있으니 정부정책에 맞서 손해보지 말고, 기회가 있을때 놓치지 말고 감세혜택 누리며 다주택 해소하기 바랍니다. 
+> 
+> 국힘 "李, '5000p'보다 쉽다? 부동산 정상화 왜 못하나"
+
+좋아요 8,021 · 재게시 2,528 · 답글 762 · 조회 1,048,705 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2017611111806439452
+
+### 2026-01-31 08:45 — 경제·민생 · 직접 작성
+
+> <비정상의 정상화, 부동산 투기 억제는 실패할 것 같나요?>
+> 
+> ㆍ불법계곡 정상화=계곡정비, 완료
+> 
+> ㆍ불법 부정 판치던 주식시장 정상화=5천피, 개막
+> 
+> 망국적 부동산 정상화는 불가능할 것 같은가요?
+> 표계산 없이 국민을 믿고 비난감수만 하면 될 일입니다.
+> 
+> 부동산 정상화는 5천피, 계곡정비보다 훨씬 쉽고 더 중요한 일입니다.
+> 
+> 기회가 있을 때 잡으시기 바랍니다. 이번이 마지막 기회였음을 곧 알게 될 겁니다.
+> 
+> “결국 급매 나왔네” 집주인들 백기 들었나...서울 아파트값 ‘급브레이크’
+
+좋아요 6,230 · 재게시 1,768 · 답글 835 · 조회 535,526 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2017383576652943633
+
+### 2026-01-31 01:23 — 경제·민생 · 직접 작성
+
+> <어떤 차이가 있을까요? 똑 같은 사안에 정반대의 입장..>
+> 
+> "종묘 앞 고층 개발은 되고, 태릉 옆 주택 공급은 안 되나" 
+> 
+> "종묘 앞 고층 개발은 안 되고, 태릉 옆 주택 공급은 되나" - 한국일보 https://v.daum.net/v/20260130200245544
+
+좋아요 4,803 · 재게시 1,374 · 답글 351 · 조회 316,944 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2017272498505839073
+
+### 2026-01-31 01:14 — 사회 · 직접 작성
+
+> <과감한 신고포상제도, 우리도 확실히 도입해야겠지요?>
+> 
+> 미국은 ‘3천 억’ 포상…한국은 ‘포상 0원’ 경찰행 https://v.daum.net/v/20260130215504327
+
+좋아요 4,509 · 재게시 1,311 · 답글 310 · 조회 333,202 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2017270224547197098
+
+### 2026-01-30 22:05 — 일상·인사 · 직접 작성 · 분류 검토 대기
+
+> 또 럼 베트남 서기장과 전화 통화를 나누며 연임을 축하했습니다. 서기장님의 리더십 아래 베트남이 고도 성장을 이어가며 국제사회에서의 위상이 더욱 높아질 것이라 확신한다고 전했습니다. 포괄적 전략 동반자인 대한민국이 든든한 파트너로서 늘 함께하겠다는 뜻도 밝혔습니다.
+> 
+> 서기장께서는 지난해 활발히 이루어진 고위급 교류와 양국 간 깊은 신뢰를 바탕으로 한-베트남 관계가 앞으로 더욱 발전해 나가기를 기대한다고 밝히며, 이를 위해 빠른 시일 내 베트남을 방문해 주길 바란다고 말씀하셨습니다.
+> 
+> 아울러 얼마 전 이해찬 민주평화통일자문회의 수석부의장께서 베트남에서 별세하셨을 당시 베트남 측의 각별한 협조와 예우 덕에 고인을 무사히 고국으로 모실 수 있었습니다. 대한민국을 대표해 다시 한번 머리 숙여 깊은 감사의 마음을 전합니다.
+> 
+> Tôi đã có cuộc điện đàm cùng Ngài Tổng Bí thư Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam Tô Lâm để chúc mừng Ngài Tổng Bí thư tái đắc cử. Tôi bày tỏ tin tưởng rằng dưới sự lãnh đạo của Ngài Tổng Bí thư, Việt Nam sẽ tiếp tục duy trì đà tăng trưởng cao và không ngừng nâng cao vị thế trên trường quốc tế. Đồng thời, tôi cũng khẳng định rằng với tư cách là Đối tác Chiến lược Toàn diện, Hàn Quốc sẽ luôn đồng hành cùng Việt Nam với vai trò là một đối tác tin cậy và vững chắc.
+> 
+> Ngài Tổng Bí thư Tô Lâm kỳ vọng trên cơ sở các hoạt động trao đổi tiếp xúc cấp cao diễn ra sôi nổi trong năm qua cùng với sự tin cậy sâu sắc giữa hai nước, mối quan hệ Việt Nam - Hàn Quốc sẽ tiếp tục phát triển mạnh mẽ hơn nữa trong thời gian tới, đồng thời bày tỏ mong muốn tôi sớm thăm Việt Nam nhằm thúc đẩy mục tiêu này.
+> 
+> Đồng thời, khi Phó Chủ tịch Thường trực Hội đồng Tư vấn Thống nhất Hòa bình Dân chủ Lee Hae-chan từ trần tại Việt Nam, nhờ sự phối hợp và đối đãi đặc biệt từ phía Việt Nam, chúng tôi đã có thể đưa Ngài Phó Chủ tịch về quê hương một cách trọn vẹn. Đại diện đất nước Hàn Quốc, một lần nữa, tôi xin cúi đầu bày tỏ lòng biết ơn sâu sắc.
+
+좋아요 3,074 · 재게시 643 · 답글 213 · 조회 89,164 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2017222600905363763
+
+### 2026-01-30 21:12 — 사회 · 직접 작성
+
+> <임금체불 최소화는 노동자출신 노동부장관이 열일한 덕분.. 김영훈 장관님과 고용노동부 공무원 여러분 수고 많으셨습니다. 감사합니다.>
+> 
+> 작년 체불 노동자수 3년만에 감소…청산율 90%로 역대 최고 https://v.daum.net/v/20260130160128164
+
+좋아요 4,183 · 재게시 1,354 · 답글 205 · 조회 214,592 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2017209296648556970
+
+### 2026-01-30 19:43 — 경제·민생 · 직접 작성
+
+> '국가창업시대'를 열어갈 주역들을 만났습니다. 오늘 만난 청년 창업가들과 기업인들의 빛나는 도전 정신, 전문가들이 나눠주신 귀한 의견이 'K자형 성장'을 극복하고 대한민국 경제 대도약을 이룰 핵심 동력이 될 것입니다.
+> 
+> '창업 중심 사회'로의 대전환은 일자리 대책인 동시에 청년 대책입니다. 지역의 문화와 자원을 활용한 로컬창업은 지방주도성장을 이끌 균형발전 전략이며, 미래 인재를 양성할 테크창업은 경제 체질을 바꿔낼 국가성장전략입니다. 그만큼 국가의 미래가 송두리째 달려 있기에, 정부의 모든 역량을 집중하겠습니다. 혁신의 씨앗을 만들고 가꾸는 일부터 지원하여 누구든 아이디어만 있으면 담대하게 도전할 수 있도록 든든하게 뒷받침하겠습니다.
+> 
+> 오늘 논의한 여러 과제들이 국민이 체감할 만한 성과로 이어질 수 있도록 더욱 속도를 높이겠습니다. 실패가 성공의 자산이 되어 언제든 다시 일어설 수 있는 나라, 함께 만들어 갑시다.
+
+좋아요 2,647 · 재게시 647 · 답글 138 · 조회 90,539 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2017186973853872560
+
+### 2026-01-30 17:02 — 문화·체육 · 직접 작성
+
+> K-콘텐츠와 세계를 잇는 새로운 교류의 장을 함께 열어갈 대통령 직속 대중문화교류위원회 특별위원 다섯 분을 위촉했습니다.
+> 
+> 마이클 라피노, 몬테 립먼, 무라마츠 슌스케, 제이 펜스케, 프레드 데이비스 위원님은 세계 음악, 미디어, 공연, 투자 분야를 선도해 온 글로벌 문화산업의 리더입니다.
+> 
+> 각자의 분야에서 쌓은 깊은 전문성과 풍부한 경험을 바탕으로 우리 문화를 세계 무대에서 더욱 빛나게 해주시리라 기대합니다.  
+> 
+> 대한민국 대중문화의 세계화를 위해 뜻을 모아주신 위원 여러분께 깊은 감사를 전합니다. 문화로 세계를 잇는 귀한 여정을 함께하게 되어 매우 든든합니다.
+
+좋아요 2,489 · 재게시 614 · 답글 280 · 조회 802,930 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2017146450132795746
+
+### 2026-01-30 13:22 — 정치·국정 · 리트윗
+
+> RT @[비공개]: 잼프가 얘기하는 개딸
+
+좋아요 0 · 재게시 542 · 답글 0 · 조회 2 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2017091030764703820
+
+### 2026-01-30 09:08 — 정치·국정 · 직접 작성
+
+> <경남의 내일을 함께 준비할 도민 200분을 모십니다>
+> 
+> 국민과 함께 지역의 미래를 그려가는 타운홀미팅, 그 아홉 번째 순서는 경상남도입니다.
+> 
+> 조선, 방위산업, 항공우주, 기계산업 등 대한민국 핵심 제조 산업이 가장 촘촘하게 집적된 경상남도는 미래산업의 핵심 기반을 골고루 갖추고 있습니다. 수많은 산업단지와 풍부한 인적 역량, 그리고 현장에서 축적된 방대한 데이터까지. 경남의 발전 가능성은 무궁무진합니다.
+> 
+> 이제 이러한 산업 역량을 바탕으로 제조 공정을 혁신하고, 첨단 기술 산업을 확장해 미래 경쟁력을 더욱 키워 나가야 할 때입니다. 부울경을 하나로 잇는 초광역 교통망과 산업 생태계를 통해 경남이 대한민국의 새로운 성장 축으로 도약할 길을 함께 모색해야 합니다.
+> 
+> 이번 타운홀미팅은 그 여정의 출발점입니다. 도민 여러분의 지혜와 경험을 나눠 주십시오. 경남의 내일을 함께 준비해 가고 싶습니다.
+> 
+> ☑️ 모집인원 : 경남도민 200명
+> ☑️ 행사날짜 : 2026년 2월 6일(금) 
+> * 시간, 장소는 경호상의 이유로 추후 안내 예정
+> ☑️ 참여신청 : 2026년 1월 30일(금) 09시 ~ 2월 2일(월) 12시 네이버폼 접수 (  )
+> * 신원 확인이 어려운 경우 출입이 제한될 수 있으니, 신청 시 이름과 주민등록번호를 정확하게 기입해 주시기 바랍니다. 
+> * 선정되신 분들께는 시간과 장소 안내 및 참석 여부 확인 전화를 드릴 예정입니다.
+
+좋아요 2,134 · 재게시 598 · 답글 137 · 조회 74,523 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2017027074742243352
+
+### 2026-01-29 13:09 — 사회 · 직접 작성
+
+> <증권거래소는 일종의 백화점.. 상품가치 없는 썩은 상품, 가짜상품이 많으면 누가 가겠습니까? 상품정리부터 확실히 하고 좋은 신상품을 신속도입해 고객 신뢰를 회복하는게 급선무입니다. 물론 소매치기도 철저히 단속해야지요.>
+> 
+> 구윤철 “코스닥 경쟁력 강화…부실기업 신속 퇴출할 것”
+
+좋아요 3,505 · 재게시 996 · 답글 312 · 조회 121,511 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2016725425431716191
+
+### 2026-01-29 11:07 — 경제·민생 · 직접 작성
+
+> <쉐도우복싱 또는 허수아비 타법.. 일반재정에 사용되는 세금과 특정용도를 위해 그 필요를 유발한 원인에 부과하는 부담금은 다르고, 시행방침과 의견조회는 전혀 다른데도 '설탕세 시행 비난'은 여론조작가짜뉴스입니다.
+> 
+> “문제는 설탕이 아니고 소금이야!”…대통령이 던진 ‘설탕세’에 야당 반응 KBS
+
+좋아요 2,880 · 재게시 965 · 답글 245 · 조회 365,919 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2016694665136001299
+
+### 2026-01-28 22:14 — 사회 · 직접 작성
+
+> <이제서야 지방이전 효과가 조금씩 나타나기 시작하나요? 국가균형발전 조금 더 힘을 냅시다. KB 그룹에 감사합니다.>
+> 
+> KB, '국민연금' 전북혁신도시에 250여명 상주 금융타운 조성 https://v.daum.net/v/20260128185844294
+
+좋아요 3,700 · 재게시 1,079 · 답글 228 · 조회 187,580 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2016500198256836658
+
+### 2026-01-28 21:59 — 사회 · 직접 작성
+
+> <언론이면 있는 사실대로 쓰셔야..설탕부담금 어떻게 생각하시냐며 의견을 물었는데, 왜 설탕부담금 매기자고 했다며 조작할까요? 심지어 " "를 붙여 하지도 않은 말까지 창작해 가며 가짜뉴스 만드는 건 옳지 못합니다>
+> 
+> 이 대통령 “담배처럼 설탕 부담금 매겨 지역·공공 의료 투자하자”…도입 논쟁 다시 불붙나
+
+좋아요 5,619 · 재게시 2,023 · 답글 475 · 조회 235,376 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2016496272899965088
+
+### 2026-01-28 18:40 — 사회 · 직접 작성 · 분류 검토 대기
+
+> <"..이란 보도가 있는데 국민 여러분의 의견을 어떠신가요"라고 국민의견을 물었는데 "설탕세 도입"이라고 왜곡..
+> 지방선거 타격주기 위해 증세프레임 만드는 걸까요? 정확한 내용으로 수정하시기 바랍니다. 
+> 
+> 李 "설탕세 도입해 지역의료에 투자를" 매일경제 https://v.daum.net/v/20260128180035632
+
+좋아요 4,496 · 재게시 1,724 · 답글 497 · 조회 500,639 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2016446275978420233
+
+### 2026-01-28 17:50 — 외교·통상 · 직접 작성
+
+> 카타르 외교부 모하메드 빈 압둘아지즈 알-쿨라이피 국무장관이 타밈 국왕의 특사 자격으로 방한했습니다. 알-쿨라이피 특사는 카타르의 중재외교를 이끄는 핵심 인사입니다. 이번 파견은 타밈 국왕께서 양국 관계를 각별히 중시하고 있음을 보여준다고 생각합니다.
+> 
+> 알-쿨라이피 특사는 타밈 국왕이 대한민국을 신뢰할 수 있는 파트너로 평가하며, 우리와의 협력을 중요한 우선순위로 두고 있다는 뜻을 전했습니다. 국왕께서 보여주신 깊은 신뢰와 우정에 감사를 전합니다. 
+> 
+> 머지않아 국왕님을 직접 뵙고, 한-카타르 간 ‘포괄적 전략동반자 관계’의 발전 방향을 허심탄회하게 논의할 수 있길 바랍니다. 양국이 함께 열어갈 협력의 미래가 더욱 다채롭고 풍요로워지길 기대합니다.
+> 
+> قام معالي د. محمد بن عبدالعزيز الخليفي، وزير الدولة بوزارة الخارجية في دولة قطر، بزيارة إلى جمهورية كوريا بصفته مبعوثًا خاصًا لحضرة صاحب السمو الشيخ تميم بن حمد آل ثاني، أمير دولة قطر. ويُعدّ المبعوث الخليفي شخصية محورية تقود دبلوماسية الوساطة القطرية. وأرى أن هذه الزيارة تعكس مدى الأهمية الخاصة التي يوليها سمو الأمير الشيخ تميم للعلاقات بين بلدينا.
+> 
+> وقد نقل المبعوث الخليفي رسالة مفادها أن سمو الأمير يقيّم جمهورية كوريا كشريك موثوق به، ويضع التعاون معها في صدارة أولوياته. وأعرب عن بالغ امتناني وتقديري لما أبداه سمو الأمير من ثقة عميقة وصداقة متينة.
+> 
+> وآمل أن تتاح لي الفرصة قريبًا للالتقاء بسمو الأمير شخصيًا، لإجراء نقاش صريح ومفتوح حول سبل تطوير «الشراكة الاستراتيجية الشاملة» بين كوريا وقطر. وأتطلع إلى أن يكون مستقبل التعاون الذي سنصنعه معًا أكثر تنوعًا وازدهارًا.
+
+좋아요 2,162 · 재게시 500 · 답글 82 · 조회 61,455 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2016433587160285567
+
+### 2026-01-28 09:10 — 정치·국정 · 직접 작성
+
+> <대화 타협 공존.. 과연 민주주의의 본산답습니다.>
+> 
+> 통합 명칭 '전남광주특별시'…약칭은 '광주특별시'  https://v.daum.net/v/20260128054507647
+
+좋아요 2,273 · 재게시 691 · 답글 164 · 조회 153,077 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2016302707691421804
+
+### 2026-01-28 08:23 — 경제·민생 · 직접 작성
+
+> <1조원에 1%만 해도 100억.. 해당 도시의 민주주의 정도와 이자율을 비교 연구해 볼 가치가 있습니다.>
+> 
+> 李 대통령, "이게 다 주민들의 혈세입니다"…지자체 금고 금리 첫 공개  https://v.daum.net/v/20260128072245283
+
+좋아요 2,665 · 재게시 886 · 답글 151 · 조회 149,233 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2016290881708687493
+
+### 2026-01-28 08:21 — 사회 · 직접 작성
+
+> <담배처럼 설탕 부담금으로 설탕 사용 억제, 그 부담금으로 지역·공공 의료 강화에 재투자..여러분 의견은 어떠신가요?>
+> 
+> 마약보다 강력한 ‘달콤한 중독’… 국민 80% “설탕세 도입에 찬성”  https://v.daum.net/v/20260128050316256
+
+좋아요 3,578 · 재게시 1,162 · 답글 784 · 조회 2,159,472 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2016290508310773815
+
+### 2026-01-28 01:00 — 경제·민생 · 직접 작성
+
+> <이게 다 주민들의 혈세입니다.>
+> 
+> 李지시에 지자체 금고 이자율 첫 공개…인천 4.6%·경북 2.2.% '천차만별' https://v.daum.net/v/20260127170137802
+
+좋아요 2,984 · 재게시 904 · 답글 224 · 조회 162,020 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2016179481615204522
+
+### 2026-01-26 16:20 — 사회 · 직접 작성
+
+> <제대로 자리잡으면 좋겠는데요..>
+> 
+> 생리대업체들, '반값생리대' 공급 확대…중저가 제품 출시도
+> https://v.daum.net/v/20260126160615984
+
+좋아요 5,776 · 재게시 2,852 · 답글 347 · 조회 587,909 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2015686347575750923
+
+### 2026-01-25 21:35 — 경제·민생 · 직접 작성
+
+> <팔면서 내는 세금보다 들고 버티는 세금이 더 비싸도 그렇게 할 수 있을까요?>
+> 
+> "세금 내고 집 파느니 들고 있겠다"…양도세 중과 '반짝 효과' 그칠 듯  https://v.daum.net/v/20260125184742816
+
+좋아요 3,687 · 재게시 1,165 · 답글 513 · 조회 288,575 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2015403193468170423
+
+### 2026-01-25 14:38 — 정치·국정 · 직접 작성 · 분류 검토 대기
+
+> <집이든 뭐든 정당하게 증여세 내고 증여하는 게 잘못은 아닙니다. '집을 처분하려면 팔아야지 증여하면 안된다'는 건 사적소유권을 존중하는 자본주의 시장경제 원리에 어긋나는 주장 아닐까요? >
+> 
+> 李 “정부 이기는 시장 없다” 비웃듯…강남 다주택자들은 증여러시  https://v.daum.net/v/20260125142104930
+
+좋아요 3,419 · 재게시 964 · 답글 345 · 조회 250,526 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2015298331782922290
+
+### 2026-01-25 13:26 — 경제·민생 · 직접 작성
+
+> <버티기? 빤히 보이는 샛길인데 그걸 알고도 버티는게 이익이 되도록 방치할만큼 정책당국이 어리석지는 않습니다.>
+> 
+> 李대통령 “5월 9일 계약까지 다주택자 양도세 중과세 유예” 
+> https://v.daum.net/v/20260125114244247
+
+좋아요 2,923 · 재게시 848 · 답글 215 · 조회 152,070 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2015279998471655584
+
+### 2026-01-25 11:11 — 경제·민생 · 직접 작성
+
+> <대한민국은 예측가능한 정상사회로 복귀중. 시장을 이기는 정부도 없지만 정부를 이기는 시장도 없습니다.>
+> 
+> 다주택자 양도세중과유예 2026. 5. 9. 종료는 2025. 2.에 이미 정해진 것이었습니다. 재연장하는 법개정을 또 하겠지라고 생각했다면 오산입니다. 비정상으로 인한 불공정한 혜택은 힘들더라도 반드시 없애야 합니다. 비정상적인 버티기가 이익이 되어서는 안됩니다. 버티는 이익이 버티는 비용보다 크게 해서는 안되겠지요? 비정상을 정상화시킬 수단 방법은 얼마든지 있습니다. 
+> 
+> 정상화를 위한 상법개정을 두고 기업과 나라가 망할듯 호들갑 떨며 저항했지만, 막상 개정하고 나니 기업과 국가사회 모두가 좋아지지 않았습니까? 잃어버린 30년을 향해 치닫는 부동산불로소득 공화국을 탈출하는데도 고통과 저항은 많겠지만, 필요하고 유용한 일이라면 피하지 말아야겠지요. 큰 병이 들었을 때 아프고 돈 들지만 수술할 건 수술해야합니다. 잠시 아픔을 견디면 더 건강하고 돈도 더 잘 벌 것입니다.
+> 
+> 단, 지난 4년간 유예반복을 믿게 한 정부 잘못도 있으니 26.5.9. 까지 계약한 것은 중과세 유예를 해 주도록 국무회의에서 의논해 보겠습니다.
+> 
+> "토허구역에서 100일 만에 집 못팔아"…양도세 중과 시행 후폭풍
+
+좋아요 4,075 · 재게시 1,308 · 답글 321 · 조회 371,257 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2015246037724938567
+
+### 2026-01-25 08:36 — 과학기술·AI · 인용
+
+> <피할 수 없다면 즐기라고 했습니다.>
+> "한국은 이제 AI 분야에서 명실상부한 3위 국가로 자리매김했습니다. 한국의 국가 주도 AI 이니셔티브에 힘입어, 최첨단 수준의 인공지능을 보유한 여러 한국 AI 연구소가 등장했습니다.
+> 
+> 이러한 성장세의 핵심 동력은 한국 정부가 지원하는 전국 규모의 경진대회인 '국가 주도형 AI 이니셔티브'입니다…"
+
+좋아요 3,429 · 재게시 1,017 · 답글 290 · 조회 177,494 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2015207118878781874
+
+### 2026-01-25 00:16 — 정치·국정 · 직접 작성 · 분류 검토 대기
+
+> <경찰, 국정원 등 공직자들의 헌신 덕분입니다. 격려방문 한번 가야겠지요?>
+> 
+> 캄보디아 범죄 씨를 말렸다…사상 최대 송환 작전 코리아전담반 성과 https://v.daum.net/v/20260123194746170
+
+좋아요 4,715 · 재게시 1,344 · 답글 243 · 조회 174,832 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2015081378732442003
+
+### 2026-01-24 22:43 — 외교·통상 · 리트윗 · 분류 검토 대기
+
+> RT @[비공개]: 코리아 전담반이 본격적인 활동에 들어가면서 경찰청 및 외교부에 접수된 캄보디아 감금·실종 의심 신고는 급감했다.
+> 지난해 들어 증가 추세를 보이다가 10월 93건에 이르렀던 신고는 정부의 총력 대응 이후 11월 17건, 12월…
+
+좋아요 0 · 재게시 484 · 답글 0 · 조회 4 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2015057779871121736
+
+### 2026-01-24 21:17 — 경제·민생 · 직접 작성
+
+> <주식 보유 상황, 국내외 투자성향, 향후 경제예측 등 여러면에서 재미있는 분석입니다. 한편으로 안타깝기도 합니다. 작은 차이를 넘어 모두 힘을 모아 함께 이 위기를 넘어 공동번영의 미래를 향해 나아가면 좋겠습니다.>
+> 
+> 정치테마가 된 코스피, 오를까 떨어질까[김유성의 통캐스트]
+
+좋아요 2,860 · 재게시 714 · 답글 241 · 조회 185,465 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2015036177590738971
+
+### 2026-01-24 20:34 — 사회 · 리트윗
+
+> RT @[비공개]: 📢 #스캠범죄 끝까지 뿌리 뽑겠습니다
+> 
+> 이재명 대통령 지시로 구성된
+> '초국가범죄 특별대응 TF'가
+> 캄보디아에서 온라인 사기(스캠)를 벌이다 검거된 
+> 한국인 범죄 조직원 73명을 강제 송환했습니다.
+> 
+> 지난해 10월 첫 송…
+
+좋아요 0 · 재게시 2,038 · 답글 0 · 조회 3 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2015025525388202249
+
+### 2026-01-24 20:15 — 국방·안보 · 직접 작성
+
+> <불안정한 국제정세속에 자주국방은 기본중에 기본. 
+> 
+> 북한 GDP의 1.4배나 국방비를 지출하며 세계5위 군사력을 가진 대한민국이 스스로 방어하지 못한다는 것은 있을 수 없는 일입니다. 확고한 자주국방과 한반도 평화가 지속적인 경제성장을 가능하게 합니다.>
+> 
+> 美 "한국이 대북 억제 주된 책임"…전작권 전환·주한미군 첨단화 속도내나
+
+좋아요 3,104 · 재게시 893 · 답글 280 · 조회 170,329 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2015020589543760072
+
+### 2026-01-23 20:37 — 일상·인사 · 직접 작성
+
+> <두쫀쿠와 함께하는 퇴근길...>
+> 
+> https://youtube.com/shorts/2d10JEdXbnw?si=KMZMU-ytl5ggkGZV
+> 
+> #이재명 #대통령 #두바이쫀득쿠키
+
+좋아요 5,880 · 재게시 1,554 · 답글 422 · 조회 1,125,740 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2014663656060158452
+
+### 2026-01-23 01:06 — 경제·민생 · 직접 작성
+
+> <1주택도 1주택 나름..만약 부득이 세제를 손보게 된다면 비거주용과 거주용은 달리 취급해야 공정하지 않을까요? 
+> 
+> 이번 5.9. 만기인 다주택자 양도세 면제 연장은 전혀 고려하지 않고 있습니다. 
+> 
+> 다주택은 물론, 비거주 1주택도 주거용 아닌 투자 투기용이라면 장기보유했다고 세금감면은 이상해 보입니다. 장특공제 제도가 매물을 막고 투기를 권장하는 꼴이지요.
+> 
+> 당장 세제를 고칠 건 아니지만, 토론해봐야 할 주제들입니다.
+> 
+> 여러분 의견은 어떠신가요?>
+> 
+> “1주택자 보호하겠다”…이 대통령 발언에 ‘다주택자’ 셈법 복잡해지나
+
+좋아요 3,186 · 재게시 978 · 답글 505 · 조회 255,205 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2014369119798476992
+
+### 2026-01-22 22:01 — 경제·민생 · 인용
+
+> 상속세 아끼려고 주가를 억지로 낮춰놓다니.. 최대한 신속하게 개정하겠습니다.
+
+좋아요 4,471 · 재게시 1,454 · 답글 398 · 조회 356,626 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2014322639763083682
+
+### 2026-01-21 19:00 — 재난·안전 · 직접 작성
+
+> 스페인 코르도바 고속열차 사고로 희생된 분들의 명복을 빕니다. 
+> 
+> 아울러 부상자 여러분의 쾌유를 바라며, 유가족을 비롯한 스페인 국민 모두에게 깊은 위로를 전합니다. 
+> 
+> 피해가 하루빨리 수습되고, 평온한 일상을 회복하시길 기원합니다. 
+> 
+> Me gustaría expresar mis más sinceras condolencias por las personas que perdieron la vida en el trágico accidente ferroviario ocurrido en la provincia de Córdoba, España.
+> 
+> Asimismo, quiero trasladar mi deseo de una pronta recuperación a los heridos y transmitir mi más sentido pésame a los familiares de las víctimas y a todo el pueblo español. 
+> 
+> Confío en que los daños puedan ser reparados a la mayor brevedad posible y que se restablezcan pronto la tranquilidad y la normalidad.
+
+좋아요 2,649 · 재게시 594 · 답글 179 · 조회 95,385 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2013914638472319277
+
+### 2026-01-20 21:30 — 국방·안보 · 직접 작성
+
+> 오늘 한국과 카타르는 포괄적 협력 동반자로서 쌓아온 깊은 신뢰를 바탕으로, 국방.방산, 에너지, 인프라, 우리 기업 진출 등 다양한 분야에서 호혜적 협력을 한층 더 강화해 나가기로 뜻을 모았습니다.
+> 
+> 아울러 카타르가 중동 평화와 국제정세의 안정을 위해 적극적으로 중재자 역할을 수행하고 있는 만큼, 평화와 번영을 추구하는 우리 대한민국과 협력하며 국제사회에 이바지해 나갈 수 있길 기대합니다.
+> 
+> 작년 7월 이후 약 반년 만에 다시 '타밈 빈 하마드 알 싸니' 카타르 국왕님과 통화를 하게 되어 매우 뜻깊습니다. 다음번에는 타밈 국왕님을 서울에서 뵙고, 양국 관계 발전을 위한 구체적인 협력 방안을 논의할 수 있길 소망합니다.
+> 
+> اليوم، وبالاستناد إلى الثقة العميقة التي بنتها جمهورية كوريا ودولة قطر بوصفهما شريكين في التعاون الشامل، اتفقنا على تعزيز التعاون المتبادل المنفعة على نحوٍ أكبر في مجالات متعددة، تشمل الدفاع الوطني، والصناعات الدفاعية، والطاقة، والبنية التحتية، وتوسيع دخول الشركات الكورية إلى السوق القطرية، وغيرها من المجالات ذات الاهتمام المشترك.
+> 
+> كما نُقدّر عالياً الدور الفاعل الذي تضطلع به دولة قطر بصفتها وسيطاً نشطاً من أجل إرساء السلام في منطقة الشرق الأوسط وتعزيز الاستقرار الدولي. ونتطلع إلى أن تواصل قطر تعاونها مع كوريا، التي تسعى إلى السلام والازدهار، بما يُسهم في خدمة المجتمع الدولي.
+> 
+> ويشرّفني أن أجري اتصالاً هاتفياً مجدداً مع حضرة صاحب السمو الشيخ تميم بن حمد آل ثاني، أمير دولة قطر، وذلك بعد نحو نصف عام منذ اتصالنا الأول في شهر يوليو من العام الماضي. وآمل أن تتاح لنا الفرصة في المرة المقبلة للقاء صاحب السمو في سيول، لمناقشة سبل التعاون الملموسة الكفيلة بالارتقاء بعلاقات بلدينا إلى آفاق أرحب.
+
+좋아요 2,611 · 재게시 633 · 답글 254 · 조회 71,185 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2013589966669107519
+
+### 2026-01-20 20:47 — 국방·안보 · 직접 작성 · 분류 검토 대기
+
+> <대체 누가 이런 가짜뉴스를.. 이런 거짓말도 표현의 자유로 보호해야 할까요?>
+> 
+> 이재명 정부가 북한 <노동신문> 국비로 배포? '거짓' [오마이팩트]  https://v.daum.net/v/20260120200723063
+
+좋아요 4,377 · 재게시 1,497 · 답글 677 · 조회 313,453 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2013579029010620444
+
+### 2026-01-19 20:43 — 정치·국정 · 인용 · 분류 검토 대기
+
+> 깜짝 선물에 화답하듯 찍어주신 멜로니 총리님과의 깜짝 셀카^^
+> 
+> 연초의 바쁜 일정 중에도 시간을 내 방문해주실 만큼
+> 한국과의 관계 발전에 큰 관심과 의지를 보여주셔서 감사합니다.
+> 
+> 셀카에 담긴 환한 미소처럼, 대한민국과 이탈리아의 우정이 한층 더 깊어졌음을 느낀 시간이었습니다.
+> 
+> 다음엔 이탈리아에서 뵐 수 있길 소망합니다. Arrivederci!
+
+좋아요 5,478 · 재게시 1,182 · 답글 396 · 조회 286,842 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2013215850611028056
+
+### 2026-01-19 14:59 — 사회 · 직접 작성
+
+> <이 참혹하게 억울한 수사, 기소, 판결을 한 경찰, 검사, 판사들은 어떤 책임을 지나요? 지금도 여전히 벌어지고 있는 일입니다. 뒤늦은 판결 번복, 안하는 것보다는 백번 낫지만 백골조차 흩어져 버린 지금에 와서 과연..>
+> 
+> 사형 50년 만에 무죄... 눈물 멈출 수 없었다는 재판부 "반성, 사죄, 위로"
+
+좋아요 3,200 · 재게시 1,093 · 답글 308 · 조회 207,839 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2013129247255298542
+
+### 2026-01-18 17:27 — 경제·민생 · 직접 작성 · 분류 검토 대기
+
+> <바가지, 불친절 절대 안됩니다.>
+> 
+> 외국인관광은 국가경제발전의, 지방관광은 지방경제 발전의 핵심입니다.
+> 
+> 관광발전에 치명적인 바가지나 불친절 근절을 위해 전 부처가 나서 총력을 다할 것입니다.
+
+좋아요 8,169 · 재게시 1,947 · 답글 472 · 조회 1,026,117 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2012803909610508725
+
+### 2026-01-18 11:06 — 사회 · 인용
+
+> 댓글은 저도 가끔 읽고, 국무위원들에게 전달도 합니다.
+> 
+> 국민이 주인인 나라가 되기를 바라시면 주인이 의견을 내야 합니다.
+> 
+> 그런 면에서 가짜뉴스, 댓글이나 공감 조작 같은 여론조작은 민주주의를 파괴하는 중대범죄입니다. 경찰이 수사중이니 결과를 지켜보는 중입니다.
+
+좋아요 4,766 · 재게시 1,368 · 답글 893 · 조회 921,398 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2012708245119643881
+
+### 2026-01-18 10:38 — 사회 · 직접 작성
+
+> <신상필벌.., 공무원이 부정부패하면 나라가 망하고, 공무원이 충직하면 국민이 행복합니다>
+> 
+> 이 대통령 “피자라도 보내라” 칭찬한 경찰관, 특별포상 첫 주인공 https://v.daum.net/v/20260118101105238
+
+좋아요 3,583 · 재게시 1,047 · 답글 313 · 조회 884,502 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2012701136587755611
+
+### 2026-01-16 21:23 — 외교·통상 · 직접 작성
+
+> 아소 다로 전 일본 총리님을 만나 한일 관계의 현재와 미래에 대해 깊이 있는 대화를 나누었습니다. 총리께서는 이번 한일 정상회담이 일본 정치권과 사회 전반에서 긍정적인 평가를 받고 있다고 전해 주셨습니다.
+> 
+> 한일 관계를 더욱 발전시키기 위해서는 정상 간 교류뿐 아니라 양국의 책임 있는 정치인 간 긴밀한 소통 또한 중요하다고 생각합니다. 지속적인 신뢰의 축적이 양국 협력의 기반을 굳건히 할 것입니다.
+> 
+> 일본의 정치 원로이자 일한협력위원회 회장으로 오랜 기간 활동해 오신 총리께서 앞으로도 풍부한 경험과 식견으로 한일 양국이 좋은 이웃으로서 협력을 확대해 나가는 데 큰 역할을 해주시리라 기대합니다.
+
+좋아요 13,045 · 재게시 1,299 · 답글 311 · 조회 1,080,280 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2012138567393517921
+
+### 2026-01-16 18:03 — 사회 · 인용
+
+> <시장 전체의 질서를 무너뜨리고 모두에게 큰 피해를 주는 악질적 횡포 반드시 뿌리 뽑아야 합니다. 부당 취득한 이익보다 손해가 훨씬 크도록 해야 할 것입니다.>
+> 
+> BTS 온다 하니 10배 뛰었다…부산 숙박요금 또 바가지 논란 (출처 : 네이버 뉴스) https://naver.me/x1mskJHo
+
+좋아요 16,952 · 재게시 4,457 · 답글 597 · 조회 6,265,595 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2012088387784819056
+
+### 2026-01-16 09:10 — 국방·안보 · 직접 작성
+
+> <별 이유도 없는 전쟁 불사는 잘못된 태도입니다. 평화가 경제이고 최고의 안보입니다.>
+> 
+> "李대통령, 北에 저자세로 눈치봐".. 野, 무인기 군경합동수사 지시 비난 
+> https://v.daum.net/v/20260111122638049
+
+좋아요 3,558 · 재게시 1,066 · 답글 348 · 조회 216,517 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2011954103858184259
+
+### 2026-01-16 09:01 — 정치·국정 · 직접 작성
+
+> <‘울산의 마음을 듣다’, 울산 시민 200분을 모십니다>
+> 
+> 2026년 새해 첫 타운홀미팅을 대한민국 산업의 심장, 울산에서 개최합니다.
+> 
+> 지난 60년간 울산은 자동차, 석유화학, 조선을 비롯한 우리 제조업을 이끌며 대한민국 경제 성장의 중심에 서 있었습니다. 이제 산업 수도를 넘어, 제조 AI와 그린산업을 선도하는 새로운 길로 나아가야 할 때입니다.
+> 
+> 정부는 올해를 ‘대전환을 통한 대도약의 원년’으로 삼고, 수도권 중심 성장에서 지방 주도 성장으로의 전환을 본격화할 계획입니다. 울산은 그 변화의 선두에서, 동남권 제조업 벨트의 맏형으로서 대한민국 산업의 대전환을 이끌어갈 것입니다.
+> 
+> 이번 타운홀미팅에 함께하시어 귀한 의견을 나눠주십시오. 시민의 위대한 집단지성으로 울산의 미래와 대한민국의 새로운 도약을 함께 그려 나가고자 합니다.
+> 
+> ☑️ 모집인원 : 울산 시민 200명
+> ☑️ 행사날짜 : 2026년 1월 23일(금)
+> * 시간, 장소는 경호상의 이유로 추후 안내 예정
+> ☑️ 참여신청 : 2026년 1월 16일(금) 09시 ~ 1월 19일(월) 12시 네이버폼 접수 
+> * 신원 확인이 어려운 경우 출입이 제한될 수 있으니, 신청 시 이름과 주민등록번호를 정확하게 기입해 주시기 바랍니다.
+> * 선정되신 분들께는 시간과 장소 안내 및 참석 여부 확인 전화를 드릴 예정입니다.
+
+좋아요 1,788 · 재게시 541 · 답글 128 · 조회 75,808 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2011951795061571820
+
+### 2026-01-15 19:48 — 외교·통상 · 직접 작성
+
+> 아랍에미리트연합국(UAE)의 한국 전담 인사인 칼둔 칼리파 알 무바락 행정청장은 2009년 우리 기업이 바라카 원전 사업을 수주할 때부터 한-UAE 관계 발전을 위해 각별한 노력을 기울여 왔습니다. 한국을 '제2의 고향'으로 여길 만큼 우리나라에 깊은 애정을 가지고 있기도 합니다.
+> 
+> 오늘 만남에서 칼둔 청장은 모하메드 빈 자이드 알 나흐얀 UAE 대통령님의 안부를 전했습니다. 지난해 11월 국빈 방문 시 정성껏 환대해 주신 대통령님의 깊은 애정과 신뢰를 다시 한번 느낄 수 있었습니다.
+> 
+> 앞으로도 우리 측 UAE 전담 인사인 강훈식 비서실장과 긴밀히 소통하며, 한-UAE 협력의 지평을 더욱 넓혀주길 당부했습니다. 나아가 양국이 굳건한 신뢰와 우의를 바탕으로 미래를 함께 여는 동반자로 발전해 나가길 기대합니다.
+
+좋아요 2,183 · 재게시 549 · 답글 139 · 조회 100,763 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2011752282824851918
+
+### 2026-01-15 18:00 — 일상·인사 · 직접 작성
+
+> <국민 여러분이 바로 2026년 새해의 주인공입니다>
+> 
+> 2026년 설날이 한 달 앞으로 다가왔습니다.
+> 올해는 특별히 전국 곳곳에서, 또 바다 건너 해외에서 보내주시는 영상 한 편 한 편을 엮은 새해 인사를 국민 여러분과 함께 나누고자 합니다.
+> 
+> 진심이 담긴 목소리, 서로의 안녕을 기원하는 따뜻한 눈빛과 환한 표정이 모여 '모두의 설날'을 완성할 것입니다.
+> 
+> 비록 서로 다른 자리에서 각자의 삶을 살아가고 있지만, 같은 명절을 맞이하는 한민족이라는 것을 우리 모두가 느낄 수 있게 되리라 믿습니다.
+> 
+> 완벽하지 않아도, 특별하지 않아도 괜찮습니다. 우리의 평범한 일상이야말로 대한민국을 지탱해 온 가장 큰 힘이기 때문입니다.
+> 
+> 모두의 마음에 오래 남을 설날을 함께 만들어 주시면 좋겠습니다. 많은 참여 부탁드립니다.
+> 
+> ☑️ 모집 기간 : 2026년 1월 15일(목)~28일(수), 2주간
+> ☑️ 필수 멘트 : "여러분, 새해 복 많이 받으세요." (한 문장만!)
+> ☑️ 영상 형식 : 자막을 넣지 않은 가로형 형태의 원본 영상(10초 내외)
+> ☑️ 촬영 꿀팁 : 우리 동네 랜드마크, 단골 가게, 일터 등 사는 곳의 특징이 나타나는 공간에서 촬영할 경우 채택 확률 UP!
+> ☑️ 신청 링크 :  에서 접수
+
+좋아요 3,115 · 재게시 814 · 답글 218 · 조회 122,966 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2011725159523369017
+
+### 2026-01-14 17:16 — 외교·통상 · 직접 작성
+
+> 지난해 도쿄에서 간토 지역 동포들을 만나 뵈었는데, 오늘 간사이 지역 동포 분들까지 만나 뵈니 감회가 새롭습니다. 고즈넉한 나라현의 풍경과 여러분의 깊은 환대에 포근하고 따뜻한 마음으로 가득했던 시간이었습니다.
+> 
+> 타지에서 간난신고를 겪으면서도 언제나 모국을 사랑하며 민족 공동체를 지켜낸 재일동포 분들의 이야기를 접할 때마다 늘 마음이 숙연해집니다. 여러분이 있었기에 대한민국이 산업화와 민주화를 동시에 이뤄내고, 한일 관계 또한 부침 속에서 의미있는 진전을 이룰 수 있었습니다.
+> 
+> 동포 여러분께서 헌신해오신 치열한 100년의 역사가 더욱 빛날 수 있도록, 더 자랑스러운 대한민국 반드시 만들겠습니다. 동포들이 삶의 터전에서 더 큰 긍지와 자부심을 갖고 살아갈 수 있도록, 더욱 세심히 살피겠습니다.
+
+좋아요 3,634 · 재게시 728 · 답글 222 · 조회 319,223 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2011351706064601301
+
+### 2026-01-14 11:41 — 외교·통상 · 직접 작성
+
+> <주가조작 패가망신은 빈 말이 아닙니다. 정상적으로 투자하십시오>
+> 
+> "주가조작, 패가망신 각오하라"…합동대응단 인력 두 배 증원https://v.daum.net/v/20260114111908573
+
+좋아요 3,593 · 재게시 1,274 · 답글 338 · 조회 785,648 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2011267279477170505
+
+### 2026-01-14 08:55 — 정치·국정 · 직접 작성 · 분류 검토 대기
+
+> 각자의 박자 위에 공동의 화음을 더했던 다카이치 총리(@takaichi_sanae)님과의 합주.
+> 처음엔 조금 어색했지만, 두드릴수록 소리는 하나로 모였습니다.
+> 
+> 드럼 연주는 오래전부터 품어온 로망이었기에, 세심하게 배려해 주신 총리님의 마음이 더욱 감사했던 시간입니다.
+> 
+> 총리님 덕분에 음악을 통해 진솔한 마음을 나누는 특별한 시간을 가질 수 있었습니다.
+> 
+> 서로의 차이를 존중하며 리듬을 맞춰간 것처럼, 한·일 양국도 협력의 깊이를 더하며
+> 한 걸음씩 더 가까워질 수 있기를 기대합니다.
+
+좋아요 51,245 · 재게시 6,587 · 답글 1,168 · 조회 5,071,807 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2011225579463589959
+
+### 2026-01-13 22:11 — 외교·통상 · 직접 작성
+
+> 어설프지만, 그래서 더 잘 어울렸던 다카이치 총리님과의 합주^^
+> 슬쩍 숟가락 하나 얹어봤지만 역시 프로의 실력은 다르더군요.
+> 
+> 박자는 조금 달라도 리듬 맞추려는 마음은 같았던 것처럼, 미래지향적 한일 관계도 한 마음으로 만들어가겠습니다.
+
+좋아요 127,007 · 재게시 11,073 · 답글 1,509 · 조회 8,374,169 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2011063583204147463
+
+### 2026-01-12 16:40 — 문화·체육 · 직접 작성
+
+> <축하합니다 ^^ 우리 문화가 앞으로도 세계 무대에서 더 큰 사랑을 받길 기원합니다.>
+> https://v.daum.net/v/20260112154446886
+
+좋아요 5,214 · 재게시 1,181 · 답글 564 · 조회 1,198,787 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2010617802890293359
+
+### 2026-01-10 14:49 — 일상·인사 · 직접 작성
+
+> <시대의 친구여..우리만 살아남아 미안합니다.>
+> 
+> "저기서 고문을…" 시민들 발길 이어진 故 박종철 열사 39주기 추모제 
+> 
+> https://v.daum.net/v/20260110133604257
+
+좋아요 4,541 · 재게시 1,326 · 답글 392 · 조회 333,186 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2009865045908566195
+
+### 2026-01-07 19:54 — 일상·인사 · 직접 작성
+
+> <이 한반도에도 언젠가는 혼란과 적대의 비정상이 극복되고, 서로 존중하며 공존공영하는 날이 오겠지요. 북측에도 새해 복 많이 내리기를..>
+> 
+> 만나라, 뽀재명과 뽀정은
+> 
+>  https://v.daum.net/v/20260107193923976
+
+좋아요 5,952 · 재게시 1,466 · 답글 816 · 조회 835,436 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2008854774528245871
+
+### 2026-01-07 17:56 — 외교·통상 · 직접 작성 · 분류 검토 대기
+
+> 중국에서 혁신과 성장이라는 단어가 가장 잘 어울리는 도시, 상하이에서 한중 양국의 밝고 희망찬 미래를 다시금 확인했습니다. 치열한 도전 정신으로 경제 영토를 넓혀가는 기업인 여러분들이야말로 한국과 중국의 미래를 잇는 든든한 가교입니다.
+> 
+> 중국이 혁신 창업을 새로운 성장동력으로 삼아 민관의 역량을 결집하고 있는 것처럼, 한국도 벤처 30년의 성과를 발판 삼아 '국가 창업 시대'로 대전환하고자 합니다. 오늘 만난 청년 창업가들의 뜨거운 열정이 대전환의 원동력이자 한중 양국의 더 큰 성장을 이끌 자양분이 될 것입니다.
+> 
+> 양국 기업인과 창업가들이 마음껏 혁신의 길을 개척할 수 있도록, 대한민국 정부가 든든하게 뒷받침하겠습니다.
+
+좋아요 3,470 · 재게시 732 · 답글 373 · 조회 226,815 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2008825076897231199
+
+### 2026-01-07 08:38 — 외교·통상 · 직접 작성
+
+> 한중 관계 발전의 역사적 중심지이자 양국 교류의 관문, 상하이에서 천지닝 당서기님을 만났습니다. 서기님과 상하이 시민들의 따뜻한 환대에 깊이 감사드립니다.
+> 
+> 상하이에는 빼앗긴 국권을 되찾으려 함께 노력했던 양국의 역사가 오롯이 녹아 있습니다. 한중 역사에 깊이 새겨진 연대의 기억이 양국 간 협력의 미래를 더욱 단단하게 만들어줄 것입니다.
+> 
+> 한국의 좋은 친구로서 한국과 상하이 간의 유대, 나아가 한국과 중국의 우호 관계가 한층 더 두터워질 수 있도록 서기님께서 막중한 역할을 해주실 것으로 기대합니다.
+> 
+> 上海在韩中关系发展历史中占据重要位置，又是两国交流的重要门户，在这里我会见了陈吉宁市委书记。感谢陈吉宁市委书记和上海市民对我和我们代表团的热烈欢迎。
+> 上海承载着两国为恢复国权并肩作战的历史，团结的记忆已刻在韩中关系历史中，这将促进两国合作前景更加明朗坚实。
+> 我期待，陈吉宁市委书记作为韩国的好朋友，为进一步加强韩国和上海市的联系乃至韩国和中国的友好关系继续发挥重要作用。
+
+좋아요 4,123 · 재게시 886 · 답글 302 · 조회 237,571 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2008684626966179926
+
+### 2026-01-06 18:29 — 외교·통상 · 직접 작성
+
+> 자오러지 중국 전인대 상무위원장님을 만나 함께 한중 관계를 더욱 성숙히 발전시켜 나가자고 합의했습니다. 양국 의회 간 교류에서부터 인적 교류와 경제 협력까지, 양국의 우호 증진에 큰 기여를 해오신 위원장님이기에 더욱 뜻깊은 만남이었습니다.
+> 
+> 민의를 대표하는 기관으로서 한중 관계 발전에 전인대의 역할이 어느 때보다 중요합니다. 공고한 신뢰의 기반 위에 양국의 우정이 더욱 돈독해질 수 있도록 위원장님과 전인대가 적극적인 역할을 해주실 것으로 믿습니다.
+> 
+> 今天，我同赵乐际中国全国人大常委会委员长举行会晤，确认了进一步推动韩中关系成熟发展的意愿。一直以来，赵乐际委员长为推进两国议会交流、经济合作、增进两国友好作出贡献，与他的会见觉得更加富有意义。
+> 
+> 在推动韩中关系发展方面，代表中国民意的全国人大的作用尤为重要。我相信，赵委员长和全国人大为推动两国基于坚实互信、夯实韩中友谊发挥积极作用。
+
+좋아요 3,663 · 재게시 694 · 답글 311 · 조회 308,248 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2008471090847510678
+
+### 2026-01-06 18:23 — 외교·통상 · 직접 작성 · 분류 검토 대기
+
+> 벌써 세 번째 만남이라 그런지 정말 가까운 친구를 맞이하는 기분으로 리창 총리님을 만났습니다. 그만큼 기탄없이 양국 관계의 발전 방향에 대해 논의한 뜻깊은 시간이었습니다.
+> 
+> 총리님께선 중국의 경제 업무를 총괄하며 민생 안정을 담당하고 계시고, 또 한중일 정상회의의 중국 측 대표로서 역내 평화와 협력을 다지는 데 크게 기여하고 계십니다. 앞으로 민생과 평화에 입각해 한중관계를 발전시켜 나가는 것에도 큰 역할을 해주실 것으로 기대합니다.
+> 
+> 오늘의 소중한 만남이 양국 간 호혜적 협력을 확대하고, 함께 실용과 상생의 길로 나아가는 든든한 디딤돌이 될 것으로 믿습니다.
+> 
+> 因为今天是我们的第三次见面，所以我抱着与亲密朋友相见的心情与李强总理进行会见，使得我们关于两国关系发展方向的交流，更加坦诚，意义深远。
+> 
+> 李强总理总管中国经济和民生稳定，还担任韩中日领导人会议的中方代表，为促进地区和平与合作作出重大贡献。我期待，李强总理继续立足民生与和平，为推动韩中关系发展发挥更大作用。
+> 
+> 我相信，我们的宝贵缘分，将为进一步扩大两国互惠合作、走向务实共赢之路提供坚实支撑。
+
+좋아요 4,865 · 재게시 851 · 답글 263 · 조회 285,436 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2008469476241809529
+
+### 2026-01-06 08:55 — 사회 · 직접 작성
+
+> <이런 얼빠진...사자명예훼손입니다.>
+> 
+> [단독] "위안부는 매춘부"…전국 돌며 '소녀상 모욕 챌린지' 벌인 男 
+> 
+>  https://v.daum.net/v/20260106050236629
+
+좋아요 8,791 · 재게시 3,455 · 답글 696 · 조회 1,300,325 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2008326577038176361
+
+### 2026-01-05 23:42 — 외교·통상 · 직접 작성
+
+> <화질은 확실하쥬? 😁>
+> 경주에서 선물 받은 샤오미로 시진핑 주석님 내외분과 셀카 한 장..
+> 덕분에 인생샷 건졌습니다 ㅎㅎ
+> 
+> 가까이서 만날수록 풀리는 한중관계,
+> 앞으로 더 자주 소통하고 더 많이 협력하겠습니다^^
+
+좋아요 40,283 · 재게시 4,909 · 답글 3,160 · 조회 7,081,254 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2008187260437680381
+
+### 2026-01-05 11:19 — 외교·통상 · 직접 작성
+
+> 성남시장 시절 베이징을 찾았던 기억이 떠오릅니다. 세월이 흘러 이제 대한민국 대통령으로 다시 이곳을 찾아 중국 재외동포 여러분을 뵙게 되니 감회가 새롭습니다.
+> 
+> 우리는 한동안 외교 공백이라는 아픈 시간을 지나 외교 정상화를 이루기 위해 쉼 없이 달려왔습니다. 그 과정에서 여러 의미있는 성과를 거두었고, 그중에서도 오랜 기간 주춤했던 한중 관계를 전면적으로 복원한 것은 무엇보다 큰 성과라 할 수 있습니다.
+> 
+> 앞으로도 재외동포 여러분 모두가 조국과 긴밀히 연결되어 있음을 실감하실 수 있도록 국가적 지원을 아끼지 않겠습니다. 특히 소중한 주권을 행사하시는 데 불편함 없도록 제도적 보완에도 더욱 힘쓰겠습니다.
+> 
+> 어려운 여건 속에서도 연대의 정신으로 서로를 의지하며 양국을 잇는 든든한 가교가 되어주신 중국 재외동포 여러분께 다시 한번 깊은 존경과 감사 인사를 드립니다.
+
+좋아요 4,533 · 재게시 853 · 답글 418 · 조회 398,078 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2008000267288256976
+
+### 2026-01-04 09:23 — 사회 · 직접 작성
+
+> <조작정보 유포는 지속적으로 엄벌합니다..인면수심도 아니고 참사유가족에게 이게 무슨 짓인가요>
+> 
+> [속보] 이태원 참사를 “연출·조작” 조롱…‘2차가해’ 700번 반복한 70대 구속 
+>  https://v.daum.net/v/20260104090723032
+
+좋아요 5,107 · 재게시 1,949 · 답글 410 · 조회 427,447 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2007608743425659092
+
+### 2026-01-02 18:51 — 문화·체육 · 직접 작성
+
+> <GOAT.. 대상혁 청와대 등장?>
+> e-스포츠 사상 최초 체육훈장..
+> 축하합니다 페이커 선수^^ @[비공개] 
+> 
+> https://youtube.com/shorts/mtLpy_TLy64
+> 
+> #페이커 #대통령훈장 #신년인사회
+
+좋아요 6,390 · 재게시 2,483 · 답글 244 · 조회 488,430 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2007026935516553696
+
+### 2026-01-02 17:42 — 미분류 · 직접 작성 · 분류 검토 대기
+
+> <불씨>
+> 잘 살리고 키워야지요
+> 
+> https://v.daum.net/v/20260101201003052
+
+좋아요 2,049 · 재게시 549 · 답글 122 · 조회 209,201 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2007009531780575543
+
+### 2026-01-02 08:25 — 정치·국정 · 직접 작성
+
+> <대전·충남 이어 광주·전남까지?>
+> 쉽지 않아 보였던 광역단체 통합이 조금씩 속도를 내고 있습니다. 
+> 
+> 수도권 1극 체제를 극복하고 ‘지역주도 성장’의 새 길을 열어야 한다는데 국민의 뜻이 모이고 있는 것 같습니다. 
+> 
+> 여러분 의견은 어떠신가요?
+> 
+> https://v.daum.net/v/20251230151552560
+
+좋아요 2,736 · 재게시 790 · 답글 416 · 조회 256,940 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2006869528731594892
+
+### 2026-01-01 12:18 — 일상·인사 · 직접 작성
+
+> <새해엔 떡국이지요🍲>
+> 
+> https://youtube.com/shorts/O7fgWDadQjA?si=gbgjuzio55eBDcb0
+> 
+> #이재명 #병오년 #새해
+
+좋아요 3,700 · 재게시 904 · 답글 561 · 조회 114,955 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2006565769816293608
+
+## 2025년 12월 (47건)
+
+### 2025-12-30 21:15 — 외교·통상 · 직접 작성
+
+> 이게 혹시 백악관 열쇠일까요? 다음에 방문했을 때 자리에 안 계시면 이 열쇠로 문을 열고 들어가도 될런지 ㅎㅎ 
+> 
+> 소통의 의지가 듬뿍 담긴 황금열쇠가 열어줄 더욱 굳건한 한미동맹을 기원합니다. 변함없는 우정과 깊은 신뢰에 늘 감사드립니다.
+> 
+> @POTUS Could this perhaps be the key to the White House? I'm curious if I may use this key to let myself in if you happen to be away from your desk the next time I visit. 😄
+> 
+> ​I look forward to an even stronger ROK-U.S. alliance unlocked by this golden key, which embodies a mutual will to connect. Thank you, as always, for your constant friendship and deep trust.
+
+좋아요 6,129 · 재게시 1,542 · 답글 596 · 조회 340,518 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2005976123474391059
+
+### 2025-12-30 18:15 — 사회 · 직접 작성
+
+> 그간 지연되어 온 광주형 일자리 노동자 주거지원에 대해 광주광역시와 협력해 해법을 마련했습니다. 광주형 일자리 사업이 대한민국의 지속 가능한 고용 창출과 지역 균형발전을 선도하는 모범 사례로 자리매김하길 기대합니다.
+> 
+> https://www.korea.kr/news/policyNewsView.do?newsId=148957311&call_from=naver_news
+
+좋아요 2,389 · 재게시 769 · 답글 134 · 조회 78,615 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2005930611568173534
+
+### 2025-12-30 15:40 — 사회 · 직접 작성
+
+> <용산어린이정원, 온전히 국민의 품으로 돌아갑니다.>
+
+좋아요 2,862 · 재게시 1,068 · 답글 135 · 조회 117,897 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2005891831620661619
+
+### 2025-12-29 22:08 — 정치·국정 · 직접 작성
+
+> <다시, 청와대로>
+> 
+> https://youtube.com/shorts/K0LiTz0khNQ
+> 
+> #이재명 #청와대 #첫출근
+
+좋아요 4,380 · 재게시 1,223 · 답글 313 · 조회 96,462 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2005626884693102617
+
+### 2025-12-26 18:56 — 정치·국정 · 직접 작성
+
+> 국민의 생명과 안전을 지키다 순직하신 분들의 유가족 여러분을 모셨습니다. 어떤 말로도 그 슬픔을 다 헤아릴 수는 없겠지만, 오늘의 만남이 잠시나마 따뜻한 위로의 시간이 되었기를 바랍니다.
+> 
+> 때로는 타오르는 불길 속으로, 때로는 거센 파도 한가운데로, 밤낮없는 현장의 선두에서 소임을 다했던 공직자들이 있었습니다. 그 노고와 헌신이 있었기에 오늘의 대한민국은 안전합니다.
+> 
+> 국민의 부름에 가장 먼저 앞장섰던 숭고한 희생 앞에서, 무한한 존경과 무거운 책임을 느낍니다. 국민과 국가를 위한 헌신이 자긍심과 영예로 온전히 돌아오는 나라, 꼭 만들겠습니다.
+
+좋아요 2,923 · 재게시 755 · 답글 283 · 조회 72,228 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2004491520158892144
+
+### 2025-12-25 08:00 — 일상·인사 · 직접 작성
+
+> 가장 낮고 어두운 곳에서 태어나, 고통받고 아픈 이들과 평생을 함께하신 예수 그리스도를 떠올립니다. 그분의 삶이야말로 우리가 기억해야 할 진정한 성탄의 의미가 아닐까 생각합니다.
+> 
+> 다가오는 새해, 국민 여러분 모두의 일상에 따뜻한 온기와 희망이 닿을 수 있도록 더욱 최선을 다하겠습니다.
+> 
+> 매년 돌아오는 날이지만 오늘만큼은 조금 더 행복하시길, 사랑하는 이들과 눈을 마주하고 웃으며 즐거운 시간을 보내시길 바랍니다.
+> 
+> 누군가에게는 위로가 되고, 누군가에게는 쉼이 되며, 또 누군가에게는 내일을 살아갈 용기가 되는 귀한 성탄이길 두 손 모아 기도합니다.
+
+좋아요 6,435 · 재게시 1,591 · 답글 493 · 조회 224,501 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2003964010254025110
+
+### 2025-12-24 20:42 — 사회 · 직접 작성
+
+> <누구도 소외되지 않는, 따뜻한 대한민국을 위해🎄>
+> 
+> https://youtube.com/shorts/yrts1l3dMM8
+> 
+> #이재명 #희귀질환
+
+좋아요 2,886 · 재게시 703 · 답글 174 · 조회 57,940 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2003793515776786648
+
+### 2025-12-24 20:12 — 사회 · 직접 작성
+
+> 희귀질환은 이름 그대로 환자 수는 적지만, 그 고통의 무게는 결코 가볍지 않습니다. 치료과정을 넘어 돌봄과 생계의 부담까지 개인과 가족이 오롯이 감당하기엔 너무도 버겁습니다.
+> 
+> 이제 정부가 힘이 되어드리겠습니다. 희귀·중증난치질환 치료, 진단, 지원 전반에 걸친 개선책을 마련할 계획입니다. 오늘 들려주신 목소리를 반영해 세심하고 촘촘히 준비해 나가겠습니다.
+> 
+> 소수라는 이유로 배제되거나 불이익을 겪는 일 없도록 국가의 책임을 다하겠습니다. 아울러 매일같이 환자 곁을 지키며 헌신해주시는 의료진 여러분께도 깊은 감사의 마음을 전합니다.
+
+좋아요 3,621 · 재게시 1,091 · 답글 306 · 조회 96,853 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2003785956437201250
+
+### 2025-12-22 18:23 — 사회 · 직접 작성
+
+> <어르신 여러분이 우리 대한민국의 역사입니다>
+> 
+> https://youtube.com/shorts/bVA7zOcF190
+> 
+> #이재명 #대한노인회
+
+좋아요 2,117 · 재게시 523 · 답글 209 · 조회 55,936 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2003033554515845153
+
+### 2025-12-21 12:01 — 사회 · 직접 작성
+
+> 우리 경찰이 캄보디아–베트남 국경 스캠 범죄단지에 감금돼 있던 우리 국민을 무사히 구출하고, 다수의 국제 범죄조직 조직원들을 검거했습니다.
+> 
+> 낯선 땅의 위험하고 열악한 여건 속에서도 임무를 완수한 경찰관 여러분께 깊은 감사를 전합니다.
+> 
+> 앞으로도 온라인 스캠과 보이스피싱을 비롯한 국제 조직범죄를 뿌리 뽑기 위해 각국 법집행기관과의 공조를 한층 강화하며 추적, 수사, 검거, 송환 등 모든 과정에서 할 수 있는 모든 것을 다하겠습니다.
+
+좋아요 4,510 · 재게시 1,383 · 답글 344 · 조회 280,034 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2002575067931463909
+
+### 2025-12-20 09:48 — 사회 · 직접 작성
+
+> 어제 업무보고 과정에서 ‘HPV백신 접종 지원’ 관련해 잘못 전달된 정보가 있어 국민께 재차 보고 드립니다.
+> 
+> 현재 HPV 백신 무료 접종 지원 대상은 ‘만 12~17세 여성 청소년’과 ‘만 18~26세 저소득층 여성’이며, 2026년부터는 12세 남성 청소년까지 지원을 확대할 계획입니다. 
+> 
+> 국민의 건강한 삶을 보장하는 일은 마땅히 국가의 책임입니다. 앞으로 그 책임을 더욱 분명히, 더 넓게 실천해 나가겠습니다.
+
+좋아요 5,498 · 재게시 2,582 · 답글 295 · 조회 753,976 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2002179338301788316
+
+### 2025-12-17 19:40 — 경제·민생 · 직접 작성
+
+> <국가가 먼저 적정 임금 줘야 합니다>
+> 
+> https://youtube.com/shorts/fLMJS4K_YfU
+> 
+> #이재명 #업무보고 #최저임금
+
+좋아요 2,663 · 재게시 819 · 답글 316 · 조회 58,991 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2001240957723840731
+
+### 2025-12-17 19:00 — 과학기술·AI · 직접 작성
+
+> <100명 받고 400명 더🔥>
+> 
+> https://youtube.com/shorts/1T31IIVRCUs
+> 
+> #이재명 #업무보고 #중소벤처기업부 #지식재산처
+
+좋아요 1,890 · 재게시 551 · 답글 101 · 조회 55,999 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2001230976408805502
+
+### 2025-12-17 17:28 — 외교·통상 · 직접 작성
+
+> <이 영상을 모든 직장인들이 좋아합니다👍>
+> 
+> https://youtube.com/shorts/lO34KLHpTF4
+> 
+> #이재명 #업무보고 #산업통상부
+
+좋아요 2,888 · 재게시 901 · 답글 172 · 조회 66,113 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2001207843807248846
+
+### 2025-12-17 08:50 — 정치·국정 · 직접 작성
+
+> <접수 민원 1,300만 건을 보람있게 해결하는 곳👏🏻?>
+> 
+> https://youtube.com/shorts/ID9wTze-Z8c
+> 
+> #이재명 #업무보고 #국민권익위원회
+
+좋아요 1,857 · 재게시 544 · 답글 110 · 조회 46,235 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2001077462634029311
+
+### 2025-12-16 21:28 — 일상·인사 · 직접 작성 · 분류 검토 대기
+
+> "등 따습고 배부른 것이 최고"라는 말이 있지만, 여전히 우리 사회에는 그 기본적인 삶조차 누리지 못하는 분들이 계십니다. 그럼에도 우리가 희망을 잃지 않는 이유는 사랑으로 나눔을 실천하는 분들이 존재하기 때문입니다.
+> 
+> 현장에서 묵묵히 헌신하는 봉사자 여러분과 쉽지 않은 여건 속에서도 나눔을 이어가는 민간단체, 수많은 후원자 여러분의 따뜻함 덕분에 우리 사회는 여전히 사람 사는 온기를 간직하고 있습니다.
+> 
+> 말보다 실천으로, 계산보다 연대로 함께해 주시는 고귀한 마음이 대한민국을 단단히 지탱하고 있음을 깨닫습니다. 자신의 것을 기꺼이, 기쁘게 나눠주시는 모든 분들께 깊은 존경과 감사의 마음을 전합니다.
+> 
+> 앞으로도 서로가 서로의 든든한 버팀목이 되어주길 기대합니다. 정부 또한 국민 한 분 한 분이 존엄을 지키며 살아갈 수 있도록 제도의 손길이 미처 닿지 못하는 곳까지 세심히 살피며, 더욱 촘촘한 사회안전망을 만들어가겠습니다.
+
+좋아요 2,913 · 재게시 775 · 답글 234 · 조회 64,007 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2000905803356889470
+
+### 2025-12-16 18:44 — 사회 · 직접 작성
+
+> <마음을 나누는 따뜻한 겨울☃️❤️>
+> 
+> https://youtube.com/shorts/0BaeZBEgH4A?feature=share
+> 
+> #이재명 #기부나눔
+
+좋아요 2,100 · 재게시 590 · 답글 127 · 조회 41,227 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2000864651501007341
+
+### 2025-12-15 23:18 — 사회 · 직접 작성
+
+> <국민 삶 위협하는 악질 민생범죄 앞에 더 이상 국경은 없습니다.
+> 
+> 범정부적인 총력 대응으로 보이스피싱 스캠범죄 끝까지 뿌리 뽑겠습니다.>
+
+좋아요 4,149 · 재게시 1,413 · 답글 356 · 조회 196,029 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/2000571261920104573
+
+### 2025-12-11 20:08 — 미분류 · 답글 · 분류 검토 대기
+
+> 
+
+좋아요 656 · 재게시 142 · 답글 31 · 조회 30,861 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1999073879390884327
+
+### 2025-12-11 20:08 — 경제·민생 · 직접 작성 · 분류 검토 대기
+
+> 캄보디아, 오스트리아, 필리핀, 가나, 인도, 스리랑카, 레바논, 이집트 신임 주한대사들로부터 신임장을 제출받았습니다.
+> 
+> 각국과의 활발한 교류를 이어가며 양국 간 우정이 더욱 깊어지고, 협력의 지평이 한층 더 넓어지길 기대합니다.
+> 
+> 아울러 양국 관계가 정치, 경제, 문화, 교육 등 다양한 분야에서 실질적으로 발전해 양 국민 모두에게 혜택이 돌아갈 수 있도록 든든한 가교 역할을 적극적으로 수행해 주시길 요청했습니다.
+> 
+> 대한민국을 대표해 신임 주한대사 여러분을 진심으로 환영합니다. 한국에서의 모든 시간이 행복하고 따뜻한 기억으로 남길 기원합니다.
+> 
+> It was a pleasure to accept the credentials of the new ambassadors from Cambodia, Austria, the Philippines, Ghana, India, Sri Lanka, Lebanon, and Egypt.
+> 
+> ​I hope the friendship between our countries will deepen further and the scope of our cooperation will expand even wider through continued active exchanges with each nation.
+> 
+> ​I also requested the ambassadors to actively serve as a strong bridge so that our bilateral ties substantively advance across a wide range of areas, including political affairs, the economy, culture, and education, thereby bringing benefits to the people of our countries.
+> 
+> On behalf of the Republic of Korea, my heartfelt welcome to the new ambassadors on their assignments. May all their moments in Korea become happy and warm memories.
+
+좋아요 2,351 · 재게시 589 · 답글 288 · 조회 65,121 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1999073841818308855
+
+### 2025-12-10 21:25 — 과학기술·AI · 직접 작성 · 분류 검토 대기
+
+> 세상의 변화 속도가 숨 가쁠 만큼 빠릅니다. 그 변화의 한가운데 반도체가 있습니다. 반도체는 우리나라가 세계 시장에서 확고한 경쟁력을 갖춘 산업이자, 앞으로 가장 큰 잠재력을 지닌 미래 산업입니다.
+> 
+> 정부는 반도체 산업의 지속적인 도약을 위해 모든 역량을 집중하고 있습니다. 그러나 우리의 목표는 단순히 산업의 규모를 키우는 것이 아닌, 그 성장이 국민 모두의 삶에 이익으로 돌아가도록 하는 것입니다.
+> 
+> 한 기업의 성장, 한 지역의 성공에 머무르지 않고 산업 생태계 전체가 함께 발전하는 구조를 만들겠습니다. 소재·부품·장비 등 핵심 기술의 자립을 강화하고, 전후방 산업이 긴밀히 연결된 튼튼한 산업 기반을 다져 나가겠습니다.
+> 
+> 기업이 마음껏 투자할 수 있는 환경, 청년들이 일하고 싶은 지역. 이 두 가지가 함께 만들어질 때 지속 가능한 발전이 가능합니다. 정부와 기업이 함께 손잡고 대한민국 반도체 산업의 미래를 열어가겠습니다.
+
+좋아요 2,890 · 재게시 746 · 답글 291 · 조회 62,149 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1998730763026747425
+
+### 2025-12-10 21:14 — 외교·통상 · 직접 작성
+
+> 태평양도서지역은 우리나라 원양어업의 핵심 어장이자 미래 광물,에너지 자원이 잠재된 중요한 보고입니다. 비록 넓은 태평양을 사이에 두고 있지만, 우리는 같은 지구에 살아가는 공동운명체입니다.
+> 
+> 한국과 태평양도서국은 1970년 통가와의 수교 이후 반세기 넘게 우호 협력 관계를 꾸준히 심화해 왔으며, 개발협력과 기후변화 대응 등 여러 분양에서 긴밀한 실질협력을 이어가고 있습니다.
+> 
+> 우리는 그간 축적해 온 발전 경험과 기술, 재생에너지를 비롯한 녹색전환 정책을 적극 공유하며 기후위기 대응과 지속가능한 성장이라는 공동 과제를 함께 해결해 나가기로 뜻을 모았습니다.
+> 
+> 오늘 한국을 찾아주신 달튼 타겔라기 니우에 총리를 비롯한 15개 태평양도서국 정상과 외교장관 여러분을 만나뵙게 되어 매우 뜻깊게 생각합니다. 고맙습니다.
+> 
+> The Pacific Islands region is a core fishing ground for Korea’s deep-sea fisheries and a vital reservoir of potential mineral and energy resources. Despite the vast Pacific Ocean between us, we are bound by a shared destiny, living together on the same planet.
+> 
+> Korea and the Pacific Island countries have steadily deepened their friendship and cooperation for over half a century since establishing diplomatic relations with Tonga in 1970. We continue to maintain close, practical cooperation in various areas, such as development cooperation and climate change response.
+> 
+> We agreed to work together to address the common challenges of climate action and sustainable growth by actively sharing our accumulated development experience and technology, along with green transition policies, including renewable energy.
+> 
+> It was truly meaningful to meet with Prime Minister Dalton Tagelagi of Niue and the leaders and foreign ministers of the 15 Pacific Island countries visiting Korea today. Thank you.
+
+좋아요 1,909 · 재게시 504 · 답글 81 · 조회 42,535 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1998728027510092044
+
+### 2025-12-08 21:20 — 경제·민생 · 직접 작성
+
+> 대한민국이 마주한 가장 큰 도전 중 하나는 바로 '성장의 회복'입니다. 수도권 중심 일극 체제는 눈부신 경제 성과를 이뤄냈지만, 집중화가 심화되면서 오히려 국가 성장의 잠재력을 위협하는 상황에 이르렀습니다.
+> 
+> 앞으로 대한민국을 넓게 쓰겠습니다. 분권과 균형 발전, 자치권 강화를 기반으로 한 '5극 3특'이라는 새로운 틀은 각 지역이 스스로의 힘으로 미래를 열어가는 길이자 국가 전체가 튼튼한 성장 기반을 갖추는 출발점이 될 것입니다.
+> 
+> 지방시대위원회는 그동안 균형 성장, 지역 균형 발전, 자치 분권 강화를 위한 여러 전략을 차근차근 준비해 왔습니다. 오늘 그 내용을 함께 나누고 심도 있게 논의할 수 있어 매우 뜻깊게 생각합니다. 
+> 
+> 함께 성장하고 더불어 잘 사는 나라, 국민 모두가 행복한 대한민국을 반드시 만들어가겠습니다. 늘 애써주고 계신 김경수 지방시대위원장님께 깊은 감사를 전합니다.
+
+좋아요 2,876 · 재게시 759 · 답글 282 · 조회 75,102 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1998004810432594024
+
+### 2025-12-08 08:39 — 정치·국정 · 직접 작성
+
+> <정원오 구청장님이 잘하기는 잘하나 봅니다. 저의 성남 시정 만족도가 꽤 높았는데 명함도 못 내밀듯...ㅋ>
+> 
+> 성동구, 정기 여론조사 만족도 92.9%... 주민 신뢰 ‘최고’ | 다음 - 조선일보 https://v.daum.net/v/20251208060155764
+
+좋아요 6,595 · 재게시 2,596 · 답글 302 · 조회 1,567,247 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1997813220351017088
+
+### 2025-12-07 20:37 — 사회 · 직접 작성
+
+> <경기도에서 했던 걸 전국으로 시행했습니다>
+> 
+> 국민여러분, 
+> 이제 엠블런스 의심하지 마시고 길 좀 잘 터 주십시오
+> 
+> 연예인 태우고, 출퇴근용으로…'가짜 구급차', 결국..
+> https://v.daum.net/v/20251207120147023
+
+좋아요 6,287 · 재게시 2,448 · 답글 270 · 조회 1,492,533 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1997631549433397558
+
+### 2025-12-07 17:14 — 경제·민생 · 인용
+
+> k-푸드 수출 전망은 매우 밝고, 따라서 창업 전망도 우수합니다.
+> 
+> 앞으로 창업국가 대한민국은 취업만큼 창업이 중요해 질 것입니다.
+
+좋아요 2,088 · 재게시 557 · 답글 92 · 조회 107,982 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1997580496206004645
+
+### 2025-12-07 17:09 — 일상·인사 · 인용
+
+> 해양중심도시 부산..한다면 합니다. 
+> 동참에 감사합니다.
+
+좋아요 3,559 · 재게시 1,192 · 답글 104 · 조회 151,525 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1997579105219563991
+
+### 2025-12-07 17:08 — 경제·민생 · 리트윗
+
+> RT @[비공개]: 오늘 해운의 미래를 위한 큰 결단이 내려졌습니다.
+> 에이치라인해운과 SK해운이
+> 본사를 부산으로 이전하기로 했습니다.
+> 
+> 두 선사는 해양수도권 조성의 비전에 공감해 주셨고,
+> 동남권이 가진 해운·항만·조선·물류의 힘을 믿고
+> 더 큰 도…
+
+좋아요 0 · 재게시 435 · 답글 0 · 조회 34 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1997578836545057142
+
+### 2025-12-07 11:25 — 경제·민생 · 직접 작성
+
+> <저수지 준설과 같은 원리입니다.>
+> 
+> 도덕적 해이 유발 주장도 대체적으로 허구임이 증명..
+> 
+> [단독] 1000만원 ‘생계형 빚’ 탕감했더니 놀라운 결과…10명 중 4명 “소득 증가” https://v.daum.net/v/20251207055348520
+
+좋아요 2,824 · 재게시 1,068 · 답글 226 · 조회 258,300 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1997492559883682050
+
+### 2025-12-06 21:48 — 과학기술·AI · 리트윗
+
+> RT @msitminister: 대통령님과 손정의 소프트뱅크 회장, 르네 하스 ARM 대표의 면담에 배석했습니다.
+> 
+> 대통령님은 AI 역량을 상·하수도처럼 모든 국민이 누리는 기본 인프라로 활용할 수 있음을 언급하셨고, 손정의 회장은 ASI 초지능을…
+
+좋아요 0 · 재게시 219 · 답글 0 · 조회 38 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1997287080049971571
+
+### 2025-12-05 21:03 — 과학기술·AI · 직접 작성
+
+> 한국을 방문한 손정의 소프트뱅크 회장님과 우리나라 AI 산업의 미래에 대해 깊이 있는 대화를 나누었습니다. 김대중, 문재인 대통령 시절 우리 경제와 기술 발전 방향에 큰 통찰을 제시해주셨던 손 회장님은 이번에도 대한민국이 더 높이 도약할 길을 함께 고민해주셨습니다.
+> 
+> AI 강국으로 가기 위해서는 무엇보다 국제 협력이 필수적이며, 특히 일본과의 AI 협력은 양국 모두에게 중요한 기회가 될 것입니다. 손 회장님께서 양국을 잇는 가교 역할을 해주신다면, 대한민국과 일본이 함께 더 큰 혁신의 시대로 나아갈 수 있으리라 기대합니다.
+> 
+> 정부는 AI의 위험성을 신중하게 관리하면서도, 그 유용성과 잠재력을 최대한 끌어올리기 위한 노력을 멈추지 않을 것입니다. 세계 최대 칩리스 반도체 기업 ARM과 함께 추진할 ARM School 설립 또한 우리 AI·반도체 분야 인재 양성에 중요한 전환점이 되리라 확신합니다.
+> 
+> 앞으로 AI는 물과 전기, 도로처럼 모두가 함께 누리는 새로운 공공 인프라가 될 것입니다. 기술을 통해 국민의 삶을 더 나은 방향으로 이끌고, 모든 국민이 AI의 혜택을 고르게 누리는 ‘AI 기본사회’의 비전을 실현하기 위해 더욱 속도감 있게 나아가겠습니다.
+
+좋아요 2,566 · 재게시 661 · 답글 178 · 조회 104,468 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1996913282725429481
+
+### 2025-12-05 18:43 — 국방·안보 · 직접 작성
+
+> 한국과 루마니아는 1990년 수교 이후 정무·경제·문화·인적교류를 비롯한 다양한 분야에서 긴밀한 협력을 이어왔으며, 최근 방산과 원전 분야로까지 협력의 폭을 넓혀가고 있습니다.  한국 방산의 기술력을 높이 평가해 주신 니쿠쇼르 다니엘 단 루마니아 대통령께 앞으로도 우수한 우리 기업들이 루마니아의 국방력 강화에 지속적으로 기여할 수 있길 바란다고 전했습니다.  양국은 항만과 인프라 분야에서도 새로운 협력 기회를 모색하기로 했으며, 교역·투자 확대는 물론 인적교류와 문화 협력 강화에도 함께 노력하자고 뜻을 모았습니다.   올해는 한-루마니아 수교 35주년을 맞는 뜻깊은 해입니다. 단 대통령님과 조속한 시일 내 직접 만나, 보다 구체적인 협력 방안을 논의할 수 있길 기대합니다.
+> 
+> @NicusorDanRO Since the establishment of diplomatic relations in 1990, Korea and Romania have maintained close cooperation across a wide range of fields, including political affairs, the economy, culture, and people-to-people exchanges. In recent years, our partnership has further expanded into the defense and nuclear power sectors.  I expressed my hope to President Nicușor Daniel Dan of Romania, who highly values the technological excellence of Korea’s defense industry, that our outstanding companies will continue to contribute to strengthening Romania’s defense capabilities.  The two countries also agreed to explore new opportunities for cooperation in ports and infrastructure, and to work together to expand trade and investment, as well as to deepen people-to-people and cultural exchanges.  This year marks the meaningful 35th anniversary of diplomatic ties between Korea and Romania. I look forward to meeting President Dan in person at an early date to discuss more concrete avenues for cooperation.
+
+좋아요 1,882 · 재게시 461 · 답글 112 · 조회 42,197 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1996878151620637000
+
+### 2025-12-05 00:11 — 정치·국정 · 리트윗 · 분류 검토 대기
+
+> RT @mofa_kr: 볼리비아 정부는 우리나라를 포함한 8개국 국가의 일반여권 소지자에 대해 12월 3일부로 무사증 입국을 확대 적용할 예정임을 발표하였습니다.>https://vo.la/LOeFgS2
+
+좋아요 0 · 재게시 300 · 답글 0 · 조회 37 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1996598206927610288
+
+### 2025-12-04 21:00 — 경제·민생 · 직접 작성
+
+> 대한민국은 식민지에서 해방된 이후 산업화와 민주화를 동시에 이뤄낸 유일한 나라입니다. 이러한 역사적 성취의 중심에는 언제나 산업 역군 여러분이 계셨습니다. 
+> 
+> 제조업 최전선과 수출 현장에서 묵묵히 땀 흘리며 우리 경제의 기둥을 세워오신 모든 분께 경의를 표합니다. 여러분의 노력과 헌신이 있었기에 대한민국이 경제 강국으로 성장할 수 있었습니다.
+> 
+> 정부도 산업 역군 여러분에 걸맞는 대한민국을 만들기 위해 전력을 기울이고 있습니다. 무엇보다 삶을 이어가기 위해 나선 일터에서 생명을 잃거나 다치는 일이 결코 없도록 할 것입니다.
+> 
+> 대한민국 산업의 뿌리를 지켜온 모든 분께 다시 한번 깊이 감사드립니다. 늘 자부심을 가지고 일하실 수 있도록 땀과 수고가 정당하게 인정받는 나라를 반드시 만들겠습니다.
+
+좋아요 2,616 · 재게시 726 · 답글 177 · 조회 48,397 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1996550209783169038
+
+### 2025-12-04 19:00 — 정치·국정 · 직접 작성
+
+> <작은 회복이 모여, 다시 세우는 대한민국!>
+> 
+> https://youtube.com/shorts/zcfiMdTYmuA
+> 
+> #이재명 #대수보
+
+좋아요 1,514 · 재게시 434 · 답글 92 · 조회 28,719 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1996519855160533047
+
+### 2025-12-04 18:18 — 국방·안보 · 직접 작성
+
+> <어려운 고개를 넘어온 '산업역군' 동지들🤝>
+> 
+> https://youtube.com/shorts/6cZ5rxh5wug
+> 
+> #이재명 #산업역군 #오찬
+
+좋아요 1,537 · 재게시 449 · 답글 74 · 조회 36,626 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1996509347023835362
+
+### 2025-12-03 23:11 — 국방·안보 · 직접 작성 · 분류 검토 대기
+
+> 스포츠는 우리 마음속에 간직된 추억을 다시 불러일으키는 마법과도 같은 힘을 지니고 있습니다. 1988년 서울 곳곳을 수놓았던 올림픽 오륜기의 모습이 아직도 눈에 선합니다. 
+> 
+> 커스티 코번트리 국제올림픽위원회(IOC) 위원장님의 말씀처럼, 7년 전 남북 단일팀이 손을 맞잡고 공동 입장하던 감동의 순간 또한 오래도록 우리의 기억에 남아 있을 것입니다. 
+> 
+> 최근 대한민국은 2018 평창 동계올림픽, 2024 강원 동계청소년올림픽을 성공적으로 치르며 국제 스포츠 무대에서 큰 역할을 해왔습니다. 
+> 
+> 앞으로도 스포츠가 만들어내는 화합과 평화의 힘을 바탕으로 더욱 자랑스러운 대한민국을 만들어가겠습니다. 머지않아 우리 땅에 다시 오륜기가 힘차게 펄럭이는 모습을 국민 여러분과 함께 맞이할 수 있길 기원합니다.
+
+좋아요 1,967 · 재게시 461 · 답글 104 · 조회 75,788 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1996220665771520465
+
+### 2025-12-03 20:24 — 문화·체육 · 직접 작성
+
+> <IOC와 함께! K-스포츠로 세상을 놀라게>
+> 
+> https://youtube.com/shorts/ePkpq7Z-8T0?feature=share
+> 
+> #이재명 #IOC #올림픽
+
+좋아요 1,298 · 재게시 352 · 답글 64 · 조회 49,986 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1996178696634532068
+
+### 2025-12-03 20:18 — 정치·국정 · 직접 작성 · 분류 검토 대기
+
+> <특별한 날 모인 특별한 사람들...?>  
+> 
+> https://youtube.com/shorts/M1y1oXyuNSA
+> 
+> #이재명 #빛의혁명 #국민주권정부
+
+좋아요 1,321 · 재게시 378 · 답글 79 · 조회 27,505 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1996177191537955267
+
+### 2025-12-03 20:10 — 정치·국정 · 직접 작성 · 분류 검토 대기
+
+> <K-민주주의? 사실 제가 만든 말인데요 😄>
+> 
+> https://youtube.com/shorts/wkKe1m8mKKk
+> 
+> #이재명 #K민주주의 #외신기자회견
+
+좋아요 1,939 · 재게시 571 · 답글 140 · 조회 45,252 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1996175233435463915
+
+### 2025-12-03 19:03 — 정치·국정 · 직접 작성
+
+> ‘빛의 혁명’이 시작된 지 꼭 1년, 헌정 질서를 수호할 최고 책임자들과 만나 뵈니 그 의미가 한층 더 깊게 다가옵니다.
+> 
+> 우원식 의장님께서 건네주신 기념패의 이름처럼, 민주주의를 지켜낸 국민의 뜨거운 열망은 ‘꺼지지 않는 기억’으로 역사에 새겨질 것입니다. 그 준엄한 명령에 따라 ‘국민이 주인인 나라’를 만드는 일은 오늘 모인 우리가 함께 짊어진 공동의 책무입니다.
+> 
+> 정부는 국민주권의 변함없는 원칙을 나침반 삼아 민생을 최우선시하는 국정을 실현해 나가겠습니다. 굳건한 민주주의를 토대로 위기 극복, 성장과 도약, 국민통합까지 산적한 과제를 해결하는 일에 힘을 모아주실 것으로 믿습니다.
+> 
+> 앞으로 더 자주 뵙고 지혜를 구하겠습니다.
+
+좋아요 2,951 · 재게시 848 · 답글 177 · 조회 50,143 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1996158285003800706
+
+### 2025-12-03 17:32 — 정치·국정 · 직접 작성
+
+> <국민이 지킨 대한민국🇰🇷✨>
+> 
+> https://youtube.com/shorts/eHIpiXjxjQo?feature=share
+> 
+> #이재명 #빛의혁명 #노벨평화상
+
+좋아요 2,108 · 재게시 675 · 답글 129 · 조회 40,699 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1996135457223323736
+
+### 2025-12-02 22:05 — 정치·국정 · 직접 작성
+
+> <아니 벌써요? 😮>
+> 
+> 빠르지만 세심하게! 
+> 국민의 삶을 지키고  더 나은 내일을 만들겠습니다  
+> 
+> http://youtube.com/shorts/8jeDLrszd9c
+> 
+> #이재명 #국무회의
+
+좋아요 2,098 · 재게시 578 · 답글 152 · 조회 36,752 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1995841642767777992
+
+### 2025-12-02 21:29 — 정치·국정 · 직접 작성 · 분류 검토 대기
+
+> <분단 80년, 이제 평화로 미래를 엽니다>    
+> 
+> https://youtube.com/shorts/kaqki7sd674
+> 
+> #이재명 #민주평화통일자문회의
+
+좋아요 1,665 · 재게시 480 · 답글 54 · 조회 31,530 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1995832597671530742
+
+### 2025-12-02 17:05 — 정치·국정 · 직접 작성
+
+> <빛의 혁명 1년, 멈추지 않는 민주주의>  
+> 
+> https://youtube.com/shorts/rkzRire7l7U
+> 
+> #이재명 #빛의혁명 #내란의밤
+
+좋아요 2,933 · 재게시 877 · 답글 227 · 조회 94,315 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1995766183442960539
+
+### 2025-12-02 09:00 — 정치·국정 · 직접 작성 · 분류 검토 대기
+
+> <‘충남의 마음을 듣다’ 충남도민 200분을 모십니다>
+> 
+> 국민 여러분의 목소리를 가까이에서 듣고자 시작한 타운홀미팅, 대한민국의 중심 충청남도에서 일곱 번째 만남을 갖습니다.
+> 
+> 국토의 한가운데에 자리한 충남은 전국 어디서나 접근이 용이할 뿐 아니라 반도체와 디스플레이 등 첨단산업이 빠르게 집적·성장하는 우리 경제의 핵심 거점입니다.
+> 
+> 풍부한 해양자원과 넓은 갯벌, 농어촌의 생명력까지 두루 갖춘 충남이 더 큰 발전을 이룰 수 있도록 도민 여러분의 지혜를 모아주시기 바랍니다. 균형 발전과 지속 가능한 성장의 상징이 될 충남의 미래를 설계하는 밑거름이 될 것입니다.
+> 
+> 타운홀 미팅을 거듭할수록 국민의 집단지성에 대한 확신이 깊어져 갑니다. 도민 여러분의 생생한 목소리를 바탕으로 합리적이고 지속 가능한 해법을 함께 찾아가겠습니다.
+> 
+> - 모집 인원 : 충남도민 200명
+> 
+> - 행사 날짜 : 2025년 12월 5일(금)
+> *시간, 장소는 경호상의 이유로 추후 안내 예정
+> 
+> - 참여 신청 : 2025년 12월 2일(화) 09시 ~ 12월 3일(수) 14시까지 네이버폼 접수(  )
+> * 신원 확인이 어려운 경우 출입이 제한될 수 있으니, 신청 시 이름과 주민등록번호를 정확하게 기입해 주시기 바랍니다.
+> * 선정되신 분들께는 시간과 장소 안내 및 참석 여부 확인 전화를 드릴 예정입니다.
+
+좋아요 1,809 · 재게시 573 · 답글 147 · 조회 57,603 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1995644080588460428
+
+### 2025-12-01 11:10 — 국방·안보 · 직접 작성
+
+> <전쟁날 뻔..위대한 대한국민이 막았습니다>
+> 
+> 계엄 명분으로 전쟁을 개시하려고, 군대를 시켜 북한에 풍선까지 날려..
+> 
+> 곳곳에 숨겨진 내란행위를 방치하면 언젠가 반드시 재발합니다.
+> 
+> https://www.hani.co.kr/arti/politics/defense/1232087.html#ace04ou
+
+좋아요 5,391 · 재게시 1,992 · 답글 605 · 조회 220,000 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1995314405748441508
+
+## 2025년 11월 (74건)
+
+### 2025-11-28 22:47 — 정치·국정 · 직접 작성
+
+> <대한민국의 위상을 만든 조용한 헌신>
+> 
+> https://youtube.com/shorts/ZezhKWQLwNg
+> 
+> #이재명 #국정원
+
+좋아요 2,233 · 재게시 567 · 답글 191 · 조회 46,013 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1994402871983624609
+
+### 2025-11-28 20:56 — 사회 · 직접 작성
+
+> 취임 후 처음으로 국가정보원을 방문해 주요 성과와 미래 발전방안에 대한 업무보고를 받았습니다.
+> 
+> 먼저, 과거의 어두운 역사를 성찰하고 특별감사를 통해 과오를 시정하며 신뢰 회복을 위해 노력하는 국정원을 치하했습니다.
+> 
+> 최근 캄보디아 대학생 사건 주범 체포와 스캠 범죄 해결에서 보여준 탁월한 역할을 높이 평가하며, 국내 마약 조직 단속에도 힘써줄 것도 당부했습니다.
+> 
+> "정보는 국력"이라는 국정원의 원훈처럼, 국정원이 바로 서면 대한민국이 강해집니다. 보이지 않는 헌신과 희생에 다시 한번 깊은 감사를 전합니다.
+
+좋아요 2,949 · 재게시 742 · 답글 294 · 조회 65,522 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1994374958777004506
+
+### 2025-11-27 18:28 — 과학기술·AI · 직접 작성
+
+> <휴식 없이 업무모드🔥 누리호 발사 성공 축하합니다>
+> 
+> https://youtube.com/shorts/meocYS2My8Y
+> 
+> #이재명 #누리호 #대수보
+
+좋아요 3,926 · 재게시 924 · 답글 222 · 조회 64,141 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1993975228150755736
+
+### 2025-11-26 14:25 — 외교·통상 · 직접 작성
+
+> <7박 10일동안 3만 1,000km..그래도 아쉽습니다🥲>
+> 
+> https://youtube.com/shorts/rN_ttql_4Wk
+> 
+> #이재명 #튀르키예 #동포간담회
+
+좋아요 2,427 · 재게시 643 · 답글 205 · 조회 44,594 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1993551711965970514
+
+### 2025-11-26 10:30 — 외교·통상 · 직접 작성
+
+> <용기와 헌신에 꽃을 올립니다🇰🇷🇹🇷>
+> 
+> https://youtu.be/dO1zjxSpqQM?si=4OwrMyv74SX7jKIS
+> 
+> #이재명 #튀르키예 #참전비 #헌화
+
+좋아요 2,051 · 재게시 509 · 답글 110 · 조회 37,681 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1993492408928293111
+
+### 2025-11-25 23:30 — 국방·안보 · 직접 작성 · 분류 검토 대기
+
+> ‘형제의 나라’ 튀르키예에서 동포 여러분을 만나 뵙고 인사드리니 오랜만에 가족을 만난 것처럼 반갑고 가슴 따뜻해지는 시간이었습니다.
+> 
+> 한국과 튀르키예는 크고 작은 어려움이 있을 때마다 서로의 손을 잡고 함께 비를 맞아왔습니다. 그 상호 연대의 중심에 우리 동포 사회의 헌신이 있습니다.
+> 
+> 대한민국의 얼굴이자 외교관으로서, 동포 여러분께서 쌓아온 깊은 우정을 토대로 국방·방산, 원전, 신재생에너지, 문화 교류에 이르기까지 양국 간 협력의 지평은 더욱 넓어질 것입니다.
+> 
+> 대한민국은 동포들을 포함해 6,000만 주권자 한 분 한 분의 목소리가 중요한 민주국가입니다. 앞으로도 더 나은 모국의 미래를 위해 적극적인 역할을 해주실 것을 당부드립니다. 조국이 여러분의 든든한 지지자가 되겠습니다.
+
+좋아요 2,406 · 재게시 568 · 답글 137 · 조회 48,109 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1993326308462641558
+
+### 2025-11-25 23:20 — 국방·안보 · 직접 작성 · 분류 검토 대기
+
+> 튀르키예는 한국전쟁 당시 2만 3천여명의 장병을 파병하며 대한민국의 자유와 평화를 위해 함께 싸워준 형제의 나라입니다.
+> 
+> 수도 앙카라에 위치한 한국전 참전 기념탑을 방문해 참전용사 분들의 숭고한 희생을 기렸습니다. 헌화에 함께해 주신 네 분의 생존 참전용사께도 깊은 존경과 감사를 전했습니다. 
+> 
+> 모든 분들의 헌신이 결코 헛되지 않도록 양국 간 우정과 협력을 더욱 굳건히 하며, 미래 세대에게 평화의 가치를 전할 수 있도록 노력하겠습니다.
+> 
+> 형제들의 용기 덕에 대한민국의 오늘이 존재합니다. 우리는 그 은혜를 영원히 기억할 것입니다. 참전용사와 유가족분들께 다시 한번 머리 숙여 경의를 표합니다.
+
+좋아요 2,236 · 재게시 573 · 답글 84 · 조회 43,691 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1993323910172230041
+
+### 2025-11-25 11:38 — 외교·통상 · 직접 작성 · 분류 검토 대기
+
+> 튀르키예 국부 무스타파 케말 아타튀르크의 영묘 '아느트카비르'를 찾아 헌화하며 순방 일정을 시작했습니다.
+> 
+> "주권은 제한 없이, 조건 없이 국민의 것"임을 강조한 아타튀르크를 기리며, 국민주권의 가치를 다시 한번 마음 깊이 새겼습니다.
+> 
+> 한국전쟁을 계기로 맺어진 양국의 인연은 경제, 문화, 인적 교류를 넘어 미래지향적 동반자로 발전하고 있습니다. 대한민국 대통령이 취임 첫 해에 튀르키예를 방문한 것은 처음이라 더욱 뜻깊습니다.
+> 
+> '칸 카르데쉬(피로 맺어진 형제)'인 대한민국과 튀르키예가 오랜 우정을 바탕으로 평화와 번영이라는 시대적 과제를 함께 해결해 나갈 수 있길 기대합니다.
+
+좋아요 1,880 · 재게시 477 · 답글 82 · 조회 50,935 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1993147197043708243
+
+### 2025-11-25 09:12 — 외교·통상 · 직접 작성
+
+> <형제와 함께 꿈을 꿉니다 🇰🇷🇹🇷>
+> 
+> https://youtube.com/shorts/1WFYHpIxn9E
+> 
+> #이재명 #튀르키예 #정상회담 #공식환영식
+
+좋아요 1,806 · 재게시 473 · 답글 73 · 조회 36,758 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1993110456752623957
+
+### 2025-11-25 09:08 — 외교·통상 · 직접 작성
+
+> <형제와의 뜨거운 약속 🇰🇷🤝🇹🇷>
+> 
+> https://youtube.com/shorts/mKNdg_DltHk
+> 
+> #이재명 #튀르키예 #공동언론발표
+
+좋아요 1,439 · 재게시 412 · 답글 66 · 조회 31,722 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1993109595385221233
+
+### 2025-11-25 02:36 — 외교·통상 · 직접 작성
+
+> <공동 번영을 위해, 🇹🇷피를 나눈 형제국과 함께>
+> 
+> https://youtube.com/shorts/SeyewY2qqGo
+> 
+> #이재명 #튀르키예 #국부묘소
+
+좋아요 1,530 · 재게시 387 · 답글 64 · 조회 31,931 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1993010965731065923
+
+### 2025-11-24 22:29 — 외교·통상 · 직접 작성
+
+> <✈️ 해외순방에서 느낀 것인데…>
+> 
+> https://youtube.com/shorts/Sab0N4_tjz0
+> 
+> #이재명 #순방 #기내 #기자간담회
+
+좋아요 2,534 · 재게시 705 · 답글 186 · 조회 56,060 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1992948640038666374
+
+### 2025-11-24 14:56 — 외교·통상 · 직접 작성
+
+> 📸 11월 23일 남아프리카 공화국 현장
+> 
+> 각국 정상들과 ‘모두를 위한 공정한 미래’를 고민하고 삼만 리 떨어진 이곳, 남아공에서 자랑스러운 우리 동포들과 따뜻한 밥 한 끼 나누었습니다. 어느덧 7박 10일 순방 일정의 마무리입니다. 이제 이번 순방 마지막 국가, 튀르키예로 향합니다🇹🇷
+> 
+> #오늘의_국정기록 #남아프리카공화국 #G20
+
+좋아요 1,923 · 재게시 540 · 답글 136 · 조회 44,626 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1992834679335186651
+
+### 2025-11-24 13:26 — 외교·통상 · 직접 작성
+
+> <삼만리 떨어진 곳에서 만난 대한민국 🇰🇷🇿🇦>
+> 
+> https://youtube.com/shorts/uNAe-Qqhw_A
+> 
+> #이재명 #남아프리카공화국 #동포간담회
+
+좋아요 1,388 · 재게시 396 · 답글 67 · 조회 32,779 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1992812106589311315
+
+### 2025-11-23 23:44 — 정치·국정 · 직접 작성
+
+> 1992년 대한민국과 남아프리카공화국 수교 이래 처음으로 재외동포 여러분과 정부가 한자리에 함께하게 되어 매우 뜻깊게 생각합니다. 오랜 세월 머나먼 이국땅에서 양국의 가교 역할을 해 오신 동포 여러분께 깊은 감사를 전합니다.
+> 
+> ‘당신이 있기에 내가 있다’는 우분투 정신을 실천하며 상생과 연대를 바탕으로 조국의 국격을 높이고 계신 동포 여러분이 참으로 자랑스럽습니다.
+> 
+> 재외선거제도 개선과 같은 동포 사회의 오랜 염원이 조속히 실현되도록 지원하고, 나아가 조국과 끈끈하게 연결되어 있음을 더욱 체감하실 수 있게끔 노력하겠습니다.
+> 
+> 더불어 남아프리카공화국에 진출한 우리 기업의 발전과 동포사회의 지속적인 번영을 위한 지원 방안도 세심히 살필 것을 약속드립니다. 남아프리카공화국 동포 여러분 모두의 건강과 행복을 기원합니다.
+
+좋아요 1,646 · 재게시 454 · 답글 86 · 조회 46,034 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1992605108262379582
+
+### 2025-11-23 23:38 — 정치·국정 · 직접 작성 · 분류 검토 대기
+
+> 지난 7월 첫 통화 이후 약 4개월 만에 프리드리히 메르츠 독일 총리와 양자회담을 갖게 되어 매우 기쁘게 생각합니다.
+> 
+> 제조업 강국이자 분단의 아픔을 겪은 독일은 우리나라와 공통점이 많은 국가입니다. 우리는 이러한 연대를 바탕으로 강력한 파트너십을 구축해 왔으며, 앞으로 에너지와 핵심광물 분야를 중심으로 협력을 더욱 강화할 계획입니다.
+> 
+> 독일 경제계 주최 아태비즈니스회의가 내년 한국에서 개최되는 만큼, 양국 경제인 간 네트워킹 강화와 호혜적 경제협력 확대에도 함께 노력할 것입니다. 특히 독일이 방산 강국인 점을 고려해 우리 방산기업에 대한 관심도 요청했습니다.
+> 
+> 아울러 한반도 긴장 완화와 평화 구축을 위한 독일의 지지를 당부드리며, 내년 상호 방문을 통해 양국 관계를 더욱 굳건히 발전시켜 나가기로 뜻을 모았습니다.
+> 
+> @_FriedrichMerz  Ich freue mich sehr über das bilaterale Treffen mit Herrn S.E. Bundeskanzler Friedrich Merz, rund vier Monate nach unserem ersten Telefongespräch im Juli.
+> 
+> Deutschland ist eine starke Industrienation, welche ebenfalls die schmerzhafte Erfahrung der Teilung durchgemacht hat. Uns verbinden deshalb viele Gemeinsamkeiten. Auf dieser Solidarität aufbauend haben wir eine enge Partnerschaft entwickelt und wollen unsere Zusammenarbeit insbesondere in den Bereichen Energie und kritische Rohstoffe weiter vertiefen.
+> 
+> Da die von der deutschen Wirtschaft ausgerichtete Asien-Pazifik-Konferenz der Deutschen Wirtschaft nächstes Jahr in Südkorea stattfindet, werden wir unsere personelle Vernetzung der Wirtschaft beider Länder stärken und die für beide Seiten vorteilhafte wirtschaftliche Zusammenarbeit weiter ausbauen. Angesichts der starken deutschen Verteidigungsindustrie möchten wir insbesondere das Interesse an unseren Verteidigungsunternehmen wecken.
+> 
+> Darüber hinaus haben wir Deutschland ermuntert, uns bei der Entspannung der Lage und der Schaffung von Frieden auf der koreanischen Halbinsel weiterhin zu unterstützen. Außerdem waren wir uns einig, gegenseitige Besuche im nächsten Jahr anzustreben, um die bilateralen Beziehungen zu vertiefen.
+
+좋아요 1,917 · 재게시 476 · 답글 117 · 조회 46,038 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1992603733063295432
+
+### 2025-11-23 23:29 — 외교·통상 · 직접 작성
+
+> 에마뉘엘 마크롱 프랑스 대통령과 첫 정상회담을 가졌습니다. 지난 6월 캐나다 G7 정상회의에서 처음 인사를 나누고, 9월 전화 통화 이후 이렇게 다시 만나게 되어 매우 기쁘게 생각합니다.
+> 
+> 양국은 첨단산업과 신재생에너지를 중심으로 활발한 상호 투자를 이어가고 있습니다. 앞으로 방산뿐 아니라 AI, 우주와 같은 첨단기술 분야에서도 협력이 확대되길 기대합니다.
+> 
+> 특히 양국 모두가 문화의 힘을 통해 세계 무대에서의 영향력을 펼치고 있는 만큼, 문화 교류와 협력에서도 함께 새로운 기회를 창출할 수 있으리라 생각합니다.
+> 
+> 2026년은 한-프랑스 수교 140주년을 맞이하는 뜻깊은 해입니다. 마크롱 대통령과의 상호 방문을 통해 여러 분야의 협력을 더욱 구체화하고, 새로운 발전의 전기를 마련하길 희망합니다.
+> 
+> @EmmanuelMacron Heureux d’avoir rencontré à nouveau le président Emmanuel Macron pour notre premier sommet. Depuis notre première rencontre au G7 au Canada et notre appel en septembre, c’est un vrai plaisir de le revoir.
+> 
+> La Corée et la France poursuivent des investissements mutuels dynamiques, notamment dans les industries de pointe et les énergies renouvelables. J’espère que notre coopération s’étendra également aux domaines des technologies de pointe tels que la défense, l’IA et l’espace.
+> 
+> En particulier, puisque nos deux pays exercent leur influence sur la scène mondiale grâce à la force de leur culture, je pense que nous pourrons créer de nouvelles opportunités d’échanges et de coopération culturelle.
+> 
+> L’année 2026 marquera le 140ᵉ anniversaire de l’établissement des relations diplomatiques entre la Corée et la France. J’espère qu’à travers des visites mutuelles avec le président Macron, nous pourrons concrétiser davantage notre coopération dans divers domaines et ouvrir une nouvelle étape de développement.
+
+좋아요 2,404 · 재게시 634 · 답글 89 · 조회 50,791 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1992601488137584701
+
+### 2025-11-23 22:01 — 외교·통상 · 직접 작성 · 분류 검토 대기
+
+> <모두를 위한 미래, 세 가지 제안>  
+> 
+> https://youtube.com/shorts/ivGcw3Gi_lM
+> 
+> #이재명 #g20 #정상회의
+
+좋아요 1,517 · 재게시 421 · 답글 69 · 조회 42,053 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1992579277888631141
+
+### 2025-11-23 14:45 — 외교·통상 · 직접 작성
+
+> <글로벌 복합위기에 대응하는 대한민국의 자세🇰🇷>
+> 
+> https://youtube.com/shorts/hSzIVe_h9eM?si=rjGRTxzA48cCf1sS
+> 
+> #이재명 #g20 #글로벌복합위기
+
+좋아요 1,490 · 재게시 456 · 답글 68 · 조회 38,646 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1992469583471767788
+
+### 2025-11-23 04:27 — 외교·통상 · 직접 작성
+
+> <독일의 '시크릿 노하우' 😅>
+> 
+> https://youtube.com/shorts/hk1ev0wfeVI
+> 
+> #이재명 #G20 #독일 #정상회담
+
+좋아요 1,721 · 재게시 451 · 답글 71 · 조회 42,817 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1992313997077680186
+
+### 2025-11-23 04:04 — 외교·통상 · 직접 작성
+
+> <또 만났네요...💘>  
+> 
+> https://youtube.com/shorts/9bnU5iJfbbI
+> 
+> #이재명 #마크롱 #프랑스
+
+좋아요 2,398 · 재게시 584 · 답글 73 · 조회 61,417 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1992308142206779473
+
+### 2025-11-23 02:36 — 외교·통상 · 직접 작성
+
+> <믹타를 아시나요? 😯>
+> 
+> https://youtube.com/shorts/Gi2yDQXDlUo
+> 
+> #이재명 #믹타 #MIKTA
+
+좋아요 1,741 · 재게시 496 · 답글 46 · 조회 46,223 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1992286013121863774
+
+### 2025-11-23 02:09 — 외교·통상 · 직접 작성
+
+> <2025년 마지막 다자외교 현장🇿🇦>
+> 
+> https://youtube.com/shorts/kmJrY1Ebo2g
+> 
+> #이재명 #G20SouthAfrica #남아프리카공화국
+
+좋아요 1,480 · 재게시 398 · 답글 53 · 조회 33,237 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1992279370380316673
+
+### 2025-11-21 16:00 — 외교·통상 · 직접 작성
+
+> <든든한 뒷배가 되는 국가로 🇰🇷🇪🇬>
+> 
+> http://youtube.com/shorts/tn3IvQ5vgCU
+> 
+> #이재명 #이집트 #Egypt
+
+좋아요 1,819 · 재게시 502 · 답글 134 · 조회 48,025 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1991763578836386274
+
+### 2025-11-21 12:50 — 외교·통상 · 직접 작성
+
+> 광복 80주년을 맞는 뜻깊은 해, 대한민국의 독립이 처음으로 공식화되었던 카이로에서 조국의 위상을 높이고 계신 동포, 교민 여러분을 뵐 수 있어 참으로 각별한 시간이었습니다.
+> 
+> 한국-이집트 수교 30년, 양국이 쌓아 올린 깊은 우호 관계의 토대에는 각 분야에서 묵묵히 활약하며 가교역할을 해주신 여러분의 땀과 헌신이 자리하고 있습니다. 말 그대로 ‘이역만리’ 타지에서 일궈낸 성취이기에 더욱 뜻깊습니다. 
+> 
+> 문화부터 경제, 방위산업까지 한국과 이집트 간 협력의 지평은 지금보다 훨씬 넓어질 것입니다. 양국이 함께 성장하는 새로운 미래 앞에서 우리 동포, 교민 여러분의 역할과 책임이 더욱 막중해질 것으로 믿습니다. 
+> 
+> 변함없는 지지와 성원으로, 양국의 우정을 더욱 두텁게 만들 버팀목이 되어 주십시오. 그 노력이 더욱 빛날 수 있도록, 여러분이 믿고 의지할 수 있는 든든한 조국을 만들어 나가겠습니다.
+
+좋아요 2,752 · 재게시 683 · 답글 91 · 조회 72,714 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1991715813699768452
+
+### 2025-11-21 12:11 — 사회 · 직접 작성
+
+> <이집트를 향한 사랑고백 🇪🇬💕>
+> 
+> https://youtube.com/shorts/z0pZ7RS5xRo
+> 
+> #이재명 #이집트 #카이로대학교 #연설
+
+좋아요 1,631 · 재게시 441 · 답글 88 · 조회 38,666 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1991705934461301252
+
+### 2025-11-21 09:18 — 외교·통상 · 직접 작성
+
+> <동행 30년, 새 장을 여는 한-이집트🇰🇷🇪🇬>
+> 
+> http://youtube.com/shorts/7_XfnsFI9sk
+> 
+> #이재명 #Egypt #공동언론발표
+
+좋아요 1,679 · 재게시 456 · 답글 71 · 조회 33,489 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1991662579446607895
+
+### 2025-11-21 08:56 — 외교·통상 · 직접 작성
+
+> <두 기적이 만나 미래를 열다🇰🇷🇪🇬>
+> 
+> https://youtube.com/shorts/omoHwkgWZMA
+> 
+> #이재명 #Egypt #공식환영식
+
+좋아요 1,840 · 재게시 492 · 답글 58 · 조회 36,148 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1991656865282027923
+
+### 2025-11-20 11:16 — 국방·안보 · 직접 작성
+
+> <대한민국은 여러분이 자랑스럽습니다🇰🇷🇦🇪>
+> 
+> https://youtube.com/shorts/7YMONpuxmNw
+> 
+> #이재명 #아크부대 #UAE
+
+좋아요 2,070 · 재게시 549 · 답글 178 · 조회 39,251 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1991329755971613001
+
+### 2025-11-20 09:38 — 외교·통상 · 직접 작성
+
+> <미래를 위한 대화 in 아부다비 💬>
+> 
+> https://youtube.com/shorts/1Tjsh-9blMU
+> 
+> #이재명 #UAE #비즈니스 #라운드테이블
+
+좋아요 1,851 · 재게시 481 · 답글 63 · 조회 35,011 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1991305045766447603
+
+### 2025-11-19 23:30 — 외교·통상 · 직접 작성 · 분류 검토 대기
+
+> 먼 이역만리 UAE에서 국가의 부름을 받아 임무를 수행하고 있는 아크부대 장병들을 찾아 감사를 전했습니다. 해외에 파병된 우리 부대를 현지에서 만나는 것은 처음이라 더욱 뜻깊습니다.
+> 
+> 세계와 중동 지역의 평화를 수호하며 대한민국의 위상을 높이고 있는 우리 부대원들이 참 자랑스럽습니다. 장병 모두가 '군사 외교관'이라는 자부심을 갖고 임해주길 당부했습니다.
+> 
+> 부디 건강을 잘 챙기며, 맡은 소임을 완수하고 무사히 귀국할 것을 믿습니다. 대한민국 국민을 대표해 다시 한번 힘찬 응원을 보냅니다. 고맙습니다.
+
+좋아요 3,511 · 재게시 865 · 답글 150 · 조회 63,982 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1991152061250183223
+
+### 2025-11-19 13:38 — 문화·체육 · 직접 작성
+
+> <눈물🥲과 웃음😄이 함께하는 문화의 장>
+> 
+> https://youtube.com/shorts/Kt_KKqCWR3M?si=QVZO5W7OthhevKil
+> 
+> #이재명 #UAE #문화교류행사
+
+좋아요 2,369 · 재게시 661 · 답글 102 · 조회 44,095 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1991003115924099161
+
+### 2025-11-18 23:57 — 외교·통상 · 직접 작성
+
+> 감동적인 환대, 쌓여가는 우정! 🇰🇷🇦🇪
+> 
+> https://youtube.com/shorts/TdHz9OtCShc?si=4Uv5MM5u2kR-bBG_
+> 
+> #이재명 #아랍에미리트 #UAE #정상회담
+
+좋아요 3,720 · 재게시 944 · 답글 150 · 조회 68,149 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1990796566140207485
+
+### 2025-11-18 15:20 — 외교·통상 · 직접 작성
+
+> <UAE 동포 여러분, 반갑습니다! 🇦🇪>
+> 
+> https://youtube.com/shorts/t4X5rF6I6pU
+> 
+> #이재명 #아랍에미리트 #UAE
+
+좋아요 1,730 · 재게시 463 · 답글 104 · 조회 36,416 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1990666441176326478
+
+### 2025-11-18 14:58 — 외교·통상 · 직접 작성
+
+> <양국 공동 번영의 미래를 향해 🇰🇷🇦🇪>
+> 
+> https://youtube.com/shorts/r9iwSGmwlvc?si=LBvPw9BFFQN3sQew
+> 
+> #이재명 #대통령 #UAE
+
+좋아요 1,672 · 재게시 449 · 답글 142 · 조회 31,552 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1990660839670755387
+
+### 2025-11-18 14:12 — 외교·통상 · 직접 작성
+
+> <대한국민과 함께, 숭고한 희생에 경의를 표합니다>
+> 
+> https://www.youtube.com/shorts/NJ1cmbfG6os
+> 
+> #이재명 #아랍에미리트 #UAE #현충원
+
+좋아요 2,275 · 재게시 546 · 답글 114 · 조회 36,966 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1990649197046153668
+
+### 2025-11-18 13:08 — 외교·통상 · 직접 작성 · 분류 검토 대기
+
+> <아부다비에선 전투기가 마중 나와요?>  
+> 
+> http://youtube.com/shorts/biW6BizhnyQ  
+> 
+> #이재명 #아랍에미리트 #UAE #국빈방문
+
+좋아요 3,125 · 재게시 829 · 답글 136 · 조회 61,894 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1990633088834244696
+
+### 2025-11-18 11:21 — 외교·통상 · 직접 작성
+
+> 고국에 대한 그리움을 가슴에 품고, 각자의 자리에서 조국을 빛내고 계신 UAE 동포 여러분께 깊은 감사와 존경의 말씀을 전했습니다.
+> 
+> 올해는 한-UAE 수교 45주년입니다. 양국의 협력이 국가 간 외교를 넘어 사람과 사람을 잇는 신뢰와 우정의 관계로 이어진 토대에는 머나먼 땅에서 가교역할을 해주신 동포 여러분의 노고와 헌신이 있었습니다.
+> 
+> K-컬처와 K-메디컬, K-푸드까지, 어느덧 UAE 국민의 일상에 스며든 대한민국의 모습에 큰 자부심을 느낍니다. 우리 기업들이 더 활약하고 우리 동포 사회가 더 발전하여 양국의 공동번영이 이어질 수 있도록, 나아가 대한민국의 저력이 세계를 향해 뻗어나갈 수 있도록 노력하겠습니다.
+> 
+> 동포 여러분이 조국의 자랑이듯, 동포 여러분께 자랑스러운 조국을 꼭 만들겠습니다.
+
+좋아요 2,285 · 재게시 623 · 답글 77 · 조회 49,405 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1990606312552743266
+
+### 2025-11-17 23:46 — 외교·통상 · 직접 작성
+
+> 현충원(와하트 알 카라마)부터 그랜드모스크까지, 척박한 사막 위에 번영을 일궈낸 UAE의 저력이 어디에서 비롯된 것인지 깊이 절감한 시간이었습니다.
+> 
+> 나라를 위한 숭고한 헌신, 그랜드 모스크에 남겨진 셰이크 자이드 전 대통령님의 평화, 관용, 공존의 정신이 지금의 UAE를 만든 원동력입니다.
+> 
+> 오랜 우정과 신뢰의 토대 위에, 대한민국과 UAE가 앞으로도 흔들림 없이 더 굳건한 평화와 더 큰 번영을 향해 동행할 수 있기를 기대합니다.
+
+좋아요 2,403 · 재게시 657 · 답글 94 · 조회 48,774 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1990431471421591666
+
+### 2025-11-17 10:40 — 외교·통상 · 직접 작성
+
+> <7박 10일, 4개국 순방 잘 다녀오겠습니다>
+> 
+> https://youtube.com/shorts/oPnD-sHh_PE
+> 
+> #이재명 #G20 #남아프리카공화국 #아랍에미리트 #이집트 #튀르키예
+
+좋아요 3,900 · 재게시 937 · 답글 402 · 조회 66,985 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1990233609698250781
+
+### 2025-11-16 21:18 — 외교·통상 · 직접 작성
+
+> <정부랑 기업이 이런 케미?🫢>
+> 
+> #이재명 #한미관세협상 #민관합동회의
+> 
+> http://youtube.com/shorts/N3wy22d1Xww
+
+좋아요 2,500 · 재게시 689 · 답글 153 · 조회 47,816 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1990031621349908725
+
+### 2025-11-16 20:29 — 외교·통상 · 직접 작성
+
+> 이번 한미 관세협상은 이익을 얻기 위함이 아닌, 불가피한 국제 질서 변화 속에서 불이익을 최소화하기 위한 치열한 노력의 과정이었습니다. 어려움의 연속이었지만, 정부와 기업이 한뜻으로 전력을 다해 대응한 덕에 예상보다 훨씬 안정적인 결과를 이끌어낼 수 있었습니다.  
+> 
+> 이제부터가 진짜 시작입니다. 세계 질서가 재편되는 지금이야말로 우리의 잠재력이 빛을 발할 때입니다. 우리 기업의 창의와 기술, 그리고 정부의 든든한 지원이 결합된다면 대한민국은 어떤 변화 속에서도 새로운 길을 만들어갈 것입니다.  
+> 
+> 혁신의 발목을 잡는 불합리한 규제를 과감히 개선하고, 대외 투자 확대 속에서도 국내 투자가 위축되지 않도록 세심히 살피겠습니다. 아울러 산업의 지역 분산을 통해 균형발전을 실현하고, 기업과 정부가 함께 지속 가능한 성장 기반을 구축하겠습니다.  
+> 
+> 우리 기업이 마음껏 도전하고 성장할 수 있는 환경을 만들고, 그 성과를 국민 모두가 체감할 수 있도록 최선을 다하겠습니다. 대한민국의 경쟁력을 지키기 위해 애써주신 우리 기업인 여러분께 다시 한번 깊은 감사의 마음을 전합니다.
+
+좋아요 3,251 · 재게시 918 · 답글 253 · 조회 78,366 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1990019475652129098
+
+### 2025-11-16 09:32 — 정치·국정 · 직접 작성
+
+> 신상필벌은 조직운영의 기본중 기본입니다.
+> 
+> 설마, "벌만 주던가 상만 쥐야 한다"는 건 아니겠지요?
+> 
+> 내란극복도 적극행정 권장도 모두  해야할 일입니다.
+> 
+> https://v.daum.net/v/20251116080127326
+
+좋아요 4,216 · 재게시 1,480 · 답글 401 · 조회 251,636 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1989853972015059098
+
+### 2025-11-15 08:02 — 정치·국정 · 직접 작성
+
+> <그리웠어요….>
+> 
+> https://youtube.com/shorts/UTlPGKpbM28?si=YuuB4ieFR_felAkS
+> 
+> #이재명 #경기북부 #경기도 #타운홀미팅
+
+좋아요 2,614 · 재게시 658 · 답글 183 · 조회 64,461 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1989469130861547844
+
+### 2025-11-14 13:00 — 외교·통상 · 직접 작성
+
+> <한미협상 결과, 국민께 직접 보고드립니다>
+> 
+> https://youtube.com/shorts/TKBfmjZXEgI?si=vKBLqCKvdNbyN0yf
+> 
+> #이재명 #한미관세협상 #핵추진잠수함
+
+좋아요 3,598 · 재게시 1,195 · 답글 399 · 조회 81,960 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1989181498596159656
+
+### 2025-11-13 19:01 — 정치·국정 · 직접 작성
+
+> <더 빨리 모시고 싶었습니다>
+> 
+> https://youtube.com/shorts/w8AJR7qbr2A?si=hlBcwWepFGhScQcH
+> 
+> #이재명 #민주화실천가족운동협의회
+
+좋아요 2,269 · 재게시 600 · 답글 185 · 조회 50,982 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1988909955542356399
+
+### 2025-11-13 18:17 — 정치·국정 · 직접 작성
+
+> 민주화실천가족운동협의회는 국가폭력과 인권침해가 발생한 현장에 가장 먼저 달려가 민주화운동에 나선 모든 이들을 가족처럼 돌봐왔습니다.
+> 
+> 오늘날 대한민국이 민주주의 국가로 성장하고 발전할 수 있었던 것은 민가협 어머님, 아버님들의 치열한 투쟁과 헌신 덕분입니다.
+> 
+> 불의에 굴하지 않고 희생을 감수하며 억눌린 자들의 목소리가 되어주셨기에 지금 우리는 보다 성숙한 민주주의, 더 확장된 인권의 가치를 이야기할 수 있습니다.
+> 
+> 오늘 함께해주신 민가협 회원분들께 존경과 감사를 전하며, 진정한 국민주권정부를 만들어 갈 것을 약속드렸습니다. 민가협의 모든 여정이 우리가 나아갈 길의 나침반이 되어주리라 믿습니다.
+
+좋아요 2,300 · 재게시 658 · 답글 113 · 조회 55,289 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1988898984585298220
+
+### 2025-11-12 22:25 — 정치·국정 · 직접 작성 · 분류 검토 대기
+
+> 인생에서 가장 행복했던 시절을 꼽으라면 단연 성남시장으로 일하던 때였습니다. 시민들의 목소리를 직접 듣고, 그 뜻을 행정에 담아냈던 시간은 여전히 큰 배움이자 감동으로 남아 있습니다. 오늘 시장, 군수, 구청장분들과 함께하며 지방자치단체장으로서 느꼈던 보람을 다시금 떠올렸습니다.
+> 
+> 주민들의 일상을 들여다보며 작은 불편 하나도 놓치지 않고 때로는 위로와 응원을 건네는 일. 비가 오기 전 배수구를 한 번 더 점검하고, 밥 굶는 이들이 없는지 살피며 억울함이 생기지 않도록 세심한 행정을 하는 것. 그것이 바로 공무의 본질이라고 생각합니다.
+> 
+> 민주주의의 근간인 지방 행정을 위해 애쓰고 계신 지방자치단체장 여러분께 깊은 감사와 격려를 전했습니다. 우리에게 주어진 자원과 기회, 예산을 더욱 효율적이고 효과적으로 운용할 수 있도록 각별한 노력을 기울여 주실 것도 함께 당부드렸습니다.  
+> 
+> 저 역시 성남시장 시절 초심을 늘 마음에 품고, 국민의 목소리를 가까이에서 경청하는 대통령이 되겠습니다.
+
+좋아요 5,066 · 재게시 1,195 · 답글 470 · 조회 513,077 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1988599063055605815
+
+### 2025-11-12 21:54 — 정치·국정 · 직접 작성
+
+> <그때, 그 마음으로>
+> 
+> https://youtube.com/shorts/jGQV4SsG004
+> 
+> #이재명 #지방정부 #국정설명회
+
+좋아요 1,912 · 재게시 528 · 답글 104 · 조회 39,069 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1988591174060474770
+
+### 2025-11-12 19:31 — 정치·국정 · 직접 작성
+
+> <오늘 회의가.. 이재명 정부 첫 회의?>
+> 
+> https://youtube.com/shorts/8rC6arZuM-g?feature=share
+> 
+> #이재명 #중앙지방협력회의
+
+좋아요 1,593 · 재게시 463 · 답글 111 · 조회 35,157 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1988555221803717068
+
+### 2025-11-11 20:33 — 미분류 · 답글 · 분류 검토 대기
+
+> 
+
+좋아요 914 · 재게시 317 · 답글 45 · 조회 38,552 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1988208504738562501
+
+### 2025-11-11 20:33 — 경제·민생 · 직접 작성
+
+> <2026년을 잠재성장률 반등의 원년으로 만들겠습니다>
+> 
+> 3/4분기 국내총생산(GDP) 1.2% 성장과 주요국 대비 가장 높은 주가지수 상승률 기록. 우리 정부가 받아 든 첫 번째 '경제 성적표'입니다.
+> 
+> 이건 시작에 불과합니다. 경제 회복과 민생 안정의 작은 불씨를 활활 지펴, 잠재성장률 반등으로까지 이어질 수 있도록 해야 합니다.
+> 
+> 특히 대내외 불확실성의 파도에 맞서기 위해 경제 기초 체력을 더욱 견고히 다지고, 국민 경제 발전을 위한 튼튼한 토대를 쌓는 것이 무엇보다 시급합니다.
+> 
+> 이를 위해 「2026년 경제성장전략」을 마련하려 합니다.
+> 거시경제·민생 안정, 성장동력 확충, 양극화 구조 극복, 지속 성장 기반 강화까지 총 4대 분야 핵심과제와 세부과제를 담아낼 계획입니다.
+> 
+> 실현 가능성을 최우선으로 고려한 실질적 정책을 수립하고, 부족한 부분은 신속히 보완하며 완성도를 높여나가겠습니다.
+> 
+> 다가오는 2026년, 우리 경제가 새로운 도약과 지속적 성장의 전환점을 맞이할 수 있도록 철저히, 빈틈없이 준비하겠습니다.
+
+좋아요 3,023 · 재게시 973 · 답글 339 · 조회 81,903 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1988208500401730016
+
+### 2025-11-11 09:00 — 정치·국정 · 직접 작성
+
+> <‘경기북부의 마음을 듣다’ 주민 200분을 모십니다>
+> 
+> 국민과의 직접 소통을 위해 마련한 ‘타운홀 미팅’이 어느덧 여섯 번째를 맞이했습니다. 타운홀 미팅을 진행할 때마다 ‘현장에 답이 있다’는 믿음도, 우리 국민의 집단지성에 대한 확신도 커져갑니다.
+> 
+> 이번에는 경기북부를 찾아갑니다.
+> 경기북부는 접경지역이자 수도권이라는 이유로 많은 불이익을 받아왔습니다. 지역 발전을 가로막아 온 미군반환 공여지 개발 문제부터 이중삼중의 규제와 생활 속 불편까지. 경기북부 주민들께서 겪고 계신 불합리한 문제들을 직접 들려주십시오.
+> 
+> 국민과 정부가 각자의 위치에서 머리를 맞대며 문제를 함께 풀어가는 귀한 소통의 장이 될 것입니다. 더욱 살기 좋은 경기북부를 만들기 위해 지혜를 모아주시길 바랍니다.
+> 
+> ☑️ 모집 인원: 경기북부 주민 200명
+> 
+> ☑️ 행사 날짜: 2025년 11월 14일(금) *시간, 장소는 경호상의 이유로 추후 안내 예정
+> 
+> ☑️ 참여 신청: 2025년 11월 11일(화) 9시~11월 12일(수) 14시 네이버폼 접수()
+> *신원 확인이 어려운 경우 출입 제한될 수 있으니, 신청 시 이름과 주민등록번호를 정확하게 기입해 주시기 바랍니다.
+
+좋아요 2,181 · 재게시 733 · 답글 246 · 조회 70,262 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1988034012854841591
+
+### 2025-11-09 09:18 — 문화·체육 · 리트윗
+
+> RT @[비공개]: #종묘 는 대한민국 정부가 1995년 첫 등재한 유네스코 세계유산이며, 500년 넘게 제례와 제례악이 이어져 온 살아있는 유산입니다. 우리는 이 소중한 유산의 경관과 가치를 지켜내야 하는 중대한 기로에 서 있습니다. 높이…
+
+좋아요 0 · 재게시 4,293 · 답글 0 · 조회 74 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1987313788341952680
+
+### 2025-11-08 00:56 — 과학기술·AI · 리트윗
+
+> RT @msitminister: 대전 국립중앙과학관에서 국민보고회가 있었습니다. 다시 과학기술인을 꿈꾸는 대한민국을 만들기 위한 발제를 진행했고 참여하신 분들의 많은 의견을 받았습니다. 
+> 앞으로 더 최선의 다해 노력해서 젊은 인재들이 다시 과학인을…
+
+좋아요 0 · 재게시 265 · 답글 0 · 조회 22 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1986825181281800605
+
+### 2025-11-07 20:30 — 과학기술·AI · 직접 작성
+
+> <궁금한 건 못 참지…🤔>
+> 
+> http://youtube.com/shorts/HFQ6fz6JVeM
+> 
+> #이재명 #KSTAR #핵융합에너지
+
+좋아요 2,121 · 재게시 599 · 답글 173 · 조회 54,897 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1986758029581181309
+
+### 2025-11-07 20:01 — 과학기술·AI · 직접 작성
+
+> <어린 소년의 꿈이, 과학자의 든든한 언덕으로>
+> 
+> http://youtube.com/shorts/1xRo5PAVUes
+> 
+> #이재명 #과학기술인 #국민보고대회
+
+좋아요 2,151 · 재게시 661 · 답글 190 · 조회 43,236 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1986750743358148852
+
+### 2025-11-07 19:41 — 과학기술·AI · 직접 작성
+
+> <화끈한 대통령과 고장난 부총리..? 🤖>
+> 
+> http://youtube.com/shorts/EnJ6_ZPWEvE
+> 
+> #이재명 #과학기술인 #국민보고대회
+
+좋아요 1,602 · 재게시 458 · 답글 88 · 조회 36,599 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1986745864342430145
+
+### 2025-11-07 09:00 — 재난·안전 · 직접 작성
+
+> <국민의 안전과 평화를 위해>
+> 
+> http://youtube.com/shorts/2zL21K4NxXU
+> 
+> #이재명 #국민안전 #산불진화
+
+좋아요 1,838 · 재게시 548 · 답글 155 · 조회 39,314 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1986584383025803531
+
+### 2025-11-06 21:31 — 재난·안전 · 직접 작성
+
+> ‘지나친 대비가 부족한 준비보다 언제나 낫다’는 원칙 아래, 국민의 생명과 안전을 지키기 위해 최선을 다하고 있습니다. 예산과 자원, 인력 투자는 필요한 곳에 결코 아껴서는 안 된다고 생각합니다.
+> 
+> 동해안 산불 위험 지역을 찾아 군과 소방의 산불 진화 장비와 대응체계를 살피고, 과거 산불 피해 지역도 둘러봤습니다. 헬기 공중 진화, 드론 정밀 진화, 헬기 물 투하와 같은 다양한 첨단 기법을 활용한 산불 진화 합동훈련을 참관하며 역량을 세밀히 점검했습니다.
+> 
+> 산림청, 소방청, 지방정부의 역할을 명확히 하고 통합 지휘체계를 운영하며 산불 발생 시 일사천리로 대응할 수 있는 방안을 모색 중입니다. 국민 여러분께서 안전하고 평화로운 일상을 누리실 수 있도록 더욱 철저히 준비해 나가겠습니다.
+
+좋아요 3,498 · 재게시 983 · 답글 246 · 조회 247,928 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1986411085033873671
+
+### 2025-11-05 15:35 — 정치·국정 · 직접 작성 · 분류 검토 대기
+
+> <세계가 주목한 APEC, 모두 여러분 덕분입니다>
+> 
+> https://www.youtube.com/shorts/LXE6KB55IP8
+> 
+> #이재명 #대통령 #APEC #시정연설
+
+좋아요 3,270 · 재게시 871 · 답글 426 · 조회 53,207 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1985959205346689277
+
+### 2025-11-05 08:01 — 경제·민생 · 직접 작성
+
+> <국유재산 헐값, 특혜매각은 국민재산을 훔치는 것입니다.>
+> 
+> 돈 없는 서민들은 아무리 싸도 살 수가 없습니다
+> 
+> https://v.daum.net/v/20251104232851399
+
+좋아요 3,707 · 재게시 1,477 · 답글 237 · 조회 191,201 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1985844952866439568
+
+### 2025-11-04 21:56 — 외교·통상 · 직접 작성
+
+> 전시작전통제권 조기 회복은 한미동맹의 진전을 가속화하는 중요한 전환점으로, 우리 군의 역량이 강화될수록 미국의 방위 부담 역시 줄어들 것입니다.
+> 
+> 지난주 트럼프 대통령과 합의한 원자력 추진 잠수함 건조 지원 역시 우리 군사력의 향상뿐 아니라 한미동맹 발전에도 중대한 기여를 하리라 생각합니다.
+> 
+> 피트 헤그세스 미국 전쟁부장관의 첫 한국 방문을 진심으로 환영하며, 한반도를 넘어 세계 평화와 안정을 위해 헌신하는 미국 국방·군사 리더십에 감사를 전했습니다.
+> 
+> 헤그세스 장관은 한국의 국방비 증액, 첨단 재래식 전력과 원자력 추진 잠수함 확보를 적극 지원하겠다고 밝히며, 조선 협력 강화와 선박 공동 생산에도 기대를 나타냈습니다.
+> 
+> 앞으로도 지속적 협력과 상호 신뢰를 토대로 굳건한 한미동맹 관계를 이어가며, 한반도와 아태지역은 물론 전 세계 평화에도 이바지하겠습니다.
+
+좋아요 3,180 · 재게시 896 · 답글 200 · 조회 72,980 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1985692619616493973
+
+### 2025-11-04 21:13 — 외교·통상 · 직접 작성
+
+> <한미동맹 새로운 전환점! 🇰🇷🇺🇸>
+> 
+> #이재명 #한미동맹
+> 
+> 📎 http://youtube.com/shorts/0UzXxZsf7uU
+
+좋아요 2,150 · 재게시 601 · 답글 102 · 조회 42,696 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1985681725759111539
+
+### 2025-11-04 18:01 — 정치·국정 · 직접 작성
+
+> <대한의 역사가 완성한, 이재명 정부 첫 예산안!💸>
+> 
+> 저는 우리 국민 여러분의 저력을 믿습니다.
+> 그래서 자신 있습니다.
+> 
+> 산업화와 정보화를 성공적으로 이뤄낸 것처럼
+> 위대한 대한국민들과 함께
+> ‘인공지능 시대’의 문을 활짝 열겠습니다.
+> 
+> #이재명 #시정연설
+> 
+> 📎 http://youtube.com/shorts/55n_kBQ3MlQ
+
+좋아요 2,978 · 재게시 868 · 답글 293 · 조회 54,505 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1985633375655457167
+
+### 2025-11-04 00:59 — 외교·통상 · 리트윗
+
+> RT @[비공개]: Today is a milestone in our friendship with the Republic of Korea. President Lee Jae Myung and I upgraded our bilateral…
+
+좋아요 0 · 재게시 259 · 답글 0 · 조회 7 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1985376199552778548
+
+### 2025-11-03 12:18 — 경제·민생 · 직접 작성
+
+> <부동산에서 생산적 금융으로>
+> 
+> 한반도안보리스크, 지배구조리스크, 시장투명성리스크가 조금 개선되고, 인공지능 등 산업경제정책과 정치안정 때문이겠지요.
+> 
+> 모두 세계에서 가장 뛰어난 여러분 대한국민 덕분입니다.
+> 
+> "사상 처음"…국민연금, 올해 200조 벌어 https://naver.me/ximW0JDa
+
+좋아요 3,264 · 재게시 1,126 · 답글 241 · 조회 114,665 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1985184848982741418
+
+### 2025-11-02 21:01 — 외교·통상 · 직접 작성
+
+> <떠오르는 아시아의 별 두 개⭐️⭐️?>
+> 
+> #이재명 #LawrenceWong #싱가포르
+> 
+> 📎http://youtube.com/shorts/fDhOYi6tkVw
+
+좋아요 1,759 · 재게시 481 · 답글 165 · 조회 45,220 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1984954035708055676
+
+### 2025-11-02 20:47 — 외교·통상 · 직접 작성
+
+> <매일 만나는 50년 지기 손님?>
+> 
+> #이재명 #대통령 #싱가포르
+> 📎 http://youtube.com/shorts/vatgUB_upmU
+
+좋아요 1,833 · 재게시 487 · 답글 80 · 조회 46,137 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1984950365130018902
+
+### 2025-11-02 16:45 — 외교·통상 · 직접 작성
+
+> 아세안 창립회원국이자 사무국이 위치한 인도네시아는 정치·경제적으로 아세안을 대표하는 핵심 국가입니다. 우리 기업 2,300여 개가 진출해 활발히 활동하고 있는 중요한 협력국 중 하나이기도 합니다.
+> 
+> 프라보워 수비안토 인도네시아 대통령과의 정상회담을 통해, 양국이 글로벌 불확실성을 함께 헤쳐 나가는 ‘특별 전략적 동반자’임을 다시 한번 확인했습니다.
+> 
+> 앞으로 우리는 문화·창조 산업 합작사업 추진과 더불어 방산, 교육, 노동 분야의 호혜적 협력을 심화하기로 뜻을 모았습니다. 인도네시아 국부펀드 출범을 축하하며 양국의 투자 협력 확대에 대한 기대도 함께 전했습니다.
+> 
+> 취임 후 처음으로 한국을 방문해 주신 프라보워 대통령께 깊은 감사를 전합니다. 가까운 시일 내 상호 방문이 성사되어 양국 관계를 한층 더 발전시켜 나가길 희망합니다.
+> 
+> @prabowo Indonesia, a founding member of ASEAN and the host country of the ASEAN Secretariat, is a key nation that represents ASEAN both politically and economically. It is also one of our most important partners, with more than 2,300 Korean companies actively operating there.
+> 
+> At the summit meeting with President Prabowo Subianto of Indonesia, we reaffirmed that our two countries are “special strategic partners” working together to navigate the current global uncertainties.
+> 
+> Going forward, we agreed to deepen mutually beneficial cooperation in the fields of defense industry, education, and labor, while also promoting joint projects in culture and creative industries. I also conveyed my congratulations on the launch of Indonesia’s sovereign wealth fund and expressed high expectations for the expansion of bilateral investment cooperation.
+> 
+> I extend my sincere gratitude to President Prabowo for visiting Korea for the first time since taking office. I look forward to making a reciprocal visit in the near future and to further advancing the close partnership between our two nations.
+
+좋아요 1,926 · 재게시 490 · 답글 89 · 조회 50,155 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1984889568827453460
+
+### 2025-11-01 17:48 — 외교·통상 · 직접 작성
+
+> 필리핀은 6.25전쟁 당시 7천여 명의 참전용사를 파병하며 우리나라의 평화와 자유를 위해 함께 싸운 소중한 우방국입니다. 6.25전쟁 75주년을 맞아, 필리핀 용사들의 숭고한 희생에 깊은 경의를 표합니다.
+> 
+> 처음으로 한국을 찾아주신 페르디난드 로무알데즈 마르코스 주니어 필리핀 대통령께 감사를 전합니다. 특별히 지난달 한-필리핀 전략적 동반자 관계 수립 1주년을 맞이한 터라 이번 방문이 더욱 의미 있게 여겨집니다.
+> 
+> 우리는 한-필리핀 FTA 이후 활발히 확대되고 있는 경제 협력을 기반으로 인프라, 조선, 방산을 비롯한 전략적 협력을 한층 더 공고히 해 나갈 계획입니다.
+> 
+> 필리핀이 차기 ASEAN 의장국을 맡은 것을 축하하며, 한-ASEAN 관계 강화를 위해서도 긴밀히 협력하기로 뜻을 모았습니다. 이번 만남을 계기로 우리의 우정이 더욱 견고해지길 소망합니다.
+> 
+> @bongbongmarcos The Philippines is a valued friend of the Republic of Korea, having sent over 7,000 troops to fight alongside us for peace and freedom during the Korean War. As we mark the 75th anniversary of the Korean War, I express my deepest respect and gratitude for the noble sacrifice of the Filipino soldiers.
+> 
+> I extend my sincere appreciation to President Ferdinand Romualdez Marcos Jr. for visiting Korea for the first time. His visit holds particular significance, taking place on the heels of the first anniversary of the establishment of the Korea–Philippines Strategic Partnership.
+> 
+> Building on the growing economic cooperation following the conclusion of the Korea–Philippines Free Trade Agreement, we will further strengthen our strategic collaboration in areas such as infrastructure, shipbuilding, and defense.
+> 
+> I also congratulate the Philippines on assuming the ASEAN Chairship next year. We agreed to work closely together to further enhance Korea–ASEAN relations. I hope this meeting will serve to further solidify the bonds of friendship between our two nations.
+
+좋아요 2,344 · 재게시 538 · 답글 208 · 조회 63,987 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1984542931055976665
+
+### 2025-11-01 15:39 — 외교·통상 · 직접 작성
+
+> 칠레는 1949년 남미 최초로 대한민국 정부를 승인한 국가이자 우리의 첫 FTA 체결 파트너입니다. 중남미 지역의 가장 중요한 협력국 중 하나이기도 합니다.
+> 
+> 1962년 수교 이후 우호 협력 관계를 지속적으로 발전시켜 왔으며 특히 핵심광물 공급망, 인프라, 방산, 신재생에너지와 같은 다양한 분야에서 전략적 동반자로서의 협력을 굳건히 하고 있습니다.
+> 
+> 앞으로도 양국의 공동 번영을 위해 함께 노력하며, 문화 교류를 포함한 여러 분야에서 전략적 파트너십을 강화하기로 뜻을 모았습니다. 
+> 
+> 처음으로 한국을 방문해 주신 가브리엘 보리치 칠레 대통령께 깊은 감사를 전합니다. 이번 만남을 계기로 양국의 특별한 우정이 더욱 확대되길 소망합니다.
+> 
+> @[비공개] Chile fue el primer país sudamericano en reconocer al Gobierno de la República de Corea en 1949 y es también nuestro primer socio en firmar un Tratado de Libre Comercio. Asimismo, es uno de nuestros socios más importantes en la región de América Latina y el Caribe.
+> 
+> Ambos países, desde el establecimiento de relaciones diplomáticas en 1962, han desarrollado de manera constante una relación de amistad y cooperación y, en particular, han consolidado su colaboración como socios estratégicos en diversos ámbitos, tales como las cadenas de suministro de minerales críticos, la infraestructura, la industria de defensa y las energías renovables.
+> 
+> De cara al futuro, hemos coincidido en seguir trabajando juntos por la prosperidad compartida de nuestros pueblos y en fortalecer nuestra asociación estratégica en múltiples ámbitos, incluido el intercambio cultural.
+> 
+> Quisiera expresar mi más profundo agradecimiento al Presidente de la República de Chile, Gabriel Boric, por su primera visita oficial a Corea. Confío en que este encuentro contribuya a profundizar aún más la amistad especial que une a nuestros dos países.
+
+좋아요 2,195 · 재게시 535 · 답글 78 · 조회 49,369 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1984510540295946344
+
+### 2025-11-01 09:57 — 외교·통상 · 직접 작성
+
+> <이게 바로 APEC 만찬 클라스✨>
+> 
+> https://youtube.com/shorts/yQMitCcI2mw
+> 
+> #이재명 #apec2025 #만찬
+
+좋아요 2,045 · 재게시 522 · 답글 144 · 조회 154,551 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1984424628333527061
+
+### 2025-11-01 09:31 — 외교·통상 · 직접 작성
+
+> 아랍에미리트연합국(UAE)은 중동 지역에서 유일하게 우리나라와 ‘특별 전략적 동반자 관계’를 맺고 있는 중요한 파트너입니다.
+> 
+> 양국 관계는 1980년 수교 이래 에너지와 건설 분야를 중심으로 발전해 왔으며, 특히 2009년 우리 기업의 UAE 바라카 원전 사업 수주를 계기로 새로운 전환점을 맞았습니다. 이후 2018년 양국 관계는 ‘특별 전략적 동반자 관계’로 격상되어 더욱 깊이 있는 협력을 이어가고 있습니다.
+> 
+> 지난 7월 모하메드 UAE 대통령께 이번 APEC 정상회의 초청의 뜻을 전한 이후, 칼리드 아부다비 왕세자께서 아버지를 대신해 먼 길을 와 함께해 주신 것을 매우 기쁘게 생각합니다.
+> 
+> 우리는 AI, 첨단 기술, 국방·방산을 비롯한 미래 성장동력 육성을 통해 양국 관계를 보다 전략적이고 미래지향적으로 발전시켜 나가야 한다는 점에 함께 공감했습니다. 이번 만남을 통해 한국과 UAE의 특별한 우정이 더욱 공고해지리라 믿습니다.
+> 
+> إن الإمارات العربية المتحدة شريك مهم لنا، وهي الدولة الوحيدة في منطقة الشرق الأوسط التي تربطها معنا ب“علاقة الشراكة الإستراتيجية الخاصة”.
+> 
+> منذ إقامة العلاقات الدبلوماسية عام 1980، تطورت علاقات بلدينا بشكل ملحوظ، خصوصاً بمحور الطاقة والبناء. وقد شكّل فوز شركاتنا في عام 2009 بعقد مشروع محطة “براكة” للطاقة النووية في الإمارات نقطة تحوّل جديدة في مسار التعاون بيننا. وفي عام 2018، تم الارتقاء بالعلاقات إلى “شراكة إستراتيجية خاصة”، مما أتاح توسيع وتعميق التعاون في مختلف المجالات.
+> 
+> يسعدني كثيراً أن سمو الشيخ خالد، ولي عهد أبوظبي، جاء من مسافة بعيدة للمشاركة في هذا الاجتماع نيابةً عن صاحب السمو الشيخ محمد بن زايد آل نهيان، رئيس دولة الإمارات، وذلك بعد أن وجهتُ إلى سموه دعوةً لحضور قمة منتدى التعاون لآسيا والمحيط الهادي (أيبك) خلال المكالمة الهاتفية التي أجريت معه في يوليو الماضي. 
+> 
+> اتفقنا على ضرورة تطوير علاقات بلدينا بطريقة أكثر استراتيجية وتوجهاً نحو المستقبل، من خلال تعزيز التعاون في مجالات الذكاء الاصطناعي، والتقنيات المتقدمة، والدفاع والصناعات الدفاعية وغيرها من محركات النمو المستقبلية.
+> 
+> وأؤمن بأن هذا اللقاء سيكون خطوةً جديدة نحو ترسيخ الصداقة المتميزة بين جمهورية كوريا ودولة الإمارات العربية المتحدة.
+
+좋아요 2,013 · 재게시 520 · 답글 58 · 조회 49,621 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1984418084346827251
+
+## 2025년 10월 (35건)
+
+### 2025-10-31 20:36 — 경제·민생 · 직접 작성
+
+> 국제통화기금(IMF)은 대한민국과 오랜 역사를 함께해 온 든든한 글로벌 파트너입니다. 우리의 성장과 위기의 순간마다 조언과 지지를 보내 주었고, 이는 대한민국 경제가 안정적인 발전 궤도에 오르는 데 큰 힘이 되었습니다.
+> 
+> 크리스탈리나 게오르기에바 IMF 총재는 한국 경제의 빠른 회복세를 긍정적으로 평가하고, "내년에는 잠재성장률 수준에 근접하는 경제 성장을 이룰 것"이라며 신뢰를 표명했습니다. 다시 한번 깊은 감사의 뜻을 전합니다.
+> 
+> IMF와 함께 성장해 온 대한민국은 이제 국제사회의 책임 있는 글로벌 경제 주체로서, 우리 위상에 걸맞은 역할을 충실히 수행할 준비가 되어 있습니다.
+> 
+> 경제 회복을 넘어 진정한 포용적 성장과 지속 가능한 발전을 이루기 위해 IMF를 비롯한 국제사회와 긴밀히 협력하며 미래를 향해 함께 나아가겠습니다.
+> 
+> @[비공개] The International Monetary Fund (IMF) has been a steadfast global partner of the Republic of Korea throughout our long history together. During moments of growth and challenges, the IMF has provided invaluable advice and support, which has greatly contributed to the Korean economy’s steady advancement along a stable path.
+> Kristalina Georgieva, the Managing Director of the IMF, positively assessed the rapid recovery of the Korean economy, affirming her confidence that "next year, Korea’s economic growth will approach the potential growth rate." I wish to extend my deep gratitude once again for this trust and acknowledgment.
+> Having grown alongside the IMF, the Republic of Korea is now ready to faithfully fulfill its role as a responsible global economic actor, commensurate with its standing in the international community.
+> 
+> We will work closely with the international community and the IMF to advance together toward a prosperous future, going beyond mere economic recovery and achieving truly inclusive growth and sustainable development.
+
+좋아요 1,982 · 재게시 489 · 답글 68 · 조회 59,742 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1984223040759275967
+
+### 2025-10-31 20:36 — 과학기술·AI · 직접 작성
+
+> 글로벌 AI 산업을 선도하는 엔비디아의 젠슨 황 대표와 만나 아시아태평양 지역의 AI 수도로 도약할 대한민국의 미래에 대해 함께 논의했습니다.
+> 
+> AI 3대 강국 도약과 AI 기본사회 실현이라는 우리의 비전을 공유하고, AI 혁신의 혜택이 모두에게 고루 돌아가도록 해 국제사회에 기여하겠다는 의지도 확고히 표명했습니다.
+> 
+> 엔비디아는 삼성전자와 SK, 현대를 비롯한 국내 주요 기업과 협력 관계를 구축해 온 훌륭한 파트너입니다. 이러한 신뢰를 바탕으로 피지컬 AI와 소프트웨어 중심 자율주행과 같은 미래 산업 혁신 분야에서 힘을 합쳐 시너지를 창출해 나가기로 했습니다.
+> 
+> 대한민국이 진정한 AI 강국으로 발전하는 데 중요한 전환점이 되리라 확신합니다. 우리나라뿐 아니라 국제사회에도 실질적으로 기여하는 모범 사례가 될 수 있도록 노력하겠습니다.
+
+좋아요 3,414 · 재게시 951 · 답글 106 · 조회 80,171 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1984222900669268166
+
+### 2025-10-31 17:51 — 외교·통상 · 직접 작성 · 분류 검토 대기
+
+> 천년고도 경주의 번영과 성장은 끊임없는 연결과 혁신의 토대 위에 세워진 것입니다. 세계 각지 상인들이 험난한 바다와 사막을 오가며 물자를 교역하고, 새로운 문화와 지식을 확산시켰습니다.
+> 
+> 아태 지역의 번영과 미래 또한 기업인들의 도전 정신에 달려있습니다. 오늘 만난 ABAC의 기업인들이 더 많이 교류하고, 거듭 혁신할 수 있도록 저와 APEC 지도자들은 적극적인 지원을 아끼지 않을 것입니다.
+> 
+> 세계 경제 전반의 불확실성이 증대되는 지금, APEC과 ABAC이 함께 만들어 온 협력의 가치가 더욱 빛을 발할 것이라 믿습니다.
+
+좋아요 4,085 · 재게시 889 · 답글 178 · 조회 104,531 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1984181493883908214
+
+### 2025-10-31 11:20 — 외교·통상 · 직접 작성
+
+> 태국은 6·25전쟁 당시 대한민국의 자유와 평화를 위해 함께 싸운 소중한 우방국이며, 매년 약 220만 명의 양국 국민이 서로 왕래하는 가까운 이웃입니다. 중요한 통상 파트너이자 방위산업 협력국이기도 합니다.
+> 
+> 아누틴 찬위라꾼 태국 총리와 만나 가장 먼저 故시리킷 왕태후의 별세에 깊은 애도를 표했습니다. 이어 한-태국 전략적 동반자 관계 발전 방안에 대해 심도 있게 논의했습니다.
+> 
+> 우리는 한-태국 간 교역과 투자를 확대하고 AI, 디지털 혁신, 에너지 전환 등 미래지향적 협력을 적극 추진해 나가기로 뜻을 모았습니다. 또한 양국 국민 간 교류 활성화를 통해 서로의 삶에 실질적 도움이 되는 우호 관계를 굳건히 다져 나갈 계획입니다.
+> 
+> 앞으로도 우리 양국은 깊은 역사와 우정을 바탕으로 상호 협력을 더욱 강화하며 함께 발전해 나갈 것입니다.
+> 
+> Thailand is a valued partner that fought alongside Korea in defence of freedom and peace during the Korean War, and a close neighbor with around 2.2 million people-to-people exchanges every year. Thailand is also an important partner in trade and defence industry cooperation.
+> 
+> At the meeting with Prime Minister Anutin Charnvirakul, I first expressed my deep condolences on the passing of Her Majesty Queen Sirikit. Then we held in-depth discussions on ways to further develop the ROK-Thailand Strategic Partnership.
+> 
+> We agreed to expand trade and investment, and to actively pursue future-oriented cooperation in AI, digital innovation, and energy transition. We also reaffirmed our commitment to strengthening our friendship and bringing tangible benefits to our peoples, by enhancing people-to-people exchanges.
+> 
+> I look forward to our two countries’ continued progress and stronger mutual cooperation, based on our long history and enduring friendship.
+
+좋아요 1,670 · 재게시 426 · 답글 105 · 조회 50,700 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1984083060539998617
+
+### 2025-10-31 08:51 — 외교·통상 · 직접 작성 · 분류 검토 대기
+
+> 취임 후 벌써 두 번째 정상회담이라 그런지 꼭 가까운 친구를 맞이하는 기분으로 앤소니 알바니지 호주 총리와 만남을 가졌습니다. 
+> 
+> 호주는 자유 진영의 일원으로서, 또 ‘포괄적 전략 동반자’로서 역내 안정과 번영에 함께 기여하고 있는 대한민국의 ‘멀지만 가까운’ 이웃입니다. 
+> 
+> 양국은 지금까지 쌓아온 굳건한 협력 관계를 토대로, 앞으로 국방･방산, 교역･투자, 핵심 광물, 청정에너지 등 제반 분야에서 협력을 강화하기로 손을 맞잡았습니다.
+> 
+> 한반도 평화처럼 한국과 호주가 함께 대응해야 할 과제가 많이 있습니다. 더욱 긴밀히 소통하며 지역 및 글로벌 차원에서 끈끈한 공조를 이어가겠습니다.
+> 
+> @[비공개] I had a meeting with Australian Prime Minister Anthony Albanese during his visit to Korea. It was our second summit meeting since I took office, and it truly felt like welcoming a close friend. 
+> 
+> Australia is a “distant yet close” neighbor of the Republic of Korea, contributing together to regional stability and prosperity as a member of the free world and a Comprehensive Strategic Partner.
+> 
+> Building on the strong foundation of cooperation we have established so far, our two countries agreed to further strengthen collaboration across a wide range of areas, including defense and the defense industry, trade and investment, critical minerals, and clean energy.
+> 
+> There are many challenges—such as establishing peace on the Korean Peninsula—that Korea and Australia need to work together on. We will continue to communicate closely and deepen our coordination at both the regional and global levels.
+
+좋아요 3,289 · 재게시 784 · 답글 99 · 조회 78,003 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1984045604817993771
+
+### 2025-10-31 08:22 — 외교·통상 · 직접 작성
+
+> 베트남은 우리의 3대 교역국이자, 1만여 개의 우리 기업이 진출해 있는 핵심 협력국입니다. 특히 지난해 약 450만 명의 우리 국민이 베트남을 방문했고, 한-베트남 다문화 가정도 10만 가구에 이르는 등 매우 친숙하고 가까운 나라이기도 합니다. 
+> 
+> 어제 열린 르엉 끄엉 베트남 주석과의 정상회담에서는 국방·방산, 인프라, 문화·인적 교류, 초국가적 범죄 대응 등 다양한 분야에서 양국 간 협력을 한층 강화해 나가기로 뜻을 모았습니다.
+> 
+> 끄엉 주석은 대한민국의 APEC의 성공적 개최를 높이 평가했으며, 2027년 베트남 푸꾸옥에서 개최될 APEC 역시 차질 없이 진행될 수 있도록 의장국 경험을 공유하며 긴밀히 협력하자고 밝혔습니다.
+> 
+> 앞으로도 우리의 끈끈한 우정을 토대로 더욱 다양한 분야에서 폭넓은 협력 관계를 구축해 나가길 기대합니다.
+> 
+> Viet Nam is a key cooperation partner of Korea, as our 3rd largest trading partner, and with around 10,000 Korean companies doing business in Viet Nam. 
+> 
+> Last year, around 4.5 million Koreans visited Viet Nam, and there are almost 100,000 Korean-Vietnamese multicultural families, making Viet Nam a country with which we have a very close and friendly relationship.
+> 
+> Yesterday, at the meeting with President Luong Cuong, we agreed to further strengthen our cooperation in various fields including defence and defence industry, infrastructure, culture and people-to-people exchanges, as well as transnational crimes. 
+> 
+> President Cuong congratulated Korea‘s successful hosting of the APEC Economic Leaders‘ Meeting, and requested that Korea share its experience as the host economy in cooperating for the success of the APEC meetings to be held in 2027 in Phu Quoc, Viet Nam.
+> 
+> I look forward to expanding our cooperation into more diverse fields, building upon our deep and enduring friendship.
+
+좋아요 1,847 · 재게시 490 · 답글 52 · 조회 58,809 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1984038195697488222
+
+### 2025-10-31 08:02 — 외교·통상 · 직접 작성
+
+> 대한민국과 뉴질랜드의 인연은 매우 깊습니다. 6·25전쟁 당시 뉴질랜드는 수교조차 하지 않은 머나먼 대한민국에 파병해 자유민주주의 수호에 함께 힘을 보탰습니다. 뉴질랜드의 숭고한 헌신을 결코 잊지 않을 것입니다.
+> 
+> 전쟁의 상처를 극복하며 쌓아 올린 우리의 우정은 경제, 문화, 사회 등 다양한 분야에서 폭넓게 발전했습니다. 특히 최근 국방·방산 분야에서의 협력을 확대하며 튼튼한 미래를 함께 그려가고 있어 참 뜻깊습니다.
+> 
+> 무엇보다 오늘 크리스토퍼 럭슨 뉴질랜드 총리와의 정상회담을 통해 '포괄적 전략 동반자 관계'로 한층 더 발전하기로 합의한 점을 기쁘게 생각합니다.
+> 
+> 불확실하고 복잡한 국제 정세 속에서도 서로 의지하고 협력하며, 양국 모두에게 이익이 되는 미래를 함께 만들어 나가겠습니다. 앞으로도 변함없는 우정이 이어지길 희망합니다.
+> 
+> @chrisluxonmp The bond between Korea and New Zealand runs deep. During the Korean War, New Zealand deployed combat troops to Korea, a distant country with which New Zealand had not yet established diplomatic relations, standing with us in defense of freedom and democracy. We will never forget New Zealand’s noble sacrifice.
+> 
+> Our friendship, forged while overcoming the scars of war, has since flourished in a variety of areas such as the economy, culture, and society. It is especially meaningful that our cooperation in defense and related industries has expanded in recent years, paving the way for a better future for our two countries.
+> 
+> Most importantly, I am delighted that, through my summit with Prime Minister Christopher Luxon today, we agreed to elevate our relations to a Comprehensive Strategic Partnership.
+> 
+> Despite an uncertain and complex international landscape, Korea and New Zealand will continue to rely on each other and work together to build a future that benefits both nations. I hope our steadfast friendship endures for many years to come.
+
+좋아요 1,988 · 재게시 520 · 답글 47 · 조회 45,206 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1984033144811786741
+
+### 2025-10-30 10:44 — 외교·통상 · 직접 작성
+
+> <세계 평화와 국가 간 연대를 위하여 Cheers🥂>
+> 
+> 경주의 밤을 빛낸 화합과 연대의 시간!
+> 함께 손잡고 평화와 번영을 향해 나아갑시다
+> 
+> #apec2025 #이재명 #특별만찬
+> 
+> https://youtube.com/shorts/wNhWzvUqtSg
+
+좋아요 2,038 · 재게시 601 · 답글 194 · 조회 48,152 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1983711555645764005
+
+### 2025-10-30 10:06 — 외교·통상 · 직접 작성
+
+> 아주 멋지고 아름다운 협상이었습니다.
+> 
+> 이번 정상회담은 양국 간 신뢰와 협력을 더욱 굳건히 하며, 미래지향적 한미동맹 발전의 새로운 전기를 마련하는 황금같은 시간이었습니다.
+> 
+> 특히 도널드 트럼프 대통령께 깊은 감사의 마음을 전합니다. 오래도록 이어져온 우정과 협력 속에서 한미동맹의 진정한 가치를 다시 한 번 확인할 수 있었습니다.
+> 
+> 앞으로도 우리는 함께 손잡고 평화와 번영을 향해 나아갈 것입니다.
+> 
+> What a great and beautiful deal!
+> 
+> The summit meeting was a golden time where we further solidified trust and cooperation between the two countries and set a new turning point for advancing the future-oriented ROK-U.S. alliance.
+> 
+> Thank you so much @realDonaldTrump! Together, we were able to reaffirm the true value of the alliance built on long-standing friendship and cooperation.
+> 
+> President Trump and I will continue to work shoulder-to-shoulder for peace and prosperity.
+
+좋아요 6,897 · 재게시 1,791 · 답글 549 · 조회 327,426 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1983701989889581552
+
+### 2025-10-29 17:34 — 문화·체육 · 직접 작성
+
+> <한국을 향한 러브콜 🇰🇷💙>
+> 
+> 세계 최고 수준의 제조업 기반, ICT 역량, 우수한 인력, K-문화를 보유한 대한민국을 향해 첨단·주력 산업 분야 기업들의 투자 열풍이 일고 있습니다.
+> 
+> 더욱 부강한 나라, 성장하는 대한민국을 위해 노력하겠습니다.
+> 
+> 📎 https://youtube.com/shorts/eeC0-BskjEo?si=qyR2RI6xejXG0XQP
+> 
+> #이재명 #APEC #APEC2025
+
+좋아요 4,453 · 재게시 1,341 · 답글 312 · 조회 164,196 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1983452418705969169
+
+### 2025-10-29 15:44 — 과학기술·AI · 직접 작성
+
+> 아마존웹서비스(AWS) 맷 가먼 대표는 2031년까지 인천과 경기 지역에 AI 데이터센터를 구축하고 총 50억 달러 이상을 투자하겠다고 밝혔습니다. 지난 6월 울산에 이어 연이은 대규모 투자로, 아마존은 우리나라 역사상 최대 규모의 그린필드 투자 기록을 다시 세우게 됐습니다.
+> 
+> 대한민국 AI 산업의 높은 성장 잠재력과 세계적 수준의 IT 인프라, 그리고 우리 정부의 확고한 AI 산업 육성 의지에 대한 신뢰가 반영된 결과라고 생각합니다.
+> 
+> 아마존의 대규모 투자가 우리 정부가 추진하는 ‘AI 고속도로’ 사업의 강력한 원동력이 되리라 믿습니다. 앞으로도 아마존이 국내 기업들과 긴밀한 협력을 이어가며 다양한 협력 모델을 창출해 나가길 기대합니다.
+> 
+> 우리는 지금 새로운 시대를 열어가는 중요한 길목에 서 있습니다. 대한민국이 세계 AI 혁신의 중심으로 도약할 수 있도록 전력을 다하겠습니다. 'AI 강국 대한민국', 멀지 않았습니다.
+
+좋아요 2,954 · 재게시 901 · 답글 108 · 조회 90,840 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1983424734948958451
+
+### 2025-10-28 14:03 — 외교·통상 · 직접 작성
+
+> 대통령실 세 번째 공식 디지털 굿즈를 소개합니다. 10월 31일부터 11월 1일 경주에서 개최되는 APEC 2025 KOREA의 성공을 기원하는 마음을 담았습니다.
+> 
+> 천년고도 경주의 고즈넉한 아름다움, 자개와 보자기 등 우리 고유의 전통미를 디지털로 표현해 대한민국의 품격을 한껏 느낄 수 있도록 했습니다.
+> 
+> 이번 APEC 정상회의는 우리가 20년 만에 의장국으로서 각국 정상을 맞이하는 외교 무대이자, 국민 모두가 즐길 수 있는 축제의 장이 될 것입니다.
+> 
+> 이를 통해 대한민국이 글로벌 협력과 혁신의 중심지로 우뚝 설 수 있길 기대합니다. 많이 관심 가져주시고 응원해 주시면 좋겠습니다.
+> 
+> 📷 대통령실 공식 디지털 굿즈 다운로드
+> 
+> - 대통령 공식 블로그 : 
+> 
+> - 대통령실 홈페이지 : 
+> 
+> #APEC2025KOREA #경주
+> #이재명 #대통령실 #디지털굿즈
+
+좋아요 3,110 · 재게시 1,123 · 답글 294 · 조회 118,053 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1983036757785600003
+
+### 2025-10-28 11:48 — 외교·통상 · 직접 작성
+
+> 취임 후 첫 아세안 국가 방문지로 오랜 우호국 말레이시아를 찾게 되어 뜻깊게 생각합니다. 안와르 이브라힘 말레이시아 총리는 APEC 정상회의 준비로 분주한 가운데서도 말레이시아를 방문한 것에 대해 감사를 표했습니다.
+> 
+> 우리는 이번 한-말레이시아 FTA 체결을 계기로 양국 간 교역과 투자가 크게 확대되고, 디지털과 AI 등 전략산업 분야 협력도 가속화될 것으로 기대하고 있습니다.
+> 
+> 특히 말레이시아 국방 역량 강화에 있어 한국이 신뢰받는 핵심 파트너임을 확인하며, 방산 MOU 체결을 시작으로 스마트 인프라, 에너지 전환 등 미래 지향적 분야까지 협력을 확대해 나가기로 뜻을 모았습니다.
+> 
+> 민주주의와 사회경제 발전에 대한 서로의 경험과 비전을 존중하며, 앞으로도 활발한 소통과 교류를 통해 양국 간 우정을 견고히 다져나가길 희망합니다.
+> 
+> @[비공개] It was deeply meaningful to visit Malaysia, a long-standing friend of the Republic of Korea, as my first destination among ASEAN member states since taking office.
+> 
+> Prime Minister Anwar Ibrahim expressed his appreciation for my visit to Malaysia despite the busy schedule preparing for the upcoming APEC Economic Leaders' Meeting.
+> 
+> With the signing of the Korea–Malaysia Free Trade Agreement, we expect significant expansion in trade and investment between our two countries as well as accelerated cooperation in strategic industries, such as digital technology and artificial intelligence.
+> 
+> We reaffirmed that Korea is a trusted key partner in strengthening Malaysia’s defense capabilities, and starting with the signing of the defense MOU, agreed to broaden our collaboration to include forward-looking areas such as smart infrastructure and energy transition.
+> 
+> With deep respect for each other’s experience and vision regarding democracy and socio-economic development, I hope our two nations continue to strengthen the bonds of friendship through active communication and exchanges going forward.
+
+좋아요 2,179 · 재게시 591 · 답글 141 · 조회 48,304 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1983002997467893945
+
+### 2025-10-27 23:25 — 외교·통상 · 직접 작성
+
+> 훈 마넷 캄보디아 총리와의 첫 정상회담에서 스캠 범죄 등 우리 국민을 위협하는 초국가 범죄에 ‘강력 대응’하기로 함께 뜻을 모았습니다.
+> 
+> 범죄의 양상이 국경을 넘어 고도화되는 만큼 국가 간 공조의 중요성이 더욱 중요해지고 있습니다. 국민의 생명과 안전을 철저히 지키고자 ‘한국인 전담 한-캄보디아 공동 태스크포스(TF)’, 일명 ‘코리아 전담반’을 11월부터 전격 가동하기로 합의했습니다. 전담반 내 한국 경찰 규모 및 운영 방식 또한 빠른 시일 내 확정하기로 했습니다.
+> 
+> 우리 정부는 앞으로도 국민의 삶을 실질적으로 수호할 수 있도록 외교적 노력을 포함한 가능한 모든 방안을 강구해나갈 것입니다.
+> 
+> 한국과 캄보디아는 1997년 재수교 이후 교역, 투자, 인적 교류 등 다양한 분야에서 비약적인 관계 발전을 이뤄왔습니다. 양국이 ‘초국가 범죄’라는 위기를 잘 이겨내고 ‘전략적 동반자’ 관계를 굳건히 발전시켜 나갈 것으로 확신합니다.
+> 
+> @[비공개] At the first summit with Cambodian Prime Minister Hun Manet, we agreed to take strong measures against transnational crimes such as online scams  that threaten the safety of our people.
+> 
+> As criminal activities become more sophisticated crossing borders, intergovernmental cooperation is more crucial than ever. To thoroughly protect the lives and safety of our nationals, we agreed to launch the 'Korea-Cambodia joint task force for Koreans', also known as the 'Korea Task Force', starting in November. The operational structure and size of Korean police unit within the Task Force will also be finalized as soon as possible.
+> 
+> The Korean government will continue to explore all possible measures, including diplomatic efforts, to effectively safeguard the lives of our nationals.
+> 
+> Since the re-establishment of diplomatic relations in 1997, Korea and Cambodia have achieved remarkable progress in various fields such as trade, investment, and people-to-people exchanges. I am confident that our two countries will overcome the challenge of 'transnational crimes' together and further solidify our 'strategic partnership'.
+
+좋아요 2,053 · 재게시 557 · 답글 203 · 조회 64,116 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1982815894297522371
+
+### 2025-10-27 12:27 — 문화·체육 · 직접 작성
+
+> 대한민국은 전 세계가 주목하는 문화 강국이자 민주주의의 모범국가로 당당히 자리잡고 있습니다. 말레이시아 현지의 한류 열기를 보며 대한민국 국민으로서 큰 자부심을 느낍니다.
+> 
+> 세계 어디에 있든 대한민국의 이름을 자신 있게 말할 수 있는, 우리 후손들이 자랑스러워 할 진정한 대한민국을 반드시 만들겠습니다.
+> 
+> 먼 이국 땅 말레이시아에서 대한민국의 위상을 높이고 계신 동포 여러분께 깊은 감사와 존경을 전합니다. 여러분이야말로 대한민국의 자랑입니다.
+
+좋아요 3,305 · 재게시 849 · 답글 377 · 조회 94,825 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1982650226369609848
+
+### 2025-10-27 08:58 — 외교·통상 · 직접 작성
+
+> 말레이시아에서 훈 마넷 캄보디아 총리와 아누틴 태국 총리의 리더십 아래 캄보디아와 태국 간 공동선언이 발표된 것을 진심으로 환영합니다.
+> 
+> 이번 합의가 양국 관계를 넘어 지역의 평화와 안정 증진에 기여하기를 바랍니다.
+> 
+> 아울러 역사적인 합의 도출을 위해 헌신한 도널드 트럼프 미국 대통령과 올해 아세안 정상회의 의장국인 말레이시아의 안와르 총리의 노력을 높이 평가합니다.
+> 
+> I welcome the signing of the Joint Declaration between Cambodia and Thailand, under the leadership of Prime Minister Anutin Charnvirakul of Thailand and Prime Minister Hun Manet of Cambodia in Malaysia. 
+> 
+> I hope that today's agreement will serve as a meaningful step toward promoting peace and stability in the region as well as between the two countries. 
+> 
+> I also highly appreciate the dedicated efforts made by US President Donald Trump and Malaysian Prime Minister Anwar Ibrahim, as Chair of ASEAN for 2025, in achieving this historic agreement.
+
+좋아요 2,133 · 재게시 559 · 답글 182 · 조회 88,833 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1982597743291081168
+
+### 2025-10-25 11:53 — 정치·국정 · 직접 작성
+
+> 대구에서 다시, 
+> 대한민국의 균형발전을 생각합니다.
+> 
+> 지역이 살아야 나라가 삽니다.
+> 
+> 현장에서 답을 찾고, 
+> 국민의 목소리를 정책으로 담겠습니다.
+> 
+> 그것이야말로 국민주권의 실현이자 
+> 민주주의의 본질이라 믿습니다.
+> 
+> #이재명 #대구 #균형발전
+> 
+> https://youtube.com/shorts/pUqFH7ZUKbM
+
+좋아요 2,525 · 재게시 693 · 답글 471 · 조회 66,612 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1981917070385405987
+
+### 2025-10-21 20:22 — 경제·민생 · 직접 작성
+
+> <코스피 3800, 진짜 성장은 지금부터!📈>
+> 
+> 어제 코스피 지수가 사상 최초 3,800선을 넘어서고
+> 오늘도 사상 최고가를 갱신했습니다.
+> 
+> 생산적 금융으로 전환 추세가
+> 더 굳건히 뿌리내리려면
+> 일관되고 실효성 있는 정책을 통해서
+> 우리 사회 전체의 인식을 바꿔야 합니다.
+> 
+> 합리적이고 지속 가능한 투자 문화가 정착되고,
+> 이를 바탕으로 경제 산업과 국민 자산의
+> 동반 성장이 실현될 수 있도록
+> 총력을 기울이겠습니다.
+> 
+> #이재명 #국무회의 #코스피3000
+
+좋아요 3,716 · 재게시 1,084 · 답글 612 · 조회 112,788 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1980595508227035208
+
+### 2025-10-21 09:00 — 정치·국정 · 직접 작성 · 분류 검토 대기
+
+> <‘대구의 마음을 듣다’ 타운홀미팅에 함께해 주십시오>
+> 
+> '모두의 대통령'으로서 역할을 다하기 위해 가장 중요한 것은 국민 한 분 한 분의 목소리에 귀를 기울이는 일이라고 생각합니다.
+> 
+> 국민 여러분과 직접 소통하기 위해 시작한 타운홀미팅, 다섯 번째 만남은 대구광역시에서 열립니다.
+> 
+> 첨단기술 융합 메디시티 실현, AI로봇수도 조성, 미래모빌리티 산업 선도도시 구축, 그리고 지역 균형발전을 위한 혁신 정책까지. 오랜 세월 대한민국의 산업 발전을 견인해 온 대구가 다시 도약하는 길을 함께 모색하겠습니다.
+> 
+> 여러분의 이야기가 정책이 되고, 그 정책이 다시 여러분의 삶을 바꾸는 선순환을 만들어가겠습니다.
+> 
+> 함께해 주시면 좋겠습니다.
+> 아쉽지만 행사 특성상 대구시민 200분만 모실 수 있는 점 양해 부탁드립니다.
+> 
+> ☑️ 날짜: 2025년 10월 24일(금) *시간, 장소는 경호상의 이유로 추후 안내 예정
+> 
+> ☑️ 신청: 2025년 10월 21일(화) 9시~10월 22일(수) 14시 네이버폼 접수()
+
+좋아요 2,125 · 재게시 695 · 답글 473 · 조회 94,094 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1980423792955703395
+
+### 2025-10-20 22:20 — 문화·체육 · 직접 작성
+
+> ‘움므 알 둔야’, 즉 ‘인류 문명의 어머니’로 알려진 이집트는 대한민국의 ‘포괄적 협력 동반자’입니다. 아프리카·중동 지역에서 우리와 가장 핵심적인 관계를 맺고 있는 국가 중 하나라는 뜻이기도 합니다. 
+>  
+> 양국이 수교를 맺은지 어느덧 정확히 30년입니다. 그간 경제, 방위산업, 문화 교류 등 다방면에서 우호 협력을 발전시켜 왔습니다. 앞으로도 호혜 협력의 모범사례를 끊임없이 쌓아 나가겠습니다. 
+> 
+> 이집트의 알시시 대통령께 현지에 진출한 대한민국 기업들에 대한 각별한 관심을 당부드렸습니다. K-콘텐츠, K-뷰티, K-푸드부터 한국어 열풍까지 K-컬처가 이집트에서 높은 인기를 얻고 있는 만큼, 아랍 문화의 보고 이집트와 한국 간의 문화 교류가 더 활발히 이어질 수 있기를 기대합니다.
+> 
+> @[비공개]
+> 
+> لقد أجريتُ أول مكالمة هاتفية منذ توليّ منصبي مع فخامة الرئيس عبد الفتاح السيسي، رئيس جمهورية مصر العربية. وكانت لحظة ذات مغزى كبير، حيث اتفقنا على تعزيز علاقات التعاون بين بلدينا بمناسبة الذكرى الثلاثين لإقامة العلاقات الدبلوماسية بين جمهورية كوريا ومصر.
+> 
+> تُعرف مصر بـ”أم الدنيا”، أي “أم الحضارة الإنسانية”، وهي شريك شامل للتعاون مع جمهورية كوريا. كما تُعدّ من الدول الأكثر أهمية لنا في منطقتي إفريقيا والشرق الأوسط.
+> 
+> تشاركنا الرأي بأن البلدين، منذ إقامة العلاقات الدبلوماسية عام 1995، قد وطّدا أواصر الصداقة والتعاون في مجالات متعددة، من الاقتصاد وصناعة الدفاع إلى التبادل الثقافي. واتفقنا على مواصلة بناء نماذج يُحتذى بها في التعاون القائم على المنفعة المتبادلة.
+> 
+> وخاصةً، طلبتُ من فخامة الرئيس السيسي إيلاء عناية خاصة بالشركات الكورية العاملة في مصر. ونظراً للشعبية الكبيرة التي تحظى بها الثقافة الكورية في مصر — من المحتوى الكوري (K-Content) وتحضيرات التجميل الكوري (K-Beauty) والطعام الكوري (K-Food) إلى الإقبال المتزايد على تعلم اللغة الكورية — آمل بصدق أن تستمر حركة التبادل الثقافي بين كوريا ومصر، البلد العريق في الثقافة 
+> العربية، بوتيرة أكثر نشاطاً وازدهاراً.
+
+좋아요 2,241 · 재게시 564 · 답글 250 · 조회 61,724 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1980262774388539437
+
+### 2025-10-20 19:35 — 국방·안보 · 직접 작성
+
+> <K-방산이 여는 진정한 자주국방의 길!>
+> 
+> 방위산업은 첨단 기술 개발의 핵심 요소입니다.
+> 민간의 첨단 기술 산업을 이끄는 주요 촉매로
+> 방위산업이 역할을 다할 수 있도록,
+> 정부의 지원과 역할을 더욱 확대해 나가겠습니다.
+> 
+> 📎 http://youtube.com/shorts/htPSuEOXeqg
+
+좋아요 2,094 · 재게시 659 · 답글 190 · 조회 50,978 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1980221447248470047
+
+### 2025-10-16 20:58 — 외교·통상 · 직접 작성
+
+> 태국의 아누틴 총리와 처음으로 통화하게 되어 매우 기쁘게 생각합니다.
+> 
+> 태국은 한국전쟁 당시 조기에 파병을 결정한 우방국으로, 오늘날 아세안과 APEC 등 다자무대에서 긴밀히 협력하고 있는 우리의 전략적 동반자입니다.
+> 
+> 우리 국민에게 가장 사랑받는 관광지 중 하나이며, 다수의 K-pop 그룹에 태국 출신 멤버들이 활동하고 있어 더욱 친숙하게 느껴지는 나라이기도 합니다.
+> 
+> 양국은 협력의 잠재력이 매우 크다는 데 인식을 같이하고, 포괄적 경제동반자협정(CEPA)의 조기 타결을 위해 함께 노력하기로 뜻을 모았습니다.
+> 
+> 또한 아누틴 총리는 한반도의 긴장 완화와 남북대화 재개를 위한 한국의 노력을 적극 지지한다고 밝혔습니다. 우방국의 이러한 지지는 우리에게 큰 힘이 됩니다.
+> 
+> 이달 말 열리는 아세안 관련 정상회의와 APEC 정상회의에서 아누틴 총리를 직접 만나 뵙기를 기대합니다.
+> 
+> ผมมีความยินดีเป็นอย่างสูงที่ได้ต่อสายพูดคุยกับท่านอนุทิน นายกรัฐมนตรีแห่งประเทศไทยเป็นครั้งแรก
+> 
+> ประเทศไทยเป็นมิตรประเทศของเราที่ได้ตัดสินใจส่งกองกำลังมาร่วมรบในสงครามเกาหลีเป็นประเทศแรกๆ และในวันนี้ประเทศไทยยังเป็นหุ้นส่วนเชิงยุทธศาสตร์ของเราที่มีความร่วมมืออย่างใกล้ชิดไม่ว่าจะเป็นความร่วมมือทางด้านอาเซียน APEC หรือในเวทีพหุภาคีอื่นๆ
+> 
+> นอกจากนั้น ประเทศไทยเป็นหนึ่งในแหล่งท่องเที่ยวที่ประชาชนชาวเกาหลีไปเยือนมากที่สุด และเรามีความคุ้นเคยกันและกันเนื่องจากมีสมาชิกนักร้องวง K-pop ที่เป็นคนไทยร่วมอยู่ด้วยหลายวง 
+> 
+> ผมและท่านนายกฯอนุทินได้แลกเปลี่ยนความเห็นต่างๆและมองว่าเรายังมีศักยภาพในการจะพัฒนาความร่วมมืออีกมาก โดยเฉพาะเรื่องความตกลงหุ้นส่วนทางเศรษฐกิจแบบรอบด้าน เราทั้งสองจะพยายามอย่างเต็มที่เพื่อหาข้อตกลงให้ได้ในเร็ววัน
+> 
+> ท่านนายกฯอนุทินยังได้แสดงความสนับสนุนต่อความพยายามของสาธารณรัฐเกาหลีที่พยายามผ่อนคลายความตึงเครียดในคาบสมุทรเกาหลีเพื่อเริ่มการเจรจาใหม่ระหว่างเหนือกับใต้ แรงสนับสนุนแบบนี้จากมิตรประเทศเป็นกำลังใจสำคัญกับเรามาก
+> 
+> หวังว่าจะได้พบกับท่านนายกฯอนุทินในที่ประชุมผู้นำอาเซียนและประชุมสุดยอดผู้นำ APEC ที่จะมีขึ้นในเดือนนี้
+
+좋아요 2,717 · 재게시 795 · 답글 498 · 조회 109,670 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1978792557741305898
+
+### 2025-10-15 21:37 — 문화·체육 · 직접 작성 · 분류 검토 대기
+
+> 한국을 찾은 빅토리아 스웨덴 왕세녀를 만나게 되어 매우 기쁘게 생각합니다.  
+> 
+> 스웨덴은 한국전쟁 당시 천여 명의 의료지원단을 파견하고 한반도 특사를 운영하는 등 한반도 평화에 꾸준히 기여해 온 소중한 우방입니다. 한반도 평화에 대한 스웨덴의 관심과 노력에 감사를 전했습니다.
+> 
+> 유명가수 ABBA와 한강 작가의 노벨문학상 수상 덕에 스웨덴은 우리에게 더욱 친근히 느껴집니다. 이러한 유대를 바탕으로 양국 간 문화 협력이 강화되고, 첨단기술과 재생에너지 등 미래지향적 분야에서도 협력 기회가 확대되길 기대합니다.
+> 
+> 빅토리아 왕세녀의 방한을 계기로 오랜 기간 발전해 온 양국 간 우호협력 관계가 한층 심화될 것으로 확신합니다. 앞으로도 지속적인 협력을 통해 평화와 번영을 함께 만들어갈 수 있길 소망합니다.
+> 
+> I was very pleased to meet with Her Royal Highness Crown Princess Victoria of Sweden on the occasion of her visit to Korea.
+> 
+> Sweden is a valued friend of Korea, having dispatched over a thousand members of its medical support team during the Korean War and having continued to contribute to peace on the Korean Peninsula, including through its Special Envoy for the Korean Peninsula. I expressed my deep appreciation for Sweden’s long-standing interest and efforts to promote peace on the Korean Peninsula.
+> 
+> Thanks to the world-renowned musical group ABBA and the awarding of the Nobel Prize in Literature to novelist Han Kang last year, Sweden feels even closer and more familiar to us. Building upon these ties, I look forward to our two countries further strengthening cultural cooperation and expanding opportunities for collaboration in forward-looking fields such as advanced technology and renewable energy.
+> 
+> I am confident that the visit of Her Royal Highness Crown Princess Victoria to Korea will further deepen the long-standing bonds of friendship and cooperation between our two countries. I sincerely hope that, through continued partnership, we will work together to promote peace and shared prosperity.
+
+좋아요 3,114 · 재게시 718 · 답글 270 · 조회 179,866 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1978440178739143065
+
+### 2025-10-15 21:36 — 사회 · 직접 작성 · 분류 검토 대기
+
+> ‘세계 3위 게임강국으로 레벨업’이라는 주제로 게임업계 관계자분들과 함께 간담회를 가졌습니다. 탄력적 노동시간 운영, 산업 혁신, 규제 완화, 중소 게임사 지원 방안 등 현장의 다양한 목소리를 들을 수 있었습니다. 
+> 
+> 과거에는 부정적인 시각이 많았지만, 이제는 게임산업을 국부 창출과 일자리 창출의 핵심으로 재인식해야 할 때입니다. 창의력과 기술력을 바탕으로 한 게임산업은 무한한 발전 가능성을 지니고 있습니다.
+> 
+> 앞으로 게임산업이 단순한 오락거리를 넘어 미래 핵심 문화산업으로 자리매김할 수 있도록, 해외 시장 진출을 통해 국가 경제에 기여할 수 있도록 정부가 적극 지원하겠습니다.
+> 
+> 개발자와 노동자의 권리가 균형 있게 보장되는 산업 생태계 조성에도 힘쓸 예정입니다. 게임업계 관계자분들의 열정과 도전에 뜨거운 응원과 격려를 전합니다.
+
+좋아요 2,360 · 재게시 732 · 답글 170 · 조회 195,480 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1978439802518433915
+
+### 2025-10-15 16:59 — 정치·국정 · 직접 작성
+
+> 국민 여러분과 직접 소통할 때마다 역시 해답은 현장에 있다는 확신이 듭니다. 이재명 정부 국정운영의 중심에는 언제나 주권자이신 국민이 있습니다. 
+> 
+> 전해주신 귀한 말씀 하나하나가 정책 방향을 결정하는 중요한 밑거름이 됩니다. 이러한 의견들을 어떻게 더 효과적으로 담아낼 수 있을지 깊이 고민하고 또 고민하겠습니다.
+
+좋아요 2,918 · 재게시 816 · 답글 436 · 조회 458,502 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1978370090258313546
+
+### 2025-10-10 15:15 — 경제·민생 · 직접 작성
+
+> <현장의 목소리를 들려주실 국민 패널을 모십니다>
+> 
+> 대통령실이 국민의 생생한 목소리를 정책에 담아내기 위한 소통의 장, '디지털토크 라이브'를 개최합니다.
+> 이번 주제는 '지역상권 활성화와 소비쿠폰'입니다.
+> 
+> 우리 동네 골목상권에 활력을 불어넣을 방안과 소비쿠폰이 지역 경제에 미친 영향에 대해, 국민 여러분의 진솔한 경험과 함께 지혜를 구합니다.
+> 
+> 현장에서 느낀 정책의 효과, 아쉬웠던 점, 그리고 더 나은 내일을 위한 제언까지.
+> 여러분의 소중한 목소리가 대한민국 정책의 길잡이가 됩니다.
+> 
+> ☑️ 모집 개요
+> - 행사명: 디지털토크 라이브 '국민의 목소리, 정책이 되다'
+> - 일시: 2025년 10월 14일(화) 14:00
+> - 장소: 서울시 일대 (※ 경호상의 이유로 최종 참여자께 개별 안내해 드립니다.)
+> - 참여 대상: 소상공인 및 자영업자, 소비쿠폰 사용 경험이 있는 국민 누구나
+> 
+> ☑️ 신청 안내
+> - 신청 기간: 2025년 10월 10일(금) ~ 10월 11일(토) 18시
+> - 신청 방법: 아래 링크를 통해 신청서 작성
+> - 신청 링크: 
+> - 결과 발표: 2025년 10월 13일(월)까지 개별 연락 드릴 예정입니다.
+> 
+> 대통령실은 언제나 국민 여러분의 목소리에 귀 기울이겠습니다.
+> 정책의 주인공이신 국민 여러분의 많은 관심과 참여를 부탁드립니다.
+
+좋아요 3,163 · 재게시 1,053 · 답글 636 · 조회 110,772 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1976531969426309251
+
+### 2025-10-07 10:00 — 일상·인사 · 직접 작성
+
+> 각자의 자리에서, 각기 다른 환경과 상황을 마주하며 살아가는 국민 여러분을 세심히 살피는 것이 대통령의 가장 큰 책무임을 명절을 맞아 다시금 새겨봅니다.
+> 
+> 이번 추석 인사에서도 말씀드렸듯 명절의 즐거움을 온전히 누리기에는 민생의 현실이 결코 녹록지 않습니다. 
+> 
+> '그럼에도' 사랑하는 이들과 서로를 응원하고 희망을 이야기할 수 있었으면, '그럼에도' 웃으며 함께 용기를 나누는 시간이었으면 좋겠습니다.
+> 
+> 때로는 간과 쓸개를 다 내어주고, 손가락질과 오해를 감수하더라도, 국민의 삶에 한 줌이라도 보탬이 될 수 있다면 무엇이든 마다하지 않겠다는 각오로 임하고 있습니다. 
+> 
+> 국민 여러분의 오늘과 민생의 내일을 더 낮은 마음으로, 더 세밀히 챙길 것을 다시 한번 약속드립니다.
+
+좋아요 8,670 · 재게시 2,151 · 답글 665 · 조회 657,549 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1975365485832421755
+
+### 2025-10-05 14:00 — 일상·인사 · 직접 작성
+
+> <'민족 대명절' 추석 인사드립니다>
+> 
+> "더도 말고 덜도 말고 
+> 한가위만 같아라"는 말처럼,
+> 우리 모두를 고루 비추는 달빛처럼,
+> 여러분 모두의 가정에 
+> 건강과 행복이 가득하길 기원합니다.
+> 
+> https://youtu.be/2kgwm0YYrhM
+
+좋아요 6,362 · 재게시 1,751 · 답글 533 · 조회 162,071 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1974701082342269316
+
+### 2025-10-02 20:04 — 외교·통상 · 직접 작성
+
+> <AI 아닙니다 #APEC 맞습니다>
+> 
+> APEC 2025 KOREA 주차장에서 생긴 일
+> #2초배우 #이재명
+> 
+> #APEC2025KOREA
+> #GYEONGJU #경주 #APEC정상회의
+
+좋아요 8,727 · 재게시 3,078 · 답글 610 · 조회 634,586 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1973705684761116920
+
+### 2025-10-02 15:25 — 정치·국정 · 직접 작성
+
+> 분단의 아픔과 전쟁의 상처, 산업화와 민주화라는 시대의 전환점마다 재외동포 여러분께서는 언제나 조국의 버팀목이 되어주셨고, 세계 곳곳에서 대한민국의 위상을 드높여주셨습니다. 
+> 
+> 오늘 세계한인의 날 기념식을 통해 대한민국의 뿌리와 정체성을 굳건히 지켜온 동포 여러분께 경의를 표했습니다. 아울러 차세대 동포들을 위한 교육, 문화, 네트워크 지원을 더욱 힘쓸 것을 약속드렸습니다. 
+> 
+> 또한 복수국적 연령 하향과 투표 제도 개선 등 동포 사회의 오랜 염원이 조속히 실현될 수 있도록 관련 제도 개선을 적극 추진하겠다고 전했습니다.
+> 
+> 사는 곳도, 사용하는 언어도 다르지만 조국을 사랑하는 마음만큼은 하나라고 믿습니다. 오늘의 대한민국을 만든 동포 여러분의 땀방울이 헛되지 않도록 모두 함께 잘사는 자랑스러운 조국, 평화와 번영이 가득한 나라를 만들어 가겠습니다.
+
+좋아요 2,295 · 재게시 644 · 답글 199 · 조회 81,202 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1973635433906184427
+
+### 2025-10-02 09:23 — 미분류 · 직접 작성 · 분류 검토 대기
+
+> https://m.news.nate.com/view/20251002n06788?mid=m02
+
+좋아요 3,086 · 재게시 1,170 · 답글 225 · 조회 229,627 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1973544345400963157
+
+### 2025-10-01 21:54 — 과학기술·AI · 직접 작성
+
+> 세계 인공지능 혁신을 이끌고 있는 ‘챗GPT의 아버지’ 오픈AI 샘 알트만 대표와 만나 인공지능의 미래를 함께 논의했습니다.
+> 
+> 알트만 대표는 우리나라를 다른 어떤 나라에도 견줄 수 없는 산업 기반을 갖춘 국가라고 평가하며, 세계 최고 수준의 반도체 역량을 지닌 삼성전자와 SK하이닉스와의 협력이 AI 발전에 필수적이라고 강조했습니다.
+> 
+> 아울러 과학기술정보통신부와 MOU를 체결해 국가적 AI 대전환과 생태계 발전을 함께 추진하고, 한국이 아시아·태평양 지역의 AI 허브로 도약할 수 있도록 긴밀히 협력하기로 했습니다.
+> 
+> AI의 미래는 인류에게 행복한 기회의 시대가 될 수도, 위험과 불확실성의 시대가 될 수도 있습니다. 그러나 우리 모두의 지혜와 노력을 모은다면 반드시 행복한 미래를 선택할 수 있다고 믿습니다.
+> 
+> 정부는 대한민국이 세계 AI 혁신 중심국가로 도약할 수 있도록 앞으로도 최선을 다하겠습니다.
+
+좋아요 3,048 · 재게시 855 · 답글 160 · 조회 143,962 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1973371032154284129
+
+### 2025-10-01 19:50 — 문화·체육 · 직접 작성
+
+> 오늘 출범한 대중문화교류위원회는 여러 부처의 정책 역량을 결합하고, 민간의 창의성과 전문성을 활용하는 민관 원팀 플랫폼입니다. 세계를 잇는 가교로서 교류·협력 확대와 관련 산업 성장을 이끌어 갈 예정입니다.
+> 
+> 백범 김구 선생의 염원처럼 음악, 영화, 영상, 게임, 웹툰 등 K-컬처는 이제 우리만의 문화를 넘어 전 세계인이 열광하고 공감하는 강력한 매개체로 발전했습니다.
+> 
+> 정부는 우리 대중문화가 대한민국 경제의 미래를 견인하는 핵심 산업으로 성장할 수 있도록 전방위적인 지원을 아끼지 않을 것입니다.
+> 
+> 대중문화교류위원회의 활약이 글로벌 영향력 확대로 이어져, 대한민국이 문화선진국으로 우뚝 서는 데 큰 기여를 해주길 소망합니다.
+
+좋아요 19,750 · 재게시 5,601 · 답글 245 · 조회 638,140 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1973339800624341480
+
+### 2025-10-01 16:07 — 문화·체육 · 직접 작성
+
+> PPX Kick-off!
+> 이재명TV 라이브 중
+> https://youtube.com/live/0k2C7dM1IgI
+> 
+> #이재명 #박진영 #RM포토존
+> #대중문화교류위원회 #맛보기짤
+
+좋아요 12,006 · 재게시 4,551 · 답글 351 · 조회 2,782,677 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1973283696775254456
+
+### 2025-10-01 08:54 — 사회 · 직접 작성 · 분류 검토 대기
+
+> <국가정보자원관리원 화재 장애 복구 상황 보고드립니다. (2025.10.01. 08:00 기준)>    
+> 
+> - 98개 서비스 복구 완료    
+> 
+> ▶️ 복구 완료 서비스 목록 : http://naver.me/xQiPCo4p
+
+좋아요 2,118 · 재게시 735 · 답글 130 · 조회 102,668 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1973174693499904107
+
+## 2025년 9월 (39건)
+
+### 2025-09-30 22:41 — 사회 · 직접 작성 · 분류 검토 대기
+
+> <국가정보자원관리원 화재 장애 복구 상황 보고드립니다. (2025.09.30. 22:00 기준)>  
+> 
+> - 95개 서비스 복구 완료  
+> ▶️ 복구 완료 서비스 목록 : http://naver.me/xQiPCo4p
+
+좋아요 1,786 · 재게시 610 · 답글 92 · 조회 147,019 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1973020300389576705
+
+### 2025-09-30 14:23 — 사회 · 직접 작성 · 분류 검토 대기
+
+> <국가정보자원관리원 화재 장애 복구 상황 보고드립니다. (2025.09.30. 13:00 기준)>
+> 
+> - 89개 서비스 복구 완료
+> 
+> ▶️ 복구 완료 서비스 목록 : http://naver.me/xQiPCo4p
+
+좋아요 2,037 · 재게시 677 · 답글 217 · 조회 89,026 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1972895141158633851
+
+### 2025-09-30 08:28 — 사회 · 직접 작성 · 분류 검토 대기
+
+> <국가정보자원관리원 화재 장애 복구 상황 보고드립니다. (2025.09.30. 08:00 기준)>
+> 
+> - 85개 서비스 복구 완료
+> 
+> ▶️ 복구 완료 서비스 목록 : http://naver.me/xQiPCo4p
+
+좋아요 2,413 · 재게시 933 · 답글 138 · 조회 99,283 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1972805728265220280
+
+### 2025-09-29 20:23 — 사회 · 직접 작성
+
+> 예년보다 긴 추석 연휴를 앞두고 필수 의료 시설을 점검하기 위해 국립중앙의료원을 방문했습니다. 무엇보다 국민 여러분께서 안심하고 편안한 연휴를 보내실 수 있도록 의료 현장을 철저히 살피고 관리해 줄 것을 당부했습니다.
+> 
+> 또한 응급·외상·간호 부서 및 중앙응급의료센터 의료진들과 간담회를 갖고, 전반적인 연휴 대비 상황을 꼼꼼히 점검하며 그간의 애로사항을 청취하는 시간도 가졌습니다. 들려주신 현장의 목소리를 세심히 점검해 향후 정책에 적극 반영할 수 있도록 하겠습니다.
+> 
+> 짧지 않은 시간 동안 의료 대란을 겪으며 의료진 여러분께서도 쉽지 않은 시간을 보냈으리라 생각합니다. 우리나라 의료에 대한 국민들의 높은 신뢰를 바탕으로 앞으로 더욱 최선을 다해주실 것을 믿습니다.
+
+좋아요 3,768 · 재게시 1,005 · 답글 255 · 조회 132,557 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1972623372564799950
+
+### 2025-09-29 19:00 — 과학기술·AI · 직접 작성 · 분류 검토 대기
+
+> 스위스, 폴란드, 에스토니아, 캐나다, 덴마크, 싱가포르, 유럽연합(EU)의 신임 주한대사로부터 신임장을 제출받았습니다.
+> 
+> 가장 먼저, 재임 동안 양국 관계가 여러 분야에서 발전할 수 있도록 소통의 가교 역할을 충실히 해 주길 요청했습니다.
+> 
+> 특히 우리의 강점인 인공지능과 첨단 기술, 방산 분야의 협력을 강화해 나가길 바라며, 나아가 한국이 국제사회에서 더 큰 역할을 수행하는 데도 긴밀히 협력하길 바란다고 강조했습니다.
+> 
+> 대한민국을 대표해 신임 주한대사들의 부임을 진심으로 환영합니다. 한국에서의 모든 시간이 뜻깊고 행복하길 기원합니다.
+> 
+> I received letters of credence from the new ambassadors of Switzerland, Poland, Estonia, Canada, Denmark, Singapore and the European Union.
+> 
+> First and foremost, I requested that the ambassadors faithfully perform the role of a communicative bridge to ensure our bilateral ties advance across various fields during their time in office.
+> 
+> ​In particular, I emphasized my hope for stronger cooperation in the fields of artificial intelligence, advanced technology, and the defense industry—all of which are Korea's strengths—as well as close collaboration for Korea's greater role on the international stage.
+> 
+> On behalf of the Republic of Korea, a heartfelt welcome to the new ambassadors on their assignments. May all of their time in Korea be meaningful and happy.
+
+좋아요 2,323 · 재게시 615 · 답글 103 · 조회 96,357 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1972602366374678750
+
+### 2025-09-29 18:32 — 사회 · 직접 작성 · 분류 검토 대기
+
+> <국가정보자원관리원 화재 장애 복구 상황 보고드립니다. (2025.09.29. 18:00 기준)>    
+> 
+> - 75개 서비스 복구 완료    
+> 
+> ▶️ 복구 완료 서비스 목록 : http://naver.me/xQiPCo4p
+
+좋아요 2,080 · 재게시 799 · 답글 100 · 조회 82,470 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1972595244412911942
+
+### 2025-09-29 15:34 — 사회 · 직접 작성 · 분류 검토 대기
+
+> <국가정보자원관리원 화재 장애 복구 상황 보고드립니다. (2025.09.29. 14:00 기준)>  
+> 
+> - 71개 서비스 복구 완료  
+> 
+> ▶️ 복구 완료 서비스 목록 : http://naver.me/xQiPCo4p
+
+좋아요 2,579 · 재게시 987 · 답글 140 · 조회 114,488 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1972550427393806353
+
+### 2025-09-29 13:32 — 사회 · 직접 작성 · 분류 검토 대기
+
+> <국가정보자원관리원 화재 장애 복구 상황 보고드립니다. (2025.09.29. 12:00 기준)>
+> 
+> - 62개 서비스 복구 완료
+> 
+> ▶️ 복구 완료 서비스 목록 : http://naver.me/xQiPCo4p
+
+좋아요 3,625 · 재게시 1,802 · 답글 234 · 조회 260,635 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1972519941997027795
+
+### 2025-09-25 23:40 — 국방·안보 · 직접 작성
+
+> 폴란드의 나브로츠키 대통령과 처음으로 정상회담을 하게 되어 매우 기쁘게 생각합니다.
+> 
+> 대한민국은 비EU 회원국 중으로는 폴란드에 두 번째로 많은 투자를 하고 있습니다. 나브로츠키 대통령과 함께 양국 간 방산 협력이 전차 등을 중심으로 발전해 온 점을 높이 평가하고, 양국 기업이 호혜적 차원에서 많은 성과를 거둘 수 있도록 협력을 확대해 나가기로 했습니다.
+> 
+> 나브로츠키 대통령은 절실히 논의가 필요한 시점에 AI와 국제평화·안보를 주제로 우리나라가 안보리 공개토의를 개최한 점을 높이 평가하며 이번 토의에 참석해 주었습니다.
+> 
+> 또한 한반도 및 기타 지역 정세에 대해서도 의견을 교환하며 앞으로 국제 사회에서의 협력을 한층 더 공고히 해 나가자고 뜻을 모았습니다.
+> 
+> @[비공개] I was very pleased to have my first summit meeting with President Karol Nawrocki of the Republic of Poland.
+> 
+> The Republic of Korea is the second-largest investor in Poland among non-EU member states. Together with President Nawrocki, I expressed strong appreciation for the development of cooperation in the defense industry, particularly focused on tanks, and agreed to expand cooperation so that companies from both countries can achieve greater results on a mutually beneficial basis.
+> 
+> President Nawrocki commended Korea for convening an open debate of the Security Council on the theme of AI and international peace and security at a most timely moment, and attended the discussion.
+> 
+> We also exchanged views on the situation on the Korean Peninsula and in other regions, and agreed to further consolidate our cooperation within the international community going forward.
+
+좋아요 2,397 · 재게시 649 · 답글 265 · 조회 84,762 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1971223306947658167
+
+### 2025-09-25 23:40 — 외교·통상 · 직접 작성
+
+> 멜로니 이탈리아 총리와 뉴욕에서 취임 후 처음으로 정상회담을 진행했습니다.
+>  
+> 멜로니 총리는 K-pop의 열렬한 팬인 딸 이야기를 하며 한국문화가 전 세계적으로 큰 인기를 얻고 있다고 전했습니다. 앞으로 양국 간 문화교류를 강화하고 활성화하는 데 협력하기로 뜻을 모았습니다. 
+> 
+> 전략적 동반자 관계인 양국 정부와 기업이 AI, 방산 등 분야에서 호혜적 협력을 한층 심화시키자고 제안했으며, 멜로니 총리는 조만간 방한해 구체적인 협력 방안을 모색하길 희망한다고 밝혔습니다. 
+> 
+> 국제사회가 직면한 위기에 관한 이야기를 나누던 중 멜로니 총리는 위기(crisis)라는 단어의 그리스어 어원이 '결정'을 뜻한다고 설명했습니다. 이어 ‘위기는 기회’라는 격언을 바탕으로 한국과 이탈리아가 위기를 기회로 만들기 위해 긴밀히 협력해 나가자고 답했습니다.
+> 
+> @GiorgiaMeloni I held my first summit with Prime Minister Giorgia Meloni of Italian Republic since my inauguration, in New York.
+> 
+> Prime Minister Meloni shared a story about her daughter, an ardent fan of K-pop, noting that Korean culture is enjoying great popularity around the world. We agreed to work together to further strengthen and promote cultural exchanges between our two countries.
+> 
+> I proposed that our governments and businesses, as strategic partners, deepen mutually beneficial cooperation in areas such as AI and defense industry. Prime Minister Meloni expressed her hope to visit Korea in the near future to explore concrete avenues of cooperation.
+> 
+> In our discussion on the crises facing the international community, Prime Minister Meloni explained that the Greek origin of the word “crisis” means “decision.” Building on the adage that “a crisis is an opportunity,” I responded that Korea and Italy should work closely together to turn crises into opportunities.
+
+좋아요 3,044 · 재게시 793 · 답글 135 · 조회 113,389 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1971223262802706917
+
+### 2025-09-25 23:40 — 외교·통상 · 직접 작성
+
+> 토마스 번 코리아 소사이어티 회장, 강경화 아시아 소사이어티 회장, 수잔 엘리엇 미 외교정책위원회 회장, 캐슬린 스티븐스 코리아 소사이어티 이사장, 이안 브레머 유라시아그룹 회장, 다니엘 커츠-펠란 포린어페어즈 편집장과 함께 국제 정세와 한미동맹의 발전 방향 등 다양한 현안에 대한 의견을 나눴습니다.
+> 
+> 관세 협상과 관련해 일방적으로 미국의 요구를 수용할 수 없는 불가피한 이유를 설명하고, 양국이 상호 이익에 부합하는 합리적 타결책을 내길 기대한다고 밝혔습니다. 미측 참석자들은 지난 한미정상회담을 통해 두 정상 사이에 형성된 유대가 양국 관계 발전의 큰 힘이 될 것이라는 기대를 표명했고, 한국의 대미 투자, 한미 간 풀뿌리 교류, 양국 간 호감 등 강점을 활용해 주요 현안 해결을 적극 지원하겠다고 답했습니다.
+> 
+> 한반도와 국제 정세에 관한 심도 깊은 논의도 이어졌습니다. 세계 평화 구조 도출에 있어 한반도 평화와 안정이 핵심이라는 점을 강조하고, 트럼프 대통령과 함께 실용적 접근을 추진하겠다고 전했습니다. 참석자들은 우리의 노력이 결실을 맺기를 바란다며 지지를 보냈습니다.
+> 
+> 앞으로도 우리 정부는 국익 중심 실용외교를 구체화하고, 글로벌 책임 강국으로 나아가는 과정에서 각국 전문가들과 긴밀히 소통하며 협력해 나가겠습니다.
+
+좋아요 2,515 · 재게시 682 · 답글 129 · 조회 73,167 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1971223175540211895
+
+### 2025-09-25 12:43 — 외교·통상 · 직접 작성
+
+> 안토니우 구테레쉬 유엔 사무총장과 올해 G7 정상회의 이후 다시 만나 심도 있는 대화를 나눴습니다. 
+> 
+> 구테레쉬 사무총장은 대한민국 정부가 국제사회 분열 속에서도 균형 잡힌 목소리를 내는 등 유엔에서 중요한 역할을 하고 있다고 높이 평가하며, 우리를 신뢰받는 협력 파트너로 언급했습니다. 또한 우리 정부의 대북 정책이 현명한 접근임을 인정하고, 유엔 차원의 지지와 지원을 약속했습니다.
+> 
+> 과거 유엔의 지원으로 발전을 이룬 대한민국이 앞으로 국제 사회의 중대한 도전 과제에 보다 적극적으로 기여할 것임을 밝히며, 한반도 평화와 안보가 국제 평화와 연계되어 있는 만큼 유엔의 지속적인 협력과 지원을 요청했습니다.
+> 
+> 올해 유엔 창설 80주년을 맞아, 대한민국 정부는 유엔과의 특별한 관계를 더욱 강화하고, 국제사회의 평화와 번영을 위한 유엔의 소임에 협력해 책임 있는 역할을 수행할 계획입니다.
+> 
+> @[비공개] I met again with UN Secretary-General António Guterres for an in-depth discussion after our earlier conversation at the G7 Summit. 
+>  
+> Secretary-General Guterres highly appreciated the Government of the Republic of Korea playing an important role at the United Nations, such as by providing a balanced voice amidst divisions in the international community, referring to us as a trusted cooperation partner. He also recognized that our Government’s policy toward North Korea is a wise approach, and pledged the United Nations’ support and assistance.
+>  
+> I expressed that, having achieved development with the support of the United Nations in the past, the Republic of Korea will actively contribute to addressing major challenges facing the international community. I also emphasized that peace and security on the Korean Peninsula are closely linked to international peace, and requested the United Nation's continued cooperation and support. 
+>  
+> On the occasion of the 80th anniversary of the United Nations this year, the Government of the Republic of Korea will further strengthen its special relationship with the UN and fulfill a responsible role in supporting the UN’s mission to advance peace and prosperity for the international community.
+
+좋아요 2,239 · 재게시 598 · 답글 175 · 조회 61,532 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1971058021855039634
+
+### 2025-09-25 10:10 — 외교·통상 · 직접 작성
+
+> 오늘 샤브카트 미르지요예프 우즈베키스탄 대통령과 직접 만나 뜻깊은 시간을 가졌습니다. 회담을 통해 빠르게 발전하는 양국 관계만큼이나 대통령님과의 친밀감도 더욱 깊어졌음을 느낄 수 있었습니다.
+> 
+> 우즈베키스탄은 중앙아시아 지역에서 우리나라와 특별 전략적 동반자 관계를 맺고 있는 핵심 협력국입니다. 
+> 
+> 철도, 공항 등 인프라를 비롯해 핵심 광물 공급망 등 여러 분야의 실질적 협력 확대 방안을 논의했습니다. 나아가 이러한 협력이 양국 국민의 삶과 국익에 기여할 수 있도록 상호 노력해 나가자고 뜻을 모았습니다. 
+> 
+> 양국은 앞으로도 상호 이익과 신뢰를 바탕으로 긴밀하게 협력하며, 내년 우리나라에서 열릴 예정인 '한-중앙아시아 정상회의'의 성공을 위해 지속적으로 소통할 계획입니다.
+> 
+> @president_uz Сегодня я имел честь лично встретиться с Президентом Республики Узбекистан Шавкатом Мирзиёевым и провести с ним содержательное время. По итогам сегодняшней встречи я почувствовал, что наряду со стремительным развитием отношений между нашими странами укрепляется и моя личная близость к Президенту Мирзиёеву.
+> 
+> Узбекистан является для нас ключевым партнёром в Центральной Азии, с которым мы установили отношения особого стратегического партнёрства. 
+> 
+> Мы обсудили меры по расширению практического сотрудничества в различных областях, включая строительство инфраструктуры, такой как железные дороги и аэропорты, а также цепочки поставок критически важных минералов. Кроме того, мы сошлись во мнении о необходимости прилагать совместные усилия для того, чтобы наше сотрудничество приносило пользу народам и национальным интересам обеих стран. 
+> 
+> Обе страны и впредь продолжат тесно сотрудничать на основе взаимной выгоды и доверия, а также будут поддерживать постоянный диалог для успешного проведения саммита “Республика Корея-Центральная Азия”, который состоится в нашей стране в следующем году.
+
+좋아요 1,905 · 재게시 524 · 답글 108 · 조회 48,644 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1971019535172960674
+
+### 2025-09-25 10:10 — 외교·통상 · 직접 작성
+
+> 페트르 파벨 체코 대통령과 처음으로 정상회담을 하게 되어 매우 기쁘게 생각합니다.
+> 
+> 올해는 한-체코 수교 35주년을 맞는 뜻깊은 해입니다. 가장 먼저, 대한민국과 체코의 국민들이 민주주의를 수호해 온 공통점을 지니고 있음을 강조하며, 이와 같이 서로 공유하는 가치를 토대로 양국 관계를 더욱 발전시켜 나갈 것을 제안했습니다.
+> 
+> 파벨 대통령은 지난 6월 체코 두코바니 신규 원전 건설 최종 계약 체결이 한국 기업의 탁월한 역량을 입증한 사례라고 평가했습니다. 이에 체코가 우리 기업의 투자 활동을 적극 지원해준 점에 감사를 표하며, 원전을 넘어 반도체, 전기차, 방산 분야까지 협력이 확대될 수 있도록 함께 노력하자고 전했습니다.
+> 
+> 아울러 파벨 대통령은 국제사회 변화 속에서 민주국가 간 협력 강화를 강조하며 방한 의사를 밝혔고, 이에 대한 환영의 뜻과 함께 양국 관계가 더욱 발전하기를 기대한다고 화답했습니다.
+> 
+> @[비공개] I was very pleased to have my first summit meeting with President Petr Pavel of the Czech Republic. 
+>  
+> This year marks the meaningful 35th anniversary of establishing diplomatic relations between the Republic of Korea and the Czech Republic. At the outset, I emphasized that both countries share a commonality of our people having defended democracy, and proposed that, based on these shared values, we further advance bilateral relations. 
+>  
+> President Pavel noted that the signing of the final contract in June for the construction of the new Dukovany nuclear power plant demonstrated the outstanding capabilities of Korean companies. In response, I expressed my gratitude for the Czech Republic’s active support of our companies’ investment activities, and conveyed my hope that our cooperation will extend beyond nuclear energy to semiconductors, electric vehicles, and defense industries. 
+>  
+> Furthermore, President Pavel underscored the importance of strengthening cooperation among democratic nations amid changes in the international community, and expressed his intention to visit Korea. I welcomed this and responded with the expectation that our bilateral relations will continue to grow stronger.
+
+좋아요 2,121 · 재게시 559 · 답글 83 · 조회 46,927 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1971019370848469203
+
+### 2025-09-24 10:04 — 문화·체육 · 직접 작성
+
+> <대중문화교류위원회 출범식에 초대합니다>
+> 
+> 우리 대중문화의 세계적 도약과 발전을 든든히 뒷받침할 ‘대중문화교류위원회’가 힘차게 첫발을 내딛습니다.
+> 
+> 대중문화교류위원회는 문화산업계를 이끄는 리더들과 함께 다양한 분야에서 민관 협력을 강화하고 네트워크를 확장하기 위해 신설한 조직입니다.
+> 
+> 우리 문화산업의 기반을 튼튼히 다지고, 대한민국을 진정한 글로벌 문화강국으로 이끄는 데 크게 이바지하리라 확신합니다.
+> 
+> 이제 K팝, K드라마, K무비, K게임 등 자랑스러운 우리 대중문화가 세계 무대의 중심에 우뚝 서게 될 것입니다. 이 특별한 시작을 국민 여러분과 함께하고자 합니다.
+> 
+> 출범식도 축제처럼 준비했습니다.
+> 세계적으로 큰 사랑을 받고 있는 K팝 그룹 ‘스트레이 키즈’와 ‘르세라핌’이 무대에 올라 특별한 공연을 선사합니다. 즐거운 마음으로 함께해 주시고, K컬처의 새로운 시대가 펼쳐지는 순간을 기념해 주시면 좋겠습니다.
+> 
+> 우리가 만들어 갈 대한민국 대중문화의 밝은 미래를 기대합니다. 대중문화교류위원회의 성공적인 운영과 대한민국 문화산업의 발전을 위해 국민 여러분의 따뜻한 관심과 성원을 부탁드립니다 ^^
+> 
+> ☑️ 대중문화교류위원회 출범식 신청 안내
+> 
+> - 날짜 : 2025년 10월 1일 (수) 
+> *시간, 장소는 경호상의 이유로 추후 안내 예정
+> - 모집 인원 : 270명
+> - 참가 신청 : 2025년 9월 24일(수) 선착순 네이버폼 접수, 16시 오픈 예정()
+> 
+> * 관람석이 한정된 관계로 부득이하게 선착순으로 선정할 예정입니다. 참여를 희망하는 모든 분과 함께하지 못하는 점 너그러운 양해 부탁드립니다.
+> * 선정되신 분께는 별도 연락 예정입니다.
+
+좋아요 18,579 · 재게시 6,823 · 답글 589 · 조회 2,293,653 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1970655629242179647
+
+### 2025-09-23 17:21 — 외교·통상 · 직접 작성
+
+> 워싱턴에 이어 뉴욕 재미 동포 여러분을 만나 뵙게 되어 영광입니다. 지역사회의 발전과 대한민국의 위상 제고에 기여하며 새 역사를 써 오신 모든 동포 여러분께 깊은 경의를 표합니다.
+> 
+> 본래 조국이 해외에 계신 국민들을 걱정해야 마땅하나, 오랜 시간 동안 재외국민들께서 오히려 본국을 걱정하는 일이 많았습니다. 이제는 대한민국이 국민의 안녕을 먼저 챙기겠습니다.
+> 
+> 세계 어디에서 살든 대한민국 국민임을 자랑스럽게 여기고, 그 정체성을 당당히 드러낼 수 있는 나라를 반드시 만들겠습니다.
+> 
+> "우리 모두의 대통령이 되어 달라"는 귀한 말씀을 마음 깊이 새기며, 그 기대에 부응하기 위해 온 힘을 다할 것을 약속드립니다.
+
+좋아요 3,265 · 재게시 926 · 답글 180 · 조회 97,259 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1970403232045506910
+
+### 2025-09-23 17:16 — 외교·통상 · 직접 작성
+
+> 영 킴, 진 섀힌, 크리스 쿤스, 그레고리 믹스 미국 상원 외교위원회 및 하원 외무위원회 소속 의원들과 한미동맹 강화, 한미 경제협력 확대, 한반도 문제 등에 대해 심도 있는 대화를 나눴습니다. 
+> 
+> 최근 트럼프 대통령과의 정상회담을 통해 한미동맹이 안보, 경제, 첨단기술을 아우르는 ‘미래형 포괄적 전략동맹’으로 발전할 수 있는 기반을 마련한 만큼, 협력 강화를 위해 미 의회의 지속적인 관심과 지원을 요청했습니다.
+> 
+> 미 의회 의원단은 한미동맹에 대해 강한 지지를 표명하며, 정상회담 성과를 바탕으로 조선, 바이오, 방산 등 산업 및 기술 협력 증진에 대한 의회 차원의 적극적인 지원을 약속했습니다.
+> 
+> 또한 조지아주에서 발생한 구금과 같은 사태가 재발하지 않기를 바란다고 강조했으며, 미 의원들 역시 비자 제도 개선의 필요성에 뜻을 같이했습니다. 
+> 
+> 오늘 함께 나눈 이 약속들이 나아가 한미 관계를 미래지향적이고 포괄적인 전략동맹으로 발전시키는 토대가 될 것이라 확신합니다.
+
+좋아요 2,290 · 재게시 680 · 답글 112 · 조회 70,769 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1970401805151429061
+
+### 2025-09-23 17:13 — 과학기술·AI · 직접 작성
+
+> 세계경제포럼 의장인 블랙록의 래리 핑크 회장, GIP의 아데바요 오군레시 회장, 김용 前 세계은행 총재와 만남을 가졌습니다. 
+> 
+> 블랙록은 12조 5천억 달러(한화 약 1경 7천조 원)를 운용하는 세계 최대 자산운용사로, 마이크로소프트, 엔비디아, xAI 등과 함께 ‘AI 인프라 파트너십’을 구성해 글로벌 AI 및 재생에너지 인프라 투자에 앞장서고 있는 곳입니다.
+> 
+> 정부는 블랙록과 국내 AI 및 재생에너지 인프라에 대한 협력 등에 관한 MOU를 체결했습니다. 이번 협력은 우리나라가 아시아-태평양 AI 허브로 확고히 자리 잡는 발판이 될 것입니다. 
+> 
+> 또한 산업 전반에 긍정적인 변화를 촉진해 우리 기업들이 세계 무대에서 영향력을 크게 확대하는 데 기여하리라 기대합니다.
+
+좋아요 3,112 · 재게시 945 · 답글 127 · 조회 99,999 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1970401134952042675
+
+### 2025-09-21 08:05 — 문화·체육 · 직접 작성
+
+> 코로나19 이후 관람 문화가 크게 변화하고 OTT 등 다양한 플랫폼이 확산되면서 극장 산업은 상당한 어려움을 겪었습니다. 
+> 
+> 다행히 올해 7월과 9월 두 차례에 걸친 영화 할인권 배포를 통해 많은 관객이 극장으로 돌아오며 현장에 다시 활력을 불어넣었습니다.
+> 
+> 이러한 긍정적 흐름은 극장 산업이 충분히 회복할 뿐만 아니라 앞으로도 성장할 수 있음을 보여주는 희망의 신호라고 생각합니다. 
+> 
+> 정부는 영화 산업이 K-컬처의 세계적 확산을 주도하며, 국가 전략 산업으로서 굳건히 자리매김할 수 있도록 튼튼한 기반을 조성하겠습니다. 
+> 
+> 또한 제작부터 유통과 해외 진출에 이르기까지 전 과정을 활성화해 영화 산업이 미래 핵심 성장 동력으로 발전할 수 있도록 적극 지원하겠습니다. 
+> 
+> 모든 영화인과 관계자 여러분께 뜨거운 응원과 격려를 전합니다. 부산국제영화제에서 느낀 이 감동을 오래도록 기억하겠습니다.
+
+좋아요 3,543 · 재게시 896 · 답글 281 · 조회 205,428 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1969538535322468410
+
+### 2025-09-18 19:22 — 경제·민생 · 직접 작성
+
+> 지금까지 우리 사회의 자금은 부동산 투자와 투기에 과도하게 집중되며 국가 경제를 불안하게 하는 결과를 낳았습니다.
+> 
+> 이제 자금의 흐름을 과감히 돌려 생산적 분야와 미래 산업에 투입해야 할 때입니다. 단기간에 성과를 내긴 어렵겠지만, 분명한 방향성을 갖고 나아간다면 자본시장 정상화와 국가 경제의 지속 성장을 반드시 이루게 될 것입니다.
+> 
+> 국민이 믿고 참여할 수 있는 주식시장을 조성하는 일 또한 정부가 추진해야 할 중요한 과제입니다. 
+> 
+> ‘국장 탈출 지능순’이라는 자조 섞인 말 대신 ‘국장 복귀 지능순’이라는 말이 널리 퍼지도록 희망과 기회의 주식시장을 만드는 데 전력을 다하겠습니다.
+> 
+> 15개 증권사 리서치센터장님들과 한국애널리스트회 회장님께서 오늘 간담회를 통해 전해주신 제언도 세심히 검토해 국정 운영에 반영하겠습니다. 함께해 주셔서 고맙습니다.
+
+좋아요 3,893 · 재게시 1,166 · 답글 364 · 조회 176,079 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1968621752423985187
+
+### 2025-09-16 21:16 — 사회 · 직접 작성
+
+> ‘청년들의 기회와 희망, K-농업에서 펼치다’를 주제로 청년농업인 간담회를 개최했습니다.
+> 
+> 복숭아 수확 이후 이어지는 가지치기 작업에 함께하며, 현장의 생생한 이야기를 들을 수 있었습니다. 
+> 
+> 농지 내 화장실 설치 허용, 정착지원금 지급, 연구개발 지원 등 전해주신 의견을 적극 검토해 실효성 있는 지원책을 마련하겠다고 전했습니다.
+> 
+> 농업과 농촌은 쇠락의 상징이 아닌 새로운 희망입니다. 청년농업인들이 있어 우리 농업의 미래가 밝습니다. 
+> 
+> 앞으로 우리 청년들이 K-농업을 이끌어가는 주역으로 성장할 수 있도록 투자와 지원을 확대하며 든든히 뒷받침하겠습니다.
+
+좋아요 2,811 · 재게시 816 · 답글 293 · 조회 85,916 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1967925490972279176
+
+### 2025-09-15 19:49 — 정치·국정 · 직접 작성
+
+> 국민통합위원장, 국가건축정책위원장, 농어업·농어촌특별위원장, 교육부장관, 여성가족부장관, 국가교육위원장, 공정거래위원장, 금융위원장에게 임명장을 수여하며, 오늘부로 정부 1기 내각을 완성했습니다. 
+> 
+> 각자의 자리에서 맡은 바를 성실히 수행하며, 국민께 더 나은 내일과 희망찬 미래를 선사해 주시길 부탁드렸습니다. 
+> 
+> 국민의 삶과 직결된 실질적 변화를 실현하고, 시대의 요구에 부응하는 혁신을 힘차게 추진해 주실 것을 기대합니다.
+
+좋아요 4,156 · 재게시 1,310 · 답글 351 · 조회 1,026,091 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1967541210265874752
+
+### 2025-09-12 21:28 — 정치·국정 · 직접 작성 · 분류 검토 대기
+
+> 우리나라 최고 관광지이자 청정 지역인 강원도는 안보라는 명목 아래 막대한 희생을 치르고 있습니다. 인구는 150만 명에 못 미치지만, 지역 내 성장 발전이 정체된 탓에 수도권으로 떠나는 이들은 나날이 늘고 있습니다. 
+> 
+> 접경 지역이라는 특수성이 삶을 제약하는 무게로 작용하는 것이 아니라 오히려 평화와 번영의 가능성을 열어가는 자산으로 바뀔 수 있도록 지속적으로 노력해야 할 때입니다.
+> 
+> 오늘 강원 타운홀미팅을 통해 들려주신 귀한 의견 하나하나 면밀히 검토해 정책에 충실히 반영하도록 하겠습니다.
+> 
+> 강원도에서 살아가는 일이 더는 억울하게 느껴지지 않도록, 접경 지역이라는 현실이 불행한 운명으로 받아들여지지 않도록 각별히 신경 쓸 것을 약속드립니다.
+
+좋아요 3,170 · 재게시 882 · 답글 325 · 조회 185,419 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1966479080393765111
+
+### 2025-09-11 23:11 — 외교·통상 · 직접 작성
+
+> 에마뉘엘 마크롱 프랑스 대통령과 처음으로 전화 통화를 나눴습니다.
+> 
+> 프랑스는 UN 안보리 상임이사국이자 EU, G7, G20의 주요 회원국으로서, 우리의 한반도 정책을 흔들림 없이 지지해온 든든한 우방입니다. 한국전쟁 당시 3천4백여 명의 장병을 파병한 바도 있습니다.
+> 
+> 양국은 1886년 수교 이래 꾸준히 우호협력관계를 발전시켜 왔으며, 내년에는 수교 140주년을 맞이하게 됩니다. 
+> 
+> 마크롱 대통령과 함께 교역, 투자, 인공지능, 우주, 방위산업 등 전략 산업 분야에서의 협력을 더욱 활성화하고, 내년 수교 140주년을 양국 관계의 새로운 도약의 기회로 삼기 위해 긴밀히 소통해 나가기로 뜻을 모았습니다.
+> 
+> @EmmanuelMacron J'ai parlé avec le Président Emmanuel Macron pour la première fois au téléphone. 
+> 
+> Membre permanent du Conseil de Sécurité de l'ONU, et l'un des principaux pays de l'UE, du G7 et du G20, la France est un pays ami fidèle et solide ayant toujours soutenu nos politiques sur la péninsule coréenne. Elle a d'ailleurs envoyé  environ 3 400 de ses soldats à la guerre de Corée.
+> 
+> Nos deux pays, qui ont continué à renforcer leur amitié et coopération depuis 1886 fêterons le 140ème anniversaire de leurs relations diplomatiques l'année prochaine. 
+> 
+> Je me suis mis d'accord avec le Président Macron pour communiquer étroitement afin de faire du 140ème anniversaire une occasion de donner un nouvel élan aux relations bilatérales de nos deux pays, tout en dynamisant les coopérations économiques et, tout particulièrement, dans les domaines d'industries stratégiques comme l'IA, l'espace et la défense.
+
+좋아요 3,138 · 재게시 758 · 답글 200 · 조회 129,269 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1966142447425323287
+
+### 2025-09-11 23:10 — 외교·통상 · 직접 작성
+
+> 도날드 투스크 폴란드 총리와 취임 후 첫 통화를 가지게 되어 매우 뜻깊게 생각합니다.
+> 
+> 가장 먼저 1989년 수교 이래 양국 관계가 정무, 경제, 인적 교류 등 제반 분야에서 발전해 온 것을 높이 평가하고 방산, 인프라, 교역, 투자 등 각종 분야에서 협력도 더욱 강화하기로 했습니다.
+> 
+> 투스크 총리는 국제무대에서 주요 경제국인 양국이 협력할 사안이 많다며, 한국과의 파트너십이 한층 더 확대되기를 희망한다고 밝혔습니다.
+> 
+> 역사와 가치를 공유하는 양국의 상호 호혜적 발전을 위해 앞으로도 긴밀한 소통을 지속해 나갈 예정입니다.
+> 
+> @[비공개] I was very pleased to have my first phone conversation with Prime Minister Donald Tusk of Poland.
+> 
+> ​We highly appreciated the development of relations between our two countries in various fields—including political affairs, the economy, and people-to-people exchanges—since diplomatic ties were established in 1989. We also agreed to further strengthen cooperation in areas such as the defense industry, infrastructure, trade and investment.
+> 
+> Prime Minister Tusk said that our two countries, as major economies, can cooperate on many issues on the international stage, and expressed his hope to expand the partnership further.
+> 
+> Our two countries, sharing similar history and values, will continue to maintain close communication for mutually beneficial development.
+
+좋아요 2,328 · 재게시 565 · 답글 92 · 조회 67,890 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1966142309088813082
+
+### 2025-09-11 09:18 — 재난·안전 · 직접 작성
+
+> 인천 앞바다 갯벌에서 국민을 구조하던 경찰관이 실종됐다는 소식을 접했습니다.
+> 
+> 구조 당국은 수색작업이 최대한 신속하게 이루어질 수 있도록 가용한 모든 인력과 장비를 총동원해 주시길 바랍니다.
+> 
+> 아울러, 정부는 국민 생명과 안전을 지키기 위해 현장에서 사명감을 가지고 헌신하는 분들이 보다 안전하게 임무를 수행할 수 있도록 제도와 장비를 철저히 점검하고 보완하겠습니다.
+> 
+> 실종된 경찰관이 무사히 가족 품으로 돌아올 수 있기를 간절히 기원합니다.
+
+좋아요 4,889 · 재게시 1,329 · 답글 378 · 조회 616,556 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1965933004624376201
+
+### 2025-09-10 16:00 — 미분류 · 직접 작성 · 분류 검토 대기
+
+> https://v.daum.net/v/20250910154341937
+
+좋아요 3,875 · 재게시 1,528 · 답글 283 · 조회 436,904 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1965671732922216921
+
+### 2025-09-10 15:48 — 사회 · 직접 작성
+
+> 노동관계법령이 현장에서 제대로 준수되는지 지도·감독·수사하는 근로감독관의 명함 뒷면에는 '떨어지면 죽습니다!'라는 경고 문구가 적혀있다고 합니다.
+> 
+> 앞으로 노동부장관 명함에도 이 문구를 추가해 산업현장에서의 경각심을 고취하고자 합니다. 산재 사망 사고를 더 이상 용납하지 않겠다는 정부의 강력한 의지가 담겨있습니다.
+> 
+> 산업현장에서 일어나는 사고는 결코 개인의 문제가 아닙니다. 위험을 인지하고도 적절한 예방 조치를 취하지 않은 이들의 방임이야말로 산재의 가장 큰 원인입니다.
+> 
+> 기업과 현장 관리자 등 모든 책임 주체에 대한 강력한 처벌 제도를 마련하고, 고질적 관행과 안전 불감을 뿌리 뽑는 데 전력을 다하겠습니다.
+
+좋아요 3,274 · 재게시 1,217 · 답글 152 · 조회 150,530 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1965668809190281603
+
+### 2025-09-09 09:00 — 문화·체육 · 직접 작성
+
+> <‘강원의 마음을 듣다’ 타운홀미팅에 참여할 강원도민을 찾습니다> 
+> 
+> 대통령과 함께 토론할 200명의 강원특별자치도민을 모십니다. 
+> 
+> K-문화관광벨트 개발과 글로벌 관광허브 구축,
+> 그리고 지역 균형발전을 위한 혁신 정책까지 
+> 
+> 도민의 생생한 현장 목소리를 바탕으로
+> 합리적이고 지속가능한 해법을 만들어 가겠습니다. 
+> 
+> 도민 여러분의 소중한 목소리에
+> 귀 기울이며 대안을 모색하겠습니다. 
+> 
+> '국민이 주인인 나라'
+> 강원특별자치도민 여러분과 함께 만들겠습니다.
+> 
+> ☑️ 날짜: 2025년 9월 12일(금) *시간, 장소는 경호상의 이유로 추후 안내 예정
+> 
+> ☑️ 참가 신청 : 2025년 9월 9일(화)~9월 10일(수) 14시까지 구글폼 접수()
+
+좋아요 2,493 · 재게시 858 · 답글 204 · 조회 87,142 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1965203527552413776
+
+### 2025-09-08 19:17 — 과학기술·AI · 직접 작성
+
+> 인공지능은 기술 혁신의 차원을 넘어, 우리의 일상과 사회 전반을 근본적으로 변화시키고 있습니다. 국가 경쟁력의 핵심 동력일 뿐 아니라 국력, 경제력, 그리고 안보를 좌우하는 중요한 역량이기도 합니다.
+> 
+> 이제 우리는 과감하게 미래를 선도해 나가야 합니다. 인공지능은 산업 구조의 혁신을 이끌고 삶의 질을 높여 대한민국을 새로운 번영의 시대로 이끌어 줄 것입니다. 
+> 
+> 대한민국은 늘 위기를 기회로 바꾸며 세계가 주목하는 변화를 만들어 왔습니다. 우리가 뜻을 모아 힘을 합친다면, 세계 AI 3대 강국의 꿈도 반드시 현실이 될 것이라 확신합니다. 
+> 
+> 오늘 공식 출범한 국가AI전략위원회는 대한민국을 AI 3대 강국으로 이끌어 갈 총사령탑을 담당하게 됩니다. 탁월한 성과를 내며 맡은 역할을 충실히 수행해 주실 것을 기대합니다.
+
+좋아요 2,618 · 재게시 757 · 답글 156 · 조회 81,875 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1964996423574819162
+
+### 2025-09-06 19:41 — 문화·체육 · 직접 작성
+
+> 영락보린원 원생 30여 명과 함께 영화 킹 오브 킹스(The King of Kings)를 관람했습니다. 
+> 
+> 입구에 들어서는 순간부터 아이들의 얼굴에는 호기심과 기대가 가득했습니다. 팝콘은 달콤한 맛이 좋은지 고소한 맛이 좋은지, 영화는 어떤 내용인지, 좋아하는 캐릭터는 무엇인지 들뜬 표정으로 서로 이야기를 나누는 모습이 무척이나 사랑스럽더군요.
+> 
+> 오늘 이 만남이 특별한 추억으로 남기를, 그리고 무엇보다도 우리 아이들이 앞으로 살아갈 날에 따뜻하고 행복한 시간이 더욱 많기를 진심으로 소망합니다.
+
+좋아요 4,366 · 재게시 1,058 · 답글 364 · 조회 263,257 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1964277836967022974
+
+### 2025-09-05 19:18 — 경제·민생 · 직접 작성 · 분류 검토 대기
+
+> K-바이오 산업은 제약 강국들이 100년 이상 쌓아온 역량을 불과 몇십 년 만에 따라잡으며 우리 경제의 미래 성장 동력으로 주목받고 있습니다. 참 자랑스럽습니다.
+> 
+> 뛰어난 연구 인력, 세계적 수준의 제조 기반, 국제적 신뢰도까지 대한민국이 '글로벌 바이오 강국'으로 도약할 수 있는 조건은 충분합니다. 
+> 
+> 정부는 바이오 산업이 자율적이고 창의적으로 운영될 수 있도록 공정한 환경을 마련하는 데 집중할 것입니다. 부족한 부분은 채워주고, 부당한 행위가 발생하지 않도록 철저히 관리하겠습니다. 
+> 
+> 또한 특정 산업이나 기업이 독점하지 않고, 기회와 성과를 모두 함께 누릴 수 있도록 공정한 산업 생태계를 조성해 나갈 것입니다.
+> 
+> 오늘 바이오 혁신 토론회를 통해 들려주신 현장의 목소리를 정책에 충실히 반영해, K-바이오 산업의 지속 가능한 성장과 혁신을 뒷받침하겠습니다.
+
+좋아요 2,617 · 재게시 752 · 답글 198 · 조회 78,499 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1963909513674678300
+
+### 2025-09-04 21:19 — 외교·통상 · 직접 작성
+
+> 올해는 한-몽 수교 35주년을 맞이하는 뜻깊은 해로, 양국은 1990년 수교 이래 다양한 분야에서 협력을 발전시켜 왔습니다. 몽골은 역사적·문화적으로 우리와 밀접한 관계를 유지해 온 이웃이며, 여러 측면에서 깊은 정서적 유대감을 갖고 있습니다.
+> 
+> 후렐수흐 대통령과 통화를 나누며, 책임감과 국익을 중시하는 국정철학에 공감했습니다. 또한 희소금속, 기후변화 대응 등 다양한 실질 협력 분야에서 호혜적 협력을 강화하기로 뜻을 모았습니다. 
+> 
+> 우리나라는 몽골 재외국민이 가장 많이 체류하는 나라이며, 지난해 몽골을 방문한 우리 국민의 수는 전년 대비 약 35% 증가했다고 합니다. 이러한 인적 교류를 토대로 양국 간 전략적 동반자 관계를 공고히 하며, 새로운 35년의 시대를 함께 열어 나가자고 약속했습니다.
+> 
+> @UKhurelsukh Энэ онд БНСУ Монгол Улсын хооронд дипломат харилцаа тогтоосны 35 жилийн түүхэн тэмдэглэлт ой тохиож байна. Манай хоёр улс 1990 онд дипломат харилцаа тогтоосноос хойш бүхий л салбарт харилцаа хамтын ажиллагааг хөгжүүлж ирсэн. Монгол Улс түүх, соёлын хувьд манай улстай ойр дотно харилцааг хадгалж ирсэн хөрш улс бөгөөд, оюун санааны хувьд хэлхээ холбоотой.
+> 
+> Ерөнхийлөгч У.Хүрэлсүхтэй утсаар ярилцахад ард иргэдийн өмнө хүлээсэн үүрэг хариуцлага, улсынхаа эрх ашгийг чухалчилдаг үзэл бодолд бид хоёр санал нэгдсэн. Мөн хоёр орон ховор металлын чиглэлээр хамтран судлах, уур амьсгалын өөрчлөлттэй тэмцэх зэрэг өргөн хүрээний бодитой хамтын ажиллагааг харилцан ашигтай өргөжүүлэхээр тохиролцов.
+> 
+> Манай улсад Монголын иргэд хамгийн олноор оршин суудаг бөгөөд өнгөрсөн онд Монгол улсад зорчсон манай иргэдийн тоо өнгөрсөн жилтэй харьцуулахад ойролцоогоор 35% нэмэгдсэн мэдээлэл байна. Энэ мэтчилэн иргэд хоорондын солилцоонд суурилан хоёр улсын “Стратегийн түншлэл”-ийн харилцааг бататгаж, шинэ 35 жилийн эринийг эхлүүлнэ хэмээн тохиролцов.
+
+좋아요 2,793 · 재게시 746 · 답글 141 · 조회 76,593 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1963577626163118591
+
+### 2025-09-04 18:46 — 사회 · 직접 작성
+
+> 노동계를 대표하는 양대 노총 위원장님들과 함께하는 시간을 가졌습니다. 
+> 
+> 가장 먼저, 산재 사망 사고를 획기적으로 줄일 방안에 대해 의견을 구하고, 주4.5일제 도입, 정년 연장, 5인 미만 사업장 근로기준법 적용 등 노동계의 현안도 경청했습니다.
+> 
+> 이어 노동 선진 사회와 기업하기 좋은 나라가 충분히 양립할 수 있음을 강조하며, 갈등 해소와 신뢰 구축을 위해 노사 간 긴밀히 소통해 달라고 부탁드렸습니다. 
+> 
+> 좋은 의견 나눠주신 김동명 한국노동조합총연맹 위원장, 양경수 전국민주노동조합총연맹 위원장님께 깊은 감사를 전합니다.
+
+좋아요 3,214 · 재게시 1,012 · 답글 154 · 조회 108,360 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1963539079997657512
+
+### 2025-09-04 09:52 — 정치·국정 · 직접 작성
+
+> <대통령도 미처 알지 못했던 경호관들의 하루..>
+> 영상을 보니 우리 경호관님들의 헌신과 노고가 더욱 깊이 와닿습니다. 고생이 많으시지요. 늘 든든하게 생각합니다. 진심으로 고맙습니다^^
+> http://youtu.be/tDDEEtROYio
+
+좋아요 4,070 · 재게시 1,126 · 답글 158 · 조회 155,996 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1963404843227517376
+
+### 2025-09-03 22:31 — 경제·민생 · 직접 작성 · 분류 검토 대기
+
+> 제62회 방송의 날을 축하합니다.
+> 
+> 방송은 주파수를 매개로 우리와 세상을 연결하며, 일상을 더욱 풍요롭고 유익하게 만드는 매체입니다. 다양한 정보와 문화, 흥미로운 콘텐츠를 통해 우리의 삶에 활력을 불어넣고 있습니다. 
+> 
+> 방송3법 개정안이 최근 국회를 통과하며 방송의 공정성과 독립성 확보를 위한 제도적 기반이 마련되었습니다. 앞으로 이 토대 위에서 합리적인 의사결정이 가능해지고, 경제적 효과와 효율성 역시 두드러지게 향상될 것으로 기대합니다.
+> 
+> 아울러 방송이 대한민국 경제 도약의 중추적 역할을 할 수 있도록 제도적 기반을 다지고, 재정적 지원을 강화하는 데 국회와 함께 힘을 모으겠습니다. 대한민국 방송의 유구한 역사를 이뤄온 모든 방송인 여러분의 건승을 기원합니다.
+
+좋아요 3,062 · 재게시 831 · 답글 157 · 조회 322,182 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1963233496694235482
+
+### 2025-09-02 20:41 — 국방·안보 · 직접 작성
+
+> 대장 진급 및 보직 신고, 삼정검 수치 수여식을 개최해 진영승 합참의장 후보자, 김규하 육군참모총장, 강동길 해군참모총장, 손석락 공군참모총장, 김성민 연합사부사령관, 김호복 육군 2작전사령관, 주성운 육군 지상작전사령관 등 총 일곱 명의 장성 진급자를 축하했습니다.
+> 
+> 정권이 아닌 국가에 충성하고, 개인이 아닌 직위의 책임을 다할 것을 강조하며, 특정 개인이 아닌 국민을 위해 줄 것을 요청했습니다. 
+> 
+> 아울러 불법 계엄으로 인해 훼손된 군에 대한 국민 신뢰 회복을 위해 최선을 다해달라고 당부했습니다.
+
+좋아요 3,414 · 재게시 902 · 답글 187 · 조회 118,162 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1962843207101980767
+
+### 2025-09-02 20:30 — 외교·통상 · 직접 작성
+
+> 방글라데시, 앙골라, 알제리, 파키스탄, 도미니카공화국, 스페인, 인도네시아 등 7개 국가의 신임 주한대사로부터 신임장을 제출받았습니다. 
+> 
+> 신임장 제정식은 파견국 국가원수가 자국 신임 대사에게 수여한 신임장을 주재국 국가원수에게 공식 전달하는 외교 의례입니다. 정부 출범 이후 처음 개최하는 터라 더욱 뜻깊습니다.
+> 
+> 양국 관계가 다방면에서 더욱 견고해지도록 가교 역할을 해 주길 강조하며, 특히 국민의 일상과 밀접한 경제 협력이 활발히 이루어지는 데 적극적으로 힘써 주길 당부했습니다. 
+> 
+> 대한민국을 대표해 신임 주한대사들의 부임을 온 마음으로 환영합니다. 한국에서 보람 있고 행복한 시간을 보내길 기원합니다.
+> 
+> ​It was a pleasure to accept the credentials of new ambassadors from seven countries: Bangladesh, Angola, Algeria, Pakistan, the Dominican Republic, Spain, and Indonesia.
+> ​
+> The presentation of credentials ceremony is a diplomatic formality where a newly appointed ambassador formally presents a letter of credence from the head of state of the sending country to the head of state of the receiving country. Today's ceremony was especially meaningful as it was the first since the new Korean government took office.
+> ​
+> I urged the ambassadors to act as a bridge between Korea and their home country in order to further strengthen bilateral ties across various sectors. I especially encouraged them to promote dynamic economic cooperation, as it directly impacts the daily lives of our people.
+> ​
+> On behalf of the Republic of Korea, a warm welcome to the new ambassadors on their assignments. I wish them a rewarding and happy time in Korea.
+
+좋아요 2,469 · 재게시 658 · 답글 71 · 조회 96,111 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1962840647569903832
+
+### 2025-09-02 19:25 — 국방·안보 · 직접 작성
+
+> <천준호 의원님 보고싶네요^^>
+> 저보다 더 저를 잘 표현해 주셨군요. 책 잘 봤습니다.
+
+좋아요 5,243 · 재게시 1,331 · 답글 246 · 조회 359,409 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1962824127049539763
+
+## 2025년 8월 (24건)
+
+### 2025-08-31 19:01 — 정치·국정 · 직접 작성
+
+> 지난 13일, 국정기획위원회가 마련한 국정운영 5개년 계획(안)을 국민 여러분께 보고드린 바 있습니다.
+> 
+> 정치, 경제, 사회, 외교 등 대한민국의 모든 분야를 재정비하고, 미래로 힘차게 도약하기 위한 이번 계획(안)은 앞으로 국민의 다양한 의견을 폭넓게 수렴해 더욱 완성도 높은 정책으로 발전시킬 예정입니다. 
+> 
+> 정책 수립 단계부터 집행에 이르는 모든 과정을 투명하게 공개하며, 국민께서 체감할 수 있는 변화를 만들어가겠습니다.
+> 
+> 국정과제 수립을 위해 두 달간 전력을 다해주신 국정기획위원회 위원 여러분께 다시 한번 감사의 인사를 전합니다.
+> 
+> 🔍이재명 정부 청사진 살펴보기
+
+좋아요 3,807 · 재게시 1,228 · 답글 322 · 조회 115,549 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1962093483214410099
+
+### 2025-08-29 19:07 — 외교·통상 · 직접 작성 · 분류 검토 대기
+
+> 베르디무하메도프 투르크메니스탄 대통령과 처음으로 통화를 나눴습니다. 
+> 
+> 투르크메니스탄은 세계 4위의 천연가스 매장량을 보유한 에너지 강국으로, 우리의 중요한 협력 파트너입니다. 지난 6월 이란에 체류하던 우리 국민들이 투르크메니스탄을 경유해 안전히 귀국할 수 있도록 적극 지원해 주기도 했습니다.
+> 
+> 2008년 호혜적 동반자 관계 격상 이후 에너지와 플랜트 부문에서 쌓아온 협력 성과를 높이 평가하며, 앞으로도 다양한 분야에서 협력 강화를 위해 함께 힘쓰기로 합의했습니다. 투르크메니스탄 내 우리 기업들에 대한 관심과 지원도 요청했습니다. 
+> 
+> 양국 관계 발전을 위해 꾸준히 노력하는 한편, 내년에 우리나라에서 개최될 ‘한-중앙아시아 정상회의’의 성공적인 개최를 위해 긴밀히 협력할 것을 약속했습니다.
+> 
+> Я провёл первый телефонный разговор с Президентом Туркменистана Сердаром Бердымухамедовым.
+> 
+> Туркменистан является энергетической державой, обладающей четвёртыми по величине в мире запасами природного газа, и нашим важным партнёром по сотрудничеству. Туркменистан также оказал активную поддержку нашим гражданам, находившимся в Иране в июне этого года, обеспечив их безопасное возвращение на Родину транзитом через Туркменистан.
+> 
+> Мы высоко оценили результаты сотрудничества в сферах энергетики и промышленного строительства, достигнутые после повышения уровня отношений до взаимовыгодного партнёрства в 2008 году, и договорились прилагать совместные усилия по дальнейшему укреплению сотрудничества в различных областях. Была также выражена просьба об оказании внимания и поддержки корейским компаниям, работающим в Туркменистане.
+> 
+> Мы договорились постоянно прилагать усилия по развитию двусторонних отношений, а также тесно сотрудничать для успешного проведения саммита "Республика Корея-Центральная Азия", который планируется в нашей стране в следующем году.
+
+좋아요 3,098 · 재게시 770 · 답글 236 · 조회 85,170 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1961370018425581822
+
+### 2025-08-28 21:05 — 외교·통상 · 직접 작성
+
+> 라흐몬 타지키스탄 대통령과 첫 통화를 나눌 수 있어 기쁩니다.
+> 
+> 타지키스탄은 1992년 수교 이후 함께 발전해온 나라로, 실크로드의 중심지이자 ‘세계의 지붕’으로 불리는 파미르 고원을 간직한 곳입니다. 혜초 스님이 신라 시절 순례 도중 소중한 기록을 남겼던 역사적 유산의 땅이기도 합니다.
+> 
+> 양국은 지속적으로 호혜적 관계 발전을 도모하는 동시에, 내년 우리나라에서 개최될 예정인 ‘한-중앙아시아 정상회의’의 성공적인 개최를 위해 긴밀히 협력해 나가기로 뜻을 모았습니다.
+> 
+> @[비공개] Рад, что я смог провести первый телефонный разговор с Президентом Таджикистана Эмомали Рахмоном.
+> 
+> После установления дипломатических отношений в 1992 году мы развиваем отношения с Таджикистаном, который является центром Великого Шёлкового пути и хранит в себе Памирское нагорье, известное как "Крыша мира". Это также земля исторического наследия, где монах Хечхо из эпохи Силла оставил ценные записи во время своего паломничества.
+> 
+> Обе стороны пришли к единому мнению о необходимости последовательно прилагать усилия для развитию взаимовыгодных отношений, а также тесно сотрудничать для успешного проведения саммита "Республика Корея-Центральная Азия", который планируется в нашей стране в следующем году.
+
+좋아요 2,630 · 재게시 659 · 답글 133 · 조회 73,242 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1961037503944925345
+
+### 2025-08-28 21:01 — 외교·통상 · 직접 작성 · 분류 검토 대기
+
+> 자파로프 키르기스스탄 대통령과 취임 후 첫 통화를 가졌습니다. 
+> 
+> 최근 양국 간 교역과 인적 교류가 활발히 늘어나고 있는 점을 높이 평가하며 핵심 광물, 재생에너지 분야 등 협력을 넓히고 '포괄적 동반자 관계'를 한층 강화해 나가기로 뜻을 모았습니다.
+> 
+> 실용주의를 중시하는 자파로프 대통령님의 의견에 많은 부분 공감했습니다. 앞으로도 양국 관계의 상호 호혜적 발전을 위해 지속적으로 노력하는 한편, 내년 우리나라에서 개최 예정인 '한-중앙아시아 정상회의'가 성공적으로 치러질 수 있도록 긴밀히 협력해 나가기로 했습니다.
+> 
+> @[비공개] Я провёл свой первый после вступления в должность телефонный разговор с Президентом Кыргызской Республики Садыром Жапаровым.
+> 
+> Мы высоко оценили активизацию двусторонней торговли и человеческих контактов между двумя странами в последнее время, а также достигли единого мнения о необходимости расширения сотрудничества в области, таких как критически важные минералы, возобновляемые источники энергии и др., и дальнейшего укрепления "всеобъемлющего партнёрства".
+> 
+> В значительной степени я разделил точку зрения Президента Жапарова, который придаёт особое значение принципам прагматизма. Мы договорились и впредь продолжать прилагать усилия для взаимовыгодного развития двусторонних отношений, а также тесно сотрудничать для успешного проведения саммита "Республика Корея-Центральная Азия", который планируется в нашей стране в следующем году.
+
+좋아요 3,102 · 재게시 768 · 답글 107 · 조회 456,717 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1961036406601707550
+
+### 2025-08-28 14:02 — 사회 · 직접 작성
+
+> 날카로운 직감과 관찰력으로 보이스피싱 범죄에 신속히 대처한 이진웅 경사님을 칭찬합니다. 투철한 사명감이 사회에 얼마나 긍정적인 영향을 미치는지를 여실히 보여주었습니다. 이같은 헌신으로 우리가 평화로운 일상을 누릴 수 있음에 깊은 감사를 전합니다.
+> 
+> https://n.news.naver.com/mnews/article/032/0003392496?sid=102
+
+좋아요 4,818 · 재게시 1,342 · 답글 152 · 조회 181,932 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1960930947685285915
+
+### 2025-08-27 14:07 — 외교·통상 · 직접 작성 · 분류 검토 대기
+
+> 서재필 박사는 우리나라 최초의 민간 신문 ‘독립신문’을 창간하고, 독립협회 조직과 독립문 건립 등 다양한 애국계몽운동을 전개한 분입니다. 
+> 
+> 외세와 수구세력의 탄압으로 미국으로 추방된 이후에도 3·1운동 소식이 전해지자 의사로서의 삶을 접고 조국의 독립을 위해 다시 국제무대의 외교 현장에 뛰어들었습니다.
+> 
+> 이번 미국 방문에서 서재필 박사의 헌신과 자주독립 정신이 살아 숨 쉬는 서재필 기념관을 찾게 되어 매우 뜻깊게 생각합니다. 
+> 
+> 앞으로도 이 기념관이 미래세대에게 대한민국 독립의 역사를 전하고, 지역사회와 미주 한인사회의 발전에도 큰 역할을 할 수 있길 기대합니다.
+
+좋아요 5,085 · 재게시 1,406 · 답글 208 · 조회 128,352 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1960569741149659388
+
+### 2025-08-27 14:06 — 국방·안보 · 직접 작성
+
+> 남북전쟁, 1·2차 세계대전, 한국전쟁, 베트남전쟁 등 전몰장병들이 존엄하게 안장되어 있는 알링턴 국립묘지를 찾았습니다.
+> 
+> 오늘의 평화와 민주주의, 그리고 한미 양국 간의 굳건한 우정은 이곳에 잠든 이들의 헌신이 있어 가능했습니다. 
+> 
+> 자유와 평화를 위해 목숨을 바친 모든 영령과, 이름조차 남기지 못한 무명용사들의 숭고한 희생을 기리며 다시 한번 깊은 경의와 애도를 표합니다.
+
+좋아요 3,118 · 재게시 851 · 답글 105 · 조회 74,611 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1960569690402775155
+
+### 2025-08-27 10:47 — 경제·민생 · 직접 작성 · 분류 검토 대기
+
+> <골목상권이 살아야 경제가 삽니다>
+> https://news.jtbc.co.kr/article/NB12260369
+
+좋아요 3,129 · 재게시 1,093 · 답글 194 · 조회 250,169 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1960519395182305471
+
+### 2025-08-26 11:15 — 문화·체육 · 직접 작성
+
+> 120년이 넘는 세월 동안 미국 땅에서 새로운 역사를 일궈오신 재미 동포 여러분을 만나 뵙게 되어 영광입니다. 수많은 역경을 기회로 바꾸며 한미 양국의 든든한 가교가 되어주신 모든 동포 여러분께 깊은 경의를 표합니다. 
+> 
+> 최근 선출된 앤디 김 상원의원을 비롯한 우리 동포들이 미국 사회 각계에서 리더십을 발휘하며 대한민국의 위상을 높이고 있습니다. 한식과 K-팝, K-콘텐츠가 큰 인기를 얻고 있는 것도 동포 여러분의 부단한 노력과 도전이 있었기에 가능한 일이라 생각합니다. 
+> 
+> 한미 관계는 이제 군사동맹을 넘어 경제, 기술, 문화, 미래 협력을 포함한 포괄적 동맹으로 발전하고 있습니다. 급변하는 국제환경 속에서 미국과의 소통을 더 강화하며, 모두가 자랑스러워할 평화와 번영의 대한민국을 반드시 만들어 가겠습니다.
+
+좋아요 6,504 · 재게시 1,756 · 답글 427 · 조회 196,524 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1960164166083445129
+
+### 2025-08-23 23:05 — 외교·통상 · 직접 작성
+
+> 대한민국 대통령이 임기 첫 해외 순방지로 일본을 찾은 것은 이번이 처음입니다. 특히 2025년은 광복 80주년과 한일 국교 정상화 60주년이 겹치는 뜻깊은 해이기에 더욱 큰 상징성을 갖습니다. 
+> 
+> 먼 이국땅에서 굳건히 정체성을 지켜오신 재일 동포 여러분께 대한민국을 대표해 감사를 전했습니다. 조국의 아픔과 굴곡, 성장의 길을 함께 걸어온 재일 동포 여러분이 바로 대한민국의 살아있는 현대사 그 자체입니다. 한일 관계의 안정적 발전을 위해 앞으로도 힘써 주시기를 부탁드렸습니다. 
+> 
+> 한일 양국은 진정한 이웃으로서, 손을 맞잡고 미래를 열어갈 소중한 동반자가 될 것입니다. 과거를 온전히 직시하는 동시에 미래를 향한 협력과 상생의 길을 굳건히 다져 나가야 합니다. 함께할 때 더 큰 평화와 번영이 우리 앞에 펼쳐질 것임을 확신합니다.
+
+좋아요 6,349 · 재게시 1,622 · 답글 451 · 조회 319,468 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1959255576569151715
+
+### 2025-08-21 22:25 — 외교·통상 · 직접 작성
+
+> 빌 게이츠 게이츠 재단 이사장을 만나 뜻깊은 대화를 나눴습니다. ‘윈도우즈’를 만들어 전 세계인의 세상을 보는 창을 넓혀준 게이츠 이사장은 최근 글로벌 보건과 지속가능한 에너지 등 인류를 위한 공공재 창출에 앞장서고 있습니다.
+> 
+> 우리 정부와 국내 의료·바이오 기업들은 백신 개발을 비롯한 글로벌 보건 분야에서 게이츠 재단과 함께 눈에 띄는 성과를 거두고 있습니다. 앞으로도 다양한 글로벌 보건기구와 협력하며 국제 사회 책임강국으로서의 역할을 다하겠습니다.
+> 
+> 자랑스러운 우리 대한민국은 원조를 받던 최빈국에서 선진국으로 성장한 경험을 바탕으로, 공적개발원조를 꾸준히 이어가며 국제기여의 폭도 더욱 확장시켜 나갈 것입니다.
+> 
+> 아울러 게이츠 이사장은 방미 일정을 언급하며 트럼프 대통령과의 대화에서 좋은 결실을 맺기를 바란다고 격려했고, 쉽지 않은 일이지만 지혜롭게 대화를 이어가겠다고 화답했습니다. 글로벌 도전과제 해결을 위해 헌신하는 게이츠 이사장에게 깊은 경의를 표합니다.
+> 
+> @[비공개] I met with Mr. Bill Gates, Chairman of the Gates Foundation, and we had a meaningful conversation. Mr. Gates, who pioneered the development of Windows software, opened new possibilities for people around the world to broaden their perspectives through web-connected virtual windows. Today, he is leading efforts to advance public goods in critical areas such as global health and sustainable energy.
+> 
+> Notable achievements have already been made in public health, including the development of vaccines through collaborations between the Korean government, Korean biomedical companies, and the Gates Foundation. The Republic of Korea will continue to fulfill its role as a responsible global power by working closely with global health organizations.
+> 
+> The Republic of Korea, as the first country in history to transition from an international aid recipient to a developed donor, will uphold its ODA commitments and further expand its contributions to the global community.
+> 
+> Mr. Gates wished me success at the summit with President Trump during my upcoming visit to the United States. I responded by assuring him that I intend to hold a thoughtful discussion addressing the challenging agenda ahead. My sincere appreciation goes to Mr. Gates for his unwavering dedication to tackling global challenges.
+
+좋아요 5,005 · 재게시 1,327 · 답글 344 · 조회 204,691 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1958520807648551208
+
+### 2025-08-21 20:00 — 일상·인사 · 직접 작성
+
+> 인도 북부 지역을 덮친 폭우로 인해 많은 이들이 삶의 터전을 잃고 소중한 생명을 잃었다는 소식에 깊은 슬픔을 느낍니다. 희생자와 유가족분들께 진심 어린 위로와 애도의 뜻을 전합니다. 대한민국은 인도 국민 여러분과 함께합니다.
+> 
+> @narendramodi I was deeply saddened to hear that many people have lost their homes and precious lives in the floods in the northern part of India. I offer my heartfelt condolences and sincere sympathy to the victims and their families. The Republic of Korea stands with the people of India during this difficult time.
+
+좋아요 2,405 · 재게시 593 · 답글 146 · 조회 123,758 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1958484365094289650
+
+### 2025-08-21 20:00 — 일상·인사 · 직접 작성
+
+> 파키스탄 북서부 지역에서 발생한 홍수로 인한 참혹한 인명 피해 소식에 깊은 슬픔을 표합니다. 대한민국 정부를 대표해 희생자와 유가족 여러분께 깊은 애도와 진심 어린 위로를 전합니다. 대한민국은 파키스탄 국민 여러분과 함께합니다.
+> 
+> @[비공개] I am profoundly saddened by the tragic loss of life and widespread devastation caused by the floods in northwestern Pakistan. On behalf of the Republic of Korea, I extend my deepest condolences and heartfelt sympathy to the victims and their bereaved families during this time of great sorrow. The Republic of Korea stands with the people of Pakistan during this difficult time.
+
+좋아요 2,402 · 재게시 647 · 답글 74 · 조회 94,000 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1958484323625263134
+
+### 2025-08-18 21:15 — 외교·통상 · 직접 작성
+
+> 연방 상원의회 태미 덕워스, 앤디 킴 의원을 만났습니다. 새 정부 출범 이후 처음 방한한 미 상원의원들과의 만남인지라 더욱 의미 있습니다.
+> 
+> 오늘날 한미동맹은 군사, 경제, 첨단기술을 포함한 제반 분야에서 '미래형 포괄적 전략동맹'으로 진화하고 있으며, 미국 의회는 이 과정에서 핵심적인 역할을 하고 있습니다.
+> 
+> 두 의원 역시 한미동맹에 대한 미국 의회의 초당적인 지지를 재확인하고, 다양한 협력 분야에서 양국 간 실질적 성과가 도출될 수 있도록 노력해 나가겠다는 의지를 밝혔습니다.
+> 
+> 아울러 긴밀한 한미 공조를 바탕으로 한반도 평화 정착을 위한 우리 정부의 노력에 대해 적극 협력하기로 뜻 모았습니다.
+> 
+> @[비공개] @[비공개] I met with U.S. Senators Tammy Duckworth and Andy Kim. As the first U.S. Senators to visit Korea since the inauguration of the Lee Jae Myung government, today's meeting was especially meaningful.
+> 
+> The U.S. Congress plays a pivotal role in the evolution of the ROK-U.S. alliance into a future-oriented comprehensive strategic alliance encompassing military, economic, and advanced technology sectors.
+> 
+> The Senators reaffirmed the bipartisan support of the U.S. Congress for the ROK-U.S. alliance and their commitment to ensuring substantial achievements in bilateral cooperation across various sectors.
+> 
+> They expressed their support for our efforts to promote peace on the Korean Peninsula based on close ROK-U.S. coordination.
+
+좋아요 3,079 · 재게시 786 · 답글 325 · 조회 94,103 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1957416064016625740
+
+### 2025-08-18 16:48 — 국방·안보 · 직접 작성
+
+> 을지연습 기간을 맞아, 취임 후 처음으로 을지 국가안전보장회의와 을지 국무회의를 개최했습니다. 
+> 
+> 이번 회의에서는 국가 총력전 수행 능력과 더불어 부처별 전시 전환 절차를 면밀히 점검했습니다. 싸우지 않고 평화롭게 이기는 것이 최선이지만, 최악의 상황에 대비하는 것도 국민 안전과 국가 안보를 위해 반드시 필요하기 때문입니다.
+> 
+> 을지연습은 북한과의 긴장을 고조시키려는 의도가 아닌, 한반도 평화를 실현하고 국민의 생명과 안전을 지키기 위한 방어적 훈련입니다. 연습 결과는 내년도 계획에 반영하며 국가 안보 역량을 더욱 굳건히 다져나가겠습니다.
+
+좋아요 3,180 · 재게시 839 · 답글 182 · 조회 105,540 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1957348782192087527
+
+### 2025-08-17 21:40 — 경제·민생 · 직접 작성
+
+> 오늘 은평 연서시장을 찾아 시민분들의 푸근한 미소, 전통시장의 넉넉한 인심을 가득 담아 왔습니다.
+> 
+> 무엇보다 민생회복 소비 쿠폰 덕분에 매출이 오르고 시장 곳곳에 활력이 돌고 있다는 말씀을 들으니 참 반가웠습니다.
+> 
+> 골목이 살아야 경제가 삽니다.
+> 침체된 골목상권에 온기를 불어넣을 수 있도록, 함께 더 노력하겠습니다.
+
+좋아요 5,702 · 재게시 1,416 · 답글 354 · 조회 248,970 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1957059871544947044
+
+### 2025-08-16 09:01 — 정치·국정 · 직접 작성 · 분류 검토 대기
+
+> <다시 찾은 빛, 영화 ‘독립군’으로 함께 기억합시다>
+> 
+> 오는 일요일 오전, 광복 80주년을 기념해 조진웅 배우님이 추천해 주신 영화 ‘독립군: 끝나지 않은 전쟁’을 관람합니다.
+> 
+> 오늘날 우리가 누리는 번영과 자유의 근간에는 해방에 대한 불굴의 의지, 주권 회복의 강렬한 희망으로 자신을 불살랐던 수많은 무명의 영웅들이 존재합니다.
+> 
+> 그 희생과 헌신을 되새기며 광복 80년의 의미를 나눌 뜻깊은 시간에 동참해 주십시오. 기왕이면 더 많은 분께서 자랑스러운 광복군의 역사를 기리고, 또 기억해 주시길 바라는 마음에 내일 오전 저와 함께 관람하실 분들을 모십니다.
+> 
+> 좌석이 제한적인 관계로 부득이하게 추첨을 통해 참석자를 선정하기로 했습니다. 모든 분과 함께하지 못하는 점 너른 양해 부탁드립니다.
+> 
+> 그럼 일요일에 뵙겠습니다^^
+> 
+> ☑️ 관람일: 2025년 8월 17일(일) 오전, 서울특별시 내  
+>  *경호 문제로 정확한 시간과 장소는 별도 안내 예정
+> 
+> ☑️ 신청기간 : 2025년 8월 16일(토) 오전 11시 마감
+> 
+> 📌 신청 방법
+> 
+> 1️⃣ #광복80주년, #빛을되찾은날, #무명의_독립군을_기억하며 3가지 해시태그 추가해 본인의 SNS에 게시물 공유하기 
+> 
+> 2️⃣ 구글폼 신청하기 :
+
+좋아요 4,330 · 재게시 1,412 · 답글 351 · 조회 255,815 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1956506447422144583
+
+### 2025-08-14 21:36 — 외교·통상 · 직접 작성
+
+> 오늘 페르디난드 로무알데즈 마르코스 주니어 필리핀 대통령과 취임 후 첫 통화를 나눴습니다. 필리핀은 아시아 국가 중 최초이자 최대 규모로 한국전쟁에 참전한 오랜 우방국입니다. 
+> 
+> 우리나라가 현재 필리핀의 최대 투자국이 된 점에 주목하며, 해상 교량과 철도 등 인프라, 조선 산업, 방산 등 다양한 분야에서 호혜적 협력을 확대해 나가기로 마르코스 대통령과 뜻을 모았습니다.
+> 
+> 또한 지금까지 10만 명이 넘는 필리핀 노동자들이 한국에서 근무하며 양국 우호 증진에 기여한 점에 감사를 표하고, 국내 외국인 노동자의 안정적인 생활 여건 조성을 위해 노력하겠다는 의지도 밝혔습니다.
+> 
+> 앞으로도 마르코스 대통령과 APEC 정상회의 등을 통해 직접 만나, 양국 관계 발전 및 글로벌 도전과제 대응을 위한 협력 방안을 긴밀히 논의할 수 있길 기대합니다.
+> 
+> @bongbongmarcos I was pleased today to have my first telephone conversation with President Ferdinand Romualdez Marcos Jr. of the Republic of the Philippines.
+> 
+> The Philippines was the first Asian country which dispatched troops to defend the Republic of Korea during the Korean War, sending the largest number of troops among Asian nations. 
+> 
+> In the call today, President Marcos and I highlighted that the ROK has become the Philippines’ largest investment partner, and we agreed to further expand our mutually beneficial collaboration in areas such as shipbuilding, the defense industry, and infrastructure including sea bridges and railways.
+> 
+> Furthermore, I expressed my appreciation for the fact that more than 100,000 Filipino workers have contributed to deepening the bonds of friendship between our two countries. I also emphasized my commitment to further boost efforts to ensure stable living conditions for foreign workers in Korea.
+> 
+> I very much look forward to meeting with President Marcos at the APEC Economic Leaders’ Meeting and other occasions to discuss ways to further promote our partnership and tackle global challenges together.
+
+좋아요 3,256 · 재게시 729 · 답글 310 · 조회 96,664 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1955971768210088343
+
+### 2025-08-13 22:34 — 정치·국정 · 직접 작성 · 분류 검토 대기
+
+> 모하메드 빈 살만 사우디아라비아 왕세자 겸 총리와 취임 후 첫 통화를 나눴습니다.
+> 
+> 「사우디 비전 2030」을 주도하며 사우디의 개혁과 발전을 이끌고 계신 왕세자와의 대화를 통해, 대한민국의 새로운 성장 비전과 전략을 구현해 나가는 데 있어 깊은 통찰과 영감을 얻을 수 있었습니다.
+> 
+> 양국은 1970년대 한국 기업의 사우디 건설 사업 진출을 시작으로 상호 호혜적인 협력 관계를 이어오고 있으며, 오늘날에는 미래지향적 전략 동반자로서 그 관계를 한층 더 공고히 하고 있습니다.
+> 
+> 앞으로도 양국 간 오랜 신뢰를 바탕으로 에너지·인프라·방산·첨단기술 등 제반 분야에서의 협력을 지속적으로 확대·심화해 나가자고 뜻 모았습니다.
+> 
+> أجريتُ اليوم أول اتصال هاتفي منذ توليّ منصبي مع صاحب السمو الملكي الأمير محمد بن سلمان بن عبد العزيز آل سعود، ولي عهد وورئيس مجلس الوزراء للمملكة العربية السعودية .
+> 
+> ومن خلال حديثي مع سمو ولي العهد، الذي يقود مسيرة الإصلاح والتنمية في المملكة عبر رؤية السعودية 2030، استلهمتُ رؤى وأفكاراً عميقة في تنفيذ رؤية واستراتيجية جديدة للنمو في جمهورية كوريا.
+> 
+> وقد حافظ بلدانا، بدءا من دخول شركات كورية في قطاع البناء والإنشاءات في المملكة في سبعينيات القرن الماضي، على علاقات تعاون متبادلة المنفعة، وتوطدت هذه العلاقات في يومنا هذا لتصبح شراكة استراتيجية مستقبلية راسخة.
+> 
+> وأكدنا عزمنا على مواصلة تعزيز وتوسيع التعاون بين بلدينا، استناداً إلى الثقة المتبادلة التي امتدت لعقود، في مختلف المجالات بما في ذلك الطاقة، والبنية التحتية، والصناعات الدفاعية، والتقنيات المتقدمة.
+
+좋아요 3,104 · 재게시 761 · 답글 237 · 조회 136,038 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1955623920855650596
+
+### 2025-08-12 18:20 — 문화·체육 · 직접 작성
+
+> 권오을 국가보훈부 장관, 최휘영 문화체육관광부 장관, 김정관 산업통상자원부 장관, 김윤덕 국토교통부 장관께 임명장을 수여했습니다. 
+> 
+> 오랜 기간 각 분야에서 쌓아온 전문성과 풍부한 경험을 바탕으로 국민의 삶과 직결된 실질적 변화를 만들어 내고, 시대가 요구하는 혁신을 힘 있게 추진해 주시리라 기대합니다. 네 분 장관님과 함께 힘을 모아 대한민국이 더 풍요롭고 희망 넘치는 나라로 도약할 수 있도록 노력하겠습니다.
+
+좋아요 3,267 · 재게시 857 · 답글 245 · 조회 101,230 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1955197713093627973
+
+### 2025-08-12 13:00 — 국방·안보 · 직접 작성
+
+> 2025년 제2회 초중고졸업학력 검정고시에 도전하는 수험생 여러분께 뜨거운 응원을 전합니다.
+> 
+> 누군가는 긴 세월 품었던 배움의 꿈을 이어가고자, 또 누군가는 새로운 도전을 향해 용기 있게 나아가고자 이 자리까지 오셨겠지요. 각자의 사정과 환경은 다르지만, 포기하지 않고 꿋꿋이 걸어온 여러분 모두가 자랑스럽습니다. 
+> 
+> 남들과 비교할 필요 없습니다. 바쁜 일상 속에서도 책을 펼치며 배우고자 하는 마음을 지켜온 의지와 용기가 세상에 단 하나뿐인 여러분만의 특별한 이야기를 써 내려가고 있기 때문입니다.
+> 
+> 앞으로 더 넓은 배움의 길, 더 큰 세상 속에서 하고자 하는 모든 일을 마음껏 펼쳐나가길 온 마음으로 기원합니다!
+
+좋아요 11,802 · 재게시 3,884 · 답글 426 · 조회 1,982,417 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1955117042287477201
+
+### 2025-08-11 21:10 — 외교·통상 · 인용
+
+> 딕 스코프 네덜란드 총리와 처음으로 전화 통화를 나눌 수 있어 기쁘게 생각합니다.
+> 
+> 네덜란드는 1961년 공식 수교 이전부터 한국전쟁 당시 5천 명 이상의 병력을 파병하며 큰 도움을 주었습니다. 수교 이후 양국은 우호협력관계를 꾸준히 발전시켜 왔으며, 오늘날에는 전략적 동반자이자 반도체 동맹으로서 관계를 더욱 강화하고 있습니다.
+> 
+> 앞으로도 무역·투자, 인공지능, 사이버 안보뿐만 아니라 더욱 다양한 분야에서 실질적 협력 관계를 더욱 발전시켜 나가기로 함께 뜻을 모았습니다.
+> 
+> @[비공개] I was pleased to have my first telephone conversation with Prime Minister Dick Schoof of the Netherlands.
+> 
+> Even prior to the establishment of diplomatic relations in 1961, the Netherlands demonstrated its enduring friendship with the Republic of Korea by dispatching more than 5,000 troops to the Korean War. 
+> 
+> Since the formal establishment of diplomatic ties, our two nations have steadily deepened the bonds of friendship and cooperation. These days we are strengthening our relations as both strategic partners and a semiconductor alliance. 
+> 
+> Prime Minister Schoof and I agreed to further enhance our bonds of cooperation in a wide range of areas - including trade and investment, AI, and cyber security.
+
+좋아요 2,937 · 재게시 780 · 답글 162 · 조회 134,798 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1954878028536057900
+
+### 2025-08-11 21:05 — 정치·국정 · 직접 작성 · 분류 검토 대기
+
+> 제리 필레이 세계교회협의회(WCC) 총무와 한국기독교교회협의회(NCCK) 대표단을 만나, 한국 교회의 연대의 역사를 돌아보고 앞으로의 교류·협력 방향을 논의했습니다.
+> 
+> 가장 먼저, 김대중 대통령의 인권 침해 실태를 세계에 알리고 민주주의 발전과 한반도 평화를 위해 힘써준 WCC에 감사를 표하며, 과거 남북 교회 대화를 주선했던 WCC가 또다시 새로운 소통의 길을 열어주시길 부탁드렸습니다.
+> 
+> 아울러 그리스 아테네가 민주주의의 시작을 알린 도시라면, 대한민국은 '빛의 혁명'을 통해 민주주의를 더욱 빛나게 한 나라로 세계사에 길이 남기를 소망한다고 전했습니다. 앞으로도 한반도 평화와 인류 보편적 가치를 실현하는 여정을 함께해 나가길 기대합니다.
+
+좋아요 2,899 · 재게시 750 · 답글 120 · 조회 109,329 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1954876722215846387
+
+### 2025-08-08 21:57 — 외교·통상 · 직접 작성
+
+> 8월 8일 오늘은 대한민국과 싱가포르가 수교를 맺은지 50주년이 되는 뜻깊은 날입니다. 
+> 
+> 오늘을 기념하며 타르만 샨무가라트남 싱가포르 대통령과 축하 서한을 교환하고, 1975년 외교 관계 수립 이후 지난 반 세기 동안 양국이 이루어낸 눈부신 발전을 함께 축하했습니다. 
+> 
+> 올해 양국 관계 격상을 통해 앞으로도 두 나라의 우호 협력 관계를 더욱 강화하고, 향후 100년 우정을 향한 새로운 여정 역시 함께해 나갈 수 있길 기대합니다. 
+> 
+> @[비공개] Today, August 8, marks the 50th anniversary of the establishment of diplomatic relations between the Republic of Korea and the Republic of Singapore. 
+> 
+> To commemorate the occasion, I exchanged congratulatory letters with President Tharman Shanmugaratnam of Singapore and celebrated the remarkable progress our two countries have made since establishing diplomatic ties in 1975. 
+> 
+> With the elevation of bilateral relations this year, I look forward to further strengthening our bonds of friendship and cooperation, and to embarking on a new journey over the next century.
+
+좋아요 4,510 · 재게시 1,056 · 답글 396 · 조회 263,898 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1953802865262440863
+
+## 2025년 7월 (28건)
+
+### 2025-07-30 20:00 — 외교·통상 · 직접 작성
+
+> 일한의원연맹 회장 자격으로 방한한 스가 요시히데 전 일본 총리를 만나뵈었습니다.
+> 
+> 가장 먼저, 한일관계 발전을 위해 국회 구성원들 간 교류가 매우 중요한 역할을 한다고 전했습니다. 스가 전 총리는 새 정부 출범을 축하하며, 앞으로 한일 관계가 미래지향적으로 발전할 수 있도록 일본 국회도 적극 지원하겠다고 밝혔습니다.
+> 
+> 아울러 국교 정상화 60주년을 맞아 한일관계가 안정적인 발전을 이뤄가고 있는 것을 높이 평가하고, 각계 각층이 긴밀히 소통하며 관계를 더욱 견고히 구축해 나가자고 함께 뜻을 모았습니다.
+> 
+> @[비공개] 日韓議員連盟の会長として韓国を訪れた日本の菅義偉元総理にお会いしました。
+> 
+> まず、私から韓日関係が発展するため、両国の国会議員による交流が大変重要な役割を担う旨述べました。菅元総理は、新政府の発足を祝い、これから両国の関係が未来志向に発展できるよう、日本の国会としても積極的に取り組んでいきたいと述べました。
+> 
+> また、国交正常化60周年を迎えた韓日関係が安定的に発展していることを高く評価し、各分野、各レベルで緊密に意思疎通を行い、より堅固な関係を構築していこうということで一致しました。
+
+좋아요 2,883 · 재게시 703 · 답글 580 · 조회 163,534 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1950511897490727270
+
+### 2025-07-30 19:00 — 경제·민생 · 직접 작성
+
+> 제3차 비상경제점검TF회의를 개최해 기존 법령의 틀을 넘어, 보다 넓고 과감하게 새로운 정책을 기획·정비해 줄 것을 전 부처에 지시했습니다.
+> 
+> 또한 성과가 미흡하거나 관행적으로 지출되어 온 예산은 조정하고, 신선한 아이디어를 적극 발굴해 내년 예산안에 신속히 반영해달라 주문했습니다.
+> 
+> 오늘 논의한 내용을 토대로 경제성장전략은 8월 중, 2026년 재정운용 방향은 9월 초 확정·발표할 계획입니다. 국민의 삶에 직결되는 만큼 빈틈없이 꼼꼼히, 철저히 준비하겠습니다.
+
+좋아요 3,651 · 재게시 967 · 답글 354 · 조회 137,584 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1950496604584350177
+
+### 2025-07-28 18:01 — 정치·국정 · 직접 작성
+
+> 김상환 헌법재판소장님, 오영준 헌법재판관님께 임명장을 수여했습니다. 진심으로 축하합니다.
+> 
+> 우리 사회 법치주의와 정의를 굳건히 세우는 최후 보루의 역할을 충실히 수행해 주시길, 어떠한 상황에도 흔들림 없이 헌법 정신을 구현하는 진정한 사법 리더가 되어 주시길 기대합니다.
+
+좋아요 4,331 · 재게시 1,135 · 답글 360 · 조회 147,285 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1949757109715034471
+
+### 2025-07-28 14:37 — 정치·국정 · 직접 작성
+
+> 정동영 통일부 장관, 안규백 국방부 장관, 전재수 해양수산부 장관, 한성숙 중소벤처기업부 장관, 임광현 국세청장님께 임명장을 수여했습니다.
+> 
+> 그동안 쌓아온 역량과 전문성을 바탕으로 국민의 믿음에 부응하는 성과를 내주시길 당부드렸습니다. '유능한 민생정부'로 나아가는 길에 큰 역할 해주시리라 기대합니다. 함께할 수 있어 든든합니다.
+
+좋아요 3,931 · 재게시 977 · 답글 248 · 조회 115,107 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1949705723744772393
+
+### 2025-07-27 18:27 — 경제·민생 · 직접 작성
+
+> <연 이자율 60% 이상은 이자+원금까지 전부 무효(20% 넘으면 초과이자 무효)>
+> 
+> '살기 위해 빌린 돈'이 '삶 옥죄는 족쇄' 되는 일 막겠습니다.
+> 
+> https://n.news.naver.com/article/001/0015508401?sid=101
+
+좋아요 6,541 · 재게시 3,205 · 답글 410 · 조회 1,277,204 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1949401209078722982
+
+### 2025-07-24 21:01 — 문화·체육 · 직접 작성
+
+> 미르지요예프 우즈베키스탄 대통령과 통화를 나누게 되어 매우 기쁘게 생각합니다.
+> 
+> 우즈베키스탄은 고려인들이 가장 많이 거주하는 나라로서, 정서와 문화 면에서 우리나라와 많은 공통점을 지니고 있습니다. 또한 우리 문화에 대한 높은 호감도로 인해 중앙아시아 내 한류 확산의 중심지 역할을 하고 있는 특별한 인연의 국가입니다.
+> 
+> 이처럼 각별하고 오랜 우호협력의 역사 위에, 양국의 '특별 전략적 동반자 관계'를 한 단계 도약시킬 수 있도록 긴밀히 협력해나가기로 미르지요예프 대통령과 합의했습니다.
+> 
+> 나아가 앞으로도 양국의 상생 발전을 도모하며, 호혜적 협력 관계를 더욱 확대하기 위해 함께 노력하자고 뜻을 모았습니다.
+> 
+> @president_uz Я рад сообщить, что сегодня состоялся телефонный разговор с Президентом Республики Узбекистан Шавкатом Мирзиёевым.
+> 
+> Узбекистан является страной, в которой проживает наибольшее количество этнических корейцев, и в эмоциональном и культурном плане имеет много общего с нашей страной. Кроме того, благодаря высокому уровню интереса к корейской культуре Узбекистан служит центром распространения корейской волны (Халлю) в Центральной Азии, что подтверждает особые связи между нашими странами.
+> 
+> Основываясь на столь особой и многолетней истории дружественного сотрудничества, мы с Президентом Мирзиёевым договорились о тесном сотрудничестве с целью поднятия «особого стратегического партнёрства» между нашими странами на новый уровень.
+> 
+> Мы пришли к единому мнению о том, чтобы и впредь способствовать взаимному развитию обеих стран и прилагать совместные усилия для дальнейшего расширения взаимовыгодного сотрудничества.
+
+좋아요 2,793 · 재게시 672 · 답글 292 · 조회 105,950 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1948352717644239202
+
+### 2025-07-24 20:55 — 외교·통상 · 직접 작성
+
+> 오늘 메르츠 총리와 처음으로 전화 통화를 나누게 되어 매우 기쁘게 생각합니다.
+> 
+> 독일은 우리에게 특별한 나라입니다. 전쟁의 폐허를 딛고 눈부신 경제 발전을 이룩한 경험과 민족 간 분단이라는 아픈 역사를 함께 공유하기 때문입니다.
+> 
+> 또한 1960~70년대에 한국 광부와 간호사가 독일로 파견되어 양국 경제 발전에 기여했으며, 이로 인해 두 나라의 국민들 간 소중한 인연이 오늘날까지 이어지고 있습니다.
+> 
+> 이러한 특별한 유대를 바탕으로 메르츠 총리와 함께 양국 간 우호적 협력 관계를 한층 더 강화해 나가기로 뜻을 모았습니다.
+> 
+> @_FriedrichMerz Ich freue mich sehr, heute mein erstes Telefongespräch mit Bundeskanzler Merz geführt zu haben.
+> 
+> Deutschland ist für uns ein besonderes Land, da es mit uns sowohl die Erfahrung teilt, trotz der Trümmer des Krieges eine rasante Wirtschaftsentwicklung erreicht zu haben, als auch die schmerzhafte Geschichte der nationalen Teilung.
+> 
+> Zudem haben die Entsendungen koreanischer Bergarbeiter und Krankenschwestern nach Deutschland in den 60er und 70er Jahren nicht nur zur wirtschaftlichen Entwicklung beider Länder beigetragen, sondern auch unsere beiden Völker bis heute miteinander verbunden.
+> 
+> Bundeskanzler Merz und ich werden auf der Grundlage dieser besonderen Verbundenheit daran arbeiten, die freundschaftlichen und kooperativen Beziehungen zwischen unseren beiden Ländern weiter zu vertiefen.
+
+좋아요 3,266 · 재게시 769 · 답글 151 · 조회 117,248 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1948351436364165191
+
+### 2025-07-24 19:05 — 과학기술·AI · 직접 작성
+
+> 부산대학교 전기공학과 학생들이 국제 인공지능 로봇대회 '로보컵 2025' 홈서비스 부문에서 1위를 차지하며 역대 최고점 기록까지 달성하는 쾌거를 이루었습니다.
+> 
+> 37개국 1,500여 명의 참가자와 2,000대 이상의 로봇이 겨룬 치열한 경쟁 가운데 우리 학생들이 세계 최고 수준의 기술력과 혁신성을 인정받은 것에 큰 자부심을 느낍니다. 진심으로 축하합니다.
+> 
+> 대한민국 인공지능과 로봇공학 기술의 역량을 전 세계에 알리는 데 크게 이바지해 주었습니다. 이를 계기로 우리의 우수한 기술과 인재들이 세계 무대에서 더 큰 활약을 펼칠 수 있길 기대합니다.
+> 
+> 아울러 내년 로보컵 대회가 인천에서 개최되는 만큼, 앞으로도 우리나라가 인공지능과 로봇 기술 분야를 선도해 나갈 수 있도록 정부가 적극 지원하겠습니다.
+
+좋아요 5,178 · 재게시 1,251 · 답글 149 · 조회 285,619 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1948323768100900895
+
+### 2025-07-23 19:55 — 국방·안보 · 직접 작성
+
+> 울프 크리스터손 스웨덴 총리와 처음으로 전화 통화를 하게 되어 기쁘게 생각합니다.
+> 
+> 스웨덴은 한국전쟁 당시 의료지원단을 파견한 이래 소중한 우방으로 함께해왔으며, 오늘날에도 중립국감독위원회(NNSC)의 일원으로서 한반도 평화와 안정에 기여하고 있습니다.
+> 
+> 앞으로도 경제, 국방 및 방위산업, 문화 등 다양한 분야에 걸쳐 함께 협력하며 우호 관계를 지속적으로 강화해 나가기로 뜻을 모았습니다.
+> 
+> @[비공개] It was a pleasure to have my first phone conversation with Prime Minister Ulf Kristersson of Sweden.
+> 
+> Sweden has been a valued friend since it dispatched medical teams during the Korean War, and it continues to play a vital role in promoting peace and stability on the Korean Peninsula as a member of the Neutral Nations Supervisory Commission (NNSC) today.
+> 
+> We agreed to work closely together to further advance our friendly and cooperative relations across a wide range of areas including the economy, defense and defense industry, and culture.
+
+좋아요 2,984 · 재게시 720 · 답글 203 · 조회 110,718 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1947973730375971311
+
+### 2025-07-23 19:50 — 일상·인사 · 직접 작성
+
+> 토카예프 카자흐스탄 대통령과 처음으로 통화를 나눴습니다.
+> 
+> 카자흐스탄은 중앙아시아 지역 내 우리의 최대 교역대상국이자 최대 투자대상국입니다. 1937년 러시아에서 중앙아시아로 이주한 우리 고려인 동포들을 처음 맞이해준 곳이기도 합니다.
+> 
+> 먼저, 우리 독립운동의 영웅 홍범도 장군의 유해가 조국의 품으로 돌아올 수 있도록 적극 지원해 주신 것에 감사를 전했습니다.
+> 
+> 양국 간 전략적 동반자 관계를 한 단계 높은 수준으로 발전시켜 나가자는 데 토카예프 대통령과 의견을 같이 했고, 나아가 우리 기업들의 카자흐스탄 진출에 대한 관심과 지원을 요청했습니다.
+> 
+> 이와 함께, 토카예프 대통령은 최근 폭우로 인한 한국의 인명 피해에 대해 깊은 애도의 뜻을 전했습니다.
+> 
+> @tokayevkz Сегодня я впервые провёл телефонные разговоры с Президентом Республики Казахстан Касым-Жомартом Токаевым.
+> 
+> Казахстан является нашим крупнейшим торговым и инвестиционным партнёром в Центральной Азии. Кроме того, именно Казахстан стал первым местом, принявшим наших соотечественников, переселённых из России в Центральную Азию в 1937 году.
+> 
+> Прежде всего, я выразил благодарность Президенту Токаеву за активную поддержку в возвращении на Родину останков генерала Хон Бом До - героя нашей борьбы за независимость.
+> 
+> Мы с Президентом Токаевым сошлись во мнении что стратегическое партнёрство между нашими странами необходимо вывести на качественно новый уровень. Кроме того, я обратился к Президенту Токаеву с просьбой о внимании и поддержке в продвижении наших предприятий на рынок Казахстана.
+> 
+> В свою очередь, Президент Токаев выразил глубокие соболезнования в связи с человеческими жертвами, вызванными недавними сильными ливнями в нашей стране.
+
+좋아요 2,693 · 재게시 668 · 답글 101 · 조회 99,413 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1947972472869114084
+
+### 2025-07-23 14:54 — 경제·민생 · 직접 작성
+
+> 김경수 지방시대위원장, 구윤철 부총리 겸 기획재정부 장관, 배경훈 과학기술정보통신부 장관, 조현 외교부 장관, 정성호 법무부 장관, 윤호중 행정안전부 장관, 정은경 보건복지부 장관, 김성환 환경부 장관, 김영훈 고용노동부 장관.
+> 
+> '유능한 민생정부'로 나아가는 길에 함께해 주실 분들입니다.
+> 
+> 국민의 삶 전반을 책임지는 막중한 역할을 맡으신 만큼, 사명감을 가지고 임해 주시길 당부했습니다.
+> 
+> 각자의 자리에서 실력과 성과로 국민 여러분의 기대에 부응해 주시리라 믿습니다.
+
+좋아요 3,059 · 재게시 885 · 답글 160 · 조회 127,363 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1947897968537096701
+
+### 2025-07-23 14:01 — 정치·국정 · 직접 작성
+
+> 오래 기다리셨습니다!
+> 
+> 대통령실 공식 디지털 굿즈,
+> 오늘 국민 여러분께 ‘최초 공개’합니다.
+> 
+> 국민의 소중한 의견을 반영해 제작한 첫 디지털 굿즈인 만큼,
+> '보다 많은 분들께서, 보다 편리하게 활용할 수 있느냐'가 가장 중요한 기준이었습니다.
+> 그렇기에 스마트워치는 물론 스마트폰에서 사용 가능하도록 폭넓게 준비했습니다.
+> 
+> ‘국민주권정부’라는 이름에 걸맞게 디지털 굿즈 하나하나도 단순한 기념품을 넘어 국민과 함께 만드는 기록물이 될 수 있도록, 함께 나누는 귀중한 선물로 자리 잡을 수 있도록 노력하겠습니다.
+> 
+> 많이들 사용해 주시고, 소중한 후기 남겨주십시오.
+> 좋은 아이디어도 언제든 환영합니다.
+> 
+> ☑️ 대통령실 공식 디지털 굿즈 다운로드
+> 
+> - 대통령 공식 블로그 : 
+> - 대통령실 홈페이지 :
+
+좋아요 8,589 · 재게시 3,430 · 답글 635 · 조회 2,573,798 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1947884773235691594
+
+### 2025-07-22 21:18 — 문화·체육 · 직접 작성
+
+> 타밈 카타르 국왕과 처음으로 통화를 나누게 되어 기쁘게 생각합니다.
+> 
+> 카타르는 오랜 기간 한국의 핵심적인 에너지 공급국으로서 중요한 역할을 해왔으며, 한국은 카타르 내 대규모 인프라 구축에 기여해 오면서 서로 굳건한 신뢰를 쌓아왔습니다. 
+> 
+> 이러한 상호 호혜적 협력 관계는 최근 투자, 국방, 방위산업 등 다양한 분야로 폭넓게 확대되고 있습니다. 앞으로도 양국 간의 굳건한 관계를 더욱 강화하기 위해 함께 협력해 나가기로 약속했습니다.
+> 
+> 또한 카타르 왕실이 소유하고 있으며, 이강인 선수가 소속된 파리생제르망(PSG)이 지난 달 유럽 챔피언스리그에서 우승한 것을 축하하고, 향후 PSG와 한국 축구클럽 간 친선경기도 한국에서 개최될 수 있기를 기대한다고도 전했습니다.
+> 
+> @TamimBinHamad It was a pleasure to have my first call with Amir of the State of Qatar, His Highness Sheikh Tamim bin Hamad Al Thani.
+> 
+> Korea and Qatar have built a strong foundation of mutual trust over the years, with Qatar serving as a key energy supplier to Korea, and Korea contributing significantly to Qatar's infrastructure development. 
+> 
+> Our mutually beneficial partnership has recently expanded into a wider range of sectors, such as investment, defense, and the defense industry. Amir Tamim and I have agreed to work hand in hand to further enhance the strong ties between our nations.
+> 
+> I extended my congratulations to Amir Tamim on Paris Saint-Germain’s recent triumph in the UEFA Champions League—an achievement for a club owned by the Qatari royal family and which is also home to Korean footballer Lee Kang-In. I also hoped that a friendly match between PSG and a Korean football club could be hosted in Korea in the near future.
+
+좋아요 3,611 · 재게시 799 · 답글 191 · 조회 195,777 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1947632268388012277
+
+### 2025-07-17 20:38 — 국방·안보 · 직접 작성
+
+> 오늘 에르도안 튀르키예 대통령과 처음으로 통화를 나누게 되어 매우 기쁘게 생각합니다.
+> 
+> 튀르키예는 한국전쟁 당시 네 번째로 많은 군대를 파병해 우리를 도왔으며, 이후 지금까지 형제 국가로서 함께해 왔습니다.
+> 
+> 에르도안 대통령과 함께 이러한 역사적 인연을 바탕으로 양국 간 전략적 동반자 관계를 한층 더 깊이 발전시켜 나갈 것을 재확인했습니다.
+> 
+> 아울러 국방 및 방위산업, 원자력, 그린 에너지 등 상호 관심 분야에서 실질 우호협력 관계 강화를 위해 긴밀히 협력하기로 합의했습니다.
+> 
+> @RTErdogan I am very pleased to have had my first phone conversation with President Recep Tayyip Erdoğan of Türkiye.
+> 
+> Türkiye has been a brother nation to us ever since it supported us during the Korean War as the fourth largest troop-contributing country.
+> 
+> President Erdoğan and I reaffirmed our shared commitment to further strenghtening our Strategic Partnership based on this historic bond.
+> 
+> We also agreed to work closely together to advance our friendship and cooperation in areas of mutual interests, such as defense and defense industry, nuclear energy, and green energy.
+
+좋아요 4,654 · 재게시 1,038 · 답글 594 · 조회 230,779 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1945810247400182219
+
+### 2025-07-14 18:06 — 정치·국정 · 직접 작성
+
+> <타운홀미팅에 참여할 부산시민을 찾습니다>
+> 
+> 이번엔 부산입니다.
+> 대통령과 함께 토론할 200명의 부산시민을 모십니다.
+> 
+> 북극항로 시대 준비를 위한 해수부 이전부터
+> 지역 발전을 위한 다양한 정책 제안까지,
+> 저마다 자유롭게 토론하며 합리적 대안을 만들어 가겠습니다.
+> 
+> 여러분께서 보여주실 참여의 열기만큼
+> ‘국민이 주인인 나라’가 성큼 앞당겨질 것으로 믿습니다.
+> 
+> ☑️ 날짜: 2025년 7월 18일(금) *시간, 장소는 경호상의 이유로 추후 안내 예정
+> 
+> ☑️ 참여 신청 : 2025년 7월 14일(월)~7월 16일(수) 14시까지 구글폼 접수()
+
+좋아요 3,043 · 재게시 1,061 · 답글 399 · 조회 195,824 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1944685021010551071
+
+### 2025-07-14 16:56 — 사회 · 직접 작성
+
+> 국민 여러분께 저희 가족의 일원인 '바비'를 소개합니다. 저와 함께 살고 있는 사랑스러운 반려견입니다. 오늘 5급 신임 관리자 특강에서 살짝 이야기했더니 관심 가져주시는 분들이 많이 계시네요.
+> 
+> 사실 오늘 아침에도 바비 때문에 아내와 살짝 갈등이 있었습니다. 바비가 아내에게만 자꾸 가는 겁니다.. 꽤나 서운했지만 곰곰이 생각해보니 그럴 만도 하더군요. 매일 밥을 챙겨주고, 산책도 하고, 놀아주는 사람이 바로 아내니까요. 저는 아무래도 함께할 수 있는 시간이 적으니 바비 입장에서도 아내가 더욱 친근히 느껴지겠지요.
+> 
+> 강아지도 누가 자기를 아끼고 사랑하는지 아주 잘 압니다. 아내 곁에 딱 붙어있는 바비를 보며, 동물도 이렇게 마음을 느끼고 표현하는데, 사람은 얼마나 더 섬세히 알아차릴까 하는 생각을 해봅니다. 눈빛과 표정, 분위기만으로도 서로의 감정을 금세 파악할 수 있으니까요. 결국 동물과 사람 모두에게 진심은 반드시 통한다는 사실을 다시금 깨닫습니다.
+> 
+> 반려 인구 1,500만 시대. 우리 국민 네 명 중 한 명 이상이 반려동물과 살고 있습니다. 존재만으로도 소소한 행복과 따뜻한 위로가 되어주는 바비를 통해 반려동물과 함께 살아가는 수많은 국민 여러분의 마음을 더 깊이 이해할 수 있습니다.
+> 
+> 생명에 대한 존중과 배려가 넘치는 사회를 위해 앞으로도 부단히 노력하겠습니다. 사람과 동물이 함께 어우러져 조화롭게 공존하고, 서로의 삶을 풍요롭게 만드는 동물복지 선진국 대한민국을 그려봅니다.
+
+좋아요 18,287 · 재게시 4,704 · 답글 701 · 조회 4,180,005 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1944667294262768093
+
+### 2025-07-11 07:40 — 외교·통상 · 직접 작성
+
+> 총리님 @ms2030 경주 APEC 관련 인프라시설 진척사항을 잘 챙겨주시기 바랍니다.
+
+좋아요 11,357 · 재게시 3,270 · 답글 1,208 · 조회 4,773,878 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1943440093681004899
+
+### 2025-07-09 14:05 — 일상·인사 · 인용
+
+> #트친소
+> 반가운 소식 전합니다.
+> 늘 국민의 목소리에 귀 기울이고, 어려운 일도 척척 해내는 우리 비서실장이 X계정을 통해 여러분과 더 가까이 소통하고 있습니다.
+> 
+> 국민 여러분께서 궁금해하실 만한 정보는 물론, 일상에 작은 웃음을 더해드릴 수 있는 소소한 이야기까지 다양한 소식을 전해드릴 예정이라고 합니다.
+> 
+> 든든한 친구처럼 곁에 있을 강훈식 비서실장님(@[비공개]) 많은 관심 가져주시고, 언제든 편하게 찾아주시기 바랍니다 ^^
+
+좋아요 10,011 · 재게시 3,397 · 답글 675 · 조회 1,173,063 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1942812219970052421
+
+### 2025-07-09 14:01 — 일상·인사 · 인용
+
+> #트친소
+> 대통령실 공식 X계정을 국민 여러분께 소개합니다.
+> 
+> 앞으로 이 공간을 통해 정부 정책과 주요 일정, 국민 여러분께 꼭 필요한 소식, 긴급하게 알려드려야 할 정보까지 신속히 전해드릴 예정입니다.
+> 
+> @KOREA 입니다.
+> 많이 팔로우해 주십시오 ^^
+
+좋아요 20,983 · 재게시 11,411 · 답글 560 · 조회 5,876,604 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1942811207662276689
+
+### 2025-07-08 21:50 — 국방·안보 · 직접 작성
+
+> <K-방산, 자부심을 넘어 미래로 도약합니다!>
+> 
+> 오늘은 ‘방위산업의 날’.
+> 이재명 정부는 방위산업이 대한민국의 미래를 이끌어가는 핵심 산업으로 성장할 수 있도록 더욱 관심 갖고 지원하겠습니다.
+> 
+> ☑️ 첨단 무기체계(AI, 무인 로봇) 개발로 K-방산 제품 경쟁력 강화
+> ☑️ 다양한 기업이 참여하는 건강한 산업 생태계 구축
+> ☑️ 정부의 안보 협력 강화로 K-방산 산업 기회 확대
+
+좋아요 3,313 · 재게시 906 · 답글 171 · 조회 169,285 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1942567071541518538
+
+### 2025-07-07 18:56 — 사회 · 직접 작성
+
+> 어제 인천 계양구 맨홀 아래 오수관로에서 유독가스 질식으로 추정되는 사고가 발생했습니다. 배관 작업 중이던 노동자 두 분 중 한 분이 하루가 지난 오늘 끝내 숨진 채 발견됐습니다. 
+> 
+> 사고의 원인을 철저히 규명하고, 현장 안전 관리가 미비했는지, 중대재해처벌법 등 관련 법령 위반이 있었는지 조사해 엄중히 책임을 물을 것입니다.
+> 
+> 아울러 관계 부처 모두에게 특단의 대책을 마련해 실질적인 변화가 이뤄질 수 있도록 강력히 지시했습니다. 반복되는 후진국형 산업재해의 악순환을 반드시 끊어내고, 누구나 안심하고 일할 수 있는 안전한 일터를 만들어 나가겠습니다.
+> 
+> 고인의 명복을 빌며, 유가족 여러분께 깊은 위로의 말씀 전합니다.
+
+좋아요 11,034 · 재게시 3,718 · 답글 427 · 조회 1,043,331 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1942160817094533471
+
+### 2025-07-04 14:22 — 정치·국정 · 직접 작성
+
+> 오늘 새 정부를 이끌어주실 일곱 분과 임명장 및 위촉장 수여식을 가졌습니다.
+> 
+> 국무총리 김민석, 국정기획위원장 이한주, 비서실장 강훈식, 안보실장 위성락, 정책실장 김용범, 국가정보원장 이종석, 국무조정실장 윤창렬. 함께 모여 있으니 든든합니다.
+> 
+> 정의로운 통합정부, 유연한 실용정부를 함께 만들어 나가겠습니다. 국민이 주인인 나라, 국민이 행복한 나라를 만들겠습니다.
+
+좋아요 7,666 · 재게시 2,032 · 답글 476 · 조회 297,325 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1941004638846963906
+
+### 2025-07-03 22:47 — 국방·안보 · 직접 작성
+
+> 오늘 마크 루터 NATO 사무총장과 전화 통화를 하게 되어 기쁘게 생각합니다.
+> 
+> 루터 사무총장께서는 저의 취임을 축하해 주셨으며, 지역 및 글로벌 안보 현안에 대응하기 위해 앞으로도 긴밀한 소통을 이어가기를 기대한다고 말씀하셨습니다.
+> 
+> 지난주 헤이그에서 성공적으로 개최된 정상회의를 축하드렸으며, 방산 협력을 비롯한 다양한 분야에서 한-NATO 파트너십을 강화하기로 뜻 모았습니다.
+> 
+> @SecGenNATO I was pleased to have a telephone conversation with NATO Secretary General Mark Rutte today.
+> 
+> SG Rutte congratulated me on my inauguration, and looked forward to continuing close communication in dealing with regional and global security challenges.
+> 
+> I congratulated SG Rutte on the successful Summit at The Hague last week, and saw eye to eye with him on strengthening the ROK-NATO partnership in areas such as defense industrial cooperation.
+
+좋아요 3,469 · 재게시 889 · 답글 174 · 조회 130,763 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1940769363038204272
+
+### 2025-07-03 16:41 — 정치·국정 · 직접 작성 · 분류 검토 대기
+
+> <내일, 충청에서 뵙겠습니다.>
+> 
+> 호남에 이어 충청입니다.
+> 민생현장에서 답을 찾고, 국민의 목소리를 국정의 나침반으로 삼겠습니다.
+> 
+> 어떤 의견이든 좋습니다.
+> 국민과 직접 토론하며 합리적 대안을 만들어가는 것이 ‘국민이 행복한 나라’로 나아갈 지름길이라 믿습니다. 
+> 
+> *유튜브 KTV, 이재명TV에서 시청 가능
+
+좋아요 4,033 · 재게시 1,147 · 답글 197 · 조회 146,591 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1940677265098264749
+
+### 2025-07-03 09:33 — 정치·국정 · 직접 작성 · 분류 검토 대기
+
+> <우리의 작은 실천이 미래를 바꿉니다>
+> 
+> 7월 3일 오늘은 '세계 일회용 비닐봉투 없는 날'입니다.
+> 
+> 무심코 사용하는 비닐봉투와 일회용품의 편리함 뒤에는 자연이 감당해야 할 500년의 세월이 있습니다. 분해되지 않은 플라스틱은 미세플라스틱으로 변해 바다와 토양을 오염시키고, 끝내 우리의 식탁과 몸속으로 되돌아옵니다. 건강은 물론 생태계 전체에 위협이 되는 심각한 현실입니다.
+> 
+> 더 늦기 전에 행동해야 합니다. 정부는 국민의 건강과 안전, 그리고 지속가능한 미래를 위해 올해 안에 탈플라스틱 로드맵을 마련하고 차질 없이 추진해 나가겠습니다. 
+> 
+> 가장 먼저, 내년을 기점으로 먹는샘물과 음료류 페트병에 재생원료 사용을 의무화해 자원이 선순환하는 체계를 구축합니다. 또한 산업·의료기기를 제외한 모든 전기전자제품에 대해 제조·수입자가 반드시 회수하고 재활용하도록 해 플라스틱 폐기물 문제를 구조적으로 줄여나갈 예정입니다.
+> 
+> 정부의 힘만으로는 한계가 있습니다. 우리 모두의 작은 실천이 모여야 큰 변화를 만들어냅니다. 오늘 하루만이라도 비닐봉투 대신 장바구니를 들고, 일회용품 사용을 줄여보시는 건 어떨지요?
+> 
+> 미래 세대에게 더 나은 세상을 물려주기 위해 함께 힘을 모읍시다. 오늘 우리의 선택이 내일의 큰 희망이 되리라 믿습니다. 이 소중한 변화의 여정에 국민 여러분의 적극적인 동참을 부탁드립니다.
+> 
+> #세계일회용비닐봉투없는날
+
+좋아요 5,249 · 재게시 2,068 · 답글 189 · 조회 235,753 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1940569663747895599
+
+### 2025-07-02 17:40 — 정치·국정 · 직접 작성
+
+> 지난 30일,
+> 5,200만 국민의 간절한 열망과 소망을 
+> 매순간 가슴에 새겼던 치열한 시간이었습니다.
+> 
+> 절박한 각오로 쉼없이 달려온 지난 30일을 되돌아보고,
+> 앞으로 4년 11개월의 각오를 새롭게 다지고자
+> 기자회견 자리를 마련했습니다.
+> 
+> 당면한 현안부터 국정의 방향과 비전까지,
+> 주권자 국민의 질문에 겸허히 답하겠습니다.
+
+좋아요 6,467 · 재게시 2,224 · 답글 403 · 조회 293,340 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1940329746887528786
+
+### 2025-07-02 16:55 — 외교·통상 · 직접 작성 · 분류 검토 대기
+
+> 크리스토퍼 럭슨 뉴질랜드 총리와 처음으로 전화 통화를 가졌습니다.
+> 
+> 뉴질랜드는 한국전쟁에 참전한 소중한 우방국이자, 역내 평화와 번영을 함께 추구하는 핵심 파트너입니다. 양국은 앞으로 경제, 국방·방위산업, 과학기술, 우주 등 다양한 분야에서 협력을 더욱 강화해 나가기로 했습니다.
+> 
+> 또한, 올해 하반기 경주에서 열리는 2025 APEC 정상회의의 성공적 개최를 위해서도 긴밀히 협력해 나가기로 약속했습니다.
+> 
+> @chrisluxonmp 
+> I had my first phone conversation with Prime Minister Christopher Luxon of New Zealand.
+> 
+> New Zealand is a valued friend that contributed troops to the Korean War and is one of our key like-minded partners in pursuing regional peace and prosperity. We agreed to further strengthen our cooperation across a wide range of areas, including the economy, defense, defense industry, science and technology, and space.
+> 
+> We also committed to working closely together to ensure the successful hosting of the 2025 APEC Summit in Gyeongju later this year.
+
+좋아요 3,512 · 재게시 880 · 답글 98 · 조회 122,916 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1940318321242734959
+
+### 2025-07-01 18:17 — 국방·안보 · 직접 작성
+
+> 오늘 모하메드 빈 자이드 알 나흐얀 아랍에미리트연합국(UAE) 대통령과 처음으로 전화 통화를 가졌습니다.
+> 
+> 모하메드 대통령께서는 한국과 UAE가 '특별 전략적 동반자 관계'로 발전하는 데 핵심적인 역할을 해오신 분입니다. 오늘 통화에서도 대통령님의 한국에 대한 깊은 애정과 신뢰를 다시 한 번 느낄 수 있었습니다.
+> 
+> 저와 모하메드 대통령 모두 국민을 최우선에 두고, 실용적이고 전략적인 접근을 통해 경제와 안보를 강화하는 데 전념하고 있습니다. 앞으로도 대통령님과 긴밀히 소통하며, 다양한 분야에서 지혜를 나누고 협력을 심화해 나가길 기대합니다.
+> 
+> 대한민국은 A.I., 첨단기술, 방위산업, 친환경 에너지 등 미래 성장동력을 육성하기 위해 핵심 파트너인 UAE와의 협력을 한층 더 강화해 나가겠습니다.
+> 
+> @[비공개] Today I had my first phone conversation with His Highness Sheikh Mohamed bin Zayed Al Nahyan, President of the United Arab Emirates.
+> 
+> President Mohamed has played a pivotal role in advancing the relationship between Korea and the UAE to the level of a Special Strategic Partnership. During our call, I once again sensed his deep affection and trust toward Korea.
+> 
+> Both President Mohamed and I place our people at the forefront and are committed to strengthening our economies and security through pragmatic and strategic approaches. I look forward to maintaining close communication with him and sharing insights across various fields.
+> 
+> Korea will continue to further strengthen its cooperation with our key partner, the UAE, to foster future growth engines, including A.I., advanced technology, the defense industry, and green energy.
+
+좋아요 4,596 · 재게시 1,116 · 답글 134 · 조회 200,915 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1939976531457318989
+
+## 2025년 6월 (34건)
+
+### 2025-06-30 22:22 — 일상·인사 · 인용
+
+> @[비공개] 멋진 사진과 따뜻한 축하의 말씀 감사드립니다. 한국과 싱가포르의 소중한 우정을 함께 기념할 수 있어 매우 기쁘게 생각합니다. 앞으로도 양국이 긴밀히 협력해 나가길 기대합니다.
+> 
+> Thank you for the wonderful photo and your warm congratulations. It is a true pleasure to celebrate the cherished friendship between Korea and Singapore. I look forward to working with you to further deepen our close cooperation.
+
+좋아요 224 · 재게시 94 · 답글 5 · 조회 12,443 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1939675922774524347
+
+### 2025-06-30 17:38 — 외교·통상 · 직접 작성
+
+> 싱가포르의 로렌스 웡 총리와 첫 전화 통화를 나눴습니다.
+> 
+> 양국 수교 50주년을 기념해 올해 안에 양국 간 ‘전략적 동반자 관계’를 구축하기로 합의했으며, AI와 디지털 혁신 등 미래지향적인 분야에서 양국의 전략적 협력을 더욱 강화하기 위해 긴밀히 협력하기로 했습니다.
+> 
+> 올해 경주에서 열리는 APEC 정상회의에서 웡 총리와 만나 양국 간 협력 관계를 한층 더 발전시킬 수 있는 방안에 대해 심도 있는 논의를 나누기를 기대합니다.
+> 
+> I had the first phone call with Prime Minister Lawrence Wong of Singapore. 
+> 
+> Commemorating the 50th anniversary of our diplomatic ties, Prime Minister Wong and I agreed to establish a ‘Strategic Partnership’ between our two countries within this year, and to work closely to further strengthen bilateral strategic cooperation in future-oriented sectors, such as AI and digital innovation.
+> 
+> I look forward to welcoming Prime Minister Wong at this year’s APEC Summit to be held in Gyeongju, and having an in-depth discussion on ways to further advance our partnership.
+
+좋아요 5,100 · 재게시 1,162 · 답글 258 · 조회 207,268 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1939604337543479313
+
+### 2025-06-26 21:00 — 경제·민생 · 직접 작성
+
+> #하이라이트잼프
+> 
+> <5분 27초로 보는 시정연설> 
+> 
+> 이재명 정부는 든든한 민생의 버팀목이 되도록 노력하겠습니다.
+> 
+> 오직 실용 정신에 입각하여 국민의 삶을 살피고, 경기 회복과 경제 성장의 새 길을 열기 위해 최선을 다하겠습니다.
+> 
+> https://youtu.be/LEjkPqf7Kjk
+> 
+> #이재명 #시정연설
+
+좋아요 3,156 · 재게시 960 · 답글 361 · 조회 109,184 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1938205795482837218
+
+### 2025-06-26 20:42 — 경제·민생 · 직접 작성
+
+> 오늘 점심, 대통령실 인근 대구탕집을 방문해 시민들과 함께 식사하며 진솔한 대화를 나눴습니다. 
+> 
+> 치열한 생업의 현장에서 버티고 계신 자영업자분들과 시민들의 고충을 들으며, 이러한 어려움이 단지 개인의 문제가 아닌, 우리 사회 전체의 현실임을 다시 한번 깨달았습니다. 
+> 
+> 골목상권이 살아나야 일자리도 늘어나고, 지역 내 소비가 늘어나면서 경제 전반에 긍정적인 영향을 미치게 됩니다. 민생의 회복이 곧 경제의 회복입니다.
+> 
+> 국회로 넘어간 추경예산안이 하루빨리 통과되어 경제 회복의 마중물이 되길, 골목상권에 활력을 불어넣어 국민 여러분의 삶에 조금이나마 보탬이 되길 바랍니다.
+> 
+> 앞으로도 현장의 목소리에 더욱 귀 기울이며, 자영업자와 소상공인, 그리고 모든 국민이 체감할 수 있는 실질적인 방안을 강구해 나가겠습니다.
+
+좋아요 6,623 · 재게시 1,647 · 답글 261 · 조회 250,528 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1938201166179144060
+
+### 2025-06-26 20:33 — 정치·국정 · 직접 작성
+
+> 지금은, 경제가 다시 뛸 수 있도록 정부가 나서야 할 때입니다.
+> 
+> 이번 추경안은 경제 위기 가뭄 해소를 위한 마중물이자, 경제 회복을 위한 최소한의 조치입니다.
+> 
+> 대한민국 경제의 활력을 되찾고, 국민이 행복한 나라를 만드는 데에 국회가 적극 협력해주시길 부탁드립니다.
+> 
+> #이재명 #추경안 #시정연설
+
+좋아요 4,501 · 재게시 1,496 · 답글 131 · 조회 118,474 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1938198985040400432
+
+### 2025-06-26 09:55 — 정치·국정 · 직접 작성
+
+> #라이브잼프
+> 
+> 잠시 후 10시, 국회에서 첫 시정연설을 합니다.
+> 
+> 국민 여러분의 삶을 지키기 위해 마련한 추가경정예산안 주요 내용과 더불어 이재명 정부가 앞으로 추진할 국정운영의 방향과 비전에 대해 자세히 설명드릴 예정입니다.
+> 
+> 유튜브 KTV와 이재명TV를 통해 시청하실 수 있으니 많은 관심 부탁드립니다.
+
+좋아요 3,849 · 재게시 1,174 · 답글 170 · 조회 106,129 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1938038441704624309
+
+### 2025-06-25 17:16 — 사회 · 직접 작성
+
+> 국립 소록도병원을 찾아 한센인 원생 자치회 주민분들과 병원 관계자분들을 만나뵙고 왔습니다. 현직 대통령이 방문한 것은 처음이라고 하니 더욱 뜻깊습니다.
+> 
+> 지난 대선 기간, 이곳을 방문한 아내가 선거 이후 다시 저와 함께 오겠다고 한 약속을 이렇게 지킬 수 있어 참 다행입니다. 어려운 환경에서 고생이 많으시다는 이야기를 듣고 반드시 찾아야겠다 마음먹었습니다.
+> 
+> 한센병은 여전히 사회 곳곳에서 차별과 편견의 시선을 마주하고 있습니다. 긴 세월 동안 고통을 감내하면서도 인간의 존엄과 공동체의 가치를 지켜오신 한센인 여러분의 삶에 깊은 경의를 표합니다.
+> 
+> 국가의 손길이 미처 닿지 못한 곳에서 약자를 따스히 보살피고 사랑을 나눠주신 종교인과 의료인 여러분께도 국민을 대표해 감사 인사드립니다.
+> 
+> 오늘 전해주신 귀한 말씀을 어떻게 정책에 담을 수 있을지 깊이 고민하겠습니다. 이재명 정부는 앞으로도 모두가 존중받고, 누구도 소외되지 않는 사회를 만들기 위해 전력을 다하겠습니다.
+
+좋아요 7,393 · 재게시 2,100 · 답글 306 · 조회 269,367 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1937787081927033037
+
+### 2025-06-25 13:25 — 정치·국정 · 직접 작성
+
+> <호남의 민심 들으러 호남 곁으로 갑니다>
+> 
+> 잠시 후 2시 30분, 광주 국립아시아문화전당에서
+> 광주시민, 전남도민 타운홀미팅을 엽니다.
+> 
+> 허심탄회하게 대화하는 것, 그 과정 자체가 소중합니다.
+> 우리 국민 목소리, 듣고 또 듣겠습니다.
+> 많은 의견 주십시오.
+> 
+> 유튜브 KTV, 이재명TV에서도 시청하실 수 있습니다.
+> 
+> 
+> 
+> #이재명 #광주 #전남 #타운홀미팅 #라이브잼프
+
+좋아요 3,804 · 재게시 1,170 · 답글 195 · 조회 185,547 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1937728885455749593
+
+### 2025-06-24 19:37 — 정치·국정 · 직접 작성
+
+> <아주 작은 부채이지만, 세상은 엄청난 격변을 겪습니다>
+> 
+> “파초선 부채 한 번에 천둥 번개가 치고, 
+> 두 번 부치면 태풍이 불고, 폭풍우가 오고 세상이 뒤집어지죠.
+> 
+> 권력이 그런 것 같습니다.
+> 
+> 아주 작은 한순간 또는 의미 없는 것들일지 모르지만
+> 누군가는 죽고 살고, 누군가는 망하고 흥하고,
+> 더 심하게는 그런 게 쌓이면 나라가 흥하고 망하기도 하죠.
+> 
+> 그런 책임감을 가지고 마지막 순간까지
+> 여러분의 역할과 책임이 얼마나 큰지 생각하고
+> 최선을 다해 주시기를 부탁드립니다.”
+> 
+> #대통령_이재명_말모이 #국무회의
+
+좋아요 4,618 · 재게시 1,375 · 답글 181 · 조회 121,599 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1937460015348257181
+
+### 2025-06-24 16:46 — 경제·민생 · 직접 작성
+
+> <국민의 질문에 성실히 답하겠습니다>
+> 
+> 책상 위의 논의만으로 국정을 이끌 수 없습니다. 국정의 중심에는 국민이 있어야 합니다. 국민의 목소리를 직접 듣고 현장에서 답을 찾겠다는 약속, '국민사서함'을 통해 실천하겠습니다.
+> 
+> 경제, 민생, 사회, 정치, 외교, 안보까지 국정 전반에 대한 질문을 ‘국민사서함’에 남겨주십시오. 국민적 관심과 공감이 큰 사안에 대해서는 대통령이 직접 답변드릴 예정입니다.
+> 
+> 국민의 목소리가 국정의 출발점이 되고, 모든 정책 방향의 기준이 되도록 하겠습니다. 주시는 질문과 의견에 늘 귀 기울이며, 책임감을 가지고 성실히 답하는 정부가 되겠습니다.
+> 
+> 👉 접수 방법: 구글폼 접수()
+
+좋아요 8,601 · 재게시 4,423 · 답글 368 · 조회 977,570 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1937416993977864236
+
+### 2025-06-23 18:32 — 외교·통상 · 직접 작성
+
+> 오늘 프라보워 수비안토 인도네시아 대통령과 첫 통화를 가졌습니다.
+> 
+> 인도네시아는 인구 약 2.8억 명의 아세안 최대 경제 대국으로, 2,300여 개 우리 기업이 진출해 있는 핵심 협력국입니다. 양국은 신뢰와 우정을 토대로 특별 전략적 동반자 관계를 발전시켜 왔으며, 저와 프라보워 대통령은 급변하는 대외환경 속에서 오랜 친구이자 전략적 파트너인 양국 간 협력 강화 중요성에 뜻을 함께 했습니다.
+> 
+> 우리 신정부 출범을 계기로 양국 관계가 한층 더 도약할 수 있도록 인도네시아와 긴밀히 협력해 나가겠습니다.
+> 
+> I had the first phone call with the President Prabowo Subianto of Indonesia.
+> 
+> Indonesia, the largest economy in ASEAN with a population of 280 million, is one of Korea’s key partners. The Special Strategic Partnership between our two countries has developed on the foundation of mutual trust and friendship.
+> Amid a rapidly changing global environment, President Prabowo and I shared our common vision to further strengthen our bilateral cooperation as longstanding friends and strategic partners.
+
+좋아요 5,994 · 재게시 1,430 · 답글 224 · 조회 205,923 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1937081220115947572
+
+### 2025-06-23 12:04 — 외교·통상 · 직접 작성
+
+> 오늘 안와르 이브라힘 말레이시아 총리와 첫 통화를 가졌습니다.
+> 
+> 저는 올해 한-말레이시아 수교 65주년을 축하하고, 안와르 총리님과 양국 간 전략적 협력 동반자 관계를 한층 더 도약시켜 가자는 데 뜻을 함께 하였습니다. 
+> 
+> 올해 APEC 의장국인 우리나라와 아세안 의장국인 말레이시아가 긴밀히 협력하여 지역 및 글로벌 현안 대응을 위한 국제사회의 공조 강화에 함께 기여해 나가기를 기대합니다.
+> 
+> Great to talk to Malaysian Prime Minister, 
+> YAB Dato’ Seri Anwar bin Ibrahim on the phone for the first time.
+> 
+> I congratulated YAB PM Dato’ Seri Anwar on the 65th anniversary of the establishment of diplomatic relations between the ROK and Malaysia, and we saw eye to eye on further developing our 
+> Strategic Partnership.
+> 
+> I look forward to closely working with Malaysia on regional and global challenges, especially as Korea chairs APEC and Malaysia chairs ASEAN this year.
+
+좋아요 6,063 · 재게시 1,519 · 답글 200 · 조회 214,348 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1936983751931924703
+
+### 2025-06-20 21:16 — 사회 · 직접 작성
+
+> [대통령실에서 알려드립니다]
+> 
+> 최근 온라인 상에서 이재명 대통령 기념 시계를 판매한다는 허위정보가 기승을 부리고 있습니다. 대통령 기념 시계는 현재 제작 기획 단계에 있으며, 판매용 제품이 아님을 알려 드립니다. 국민들께서는 대통령 시계 판매 사기에 유의하여 주시기 바랍니다.
+
+좋아요 15,877 · 재게시 5,853 · 답글 614 · 조회 2,189,494 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1936035487917232189
+
+### 2025-06-20 19:01 — 미분류 · 직접 작성 · 분류 검토 대기
+
+> <시중말로 '깔딱고개'를 넘어가는 것 같아요>
+> 
+> “우리가 준비하기에 따라서
+> 완전히 새로운 세상으로 나아갈 수도 있고,
+> 여기서 되돌아 내려갈 수도 있는 그런 상황인 거죠.
+> 
+> 저는 우리 국민들의 위대한 저력으로
+> 이 위기를 다 이겨내고
+> 새로운 대한민국을 맞이할거라 믿습니다.”
+> 
+> #대통령_이재명_말모이
+
+좋아요 5,347 · 재게시 1,564 · 답글 293 · 조회 165,428 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1936001445268275439
+
+### 2025-06-18 17:17 — 정치·국정 · 직접 작성 · 분류 검토 대기
+
+> 안토니우 코스타 EU 정상회의 상임의장과 우르술라 폰 데어 라이엔 EU 집행위원장과의 첫 회담을 가졌습니다.
+> 
+> EU는 우리나라의 3대 교역국이자, 한국에게 가장 많은 투자를 하고 있는 매우 중요한 협력 파트너입니다.
+> 
+> 올해 한-EU 전략적 동반자 관계 15주년을 맞아, 청정에너지·보건·안보 등 다방면에서의 협력을 한층 더 강화해 나가기로 뜻을 모았습니다.
+> 
+> I held my first meeting with the President of the European Council, António Costa, and the President of the European Commission, Ursula von der Leyen.
+> The EU is Korea’s third-largest trading partner and the largest investor in Korea. As this year marks the 15th anniversary of ROK-EU Strategic Partnership, we agreed to further deepen our cooperation in various areas, including clean energy, health and security.
+> 
+> @EU_Commission
+
+좋아요 4,373 · 재게시 1,033 · 답글 228 · 조회 164,037 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1935250465752777072
+
+### 2025-06-18 17:12 — 외교·통상 · 직접 작성
+
+> 마크 카니 캐나다 총리와 첫 정상회담을 가졌습니다. 이번 G7 정상회의에 초청해 주신 데 대해 감사의 뜻을 전하고, 그의 리더십 아래 회의가 성공적으로 마무리되길 바란다는 뜻을 전했습니다.
+> 
+> 양국은 포괄적 전략 동반자 관계를 바탕으로 교역·투자, 안보·방산, 에너지 안보, 기후변화, AI 등 다양한 분야에서 협력을 한층 강화해 나가기로 했으며, 올해 각각 APEC과 G7 의장국인 만큼 시너지 극대화를 위해 두 협의체 간 협력도 더욱 긴밀히 이어나가기로 뜻 모았습니다.
+> 
+> I had a productive discussion with Prime Minister Mark Carney of Canada, the host of this year’s G7 Summit.
+> The Prime Minister and I agreed to further advance our Comprehensive Strategic Partnership across a wide range of areas from trade and investment to artificial intelligence. As Korea and Canada host the APEC and G7 respectively this year, we will work closely to maximize synergies between the two multilateral forums.
+> 
+> @MarkJCarney
+
+좋아요 4,610 · 재게시 1,255 · 답글 123 · 조회 120,841 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1935249270720053705
+
+### 2025-06-18 17:10 — 외교·통상 · 직접 작성
+
+> 이시바 시게루 일본 총리와 첫 정상회담을 가졌습니다. 양국은 한일관계를 더욱 견고하고 성숙하게 발전시겠다는 공통된 의지를 재확인하고, 역내 평화와 번영을 위해 양국이 긴밀히 협력하는 방안에 대해 진솔하게 논의했습니다.
+> 
+> 최근 변화하는 전략적 환경 속에서 한일 간 공조의 중요성이 더욱 커지고 있으며, 경제·문화·사회 등 다양한 분야에서 양국이 협력함으로써 서로의 강점을 극대화할 수 있다고 생각합니다.
+> 
+> 앞으로도 양국은 상호 존중과 신뢰를 바탕으로, 미래지향적 한일관계 구축을 위해 긴밀히 협력해 나갈 것을 확신합니다.
+> 
+> 6月17日午後、石破茂総理と初めての首脳会談を行いました。
+> 
+> 私と石破総理は、堅固で成熟した韓日関係を発展させていこうという意志を再確認し、両国の協力について率直な意見交換を行いました。
+> 
+> 相互の尊重と信頼を基に、未来志向の韓日関係の構築に向けて、これからも石破総理と緊密に連携したいです
+> 
+> @[비공개]
+
+좋아요 5,224 · 재게시 1,291 · 답글 195 · 조회 603,505 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1935248848492052877
+
+### 2025-06-18 16:34 — 과학기술·AI · 직접 작성
+
+> 키어 스타머 영국 총리와 첫 양자회담을 가졌습니다. 최근 인도 여객기 사고로 안타깝게 목숨을 잃은 영국인 희생자들에 대해 깊은 애도를 표하며, 우방국이자 든든한 파트너로서 슬픔을 함께 나누었습니다.
+> 
+> 급변하는 국제 환경 속에서 글로벌 전략적 동반자인 양국이 여러 계기를 통해 긴밀히 협력하는 것이 중요하다는 데 의견을 같이했습니다.
+> 
+> 양국 관계 전반에 대해 폭넓게 의견을 교환하며, 한-영 FTA 개선 협상이 원만히 마무리되어 다양한 분야에서 협력이 더욱 심화되기를 기대한다고 밝혔습니다. 또한 기후변화 대응 등 국제 현안 해결을 위한 공동 노력이 필요하다는 데 공감하고, 청정에너지 등 관련 분야의 협력도 강화하기로 했습니다.
+> 
+> I had my first meeting with UK Prime Minister Keir Starmer. I expressed my deepest condolences to the families of the British nationals who tragically lost their lives in the recent flight accident in India. As close friends and trusted partners, Korea stands together with the UK in this time of sorrow.
+> 
+> We also discussed ways to upgrade our bilateral relationship. We will continue to work together for the successful conclusion of the ongoing ROK-UK FTA enhancement negotiations.
+> 
+> @[비공개]
+
+좋아요 4,295 · 재게시 1,120 · 답글 76 · 조회 97,127 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1935239755475861754
+
+### 2025-06-18 16:33 — 외교·통상 · 직접 작성
+
+> 나렌드라 모디 인도 총리와 첫 정상회담을 가졌습니다.
+> 
+> 550여 개의 우리 기업이 인도에 진출해 인도 경제 발전에 기여하고 있는 만큼, 앞으로도 상호 이익이 되는 경제협력과 핵심기술·방산 등 전략적 협력, 나아가 문화 교류까지 더욱 확대하며 양국 관계가 한 단계 더 도약하길 기대한다는 말씀을 드렸습니다.
+> 
+> 모디 총리 역시 올해 10주년을 맞은 '특별 전략적 동반자 관계'를 바탕으로 앞으로 더욱 긴밀한 협력을 이어가길 희망한다고 밝혔습니다.
+> 
+> I had the first summit meeting with Prime Minister Narendra Modi of India.
+> 
+> With over 550 Korean companies in India contributing to the country’s economic growth, I expressed my hope to work together with India to take our bilateral relations to new heights by expanding mutually beneficial economic and cultural cooperation.
+> 
+> PM Modi also expressed his expectation of closer cooperation based on our ‘Special Strategic Partnership,’ which marks its 10th anniversary this year.
+> 
+> @narendramodi
+
+좋아요 4,940 · 재게시 1,219 · 답글 45 · 조회 213,093 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1935239483710128333
+
+### 2025-06-18 16:33 — 외교·통상 · 직접 작성
+
+> 셰인바움 멕시코 대통령과 정상회담을 가졌습니다. 멕시코시티 시장 재직 시 보여주신 한국에 대한 깊은 관심에 감사의 뜻을 전하며, 앞으로도 양국 관계가 더욱 발전할 수 있도록 지속적인 관심과 지원을 요청했습니다.
+> 
+> 경제통상뿐만 아니라 재생에너지, 우주항공, 디지털 등 다양한 신산업 분야에서도 협력이 확대되고 있음을 환영하며, 올해 경주에서 열리는 APEC 정상회의 참석을 통해 양국 간 실질협력이 더욱 진전되는 계기가 되길 기대한다고 밝혔습니다.
+> 
+> 멕시코는 한국의 중남미 최대 교역국으로, 우리 기업들이 활발히 진출해 있는 중요한 파트너입니다. 이번 회담을 계기로 2005년 체결된 전략적 동반자 관계를 더욱 공고히 하고, 양국 협력을 한층 더 발전시켜 나가겠습니다.
+> 
+> Hoy, en el marco de la Cumbre del G7, he mantenido una reunión con la Presidenta de México, Claudia Sheinbaum. He valorado el interés que ha mostrado hacia Corea durante su gestión como jefa de Gobierno de la Ciudad de México, y, junto con la Presidenta Sheinbaum, hemos celebrado el crecimiento de la cooperación entre nuestros países.
+> 
+> Le he expresado mi esperanza de poder recibirla en Corea con ocasión de la próxima Cumbre de APEC en Gyeongju. México es el principal socio comercial de Corea en América Latina, así como un destino clave para las inversiones de las empresas coreanas en la región. Aprovecharé esta ocasión para seguir fortaleciendo la Asociación Estratégica establecida entre ambos países en 2005.
+> 
+> @Claudiashein
+
+좋아요 5,954 · 재게시 1,392 · 답글 88 · 조회 306,882 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1935239353380520135
+
+### 2025-06-18 15:45 — 외교·통상 · 직접 작성
+
+> 오늘 G7 정상회의에 참석한 안토니우 구테레쉬 유엔 사무총장과 첫 환담을 가졌습니다.
+> 
+> 오늘날과 같이 복합적인 위기가 이어지는 시대에, 국제사회가 직면한 공동의 도전과제를 해결하기 위해서는 유엔이 국제적 연대를 이끄는 중심 역할을 해야 한다는 데 뜻을 같이했습니다.
+> 
+> 올해는 유엔 창설 80주년을 맞이하는 뜻깊은 해입니다. 우리 정부는 앞으로도 유엔이 국제 평화와 번영에 더욱 크게 기여할 수 있도록 협력을 지속적으로 강화해 나가겠습니다.
+> 
+> I had a great conversation with UN Secretary-General António Guterres on the sidelines of the G7 Summit.
+> In the face of complex global crises, the UN’s role is more central than ever in tackling global challenges. As this year marks the 80th anniversary of the United Nations, Korea pledges to continue working closely with this important international body.
+> @[비공개]
+
+좋아요 6,642 · 재게시 1,694 · 답글 130 · 조회 269,899 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1935227245788021185
+
+### 2025-06-18 15:44 — 외교·통상 · 직접 작성
+
+> G7 정상회담을 계기로, 남반구의 리더이자 오랜 우방국가인 브라질의 룰라 대통령과 만날 기회를 가졌습니다. 브라질은 라틴아메리카에서 우리나라와 최초로 외교관계를 맺은 국가입니다.
+> 
+> 양국 모두 사회적 통합과 실용주의를 중시한다는 점을 확인했습니다. 브라질은 우리의 남미 최대 교역·투자국인만큼 경제 협력의 지평을 확대해 나가기로 합의했습니다.
+> 
+> 오늘의 회담을 시작으로 브라질과의 포괄적 협력 동반자 관계를 더욱 심화하고 발전시켜 나가겠습니다.
+> 
+> Por ocasião da participação na Cúpula do G7, tive a oportunidade de me reunir com o presidente Lula do Brasil, país líder do Sul Global e amigo de longa data, já que foi o primeiro país da América Latina a estabelecer relações diplomáticas conosco.
+> 
+> Tendo constatado que ambos valorizamos a integração social e o pragmatismo, o presidente Lula e eu decidimos expandir os horizontes de nossa cooperação econômica. Farei da reunião de hoje o ponto de partida para aprofundar e desenvolver a Parceria Abrangente de Cooperação com o Brasil.
+> 
+> @LulaOficial
+
+좋아요 8,858 · 재게시 2,034 · 답글 242 · 조회 527,415 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1935227087599845842
+
+### 2025-06-17 15:40 — 외교·통상 · 직접 작성
+
+> G7 정상회의 참석차 방문한 캐나다에서 오늘 앤소니 알바니지 호주 총리와 첫 정상회담을 가졌습니다.
+> 
+> 저와 알바니지 총리는 양국이 포괄적 전략 동반자로서 역내 안정과 번영을 위해 협력해 오고 있음을 평가하고, 앞으로도 국방･방산, 청정에너지･핵심광물을 포함한 공급망 등 제반 분야에서 활발한 협력을 이어가기로 하였습니다.
+> 
+> 아울러 양국은 한반도 상황에 대해서도 소통과 협력을 지속해 나가기로 하였으며, 올해 하반기 경주에서 개최되는 2025 APEC 정상회의의 성공을 위해 적극 협력하기로 하였습니다.
+
+좋아요 7,513 · 재게시 2,004 · 답글 307 · 조회 270,441 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1934863580740157456
+
+### 2025-06-17 14:40 — 외교·통상 · 직접 작성
+
+> 오늘 마타멜라 시릴 라마포사 남아공 대통령과 정상회담을 가졌습니다.
+> 
+> 저와 라마포사 대통령은 한국전쟁 파병국인 남아공과 한국이 1992년 수교 이래 지속해온 협력을 교역, 투자, 방산, 교육 등 다양한 분야에서 더욱 발전시켜 나가기로 하였습니다.
+> 
+> 자원부국인 남아공은 아프리카 최대 경제대국이자 한국의 아프리카 진출의 관문으로서, 우수한 기술력의 우리 기업과 교민들이 양국의 상호호혜적 발전을 위해 활동하고 있습니다.
+> 
+> 우리나라는 민주주의 선도국이자 주요경제국으로서 올해 G20 의장국인 남아공과 글로벌 경제성장과 안정을 위해 적극 협력할 예정입니다.
+
+좋아요 6,864 · 재게시 1,900 · 답글 194 · 조회 309,234 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1934848544512594403
+
+### 2025-06-13 21:38 — 일상·인사 · 직접 작성
+
+> 인도 아메다바드에서 발생한 항공사고에 놀라고 깊이 충격을 받았습니다. 사고로 희생된 승객과 사고 지역의 피해자 및 그 가족 여러분에게 깊은 애도와 진심어린 위로를 전합니다. 이 어려운 시기에 대한민국은 인도 국민 여러분과 함께합니다.
+> 
+> Deeply shocked and saddened by the tragic air accident in Ahmedabad. I offer my heartfelt condolences and sincere sympathy to the victims, their families and all those affected. The Republic of Korea stands with the people of India during this difficult time.
+
+좋아요 9,651 · 재게시 2,283 · 답글 424 · 조회 780,392 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1933504370244792690
+
+### 2025-06-12 21:30 — 외교·통상 · 직접 작성
+
+> 오늘 앤서니 알바니지 호주 총리와 첫 통화를 가졌습니다.
+> 
+> 저와 알바니지 총리는 양국이 포괄적 전략 동반자 관계에 기반하여 무역과 투자를 확대하고 역내 안정과 번영을 촉진하자는 데에 의견을 같이했습니다.
+> 
+> 양국은 모두 민생 회복을 최우선 과제로 두고 있고, 급변하는 정세 속에서 실용외교를 강조하는 등 공통점이 많습니다. 앞으로도 양국 간 오랜 신뢰와 연대를 바탕으로 제반 분야에서의 협력을 강화해 나가겠습니다.
+> 
+> 한국과 호주는 모두 APEC 창설 회원국이기도 합니다. 올해 하반기 경주에서 개최될 예정인 2025 APEC 정상회의의 성공적인 개최를 위해 호주와도 적극적으로 협력해 나갈 예정입니다.
+
+좋아요 9,551 · 재게시 2,106 · 답글 407 · 조회 566,415 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1933139908958560405
+
+### 2025-06-12 18:30 — 외교·통상 · 직접 작성 · 분류 검토 대기
+
+> 오늘 오전 르엉 끄엉 베트남 국가주석과 첫 통화를 가졌습니다.
+> 
+> 끄엉 주석께서는 저의 대통령 취임에 대한 따뜻한 축하 인사를 전하였고, 저와 끄엉 주석은 1992년 수교 이후 정무, 경제, 인적교류 등 제반 분야에서 괄목할 만한 협력을 발전시켜 온 양국 관계를 더욱 발전시켜 나가기로 했습니다.
+> 
+> 베트남은 우리의 3대 교역국으로 우리 기업 약 1만 개가 진출해 있으며, 매년 우리 국민 450만 여명이 방문하는 핵심적인 협력 파트너입니다. 앞으로 한-베트남 포괄적 전략 동반자 관계를 더욱 강화해서 양국 국민들의 삶에 보다 실질적으로 도움이 되도록 노력하겠습니다.
+
+좋아요 9,683 · 재게시 2,053 · 답글 256 · 조회 1,963,940 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1933094664221180342
+
+### 2025-06-11 19:26 — 외교·통상 · 직접 작성
+
+> 오늘 오후 페트르 피알라 체코 총리와 취임 후 첫 통화를 가졌습니다. 
+> 
+> 저와 피알라 총리는 지난 6.4. 체코 두코바니 신규원전 건설 최종 계약이 체결된 것을 축하하고, 동 사업이 성공적으로 이행될 수 있도록 양국 정부와 국민이 힘을 모아나가기로 하였습니다.  
+> 
+> 올해는 한-체코 수교 35주년이자 전략적 동반자 관계 수립 10주년이 되는 뜻깊은 해입니다. 앞으로 양국 간 협력이 원전 분야 뿐 아니라 첨단산업, 인프라, 에너지 등 다양한 분야로 확대되어 나갈 수 있도록 체코와 긴밀히 협력해 나가겠습니다.
+
+좋아요 9,790 · 재게시 2,218 · 답글 449 · 조회 591,498 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1932746377249108020
+
+### 2025-06-10 22:37 — 미분류 · 직접 작성 · 분류 검토 대기
+
+> https://n.news.naver.com/mnews/article/003/0013296066?sid=100
+
+좋아요 8,259 · 재게시 2,276 · 답글 937 · 조회 1,137,241 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1932431975341818044
+
+### 2025-06-10 14:16 — 외교·통상 · 직접 작성
+
+> 오늘 오전 시진핑 중국 국가주석과 첫 통화를 가졌습니다. 
+> 
+> 시 주석께서는 제 취임 축하 메시지를 통해 한중 관계를 중시하고 있으며 양국 관계를 꾸준히 발전시켜 나갈 수 있길 희망한다고 하셨는데, 오늘 통화를 통해 그 뜻을 다시 한번 확인할 수 있었습니다.
+> 
+> 우리에게 중국은 경제, 안보 등 모든 면에서 중요한 파트너입니다. 금년과 내년 APEC 의장국인 양국이 APEC을 계기로 긴밀히 협력하면서, 양 국민의 삶에 실질적으로 기여할 수 있는 한중 전략적 협력 동반자 관계를 함께 만들어 나가길 기대합니다.
+
+좋아요 14,598 · 재게시 3,497 · 답글 547 · 조회 1,756,313 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1932305811143008348
+
+### 2025-06-10 10:14 — 정치·국정 · 답글
+
+> ✔️ 접수 이메일이 변경되어 포스터를 재업로드합니다 (openchoice@korea.kr)
+
+좋아요 2,219 · 재게시 655 · 답글 117 · 조회 171,011 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1932244909819678950
+
+### 2025-06-10 10:12 — 정치·국정 · 직접 작성
+
+> <국민과 함께, '국민주권정부'의 문을 엽니다>
+> 
+> 진정한 민주주의는 국민이 주인이 되어 직접 참여하고 변화를 만들어가는 데서 시작합니다. 이제 국민 여러분께서 진짜 대한민국을 이끌어갈 일꾼을 선택해주십시오.
+> 
+> 각계각층에서 묵묵히 헌신해온 숨은 인재, 국민을 위해 일할 준비가 된 유능한 인물들이 새로운 리더십을 발휘할 수 있도록 기회의 장을 마련해주시기 바랍니다.
+> 
+> 이번 국민추천제는 인사 절차의 변화를 넘어, 국민이 국가 운영의 주체가 되어 주도권을 행사하는 의미있는 첫걸음이 될 것입니다.
+> 
+> 모든 과정을 투명하게 공개하고, 공정한 검증을 거쳐 국민의 기대에 부응하는 참된 인재가 선발될 수 있도록 온 힘 다하겠습니다.
+> 
+> 국민 여러분의 다채로운 경험과 시각이 국정에 적극 반영될 수 있도록 뜻을 모아주십시오. 우리가 함께 써 내려갈 '국민주권정부'의 새 역사를 기대합니다.
+
+좋아요 9,201 · 재게시 5,058 · 답글 517 · 조회 1,298,137 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1932244563701469211
+
+### 2025-06-09 15:15 — 외교·통상 · 직접 작성
+
+> 오늘 오후 이시바 시게루 일본 총리와 저의 취임 후 첫 통화를 가졌습니다.
+> 
+> 이시바 총리는 제 취임 후 직접 한글로 축하메시지를 전달해주셨고, 양국이 진정한 신뢰관계를 만들기 위해 노력해야 한다는 소신을 가지신 분입니다.
+> 
+> 오늘날 국제정세 속에서 한일관계의 중요성이 나날이 늘어나고 있습니다. 특히 올해는 한일관계 정상화 60주년, 광복 80주년이 되는 의미 있는 해인 만큼, 새 시대가 요구하는 미래지향적 한일관계를 만들어 나가겠습니다.
+
+좋아요 20,754 · 재게시 4,861 · 답글 956 · 조회 3,212,094 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1931958260262895650
+
+### 2025-06-08 22:47 — 일상·인사 · 직접 작성 · 분류 검토 대기
+
+> 우연히 댓글을 통해 접한 제안이 의미 있다 판단해 실행에 옮겼습니다. 
+> 
+> 국민 여러분께서 남겨주시는 다양한 의견에는 현장감 있는 아이디어와 실질적 개선책이 많아 늘 귀 기울이며 참고하고 있습니다. 
+> 
+> 참신하고 유익한 의견 주시면 앞으로도 적극 검토해 반영하겠습니다. 고맙습니다.
+
+좋아요 41,096 · 재게시 13,671 · 답글 4,198 · 조회 18,965,830 (관측 2026-07-26)
+
+원본: https://x.com/Jaemyung_Lee/status/1931709790558060605

@@ -1,0 +1,44 @@
+{
+ "meta": {
+  "account": "@Jaemyung_Lee",
+  "account_url": "https://x.com/Jaemyung_Lee",
+  "period_from": "2025-06-04",
+  "period_to": "2026-07-26",
+  "record_count": 797,
+  "generated_at": "2026-07-27 13:45 KST",
+  "license": "비영리 기록 목적. 재사용 시 출처와 관측 시점을 함께 표기할 것.",
+  "is_synthetic_sample": false
+ },
+ "files": [
+  {
+   "name": "corpus.json",
+   "bytes": 1688488,
+   "sha256": "581dd108fd0ad1a3da13bbdb63f1ff85ad70e926ee8e7b2b114c2b4f6885d5a4"
+  },
+  {
+   "name": "tweets.jsonl",
+   "bytes": 1549087,
+   "sha256": "8d67ae2f4854997c969ec6205033bbbf9f17bc1b5fe525c2d9fab9c2638b268f"
+  },
+  {
+   "name": "tweets.csv",
+   "bytes": 867513,
+   "sha256": "05a8ad5b571622b02195f410881bc1d90a2c455a282114dc6e88c8f4d8d22fd8"
+  },
+  {
+   "name": "archive.md",
+   "bytes": 849465,
+   "sha256": "a1fd758d5bc22270fb8ac4fea0a4049fbe48d267b61307ccdaf23ab8b2f14542"
+  },
+  {
+   "name": "aggregates.json",
+   "bytes": 21338,
+   "sha256": "c462c39c5103dcc0652be5e31b2c3fa68f6fbabcc8adfe37cd8bd4c4efe99206"
+  },
+  {
+   "name": "SCHEMA.md",
+   "bytes": 3442,
+   "sha256": "5edde7581f47c9e32af6d6fcaf20cf942015c94a92a47570e4c4bd6e7e53e455"
+  }
+ ]
+}
